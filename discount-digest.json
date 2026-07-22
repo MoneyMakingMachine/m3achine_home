@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-07-21T20:38:30.545731+00:00",
+  "generatedAt": "2026-07-22T10:00:00Z",
   "items": [
+    {
+      "id": "956403",
+      "name": "JEZEBEL 여성 티어드원피스 S,M,L. ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 0
+    },
     {
       "id": "679411",
       "name": "OBOD 넥쿨러 2개",
@@ -22,50 +33,6 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/07/26",
       "imageVersion": 0
-    },
-    {
-      "id": "956403",
-      "name": "JEZEBEL 여성 티어드원피스 S,M,L. ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 0
-    },
-    {
-      "id": "687005",
-      "name": "태슬 썬드레스 S/M,M/L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
-      "saleStart": "2026/07/19",
-      "saleEnd": "2026/07/26",
-      "imageVersion": 0
-    },
-    {
-      "id": "687119",
-      "name": "NIKE나이키 선글리스",
-      "store": "COSTCO",
-      "normalPrice": 124900,
-      "discountAmount": -35000,
-      "finalPrice": 89900,
-      "saleStart": "2026/07/19",
-      "saleEnd": "2026/07/26",
-      "imageVersion": 0
-    },
-    {
-      "id": "649754",
-      "name": "스카치브라이트 베이킹소다 수세미 40매",
-      "store": "COSTCO",
-      "normalPrice": 22490,
-      "discountAmount": -4500,
-      "finalPrice": 17990,
-      "saleStart": "2026/07/16",
-      "saleEnd": "2026/07/23",
-      "imageVersion": 1784207447004
     }
   ]
 }
