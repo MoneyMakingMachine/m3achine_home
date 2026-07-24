@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "notices": [
+    {
+      "id": "2026-07-24-favorite-alert",
+      "title": "즐겨찾기 할인 알림 켜는 법",
+      "thumbnail": "images/favorite-alert.webp",
+      "link": "2026-07-24-favorite-alert.html",
+      "publishedAt": "2026-07-24",
+      "startAt": null,
+      "endAt": "2026-08-31",
+      "priority": 10
+    },
+    {
+      "id": "2026-07-20-welcome",
+      "title": "코스트레이더스가 하는 일",
+      "thumbnail": "images/welcome.webp",
+      "link": "2026-07-20-welcome.html",
+      "publishedAt": "2026-07-20",
+      "startAt": null,
+      "endAt": null,
+      "priority": 0
+    }
+  ]
+}
