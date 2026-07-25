@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:19:11.274681+00:00",
+  "generatedAt": "2026-07-25T22:04:12.243770+00:00",
   "items": [
     {
       "id": "679411",
@@ -110,6 +110,28 @@
       "saleStart": "2026/07/25",
       "saleEnd": "2026/08/01",
       "imageVersion": 1785014229335
+    },
+    {
+      "id": "687963",
+      "name": "PUMA\n여성 운동화\n230 - 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785016506943
+    },
+    {
+      "id": "692264",
+      "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785016748631
     }
   ]
 }
