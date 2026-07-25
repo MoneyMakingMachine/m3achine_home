@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:04:12.243770+00:00",
+  "generatedAt": "2026-07-25T22:19:13.633182+00:00",
   "items": [
     {
       "id": "679411",
@@ -132,6 +132,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785016748631
+    },
+    {
+      "id": "2000580",
+      "name": "HYPERLITE 구명조끼 아동용",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -13000,
+      "finalPrice": 33990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785017239374
     }
   ]
 }
