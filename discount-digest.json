@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T11:26:34.256764+00:00",
+  "generatedAt": "2026-07-25T21:04:09.952477+00:00",
   "items": [
     {
       "id": "679411",
@@ -88,6 +88,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1784978630195
+    },
+    {
+      "id": "699963",
+      "name": "PUMA 남성 운룡화 260- 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785012777058
     }
   ]
 }
