@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:04:09.952477+00:00",
+  "generatedAt": "2026-07-25T21:19:11.274681+00:00",
   "items": [
     {
       "id": "679411",
@@ -99,6 +99,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785012777058
+    },
+    {
+      "id": "658312",
+      "name": "SIDAS 바디밸런스 인솔 1쌍",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -7000,
+      "finalPrice": 22990,
+      "saleStart": "2026/07/25",
+      "saleEnd": "2026/08/01",
+      "imageVersion": 1785014229335
     }
   ]
 }
