@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-07-26T02:34:14.415298+00:00",
+  "generatedAt": "2026-07-26T02:49:15.935060+00:00",
   "items": [
-    {
-      "id": "679411",
-      "name": "OBOD 넥쿨러 2개",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15996,
-      "saleStart": "2026/07/19",
-      "saleEnd": "2026/07/26",
-      "imageVersion": 1784419863679
-    },
     {
       "id": "687886",
       "name": "ANDREA VANNA 썬 바이저 모자 FREE SIZE",
@@ -211,6 +200,17 @@
       "imageVersion": 1785028810076
     },
     {
+      "id": "679411",
+      "name": "OBOD 넥쿨러 2개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785033502706
+    },
+    {
       "id": "694322",
       "name": "MULBERRY 멀버리 선글라스 SML194G",
       "store": "COSTCO",
@@ -363,6 +363,83 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785032598744
+    },
+    {
+      "id": "684955",
+      "name": "KLEANNARA 쿨링 타월 25개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785033436715
+    },
+    {
+      "id": "693042",
+      "name": "CRNK 라피드 멀티 에어 펌프",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785033571530
+    },
+    {
+      "id": "506660",
+      "name": "GOLD STANDARD 웨이단백질보충제 2.74KG,초콜릿맛",
+      "store": "COSTCO",
+      "normalPrice": 149900,
+      "discountAmount": -30000,
+      "finalPrice": 119900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785033670872
+    },
+    {
+      "id": "788349",
+      "name": "BALLOP 키즈 아쿠아슈즈 190- 220MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -5000,
+      "finalPrice": 13990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785033710386
+    },
+    {
+      "id": "663759",
+      "name": "ROCKFISH 여성 롱 레인부츠 230- 245MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 68870,
+      "discountAmount": -19000,
+      "finalPrice": 49870,
+      "saleStart": "2026/07/08",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785033760027
+    },
+    {
+      "id": "687558",
+      "name": "MILLET 성인 트레킹화 230 - 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 64900,
+      "discountAmount": -15000,
+      "finalPrice": 49900,
+      "saleStart": "2026/07/14",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785033815582
+    },
+    {
+      "id": "1956403",
+      "name": "JEZEBEL 여성 티어드원피스 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785033893978
     }
   ]
 }
