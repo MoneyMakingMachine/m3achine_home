@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T00:34:09.135626+00:00",
+  "generatedAt": "2026-07-26T01:19:11.051079+00:00",
   "items": [
     {
       "id": "679411",
@@ -154,6 +154,61 @@
       "saleStart": "2026/07/25",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785025420549
+    },
+    {
+      "id": "692124",
+      "name": "BARYBODY 릴렉스틱& 볼",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785028288318
+    },
+    {
+      "id": "693989",
+      "name": "XEXYMIX 2N1 폼롤러 45CM",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785028366101
+    },
+    {
+      "id": "670593",
+      "name": "ADIDAS 남성 우븐 셋업 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 53900,
+      "discountAmount": -11000,
+      "finalPrice": 42900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785028529405
+    },
+    {
+      "id": "679563",
+      "name": "TUMS 텀스 투게더 핸들 머그 2PK,(600+900ML)",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -8000,
+      "finalPrice": 27990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785028607315
+    },
+    {
+      "id": "670452",
+      "name": "SELEX 셀렉스 프로핏 밀크바닐라 250ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785028707481
     }
   ]
 }
