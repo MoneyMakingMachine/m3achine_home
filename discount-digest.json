@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:27:04.393048+00:00",
+  "generatedAt": "2026-07-26T09:42:05.971711+00:00",
   "items": [
     {
       "id": "956403",
@@ -1077,6 +1077,237 @@
       "finalPrice": 12490,
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "687788",
+      "name": "GAP 성인 양말 10PR FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058054824
+    },
+    {
+      "id": "650052",
+      "name": "JILL BY JILLSTUART 성인 덧신 7족 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -3500,
+      "finalPrice": 8490,
+      "saleStart": "2026/06/22",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "688681",
+      "name": "CASUAL LIVING 냉감 바디필로우 50X121CM",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5500,
+      "finalPrice": 20490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058177310
+    },
+    {
+      "id": "690806",
+      "name": "APRIL AT HOME 나비형 메모리폼 쿨링베개47X35X10CM",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -8000,
+      "finalPrice": 11990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058214737
+    },
+    {
+      "id": "690814",
+      "name": "박홍근홈패션 냉감 양면스프레드 퀸사이즈/200X230CM 2026/07/13",
+      "store": "COSTCO",
+      "normalPrice": 67900,
+      "discountAmount": -14000,
+      "finalPrice": 53900,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058242854
+    },
+    {
+      "id": "690461",
+      "name": "CHILL HOME 매트리스커버 SET 싱글/슈퍼싱글겸용",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058272698
+    },
+    {
+      "id": "690448",
+      "name": "루마인홈 메쉬 반달 쿠션 57X42X17CM",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/06/16",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058311376
+    },
+    {
+      "id": "663564",
+      "name": "씰리 프레쉬 베개 2P 40X60CM",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058353865
+    },
+    {
+      "id": "658831",
+      "name": "대웅제약 임팩타뮨 84정",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -6500,
+      "finalPrice": 24990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "685913",
+      "name": "얼라이브 슈퍼에너지절 35G X 30포",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5500,
+      "finalPrice": 22490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058467643
+    },
+    {
+      "id": "662799",
+      "name": "네츄럴라이프 칼슘마그네슘VIT.D,K 324캡슐",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "671094",
+      "name": "한미양행 콘드로이친1200 1,000MG X 180정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/10",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058557902
+    },
+    {
+      "id": "634174",
+      "name": "NZ ORIGIN 초록입홍합+ VIT.D 30캡슐 X 3EA",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/10",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "614134",
+      "name": "관절N 리프리놀 초록입홍합 추출오일 160MG X 100캡슐",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8500,
+      "finalPrice": 33490,
+      "saleStart": "2026/07/11",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "671275",
+      "name": "센트룸멀티비타민 맨 더블업 112 CT",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7200,
+      "finalPrice": 28790,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058654210
+    },
+    {
+      "id": "671276",
+      "name": "센트룸멀티비타민. 우먼더블업 112 CT",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7200,
+      "finalPrice": 28790,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058694183
+    },
+    {
+      "id": "683462",
+      "name": "판토도란 비오틴 판토텐산 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4500,
+      "finalPrice": 16490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785058740286
+    },
+    {
+      "id": "668880",
+      "name": "DR.ROOTEM THE 맥주효모 4000 4.5G X 60포",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "663618",
+      "name": "프로메가식물성RTG 츄어블오메가3키즈 700MG X 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "660237",
+      "name": "아모레퍼시픽 굿슬립 가바365 430MG X 70정",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058865759
+    },
+    {
+      "id": "677849",
+      "name": "뉴트리원 코코칼슘젤리 20G X 40 포",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -4500,
+      "finalPrice": 19490,
+      "saleStart": "2026/07/10",
+      "saleEnd": "2026/07/26",
       "imageVersion": 1
     },
     {
