@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-07-26T05:41:56.570490+00:00",
+  "generatedAt": "2026-07-26T06:11:58.284164+00:00",
   "items": [
-    {
-      "id": "687886",
-      "name": "ANDREA VANNA 썬 바이저 모자 FREE SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/07/26",
-      "imageVersion": 0
-    },
     {
       "id": "956403",
       "name": "JEZEBEL 여성 티어드원피스 S,M,L. ASIAN SIZE",
@@ -209,6 +198,17 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785033502706
+    },
+    {
+      "id": "687886",
+      "name": "ANDREA VANNA 썬 바이저 모자 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785045834355
     },
     {
       "id": "694322",
@@ -627,6 +627,83 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785043941499
+    },
+    {
+      "id": "1846556",
+      "name": "NIKE 남성반소매폴로 S,M,L,XL,XXL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 54970,
+      "discountAmount": -12000,
+      "finalPrice": 42970,
+      "saleStart": "2026/06/25",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785045893368
+    },
+    {
+      "id": "687324",
+      "name": "MILLET 남성 반소매 셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7500,
+      "finalPrice": 28490,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785045958329
+    },
+    {
+      "id": "688077",
+      "name": "DC 하이브리드 워터티 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785045994033
+    },
+    {
+      "id": "687565",
+      "name": "EIDER 남성 반소매 폴로 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/25",
+      "saleEnd": "2026/08/01",
+      "imageVersion": 1785046075162
+    },
+    {
+      "id": "687299",
+      "name": "BRENTWOOD 리넷 폴로 반소매 SIZE ASIAN S-XXL SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/08",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785046203094
+    },
+    {
+      "id": "687523",
+      "name": "COLUMBIA 남성 반소매 폴로 XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27970,
+      "discountAmount": -8000,
+      "finalPrice": 19970,
+      "saleStart": "2026/06/22",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785046243653
+    },
+    {
+      "id": "687335",
+      "name": "COUNTESS MARA 남성 반소매 폴로 S - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -7000,
+      "finalPrice": 22990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785046282488
     }
   ]
 }
