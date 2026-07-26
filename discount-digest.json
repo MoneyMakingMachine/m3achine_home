@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:19:13.633182+00:00",
+  "generatedAt": "2026-07-26T00:34:09.135626+00:00",
   "items": [
     {
       "id": "679411",
@@ -143,6 +143,17 @@
       "saleStart": "2026/06/29",
       "saleEnd": "2026/07/26",
       "imageVersion": 1785017239374
+    },
+    {
+      "id": "678382",
+      "name": "FILA 트리코트 반바지 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18490,
+      "discountAmount": -4000,
+      "finalPrice": 14490,
+      "saleStart": "2026/07/25",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785025420549
     }
   ]
 }
