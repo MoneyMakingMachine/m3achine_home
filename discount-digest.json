@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T03:04:17.331554+00:00",
+  "generatedAt": "2026-07-26T05:41:56.570490+00:00",
   "items": [
     {
       "id": "687886",
@@ -561,6 +561,72 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785035007489
+    },
+    {
+      "id": "688125",
+      "name": "NEPA 여성 카고 반바지 S,MLXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785043720338
+    },
+    {
+      "id": "687694",
+      "name": "SLOGGI 여성 우븐 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/06/26",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785043784040
+    },
+    {
+      "id": "687032",
+      "name": "SOUP 여성 슬림핏 바지 S,M,L,XL ASIAN FIT",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785043822638
+    },
+    {
+      "id": "687715",
+      "name": "RENEEVON 여성 플레어반바지 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785043860103
+    },
+    {
+      "id": "79100",
+      "name": "BONISPAX 여성 밴딩팬츠 S,M ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/07/25",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785043897028
+    },
+    {
+      "id": "1963987",
+      "name": "BRIGGS 여성 리넨 반바지 XS,S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -4000,
+      "finalPrice": 11990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785043941499
     }
   ]
 }
