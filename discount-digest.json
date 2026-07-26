@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:42:05.971711+00:00",
+  "generatedAt": "2026-07-26T09:57:07.558289+00:00",
   "items": [
     {
       "id": "956403",
@@ -1298,6 +1298,83 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/07/26",
       "imageVersion": 1785058865759
+    },
+    {
+      "id": "695568",
+      "name": "비에날씬에스 다이어트유산균 55캡슐",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058950752
+    },
+    {
+      "id": "680751",
+      "name": "한독 테라큐민 슈퍼커큐민 50 1G X 130포",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7400,
+      "finalPrice": 29590,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785058991435
+    },
+    {
+      "id": "681544",
+      "name": "CENOVIS 코엔자임 큐텐 600MG X 90캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/10",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "665252",
+      "name": "뉴트리코어. 유기농. 밀크씨슬 1000MG X150정",
+      "store": "COSTCO",
+      "normalPrice": 114900,
+      "discountAmount": -24000,
+      "finalPrice": 90900,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785059281114
+    },
+    {
+      "id": "660494",
+      "name": "종근당건강 침향환 3.75G X 30환",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "517558",
+      "name": "정광잘 홍삼진 현 50ML X 20포",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785059382203
+    },
+    {
+      "id": "667413",
+      "name": "NZ ORIGIN 아쿠아셀RTG오메가3 90 캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/11",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
     },
     {
       "id": "677849",
