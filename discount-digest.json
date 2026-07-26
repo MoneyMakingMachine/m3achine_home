@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T09:57:07.558289+00:00",
+  "generatedAt": "2026-07-26T10:42:09.170475+00:00",
   "items": [
     {
       "id": "956403",
@@ -1366,6 +1366,116 @@
       "imageVersion": 1785059382203
     },
     {
+      "id": "680229",
+      "name": "GOODFEEL 좋은느낌 유기농순면 탐폰 48개",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4200,
+      "finalPrice": 16790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "673686",
+      "name": "HERA 헤라 UV미스트 쿠션 15G + 리필 15G",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "662715",
+      "name": "AHC 텐 레볼루션 아이크림 35ML X 3 + 7ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "513047",
+      "name": "BIODERMA 바이오더마 클렌징 워터 500ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5600,
+      "finalPrice": 22390,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "676323",
+      "name": "O HUI 오휘 에이지 리커버리 스킨소프너&에멀젼",
+      "store": "COSTCO",
+      "normalPrice": 55900,
+      "discountAmount": -11500,
+      "finalPrice": 44400,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "676324",
+      "name": "O HUI 오휘 에이지 리커버리 크림 50ML + 20ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 79900,
+      "discountAmount": -16000,
+      "finalPrice": 63900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "664686",
+      "name": "PHYSIOGEL 피지오겔 DMT PRO B5 로션 210ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8500,
+      "finalPrice": 33490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "687350",
+      "name": "AVEENO 아비노 바디워시 라벤더향 1000ML",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3000,
+      "finalPrice": 11490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785062225454
+    },
+    {
+      "id": "663497",
+      "name": "SILK THERAPY 골든앰플헤어에센스 180ML + 60ML",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1
+    },
+    {
+      "id": "686068",
+      "name": "AROMATICA아로마타티카 티트리 퓨리파잉 샴푸 1L",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5500,
+      "finalPrice": 20490,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785062352695
+    },
+    {
       "id": "667413",
       "name": "NZ ORIGIN 아쿠아셀RTG오메가3 90 캡슐",
       "store": "COSTCO",
@@ -1397,6 +1507,17 @@
       "saleStart": "2026/06/29",
       "saleEnd": "2026/07/26",
       "imageVersion": 1
+    },
+    {
+      "id": "638603",
+      "name": "KIRKLAND SIGNATURE 다목적 렌즈관리용액 473ML X 3",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785061969284
     },
     {
       "id": "666955",
