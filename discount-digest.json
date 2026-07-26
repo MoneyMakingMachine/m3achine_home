@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T02:49:15.935060+00:00",
+  "generatedAt": "2026-07-26T03:04:17.331554+00:00",
   "items": [
     {
       "id": "687886",
@@ -440,6 +440,127 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785033893978
+    },
+    {
+      "id": "687184",
+      "name": "COLUMBIA 여성시어서커티셔츠 S,M,L,XL SIZE ASIAN",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785034309735
+    },
+    {
+      "id": "687080",
+      "name": "YOICHEU 여성 플리츠 바지 S/M,M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785034356920
+    },
+    {
+      "id": "687187",
+      "name": "COLUMBIA 여성 시어서커팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785034456891
+    },
+    {
+      "id": "687167",
+      "name": "PUMA 여성 스포츠 티 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785034495666
+    },
+    {
+      "id": "687012",
+      "name": "BENETTE 여성 민소매 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785034550307
+    },
+    {
+      "id": "687007",
+      "name": "BENETTE 여성 크루넥 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785034593955
+    },
+    {
+      "id": "686998",
+      "name": "LYDIA VINE 여성 와플 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -10000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/17",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785034653727
+    },
+    {
+      "id": "1956390",
+      "name": "GUESS 여성 레이온파자마 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785034713380
+    },
+    {
+      "id": "686349",
+      "name": "BRIGGS 여성 데님 반바지 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785034769255
+    },
+    {
+      "id": "686994",
+      "name": "OUTDOOR PRODUCTS 여성 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785034967656
+    },
+    {
+      "id": "687164",
+      "name": "PUMA 여성트리코트반바지 SIZE S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785035007489
     }
   ]
 }
