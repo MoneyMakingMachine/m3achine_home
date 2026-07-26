@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T06:11:58.284164+00:00",
+  "generatedAt": "2026-07-26T06:26:59.594325+00:00",
   "items": [
     {
       "id": "956403",
@@ -704,6 +704,39 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785046282488
+    },
+    {
+      "id": "659135",
+      "name": "RENOMA 반소매 캐주얼셔츠 95 - 110 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 33970,
+      "discountAmount": -7000,
+      "finalPrice": 26970,
+      "saleStart": "2026/06/22",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785046389858
+    },
+    {
+      "id": "667459",
+      "name": "MILLET 남성 카고 반바지 80 - 96 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/25",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785046429800
+    },
+    {
+      "id": "658093",
+      "name": "GUESS 린넨 혼방 반바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4700,
+      "finalPrice": 18290,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785046482804
     }
   ]
 }
