@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T06:42:01.424121+00:00",
+  "generatedAt": "2026-07-26T07:27:02.983873+00:00",
   "items": [
     {
       "id": "956403",
@@ -814,6 +814,116 @@
       "saleStart": "2026/06/22",
       "saleEnd": "2026/07/26",
       "imageVersion": 1785047727454
+    },
+    {
+      "id": "658022",
+      "name": "ADIDAS 남성 첼시 반바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 22490,
+      "discountAmount": -4500,
+      "finalPrice": 17990,
+      "saleStart": "2026/07/07",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785050177739
+    },
+    {
+      "id": "667641",
+      "name": "PUMA 트리코트 반바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/07/08",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785050220466
+    },
+    {
+      "id": "1846548",
+      "name": "남성 반바지 S,M,L,XL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27470,
+      "discountAmount": -8500,
+      "finalPrice": 18970,
+      "saleStart": "2026/06/05",
+      "saleEnd": "2026/07/26",
+      "imageVersion": 1785050343827
+    },
+    {
+      "id": "678799",
+      "name": "PUMA 남성 카프리 바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
+    },
+    {
+      "id": "687367",
+      "name": "FILA KIDS 키즈 바람막이자켓 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/06/25",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785050421174
+    },
+    {
+      "id": "687816",
+      "name": "R.ROBOT 키즈 상하의 세트 120,130,145,155",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -6000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/07",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785050489761
+    },
+    {
+      "id": "668325",
+      "name": "FLA 키즈상하의 세트 130,145;155,165",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/06/22",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785050550957
+    },
+    {
+      "id": "687479",
+      "name": "COLUMBIA 키즈시어서커셋업 130,140,150,160",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -9000,
+      "finalPrice": 25990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785050599937
+    },
+    {
+      "id": "688765",
+      "name": "OUTDOOR PRODUCTS 키즈 반소매티셔츠 120 - 165 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3500,
+      "finalPrice": 10990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785050665822
+    },
+    {
+      "id": "668086",
+      "name": "BENETTON 키즈 반소매 티셔츠 120,130,140,150",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/06/18",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785050714358
     },
     {
       "id": "682277",
