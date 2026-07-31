@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:16:33.065706+00:00",
+  "generatedAt": "2026-07-31T11:31:35.526600+00:00",
   "items": [
     {
       "id": "956403",
@@ -24,39 +24,6 @@
       "imageVersion": 1784978155638
     },
     {
-      "id": "658312",
-      "name": "SIDAS 바디밸런스 인솔 1쌍",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -7000,
-      "finalPrice": 22990,
-      "saleStart": "2026/07/25",
-      "saleEnd": "2026/08/01",
-      "imageVersion": 1785014229335
-    },
-    {
-      "id": "687963",
-      "name": "PUMA\n여성 운동화\n230 - 250MM SIZE",
-      "store": "COSTCO",
-      "normalPrice": 36990,
-      "discountAmount": -7500,
-      "finalPrice": 29490,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785016506943
-    },
-    {
-      "id": "692264",
-      "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785016748631
-    },
-    {
       "id": "678382",
       "name": "FILA 트리코트 반바지 M- XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -68,17 +35,6 @@
       "imageVersion": 1785025420549
     },
     {
-      "id": "670593",
-      "name": "ADIDAS 남성 우븐 셋업 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 53900,
-      "discountAmount": -11000,
-      "finalPrice": 42900,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785028529405
-    },
-    {
       "id": "679563",
       "name": "TUMS 텀스 투게더 핸들 머그 2PK,(600+900ML)",
       "store": "COSTCO",
@@ -88,17 +44,6 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785028607315
-    },
-    {
-      "id": "670452",
-      "name": "SELEX 셀렉스 프로핏 밀크바닐라 250ML X 24",
-      "store": "COSTCO",
-      "normalPrice": 36990,
-      "discountAmount": -7500,
-      "finalPrice": 29490,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785028707481
     },
     {
       "id": "692259",
@@ -165,6 +110,61 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785496508041
+    },
+    {
+      "id": "658312",
+      "name": "SIDAS 바디밸런스 인솔 1쌍",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -7000,
+      "finalPrice": 22990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496595734
+    },
+    {
+      "id": "687963",
+      "name": "PUMA 여성 운동화 230- 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496702797
+    },
+    {
+      "id": "792264",
+      "name": "SLOGGI 여성 스쿠바 티 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496745459
+    },
+    {
+      "id": "670593",
+      "name": "ADIDAS 남성 우븐 셋업 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 53900,
+      "discountAmount": -11000,
+      "finalPrice": 42900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496770681
+    },
+    {
+      "id": "670452",
+      "name": "SELEX 셀렉스 프로핏 밀크바닐라 250ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496809431
     },
     {
       "id": "687119",
