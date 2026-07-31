@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T13:35:51.028520+00:00",
+  "generatedAt": "2026-07-31T11:16:33.065706+00:00",
   "items": [
     {
       "id": "956403",
@@ -22,39 +22,6 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1784978155638
-    },
-    {
-      "id": "672619",
-      "name": "XEXYMIX TPE 요가 매트 183(W)X80(D)X1.0(H)CM",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/01",
-      "imageVersion": 1784978414406
-    },
-    {
-      "id": "689938",
-      "name": "SKECHERS 부륜 보호대 2개",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1784978630195
-    },
-    {
-      "id": "699963",
-      "name": "PUMA 남성 운룡화 260- 280MM SIZE",
-      "store": "COSTCO",
-      "normalPrice": 36990,
-      "discountAmount": -7500,
-      "finalPrice": 29490,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785012777058
     },
     {
       "id": "658312",
@@ -99,28 +66,6 @@
       "saleStart": "2026/07/25",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785025420549
-    },
-    {
-      "id": "692124",
-      "name": "BARYBODY 릴렉스틱& 볼",
-      "store": "COSTCO",
-      "normalPrice": 49990,
-      "discountAmount": -10000,
-      "finalPrice": 39990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785028288318
-    },
-    {
-      "id": "693989",
-      "name": "XEXYMIX 2N1 폼롤러 45CM",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785028366101
     },
     {
       "id": "670593",
@@ -176,6 +121,50 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785033502706
+    },
+    {
+      "id": "692124",
+      "name": "BARYBODY 릴렉스틱& 볼",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496401806
+    },
+    {
+      "id": "693989",
+      "name": "XEXYMIX 2N1 폼롤러 45CM",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496425747
+    },
+    {
+      "id": "672619",
+      "name": "XEXYMIX TPE 요가 매트 183(W)X80(D)X1.0(H)CM",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19390,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496469510
+    },
+    {
+      "id": "689938",
+      "name": "SKECHERS 부륜 보호대 2개",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785496508041
     },
     {
       "id": "687119",
@@ -1102,6 +1091,39 @@
       "imageVersion": 1785418342105
     },
     {
+      "id": "670345",
+      "name": "YONEX 배드민턴 라켓세트",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/24",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785418602863
+    },
+    {
+      "id": "690736",
+      "name": "YALE 메쉬 스트링 백팩 37L",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -9000,
+      "finalPrice": 36990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785418736953
+    },
+    {
+      "id": "671724",
+      "name": "LEGO CLASSIC 창의력 쑥쑥 브릭 박스 #11038",
+      "store": "COSTCO",
+      "normalPrice": 62900,
+      "discountAmount": -13000,
+      "finalPrice": 49900,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785418635034
+    },
+    {
       "id": "682272",
       "name": "크리넥스 휴대용 티슈 3겹 50매 X 14",
       "store": "COSTCO",
@@ -1111,6 +1133,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785062720860
+    },
+    {
+      "id": "657658",
+      "name": "BULLSONE 불스원 프리미엄 연료첨가제 500ML 3개",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785418619497
     },
     {
       "id": "678284",
