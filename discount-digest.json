@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T12:31:42.676956+00:00",
+  "generatedAt": "2026-07-31T12:46:44.338541+00:00",
   "items": [
     {
       "id": "956403",
@@ -1498,6 +1498,17 @@
       "imageVersion": 1785500870318
     },
     {
+      "id": "500684",
+      "name": "ALLIV 리얼 체다 슬라이스 2.25KG (125매)",
+      "store": "COSTCO",
+      "normalPrice": 30990,
+      "discountAmount": -5600,
+      "finalPrice": 25390,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785501941376
+    },
+    {
       "id": "676991",
       "name": "풀무원 리얼해초미역면 196G X 6",
       "store": "COSTCO",
@@ -1518,6 +1529,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785500958987
+    },
+    {
+      "id": "607586",
+      "name": "한우물 새우볶음밥 300G X 7",
+      "store": "COSTCO",
+      "normalPrice": 13390,
+      "discountAmount": -2000,
+      "finalPrice": 11390,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785501210942
     },
     {
       "id": "627908",
@@ -1551,6 +1573,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785499796058
+    },
+    {
+      "id": "665483",
+      "name": "미정당 가래떡 떡볶이 400G X 4 (8인분)",
+      "store": "COSTCO",
+      "normalPrice": 10690,
+      "discountAmount": -2000,
+      "finalPrice": 8690,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785501226899
     },
     {
       "id": "667628",
@@ -1718,6 +1751,28 @@
       "imageVersion": 1785500026663
     },
     {
+      "id": "684491",
+      "name": "롯데햄 의성마늘순한구이쌈햄 60G X 12",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2400,
+      "finalPrice": 10590,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785501421089
+    },
+    {
+      "id": "608720",
+      "name": "삼진어묵 정통어묵탕모듬 1,188G",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2700,
+      "finalPrice": 10290,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785501352540
+    },
+    {
       "id": "675591",
       "name": "우불식당 즉석우동 221.5G X 10",
       "store": "COSTCO",
@@ -1782,6 +1837,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785500589392
+    },
+    {
+      "id": "668254",
+      "name": "상하치즈 유기농 체다치즈 1,080G (180G X 6)",
+      "store": "COSTCO",
+      "normalPrice": 23590,
+      "discountAmount": -4600,
+      "finalPrice": 18990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785501402073
     },
     {
       "id": "673723",
@@ -1947,6 +2013,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785499233643
+    },
+    {
+      "id": "569539",
+      "name": "롯데햄 에센뽀득 900G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785501960585
     },
     {
       "id": "612590",
