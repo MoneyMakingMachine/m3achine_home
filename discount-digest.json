@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T11:31:35.526600+00:00",
+  "generatedAt": "2026-07-31T11:46:37.298022+00:00",
   "items": [
     {
       "id": "956403",
@@ -44,17 +44,6 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785028607315
-    },
-    {
-      "id": "692259",
-      "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
-      "store": "COSTCO",
-      "normalPrice": 47990,
-      "discountAmount": -10000,
-      "finalPrice": 37990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785028810076
     },
     {
       "id": "679411",
@@ -165,6 +154,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785496809431
+    },
+    {
+      "id": "692259",
+      "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785498384743
     },
     {
       "id": "687119",
