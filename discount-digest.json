@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T14:17:25.445937+00:00",
+  "generatedAt": "2026-08-01T03:37:17.118782+00:00",
   "items": [
     {
       "id": "683694",
@@ -211,17 +211,6 @@
       "imageVersion": 1785505054616
     },
     {
-      "id": "681022",
-      "name": "NATIONAL GEOGRAPHIC 방수팩 2개입",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -4000,
-      "finalPrice": 14990,
-      "saleStart": "2026/07/25",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785032075446
-    },
-    {
       "id": "1872064",
       "name": "SCOTT BURKE 서프보드 2.4M",
       "store": "COSTCO",
@@ -231,28 +220,6 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785032172302
-    },
-    {
-      "id": "687591",
-      "name": "INTEX 원형 풀장 1.68 X1.68 3X 0.53M",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -8000,
-      "finalPrice": 31990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785032251653
-    },
-    {
-      "id": "687590",
-      "name": "INTEX 유니콘 캐슬 풀장 1.96 X1.78 X 1.27M",
-      "store": "COSTCO",
-      "normalPrice": 49970,
-      "discountAmount": -10000,
-      "finalPrice": 39970,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785032293368
     },
     {
       "id": "687881",
@@ -277,6 +244,17 @@
       "imageVersion": 1785505230690
     },
     {
+      "id": "681022",
+      "name": "NATIONAL GEOGRAPHIC 방수팩 2개입",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785509175412
+    },
+    {
       "id": "620948",
       "name": "WEBER 웨버 대형 숯 점화통 30 X 19 X 32 CM",
       "store": "COSTCO",
@@ -286,6 +264,28 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1
+    },
+    {
+      "id": "687590",
+      "name": "INTEX 유니콘 캐슬 풀장 1.96 X1.78 X 1.27M",
+      "store": "COSTCO",
+      "normalPrice": 49970,
+      "discountAmount": -10000,
+      "finalPrice": 39970,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785509196549
+    },
+    {
+      "id": "687591",
+      "name": "INTEX 원형 풀장 1.68 X1.68 3X 0.53M",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785509209568
     },
     {
       "id": "673507",
@@ -307,7 +307,7 @@
       "finalPrice": 15990,
       "saleStart": "2026/06/29",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785033436715
+      "imageVersion": 1785554926069
     },
     {
       "id": "1956403",
@@ -748,17 +748,6 @@
       "saleStart": "2026/06/22",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785057558673
-    },
-    {
-      "id": "688999",
-      "name": "ELLE 아동 모자 M, L SIZE",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -4000,
-      "finalPrice": 10990,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785057621209
     },
     {
       "id": "636983",
@@ -1850,6 +1839,61 @@
       "imageVersion": 1785502857751
     },
     {
+      "id": "2000580",
+      "name": "HYPERLITE 구명조끼 아동용",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -17000,
+      "finalPrice": 29990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785509236433
+    },
+    {
+      "id": "692888",
+      "name": "고메 고기짜장 340G X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2500,
+      "finalPrice": 13490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785554652739
+    },
+    {
+      "id": "688999",
+      "name": "ELLE 아동 모자 M, L SIZE",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -4000,
+      "finalPrice": 10990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785554907515
+    },
+    {
+      "id": "1872099",
+      "name": "PUMA 챌린저백팩 23L",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -7000,
+      "finalPrice": 32990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785555050423
+    },
+    {
+      "id": "648420",
+      "name": "창 콤비 블라인드 125 X 240 CM",
+      "store": "COSTCO",
+      "normalPrice": 54900,
+      "discountAmount": -11000,
+      "finalPrice": 43900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785555329851
+    },
+    {
       "id": "656897",
       "name": "서정옥의 느린부엌 느린식혜 1L X 4",
       "store": "COSTCO",
@@ -2321,6 +2365,17 @@
       "saleStart": "2026/07/22",
       "saleEnd": "2026/08/03",
       "imageVersion": 1785504750010
+    },
+    {
+      "id": "665976",
+      "name": "고메 소바바소이허니순살 1100G",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -2500,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785554606874
     },
     {
       "id": "615210",
