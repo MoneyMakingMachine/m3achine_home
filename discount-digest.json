@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T10:42:17.051696+00:00",
+  "generatedAt": "2026-08-01T16:47:25.543312+00:00",
   "items": [
     {
       "id": "683694",
@@ -473,17 +473,6 @@
       "saleStart": "2026/06/29",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785566941632
-    },
-    {
-      "id": "687335",
-      "name": "COUNTESS MARA 남성 반소매 폴로 S - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -7000,
-      "finalPrice": 22990,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785046282488
     },
     {
       "id": "687523",
@@ -2301,6 +2290,39 @@
       "imageVersion": 1785580847973
     },
     {
+      "id": "507017",
+      "name": "팹시콜라 355ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 16690,
+      "discountAmount": -2900,
+      "finalPrice": 13790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785580971195
+    },
+    {
+      "id": "682610",
+      "name": "스크러빙 버블 변기용 젤 스탬프 디스펜서 / 리필팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -2500,
+      "finalPrice": 13990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785602633661
+    },
+    {
+      "id": "687335",
+      "name": "COUNTESS MARA 남성 반소매 폴로 S - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -7000,
+      "finalPrice": 22990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785602753760
+    },
+    {
       "id": "656897",
       "name": "서정옥의 느린부엌 느린식혜 1L X 4",
       "store": "COSTCO",
@@ -2672,7 +2694,7 @@
       "finalPrice": 10990,
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
-      "imageVersion": 1785062720860
+      "imageVersion": 1785602663951
     },
     {
       "id": "653193",
@@ -2730,6 +2752,17 @@
       "imageVersion": 1785580926136
     },
     {
+      "id": "661704",
+      "name": "DR.FOR HAIR 닥터포헤어 샴푸 750ML X 2 + 100ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785602653377
+    },
+    {
       "id": "671087",
       "name": "슈가버블 과탄산소다 표백제 7KG",
       "store": "COSTCO",
@@ -2772,6 +2805,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785502846504
+    },
+    {
+      "id": "652433",
+      "name": "펩시콜라제로 라임 500ML X 15팩",
+      "store": "COSTCO",
+      "normalPrice": 15690,
+      "discountAmount": -3200,
+      "finalPrice": 12490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785580998492
     },
     {
       "id": "568002",
@@ -3278,6 +3322,17 @@
       "saleStart": "2026/07/16",
       "saleEnd": "2026/08/05",
       "imageVersion": 1785504950478
+    },
+    {
+      "id": "679317",
+      "name": "스프라이트 탄산소다 350ML X 24캔",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -3900,
+      "finalPrice": 15590,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785602494184
     },
     {
       "id": "639173",
