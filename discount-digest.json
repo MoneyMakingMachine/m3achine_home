@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T03:37:17.118782+00:00",
+  "generatedAt": "2026-08-01T04:11:55.349386+00:00",
   "items": [
     {
       "id": "683694",
@@ -1892,6 +1892,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785555329851
+    },
+    {
+      "id": "648421",
+      "name": "창 콤비 블라인드 155 X 240 CM",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785557508882
     },
     {
       "id": "656897",
