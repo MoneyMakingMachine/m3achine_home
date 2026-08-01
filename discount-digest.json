@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:02:27.331372+00:00",
+  "generatedAt": "2026-08-01T17:17:29.353725+00:00",
   "items": [
     {
       "id": "683694",
@@ -2334,6 +2334,28 @@
       "imageVersion": 1785603636169
     },
     {
+      "id": "692425",
+      "name": "돌체구스토 캡슐 커피머신 지니오 S 쉐어",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -10000,
+      "finalPrice": 89900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785603753160
+    },
+    {
+      "id": "671826",
+      "name": "창 콤비 블라인드 95 X 240 CM",
+      "store": "COSTCO",
+      "normalPrice": 42990,
+      "discountAmount": -9000,
+      "finalPrice": 33990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785603883882
+    },
+    {
       "id": "682610",
       "name": "스크러빙 버블 변기용 젤 스탬프 디스펜서 / 리필팩",
       "store": "COSTCO",
@@ -2420,6 +2442,28 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785603576764
+    },
+    {
+      "id": "694547",
+      "name": "NESCAFE 네스카페 돌체구스토 캡슐 아메리카노 60P",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -6500,
+      "finalPrice": 25490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785603965784
+    },
+    {
+      "id": "689489",
+      "name": "BIANCO 비앙코 음식물처리기 5.5L",
+      "store": "COSTCO",
+      "normalPrice": 319900,
+      "discountAmount": -65000,
+      "finalPrice": 254900,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785604073396
     },
     {
       "id": "656897",
