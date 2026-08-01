@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T04:26:57.105391+00:00",
+  "generatedAt": "2026-08-01T05:11:58.806517+00:00",
   "items": [
     {
       "id": "683694",
@@ -431,17 +431,6 @@
       "imageVersion": 1785043720338
     },
     {
-      "id": "79100",
-      "name": "BONISPAX 여성 밴딩팬츠 S,M ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19970,
-      "discountAmount": -5000,
-      "finalPrice": 14970,
-      "saleStart": "2026/07/25",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785043897028
-    },
-    {
       "id": "1963987",
       "name": "BRIGGS 여성 리넨 반바지 XS,S,M,L US SIZE",
       "store": "COSTCO",
@@ -450,7 +439,7 @@
       "finalPrice": 11990,
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785043941499
+      "imageVersion": 1785560542259
     },
     {
       "id": "1846556",
@@ -1925,6 +1914,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785557735350
+    },
+    {
+      "id": "79100",
+      "name": "BONISPAX 여성 밴딩팬츠 S,M ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/06/15",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785560478769
     },
     {
       "id": "656897",
