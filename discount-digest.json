@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T07:20:10.462011+00:00",
+  "generatedAt": "2026-08-01T07:35:12.146518+00:00",
   "items": [
     {
       "id": "683694",
@@ -1971,6 +1971,39 @@
       "imageVersion": 1785568336688
     },
     {
+      "id": "694083",
+      "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 6OP",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785568831503
+    },
+    {
+      "id": "694387",
+      "name": "LG 엘지 휘센뷰1 18+6 PY 스탠드 + 벽걸이",
+      "store": "COSTCO",
+      "normalPrice": 2949000,
+      "discountAmount": -550000,
+      "finalPrice": 2399000,
+      "saleStart": "2026/06/10",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785569312069
+    },
+    {
+      "id": "573105",
+      "name": "무말랭이 (800G) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2500,
+      "finalPrice": 13490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785569684057
+    },
+    {
       "id": "1872099",
       "name": "PUMA 챌린저백팩 23L",
       "store": "COSTCO",
@@ -2068,6 +2101,83 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785568774815
+    },
+    {
+      "id": "3333083",
+      "name": "프리지데어 제빙기 (최대제빙12KG/일)",
+      "store": "COSTCO",
+      "normalPrice": 114900,
+      "discountAmount": -23000,
+      "finalPrice": 91900,
+      "saleStart": "2026/07/24",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785568884218
+    },
+    {
+      "id": "670612",
+      "name": "EDIFICE 4단 서랍 수납 테이블",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785569165781
+    },
+    {
+      "id": "694388",
+      "name": "LG 엘지 휘센 뷰1 22+6 PY 스탠드 +벽걸이",
+      "store": "COSTCO",
+      "normalPrice": 3349000,
+      "discountAmount": -350000,
+      "finalPrice": 2999000,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/07",
+      "imageVersion": 1785569245031
+    },
+    {
+      "id": "692156",
+      "name": "LG 나노셀 TV 75형 189CM + S20A SOUNDBAR",
+      "store": "COSTCO",
+      "normalPrice": 1999000,
+      "discountAmount": -400000,
+      "finalPrice": 1599000,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785569379271
+    },
+    {
+      "id": "693143",
+      "name": "고메 흑백요리사탕수육 780G (520G + 260G)",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 12990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785569462919
+    },
+    {
+      "id": "693142",
+      "name": "고메 흑백요리사유린기 740G (450G + 290G)",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 12990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785569514344
+    },
+    {
+      "id": "529749",
+      "name": "미국산 프라임 척아이롤 로스 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -7500,
+      "finalPrice": 36490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785569589263
     },
     {
       "id": "656897",
