@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T05:11:58.806517+00:00",
+  "generatedAt": "2026-08-01T06:50:06.515109+00:00",
   "items": [
     {
       "id": "683694",
@@ -376,15 +376,15 @@
       "imageVersion": 1785557991007
     },
     {
-      "id": "686994",
-      "name": "OUTDOOR PRODUCTS 여성 반바지 S,M,L,XL ASIAN SIZE",
+      "id": "686349",
+      "name": "BRIGGS 여성 데님 반바지 S,M,L US SIZE",
       "store": "COSTCO",
-      "normalPrice": 18990,
+      "normalPrice": 19990,
       "discountAmount": -4000,
-      "finalPrice": 14990,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785034967656
+      "finalPrice": 15990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785558012585
     },
     {
       "id": "687164",
@@ -395,18 +395,18 @@
       "finalPrice": 15990,
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
-      "imageVersion": 1785035007489
+      "imageVersion": 1785566645216
     },
     {
-      "id": "686349",
-      "name": "BRIGGS 여성 데님 반바지 S,M,L US SIZE",
+      "id": "686994",
+      "name": "OUTDOOR PRODUCTS 여성 반바지 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
-      "normalPrice": 19990,
+      "normalPrice": 18990,
       "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785558012585
+      "finalPrice": 14990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785566791311
     },
     {
       "id": "692154",
@@ -420,17 +420,6 @@
       "imageVersion": 1785503043787
     },
     {
-      "id": "688125",
-      "name": "NEPA 여성 카고 반바지 S,MLXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785043720338
-    },
-    {
       "id": "1963987",
       "name": "BRIGGS 여성 리넨 반바지 XS,S,M,L US SIZE",
       "store": "COSTCO",
@@ -442,6 +431,17 @@
       "imageVersion": 1785560542259
     },
     {
+      "id": "687032",
+      "name": "SOUP 여성 슬림핏 바지 S,M,L,XL ASIAN FIT",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/06/29",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785566631414
+    },
+    {
       "id": "1846556",
       "name": "NIKE 남성반소매폴로 S,M,L,XL,XXL US SIZE",
       "store": "COSTCO",
@@ -450,7 +450,7 @@
       "finalPrice": 42970,
       "saleStart": "2026/06/25",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785045893368
+      "imageVersion": 1785566834545
     },
     {
       "id": "687324",
@@ -459,20 +459,9 @@
       "normalPrice": 35990,
       "discountAmount": -7500,
       "finalPrice": 28490,
-      "saleStart": "2026/06/29",
+      "saleStart": "2026/07/31",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785045958329
-    },
-    {
-      "id": "688077",
-      "name": "DC 하이브리드 워터티 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/06/29",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785045994033
+      "imageVersion": 1785566920116
     },
     {
       "id": "687565",
@@ -486,26 +475,15 @@
       "imageVersion": 1785046075162
     },
     {
-      "id": "687299",
-      "name": "BRENTWOOD 리넷 폴로 반소매 SIZE ASIAN S-XXL SIZE",
+      "id": "688077",
+      "name": "DC 하이브리드 워터티 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
       "normalPrice": 29990,
       "discountAmount": -6000,
       "finalPrice": 23990,
-      "saleStart": "2026/07/08",
+      "saleStart": "2026/06/29",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785046203094
-    },
-    {
-      "id": "687523",
-      "name": "COLUMBIA 남성 반소매 폴로 XL,XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 27970,
-      "discountAmount": -8000,
-      "finalPrice": 19970,
-      "saleStart": "2026/06/22",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785046243653
+      "imageVersion": 1785566941632
     },
     {
       "id": "687335",
@@ -517,6 +495,17 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785046282488
+    },
+    {
+      "id": "687523",
+      "name": "COLUMBIA 남성 반소매 폴로 XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27970,
+      "discountAmount": -8000,
+      "finalPrice": 19970,
+      "saleStart": "2026/06/22",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785566982933
     },
     {
       "id": "659135",
@@ -539,6 +528,17 @@
       "saleStart": "2026/07/25",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785046429800
+    },
+    {
+      "id": "687299",
+      "name": "BRENTWOOD 리넷 폴로 반소매 SIZE ASIAN S-XXL SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/07/08",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785567005040
     },
     {
       "id": "685376",
@@ -1091,17 +1091,6 @@
       "imageVersion": 1
     },
     {
-      "id": "687524",
-      "name": "COLUMBIA 남성탱크톱 M- XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -3500,
-      "finalPrice": 13490,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785063971860
-    },
-    {
       "id": "659997",
       "name": "R.ROBOT 아동반팔내의 2세트 XS - XL ASIAN SIZE",
       "store": "COSTCO",
@@ -1133,6 +1122,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/31",
       "imageVersion": 1785504735860
+    },
+    {
+      "id": "687524",
+      "name": "COLUMBIA 남성탱크톱 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785566961726
     },
     {
       "id": "1723189",
