@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:14:18.936671+00:00",
+  "generatedAt": "2026-08-02T09:29:20.721234+00:00",
   "items": [
     {
       "id": "683694",
@@ -2411,6 +2411,105 @@
       "imageVersion": 1785662035507
     },
     {
+      "id": "682526",
+      "name": "뉴트리코어 하이퍼셀식물성오메가 1,340MG X 90캡슐",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785662108666
+    },
+    {
+      "id": "694164",
+      "name": "동국제약 로얄 알부민 골드 20ML X 30병",
+      "store": "COSTCO",
+      "normalPrice": 41970,
+      "discountAmount": -8500,
+      "finalPrice": 33470,
+      "saleStart": "2026/07/23",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785662179072
+    },
+    {
+      "id": "695020",
+      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
+      "store": "COSTCO",
+      "normalPrice": 54900,
+      "discountAmount": -15000,
+      "finalPrice": 39900,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785662301313
+    },
+    {
+      "id": "488431",
+      "name": "ARM & HAMMER 베이킹 소다 6.12KG",
+      "store": "COSTCO",
+      "normalPrice": 15490,
+      "discountAmount": -3500,
+      "finalPrice": 11990,
+      "saleStart": "2026/07/23",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785662370859
+    },
+    {
+      "id": "691285",
+      "name": "에프킬라 라이트 트랩 리필 12입",
+      "store": "COSTCO",
+      "normalPrice": 23490,
+      "discountAmount": -4700,
+      "finalPrice": 18790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785662422844
+    },
+    {
+      "id": "726706",
+      "name": "이지엔 슬라이더스밴딩지퍼백 145매",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785662673716
+    },
+    {
+      "id": "783979",
+      "name": "뉴트리플랜 뉴트리트릿 닭안심 동결건조 간식 300G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785662720200
+    },
+    {
+      "id": "695846",
+      "name": "펩시 엑스트라 피즈 355ML X 24CAN",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785662772232
+    },
+    {
+      "id": "687577",
+      "name": "파크론 PVC 롤매트 140 X 300 X 2.0CM",
+      "store": "COSTCO",
+      "normalPrice": 117900,
+      "discountAmount": -24000,
+      "finalPrice": 93900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785662821799
+    },
+    {
       "id": "687629",
       "name": "R.ROBOT 키즈반소매티셔츠 120,130,145,155",
       "store": "COSTCO",
@@ -2519,6 +2618,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785603883882
+    },
+    {
+      "id": "690108",
+      "name": "다이슨 에어랩 오리진 플러스 니켈/코퍼 색상",
+      "store": "COSTCO",
+      "normalPrice": 539000,
+      "discountAmount": -60000,
+      "finalPrice": 479000,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785662878945
     },
     {
       "id": "682610",
@@ -3289,6 +3399,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785661005187
+    },
+    {
+      "id": "665340",
+      "name": "스카치브라이트 옥수수그물망사수세미 10개",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -2600,
+      "finalPrice": 11190,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
     },
     {
       "id": "666360",
@@ -4268,6 +4389,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785499941990
+    },
+    {
+      "id": "603671",
+      "name": "스카치브라이트 초강력 린트롤러 95매 X 5롤",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -3900,
+      "finalPrice": 15590,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1
     },
     {
       "id": "629055",
