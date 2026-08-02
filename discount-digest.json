@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T08:29:13.469516+00:00",
+  "generatedAt": "2026-08-02T08:44:15.347716+00:00",
   "items": [
     {
       "id": "683694",
@@ -992,17 +992,6 @@
       "imageVersion": 1785580665390
     },
     {
-      "id": "687350",
-      "name": "AVEENO 아비노 바디워시 라벤더향 1000ML",
-      "store": "COSTCO",
-      "normalPrice": 14490,
-      "discountAmount": -3000,
-      "finalPrice": 11490,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1785062225454
-    },
-    {
       "id": "692846",
       "name": "FIJI 모락셀라 스포츠세탁세제 3.5L",
       "store": "COSTCO",
@@ -1080,6 +1069,28 @@
       "imageVersion": 1785659338465
     },
     {
+      "id": "687350",
+      "name": "AVEENO 아비노 바디워시 라벤더향 1000ML",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3000,
+      "finalPrice": 11490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659356078
+    },
+    {
+      "id": "603722",
+      "name": "크리넥스 보습소프트미용티슈 160매X8팩 (3겹)",
+      "store": "COSTCO",
+      "normalPrice": 23790,
+      "discountAmount": -5500,
+      "finalPrice": 18290,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659372976
+    },
+    {
       "id": "694339",
       "name": "대구농산 호주산 루피니빈 2.1KG",
       "store": "COSTCO",
@@ -1089,17 +1100,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785503825134
-    },
-    {
-      "id": "519297",
-      "name": "키친솝 주방세제 4.0L + 700ML",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -2200,
-      "finalPrice": 10790,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/02",
-      "imageVersion": 1
     },
     {
       "id": "659997",
@@ -1177,6 +1177,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785580822436
+    },
+    {
+      "id": "519297",
+      "name": "키친솝 주방세제 4.0L + 700ML",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2200,
+      "finalPrice": 10790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659386836
     },
     {
       "id": "1723189",
@@ -2565,6 +2576,17 @@
       "imageVersion": 1785580772628
     },
     {
+      "id": "8252929",
+      "name": "GLAD 밀폐용기 1.1L 50PCS 용기25 + 뚜껑25",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3000,
+      "finalPrice": 11490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659468681
+    },
+    {
       "id": "664619",
       "name": "MOOSE MAPLE 메이플버터 150GX3 원산지영국",
       "store": "COSTCO",
@@ -2675,6 +2697,17 @@
       "imageVersion": 1785659293945
     },
     {
+      "id": "679148",
+      "name": "슈퍼포우 베리츄 강아지껌 14G X 50",
+      "store": "COSTCO",
+      "normalPrice": 20790,
+      "discountAmount": -3000,
+      "finalPrice": 17790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659985105
+    },
+    {
       "id": "660246",
       "name": "에버콜라겐 인앤업플러스 750MG X 112정",
       "store": "COSTCO",
@@ -2783,6 +2816,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785504121251
+    },
+    {
+      "id": "766988",
+      "name": "뉴트리플랜 애견용 홀릭소시지 30G X 42",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -3000,
+      "finalPrice": 11790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659547496
     },
     {
       "id": "589298",
@@ -2950,6 +2994,28 @@
       "imageVersion": 1785500026663
     },
     {
+      "id": "672981",
+      "name": "STARBUCKS 스타벅스 돌체구스토캡슐 60P",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785659966346
+    },
+    {
+      "id": "637547",
+      "name": "코카콜라 제로 300ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 22390,
+      "discountAmount": -4000,
+      "finalPrice": 18390,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659691448
+    },
+    {
       "id": "596949",
       "name": "코카콜라 600ML X 12팩",
       "store": "COSTCO",
@@ -2972,6 +3038,17 @@
       "imageVersion": 1785602653377
     },
     {
+      "id": "632138",
+      "name": "칠성사이다 190ML X 30캔",
+      "store": "COSTCO",
+      "normalPrice": 13490,
+      "discountAmount": -2700,
+      "finalPrice": 10790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659619959
+    },
+    {
       "id": "671087",
       "name": "슈가버블 과탄산소다 표백제 7KG",
       "store": "COSTCO",
@@ -2981,6 +3058,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785580382027
+    },
+    {
+      "id": "666542",
+      "name": "롯데칠성 밀키스제로 250ML X 30캔",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3400,
+      "finalPrice": 12590,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659713854
     },
     {
       "id": "666360",
@@ -3058,6 +3146,28 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785501421089
+    },
+    {
+      "id": "599933",
+      "name": "에비앙 천연광천수 330ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3300,
+      "finalPrice": 13190,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/07",
+      "imageVersion": 1785659601430
+    },
+    {
+      "id": "677797",
+      "name": "닥터페퍼제로 350ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2500,
+      "finalPrice": 13490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659729358
     },
     {
       "id": "674135",
@@ -3168,6 +3278,28 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785580092857
+    },
+    {
+      "id": "753144",
+      "name": "ANF 식스프리골드 애견사료 10KG (400G X 25팩)",
+      "store": "COSTCO",
+      "normalPrice": 72900,
+      "discountAmount": -11000,
+      "finalPrice": 61900,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659496057
+    },
+    {
+      "id": "645356",
+      "name": "NATURAL CORE 애견사료70%유기농 7KG (500G X 14팩)",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -5000,
+      "finalPrice": 38990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659511903
     },
     {
       "id": "598516",
@@ -3357,6 +3489,17 @@
       "imageVersion": 1785500906533
     },
     {
+      "id": "671088",
+      "name": "칸타타 콘트라베이스COLDBREW 400ML X 24PK",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -3300,
+      "finalPrice": 18690,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659749516
+    },
+    {
       "id": "669310",
       "name": "화과방 도넛팥빵 60G X 12",
       "store": "COSTCO",
@@ -3445,6 +3588,17 @@
       "imageVersion": 1785659315754
     },
     {
+      "id": "622807",
+      "name": "스카치브라이트 베이킹소다청소포/WET 50매",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -4000,
+      "finalPrice": 15790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659414383
+    },
+    {
       "id": "678284",
       "name": "NORMAN FRENCH 남성 컴포트 재킷 M,L,XL,XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -3454,6 +3608,50 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/16",
       "imageVersion": 1
+    },
+    {
+      "id": "622265",
+      "name": "스카치브라이트 미세먼지청소포/DRY 80매",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -4000,
+      "finalPrice": 15490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659423658
+    },
+    {
+      "id": "654778",
+      "name": "윙크 잘라쓰는 주방후드필터 45CM X 15M",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2000,
+      "finalPrice": 10490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659433169
+    },
+    {
+      "id": "745432",
+      "name": "윙크 위생 롤도마 30CM X 15M",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659446698
+    },
+    {
+      "id": "682410",
+      "name": "뉴트리플랜 소프트뮨 화식 애견용 / 100G X 18",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659526775
     },
     {
       "id": "564156",
@@ -3487,6 +3685,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785500157738
+    },
+    {
+      "id": "817167",
+      "name": "이지엔 비닐백 (중형) 1200매",
+      "store": "COSTCO",
+      "normalPrice": 14290,
+      "discountAmount": -2000,
+      "finalPrice": 12290,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659459036
     },
     {
       "id": "574472",
@@ -3553,6 +3762,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785602494184
+    },
+    {
+      "id": "620987",
+      "name": "홈케어 프리미엄습기제거제 175G X 16EA",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2200,
+      "finalPrice": 11790,
+      "saleStart": "2026/07/21",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785659399274
     },
     {
       "id": "639173",
