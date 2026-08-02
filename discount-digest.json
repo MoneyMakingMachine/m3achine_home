@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T08:59:17.127877+00:00",
+  "generatedAt": "2026-08-02T09:14:18.936671+00:00",
   "items": [
     {
       "id": "683694",
@@ -2125,6 +2125,50 @@
       "imageVersion": 1785661150771
     },
     {
+      "id": "691641",
+      "name": "GNC 트리플블렌드프로틴 2KG,초콜릿맛",
+      "store": "COSTCO",
+      "normalPrice": 84900,
+      "discountAmount": -17000,
+      "finalPrice": 67900,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661343360
+    },
+    {
+      "id": "686939",
+      "name": "GUESS 여성 리넨 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4000,
+      "finalPrice": 17990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661507055
+    },
+    {
+      "id": "678604",
+      "name": "NEPA 시어서커 셋업 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785661551201
+    },
+    {
+      "id": "687428",
+      "name": "FILA 남성 반소매티셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3500,
+      "finalPrice": 14490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661599212
+    },
+    {
       "id": "1872099",
       "name": "PUMA 챌린저백팩 23L",
       "store": "COSTCO",
@@ -2299,6 +2343,72 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785568774815
+    },
+    {
+      "id": "687344",
+      "name": "OUTDOOR PRODUCTS 남성 스판 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661646497
+    },
+    {
+      "id": "1956454",
+      "name": "TAILOR VINTAGE 남성 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -6500,
+      "finalPrice": 13490,
+      "saleStart": "2026/06/17",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785661694562
+    },
+    {
+      "id": "678697",
+      "name": "CODES COMBINE 라운지 반바지 2PK M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661781720
+    },
+    {
+      "id": "668098",
+      "name": "BENETTON 키즈 반바지 120,130,140,150,160",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/07/07",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661866048
+    },
+    {
+      "id": "687964",
+      "name": "JEEP 키즈 우븐 반바지 140,150,160,170",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/02",
+      "imageVersion": 1785661911611
+    },
+    {
+      "id": "694414",
+      "name": "여에스더 리포좀베르베린 60CT (30CT X 2 SET)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -9500,
+      "finalPrice": 38490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785662035507
     },
     {
       "id": "687629",
@@ -3057,7 +3167,7 @@
       "finalPrice": 26990,
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/02",
-      "imageVersion": 1785418619497
+      "imageVersion": 1785661188615
     },
     {
       "id": "649324",
@@ -4136,6 +4246,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785660669129
+    },
+    {
+      "id": "602026",
+      "name": "BULLSONE불스원 그라스디퓨저 105ML 3개",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -6500,
+      "finalPrice": 24990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785661172170
     },
     {
       "id": "618550",
