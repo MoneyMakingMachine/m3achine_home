@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:44:22.691798+00:00",
+  "generatedAt": "2026-08-02T09:59:24.560745+00:00",
   "items": [
     {
       "id": "683694",
@@ -2772,6 +2772,17 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/02",
       "imageVersion": 1785663837803
+    },
+    {
+      "id": "684359",
+      "name": "LG OLED TV 55형 138CM",
+      "store": "COSTCO",
+      "normalPrice": 1799000,
+      "discountAmount": -600000,
+      "finalPrice": 1199000,
+      "saleStart": "2026/07/10",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785663880797
     },
     {
       "id": "682610",
