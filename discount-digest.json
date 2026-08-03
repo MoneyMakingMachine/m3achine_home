@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T13:53:36.030402+00:00",
+  "generatedAt": "2026-08-03T14:08:38.493398+00:00",
   "items": [
     {
       "id": "683694",
@@ -462,6 +462,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/31",
       "imageVersion": 1785504735860
+    },
+    {
+      "id": "678782",
+      "name": "산토리위스키 가쿠빈 700ML",
+      "store": "COSTCO",
+      "normalPrice": 32590,
+      "discountAmount": -4900,
+      "finalPrice": 27690,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/03",
+      "imageVersion": 1785765778383
     },
     {
       "id": "1819488",
@@ -981,6 +992,17 @@
       "imageVersion": 1785762288835
     },
     {
+      "id": "694265",
+      "name": "메이커스 마크 버번 위스키 750ML",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -10000,
+      "finalPrice": 36990,
+      "saleStart": "2026/07/22",
+      "saleEnd": "2026/08/10",
+      "imageVersion": 1785765648098
+    },
+    {
       "id": "688026",
       "name": "NORMAN FRENCH 트리코트 바지 30-36 ASIAN SIZE",
       "store": "COSTCO",
@@ -1441,6 +1463,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785580366995
+    },
+    {
+      "id": "557767",
+      "name": "까시제로델디아블로 까베르네쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 11490,
+      "discountAmount": -2000,
+      "finalPrice": 9490,
+      "saleStart": "2026/07/16",
+      "saleEnd": "2026/08/05",
+      "imageVersion": 1785765886183
     },
     {
       "id": "595085",
