@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:08:44.253566+00:00",
+  "generatedAt": "2026-08-03T23:27:34.253876+00:00",
   "items": [
     {
       "id": "683694",
@@ -517,6 +517,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/10",
       "imageVersion": 1785769097628
+    },
+    {
+      "id": "600523",
+      "name": "동원 EPA 참치 150G X 10",
+      "store": "COSTCO",
+      "normalPrice": 23490,
+      "discountAmount": -4700,
+      "finalPrice": 18790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785770259163
     },
     {
       "id": "1819488",
@@ -1102,6 +1113,17 @@
       "imageVersion": 1785603965784
     },
     {
+      "id": "687119",
+      "name": "NIKE나이키 선글리스",
+      "store": "COSTCO",
+      "normalPrice": 124900,
+      "discountAmount": -45000,
+      "finalPrice": 79900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785770297016
+    },
+    {
       "id": "690683",
       "name": "EIDER 경량 러닝 모자 블랙 / 옐로우",
       "store": "COSTCO",
@@ -1366,6 +1388,17 @@
       "imageVersion": 1785504121251
     },
     {
+      "id": "656405",
+      "name": "SPAM 스팸 라이트 340G X 6",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -6300,
+      "finalPrice": 25190,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785770269025
+    },
+    {
       "id": "659547",
       "name": "더 건강한 닭가슴살 소시지 120G X 7",
       "store": "COSTCO",
@@ -1388,6 +1421,17 @@
       "imageVersion": 1785768616247
     },
     {
+      "id": "668937",
+      "name": "풍국면 들기름막국수 798G (6인분)",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2700,
+      "finalPrice": 10290,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785770283876
+    },
+    {
       "id": "672981",
       "name": "STARBUCKS 스타벅스 돌체구스토캡슐 60P",
       "store": "COSTCO",
@@ -1397,6 +1441,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785659966346
+    },
+    {
+      "id": "586958",
+      "name": "카프리썬 오렌지망고주스 200ML X 20",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -2100,
+      "finalPrice": 8390,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785769814105
     },
     {
       "id": "599933",
