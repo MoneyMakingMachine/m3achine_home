@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T13:23:32.281242+00:00",
+  "generatedAt": "2026-08-03T13:38:34.102191+00:00",
   "items": [
     {
       "id": "683694",
@@ -13,6 +13,17 @@
       "imageVersion": 1785502993425
     },
     {
+      "id": "687042",
+      "name": "뉴트리원 유기농엑스트라버진 올리브유12ML X 60",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -3200,
+      "finalPrice": 18790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785763739433
+    },
+    {
       "id": "679411",
       "name": "OBOD 넥쿨러 2개",
       "store": "COSTCO",
@@ -22,6 +33,17 @@
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785557575996
+    },
+    {
+      "id": "683448",
+      "name": "NETHEREND FARM 가염버터롤 250G X 3원산지영국",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -7200,
+      "finalPrice": 16790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785763781314
     },
     {
       "id": "687590",
@@ -352,6 +374,17 @@
       "saleStart": "2026/07/08",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785660738835
+    },
+    {
+      "id": "674926",
+      "name": "존쿡델리미트 닭가슴살슬라이스 350G X 2",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2600,
+      "finalPrice": 10390,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/07",
+      "imageVersion": 1785764088371
     },
     {
       "id": "687658",
@@ -1025,6 +1058,17 @@
       "imageVersion": 1785763067950
     },
     {
+      "id": "610960",
+      "name": "LOTTE 미림 / 요리전용맛술 2L",
+      "store": "COSTCO",
+      "normalPrice": 6390,
+      "discountAmount": -1400,
+      "finalPrice": 4990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785763420869
+    },
+    {
       "id": "1583995",
       "name": "PISTI 피스타치오 스프레드 600G",
       "store": "COSTCO",
@@ -1045,6 +1089,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785763267084
+    },
+    {
+      "id": "689481",
+      "name": "ORGANIC VALLEY 기버터 368G",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785763699631
     },
     {
       "id": "584857",
