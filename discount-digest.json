@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:53:42.533577+00:00",
+  "generatedAt": "2026-08-03T15:08:44.253566+00:00",
   "items": [
     {
       "id": "683694",
@@ -497,6 +497,17 @@
       "imageVersion": 1785661819345
     },
     {
+      "id": "688880",
+      "name": "PURITI 마누카꿀 UMF12+ 1KG",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785769016241
+    },
+    {
       "id": "695334",
       "name": "SNAPIK 에어프리즈 초콜릿 192G /16G X 12",
       "store": "COSTCO",
@@ -505,7 +516,7 @@
       "finalPrice": 14390,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/10",
-      "imageVersion": 0
+      "imageVersion": 1785769097628
     },
     {
       "id": "1819488",
@@ -1463,6 +1474,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785500906533
+    },
+    {
+      "id": "669976",
+      "name": "O'RGANIC 사과&당근 주스 125ML X 24 (유기농)",
+      "store": "COSTCO",
+      "normalPrice": 17790,
+      "discountAmount": -3800,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785768870554
     },
     {
       "id": "6651001",
