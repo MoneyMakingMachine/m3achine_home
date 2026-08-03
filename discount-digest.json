@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T12:53:28.094132+00:00",
+  "generatedAt": "2026-08-03T13:08:29.998363+00:00",
   "items": [
     {
       "id": "683694",
@@ -926,6 +926,17 @@
       "imageVersion": 1785663880797
     },
     {
+      "id": "681957",
+      "name": "블랙올리브 브레드 BLACK OLIVE BREAD 8CT/PACK",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/07",
+      "imageVersion": 1785762288835
+    },
+    {
       "id": "688026",
       "name": "NORMAN FRENCH 트리코트 바지 30-36 ASIAN SIZE",
       "store": "COSTCO",
@@ -979,6 +990,28 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785603965784
+    },
+    {
+      "id": "690683",
+      "name": "EIDER 경량 러닝 모자 블랙 / 옐로우",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785762006409
+    },
+    {
+      "id": "1583995",
+      "name": "PISTI 피스타치오 스프레드 600G",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4000,
+      "finalPrice": 18990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785762415790
     },
     {
       "id": "584857",
