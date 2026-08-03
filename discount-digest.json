@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T13:38:34.102191+00:00",
+  "generatedAt": "2026-08-03T13:53:36.030402+00:00",
   "items": [
     {
       "id": "683694",
@@ -737,6 +737,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785661599212
+    },
+    {
+      "id": "681422",
+      "name": "삼진어묵 김치어묵우동 692G X 2",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 12990,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/07",
+      "imageVersion": 1785764568981
     },
     {
       "id": "1872099",
