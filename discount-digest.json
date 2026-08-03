@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T23:42:35.899445+00:00",
+  "generatedAt": "2026-08-03T23:57:37.651876+00:00",
   "items": [
     {
       "id": "683694",
@@ -1333,17 +1333,6 @@
       "imageVersion": 1785032649589
     },
     {
-      "id": "691498",
-      "name": "H&S 헤드앤솔더 '린 앤 밸런스드 샴푸 2L",
-      "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -4000,
-      "finalPrice": 12990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785603071095
-    },
-    {
       "id": "669512",
       "name": "CUORE 쿠오레 이동식 대형냉풍기 80L",
       "store": "COSTCO",
@@ -1388,17 +1377,6 @@
       "imageVersion": 1785763267084
     },
     {
-      "id": "415260",
-      "name": "FRITO LAY 레이즈 클래식 680G",
-      "store": "COSTCO",
-      "normalPrice": 13790,
-      "discountAmount": -3000,
-      "finalPrice": 10790,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785762677983
-    },
-    {
       "id": "692736",
       "name": "청정원 레몬&라임 900ML X3(저당)",
       "store": "COSTCO",
@@ -1408,6 +1386,28 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785763473145
+    },
+    {
+      "id": "691498",
+      "name": "H&S 헤드앤솔더 '린 앤 밸런스드 샴푸 2L",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -4000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785603071095
+    },
+    {
+      "id": "415260",
+      "name": "FRITO LAY 레이즈 클래식 680G",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -3000,
+      "finalPrice": 10790,
+      "saleStart": "2026/07/23",
+      "saleEnd": "2026/08/05",
+      "imageVersion": 1785762677983
     },
     {
       "id": "689481",
