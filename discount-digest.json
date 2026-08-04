@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T00:12:39.465498+00:00",
+  "generatedAt": "2026-08-04T00:27:41.011543+00:00",
   "items": [
     {
       "id": "683694",
@@ -24,17 +24,6 @@
       "imageVersion": 1785763739433
     },
     {
-      "id": "2000531",
-      "name": "HYPERLITE 구명조끼 영유아용",
-      "store": "COSTCO",
-      "normalPrice": 35990,
-      "discountAmount": -8000,
-      "finalPrice": 27990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785017179143
-    },
-    {
       "id": "679411",
       "name": "OBOD 넥쿨러 2개",
       "store": "COSTCO",
@@ -55,28 +44,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785763781314
-    },
-    {
-      "id": "680527",
-      "name": "NEPA 썬보트바이저",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785505103663
-    },
-    {
-      "id": "663759",
-      "name": "ROCKFISH 여성 롱 레인부츠 230- 245MM SIZE",
-      "store": "COSTCO",
-      "normalPrice": 68870,
-      "discountAmount": -19000,
-      "finalPrice": 49870,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785505216615
     },
     {
       "id": "687590",
@@ -176,17 +143,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785503043787
-    },
-    {
-      "id": "688125",
-      "name": "NEPA 여성 카고 반바지 S,MLXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785566810175
     },
     {
       "id": "1963987",
@@ -904,17 +860,6 @@
       "imageVersion": 1785555329851
     },
     {
-      "id": "680134",
-      "name": "더랩바이블랑두 올리고 히알루론산 딥토너 400ML X 2",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785662246001
-    },
-    {
       "id": "648421",
       "name": "창 콤비 블라인드 155 X 240 CM",
       "store": "COSTCO",
@@ -946,6 +891,17 @@
       "saleStart": "2026/06/15",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785560478769
+    },
+    {
+      "id": "680134",
+      "name": "더랩바이블랑두 올리고 히알루론산 딥토너 400ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785662246001
     },
     {
       "id": "663914",
@@ -1223,17 +1179,6 @@
       "imageVersion": 1785762006409
     },
     {
-      "id": "674208",
-      "name": "미각제빵소 버터코코넛 휘낭시에 43G X 12",
-      "store": "COSTCO",
-      "normalPrice": 11990,
-      "discountAmount": -1700,
-      "finalPrice": 10290,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785766610350
-    },
-    {
       "id": "615742",
       "name": "FRITO LAY 도리토스 나초 칩 850G",
       "store": "COSTCO",
@@ -1289,28 +1234,6 @@
       "imageVersion": 1785762415790
     },
     {
-      "id": "692264",
-      "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785496720203
-    },
-    {
-      "id": "675221",
-      "name": "GGUBUS 꾸버스 훈제박스 세트 5개",
-      "store": "COSTCO",
-      "normalPrice": 49990,
-      "discountAmount": -20000,
-      "finalPrice": 29990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785032649589
-    },
-    {
       "id": "669512",
       "name": "CUORE 쿠오레 이동식 대형냉풍기 80L",
       "store": "COSTCO",
@@ -1320,17 +1243,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785663503105
-    },
-    {
-      "id": "665291",
-      "name": "풀무원 평양 물냉면 205G X 8",
-      "store": "COSTCO",
-      "normalPrice": 12490,
-      "discountAmount": -2500,
-      "finalPrice": 9990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785761928074
     },
     {
       "id": "231153",
@@ -1397,6 +1309,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785763699631
+    },
+    {
+      "id": "665291",
+      "name": "풀무원 평양 물냉면 205G X 8",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785761928074
     },
     {
       "id": "584857",
@@ -1595,17 +1518,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785768616247
-    },
-    {
-      "id": "612003",
-      "name": "농심 너구리 120G X 20",
-      "store": "COSTCO",
-      "normalPrice": 17590,
-      "discountAmount": -2300,
-      "finalPrice": 15290,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785499342331
     },
     {
       "id": "663585",
@@ -1859,17 +1771,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785505124838
-    },
-    {
-      "id": "662155",
-      "name": "TWIX 미니스 초콜릿 1400G",
-      "store": "COSTCO",
-      "normalPrice": 26490,
-      "discountAmount": -5000,
-      "finalPrice": 21490,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785504112387
     },
     {
       "id": "1031558",
