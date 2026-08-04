@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T00:27:41.011543+00:00",
+  "generatedAt": "2026-08-04T00:42:42.781045+00:00",
   "items": [
     {
       "id": "683694",
@@ -32,7 +32,7 @@
       "finalPrice": 15990,
       "saleStart": "2026/07/13",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785557575996
+      "imageVersion": 1785804144375
     },
     {
       "id": "683448",
@@ -44,6 +44,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785763781314
+    },
+    {
+      "id": "620948",
+      "name": "WEBER 웨버 대형 숯 점화통 30 X 19 X 32 CM",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7400,
+      "finalPrice": 29590,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785804157137
     },
     {
       "id": "687590",
@@ -77,17 +88,6 @@
       "saleStart": "2026/06/29",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785554926069
-    },
-    {
-      "id": "620948",
-      "name": "WEBER 웨버 대형 숯 점화통 30 X 19 X 32 CM",
-      "store": "COSTCO",
-      "normalPrice": 36990,
-      "discountAmount": -7400,
-      "finalPrice": 29590,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785557697249
     },
     {
       "id": "687012",
@@ -649,6 +649,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785500397565
+    },
+    {
+      "id": "694322",
+      "name": "MULBERRY 멀버리 선글라스 SML194G",
+      "store": "COSTCO",
+      "normalPrice": 129900,
+      "discountAmount": -33000,
+      "finalPrice": 96900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785804129800
     },
     {
       "id": "598832",
