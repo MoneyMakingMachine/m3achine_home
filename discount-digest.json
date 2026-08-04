@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T00:42:42.781045+00:00",
+  "generatedAt": "2026-08-04T00:57:44.437699+00:00",
   "items": [
     {
       "id": "683694",
@@ -35,6 +35,17 @@
       "imageVersion": 1785804144375
     },
     {
+      "id": "687005",
+      "name": "태슬 썬드레스 S/M,M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785804505142
+    },
+    {
       "id": "683448",
       "name": "NETHEREND FARM 가염버터롤 250G X 3원산지영국",
       "store": "COSTCO",
@@ -55,6 +66,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785804157137
+    },
+    {
+      "id": "1956403",
+      "name": "JEZEBEL 여성 티어드원피스 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785804452008
     },
     {
       "id": "687590",
@@ -1781,7 +1803,7 @@
       "finalPrice": 19990,
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785505124838
+      "imageVersion": 1785804442960
     },
     {
       "id": "1031558",
