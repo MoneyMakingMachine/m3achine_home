@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T23:57:37.651876+00:00",
+  "generatedAt": "2026-08-04T00:12:39.465498+00:00",
   "items": [
     {
       "id": "683694",
@@ -431,17 +431,6 @@
       "imageVersion": 1785764088371
     },
     {
-      "id": "608036",
-      "name": "TRIUMPH 인견브라탑 2매 90,95,100 ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1
-    },
-    {
       "id": "687658",
       "name": "PUMA 키즈 카고 반바지 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -517,17 +506,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/31",
       "imageVersion": 1785504735860
-    },
-    {
-      "id": "678782",
-      "name": "산토리위스키 가쿠빈 700ML",
-      "store": "COSTCO",
-      "normalPrice": 32590,
-      "discountAmount": -4900,
-      "finalPrice": 27690,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/03",
-      "imageVersion": 1785765778383
     },
     {
       "id": "629574",
@@ -1432,17 +1410,6 @@
       "imageVersion": 1785502869499
     },
     {
-      "id": "633905",
-      "name": "BACARDI 슈페리에 럼 1L /푸에르토리코",
-      "store": "COSTCO",
-      "normalPrice": 27390,
-      "discountAmount": -7400,
-      "finalPrice": 19990,
-      "saleStart": "2026/06/25",
-      "saleEnd": "2026/08/03",
-      "imageVersion": 1785504932779
-    },
-    {
       "id": "627908",
       "name": "NATURE VALLEY 프로틴 바 1.2KG / 40G X 30",
       "store": "COSTCO",
@@ -1452,17 +1419,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785499251582
-    },
-    {
-      "id": "588083",
-      "name": "HEINEKEN 드래프트 케그 5L",
-      "store": "COSTCO",
-      "normalPrice": 33790,
-      "discountAmount": -6400,
-      "finalPrice": 27390,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/03",
-      "imageVersion": 1785503062165
     },
     {
       "id": "664919",
@@ -1696,17 +1652,6 @@
       "imageVersion": 1785769814105
     },
     {
-      "id": "616975",
-      "name": "코카콜라 350ML X 24캔",
-      "store": "COSTCO",
-      "normalPrice": 24690,
-      "discountAmount": -4200,
-      "finalPrice": 20490,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785659655797
-    },
-    {
       "id": "599933",
       "name": "에비앙 천연광천수 330ML X 24팩",
       "store": "COSTCO",
@@ -1738,17 +1683,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785580092857
-    },
-    {
-      "id": "651776",
-      "name": "JIM BEAM 버번위스키 1L",
-      "store": "COSTCO",
-      "normalPrice": 35990,
-      "discountAmount": -10000,
-      "finalPrice": 25990,
-      "saleStart": "2026/07/22",
-      "saleEnd": "2026/08/03",
-      "imageVersion": 1785504750010
     },
     {
       "id": "610945",
@@ -1859,17 +1793,6 @@
       "saleStart": "2026/07/16",
       "saleEnd": "2026/08/05",
       "imageVersion": 1785765886183
-    },
-    {
-      "id": "595085",
-      "name": "BOMBAY SAPPHIRE 런던 드라이 진 1L",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -8000,
-      "finalPrice": 31990,
-      "saleStart": "2026/06/25",
-      "saleEnd": "2026/08/03",
-      "imageVersion": 1785504902314
     },
     {
       "id": "679324",
