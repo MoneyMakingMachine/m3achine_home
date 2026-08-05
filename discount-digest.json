@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T07:43:41.942943+00:00",
+  "generatedAt": "2026-08-05T12:01:18.506336+00:00",
   "items": [
     {
       "id": "683694",
@@ -519,17 +519,6 @@
       "imageVersion": 1785554926069
     },
     {
-      "id": "687012",
-      "name": "BENETTE 여성 민소매 니트 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -6000,
-      "finalPrice": 21990,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785557854337
-    },
-    {
       "id": "686998",
       "name": "LYDIA VINE 여성 와플 니트 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -594,17 +583,6 @@
       "saleStart": "2026/07/31",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785566920116
-    },
-    {
-      "id": "688077",
-      "name": "DC 하이브리드 워터티 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/06/29",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785566941632
     },
     {
       "id": "687523",
@@ -803,17 +781,6 @@
       "saleStart": "2026/06/18",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785579778300
-    },
-    {
-      "id": "678358",
-      "name": "COLUMBIA 남성 반소매티셔츠 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -4000,
-      "finalPrice": 14990,
-      "saleStart": "2026/07/08",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785660738835
     },
     {
       "id": "687658",
@@ -1947,6 +1914,50 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785661130060
+    },
+    {
+      "id": "678358",
+      "name": "COLUMBIA 남성 반소매티셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18970,
+      "discountAmount": -4000,
+      "finalPrice": 14970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785931065948
+    },
+    {
+      "id": "687012",
+      "name": "BENETTE 여성 민소매 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -6000,
+      "finalPrice": 18990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785931080326
+    },
+    {
+      "id": "687335",
+      "name": "COUNTESS MARA 남성 반소매 폴로 S - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -7000,
+      "finalPrice": 22990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785931097413
+    },
+    {
+      "id": "688077",
+      "name": "DC 하이브리드 워터티 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785931108367
     }
   ]
 }
