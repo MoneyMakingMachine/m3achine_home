@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:20:21.457398+00:00",
+  "generatedAt": "2026-08-05T04:49:58.103369+00:00",
   "items": [
     {
       "id": "683694",
@@ -473,6 +473,17 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785804452008
+    },
+    {
+      "id": "645026",
+      "name": "풀무원 춘천식 메밀막국수 1,026G (4인분)",
+      "store": "COSTCO",
+      "normalPrice": 9490,
+      "discountAmount": -2700,
+      "finalPrice": 6790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785903933768
     },
     {
       "id": "687590",
@@ -1715,7 +1726,7 @@
       "finalPrice": 19990,
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785500934817
+      "imageVersion": 1785903812271
     },
     {
       "id": "645807",
@@ -1749,6 +1760,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785504121251
+    },
+    {
+      "id": "558732",
+      "name": "CJ 동치미 물냉면 1,816G (4인분)",
+      "store": "COSTCO",
+      "normalPrice": 7790,
+      "discountAmount": -1200,
+      "finalPrice": 6590,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/05",
+      "imageVersion": 1785903901902
     },
     {
       "id": "610945",
