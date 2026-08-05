@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:05:19.551661+00:00",
+  "generatedAt": "2026-08-05T04:20:21.457398+00:00",
   "items": [
     {
       "id": "683694",
@@ -385,6 +385,17 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785902604040
+    },
+    {
+      "id": "692888",
+      "name": "고메 고기짜장 340G X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3500,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785902971198
     },
     {
       "id": "687184",
@@ -1014,17 +1025,6 @@
       "imageVersion": 1785557543075
     },
     {
-      "id": "687715",
-      "name": "RENEEVON 여성 플레어반바지 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -4000,
-      "finalPrice": 14990,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785558094730
-    },
-    {
       "id": "684436",
       "name": "여에스더 글루타치온 9X 370MG X 42 CT",
       "store": "COSTCO",
@@ -1199,6 +1199,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785567710079
+    },
+    {
+      "id": "687715",
+      "name": "RENEEVON 여성 플레어반바지 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785902759049
     },
     {
       "id": "670612",
