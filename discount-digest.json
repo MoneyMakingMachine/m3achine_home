@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T12:01:18.506336+00:00",
+  "generatedAt": "2026-08-05T21:16:20.481400+00:00",
   "items": [
     {
       "id": "683694",
@@ -233,17 +233,6 @@
       "imageVersion": 1785770259163
     },
     {
-      "id": "668616",
-      "name": "KIRIN 캔맥주 500ML X8캔",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/10",
-      "imageVersion": 1785502943943
-    },
-    {
       "id": "695334",
       "name": "SNAPIK 에어프리즈 초콜릿 192G /16G X 12",
       "store": "COSTCO",
@@ -275,17 +264,6 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785763699631
-    },
-    {
-      "id": "692154",
-      "name": "BALANCE GROW 제주감귤 주스 2L X 2",
-      "store": "COSTCO",
-      "normalPrice": 12790,
-      "discountAmount": -4000,
-      "finalPrice": 8790,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785503043787
     },
     {
       "id": "694083",
@@ -1958,6 +1936,50 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785931108367
+    },
+    {
+      "id": "692154",
+      "name": "BALANCE GROW 제주감귤 주스 2L X 2",
+      "store": "COSTCO",
+      "normalPrice": 12790,
+      "discountAmount": -4000,
+      "finalPrice": 8790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785963915825
+    },
+    {
+      "id": "599299",
+      "name": "TSINGTAO 병맥주 640ML X 6병",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/31",
+      "imageVersion": 1785963929591
+    },
+    {
+      "id": "668616",
+      "name": "KIRIN 캔맥주 500ML X8캔",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/10",
+      "imageVersion": 1785963965272
+    },
+    {
+      "id": "591667",
+      "name": "GUINNESS 드래프트 흑맥주 440MLX6캔",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785963982239
     }
   ]
 }
