@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T04:49:58.103369+00:00",
+  "generatedAt": "2026-08-05T06:09:15.420255+00:00",
   "items": [
     {
       "id": "683694",
@@ -288,17 +288,6 @@
       "imageVersion": 1785503043787
     },
     {
-      "id": "668254",
-      "name": "상하치즈 유기농 체다치즈 1,080G (180G X 6)",
-      "store": "COSTCO",
-      "normalPrice": 23590,
-      "discountAmount": -4600,
-      "finalPrice": 18990,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785501402073
-    },
-    {
       "id": "694083",
       "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 6OP",
       "store": "COSTCO",
@@ -486,6 +475,17 @@
       "imageVersion": 1785903933768
     },
     {
+      "id": "668254",
+      "name": "상하치즈 유기농 체다치즈 1,080G (180G X 6)",
+      "store": "COSTCO",
+      "normalPrice": 23590,
+      "discountAmount": -4600,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785905705289
+    },
+    {
       "id": "687590",
       "name": "INTEX 유니콘 캐슬 풀장 1.96 X1.78 X 1.27M",
       "store": "COSTCO",
@@ -561,17 +561,6 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785558012585
-    },
-    {
-      "id": "1963987",
-      "name": "BRIGGS 여성 리넨 반바지 XS,S,M,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -4000,
-      "finalPrice": 11990,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785560542259
     },
     {
       "id": "687032",
@@ -682,6 +671,28 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785579524744
+    },
+    {
+      "id": "687187",
+      "name": "COLUMBIA 여성 시어서커팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 25970,
+      "discountAmount": -10000,
+      "finalPrice": 15970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785905608523
+    },
+    {
+      "id": "1963987",
+      "name": "BRIGGS 여성 리넨 반바지 XS,S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -4000,
+      "finalPrice": 11990,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785905632494
     },
     {
       "id": "1981110",
@@ -1782,6 +1793,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785502581299
+    },
+    {
+      "id": "649745",
+      "name": "백종원의 빽쿡 돼지김치찜 650G X 4 (8인분)",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5300,
+      "finalPrice": 21690,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785905676587
     },
     {
       "id": "661329",
