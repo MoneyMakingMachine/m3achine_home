@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T21:16:20.481400+00:00",
+  "generatedAt": "2026-08-06T11:31:22.295177+00:00",
   "items": [
     {
       "id": "683694",
@@ -33,17 +33,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785661172170
-    },
-    {
-      "id": "679324",
-      "name": "까시제로델디아블로 샤도네이 750ML",
-      "store": "COSTCO",
-      "normalPrice": 11490,
-      "discountAmount": -2000,
-      "finalPrice": 9490,
-      "saleStart": "2026/07/16",
-      "saleEnd": "2026/08/05",
-      "imageVersion": 1785504950478
     },
     {
       "id": "665291",
@@ -90,17 +79,6 @@
       "imageVersion": 1785504735860
     },
     {
-      "id": "615742",
-      "name": "FRITO LAY 도리토스 나초 칩 850G",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/07/23",
-      "saleEnd": "2026/08/05",
-      "imageVersion": 1785762766814
-    },
-    {
       "id": "694547",
       "name": "NESCAFE 네스카페 돌체구스토 캡슐 아메리카노 60P",
       "store": "COSTCO",
@@ -134,28 +112,6 @@
       "imageVersion": 1785762896267
     },
     {
-      "id": "564156",
-      "name": "BALLANTINE'S 17년 / 스코틀랜드 700ML",
-      "store": "COSTCO",
-      "normalPrice": 146900,
-      "discountAmount": -28000,
-      "finalPrice": 118900,
-      "saleStart": "2026/07/11",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785503158926
-    },
-    {
-      "id": "415260",
-      "name": "FRITO LAY 레이즈 클래식 680G",
-      "store": "COSTCO",
-      "normalPrice": 13790,
-      "discountAmount": -3000,
-      "finalPrice": 10790,
-      "saleStart": "2026/07/23",
-      "saleEnd": "2026/08/05",
-      "imageVersion": 1785762677983
-    },
-    {
       "id": "686805",
       "name": "월드그린 블랙렌틸콩 5KG 2026/07/27",
       "store": "COSTCO",
@@ -176,17 +132,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785769814105
-    },
-    {
-      "id": "670718",
-      "name": "WOODFORD RESERVE 켄터키 스트레이트 버번위스키 1L",
-      "store": "COSTCO",
-      "normalPrice": 79900,
-      "discountAmount": -13000,
-      "finalPrice": 66900,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785660385945
     },
     {
       "id": "636691",
@@ -319,28 +264,6 @@
       "saleStart": "2026/07/31",
       "saleEnd": "2026/08/07",
       "imageVersion": 1785764568981
-    },
-    {
-      "id": "557767",
-      "name": "까시제로델디아블로 까베르네쇼비뇽 750ML",
-      "store": "COSTCO",
-      "normalPrice": 11490,
-      "discountAmount": -2000,
-      "finalPrice": 9490,
-      "saleStart": "2026/07/16",
-      "saleEnd": "2026/08/05",
-      "imageVersion": 1785765886183
-    },
-    {
-      "id": "694265",
-      "name": "메이커스 마크 버번 위스키 750ML",
-      "store": "COSTCO",
-      "normalPrice": 46990,
-      "discountAmount": -10000,
-      "finalPrice": 36990,
-      "saleStart": "2026/07/22",
-      "saleEnd": "2026/08/10",
-      "imageVersion": 1785765648098
     },
     {
       "id": "687167",
@@ -1751,17 +1674,6 @@
       "imageVersion": 1785913928927
     },
     {
-      "id": "558732",
-      "name": "CJ 동치미 물냉면 1,816G (4인분)",
-      "store": "COSTCO",
-      "normalPrice": 7790,
-      "discountAmount": -1200,
-      "finalPrice": 6590,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/05",
-      "imageVersion": 1785903901902
-    },
-    {
       "id": "649745",
       "name": "백종원의 빽쿡 돼지김치찜 650G X 4 (8인분)",
       "store": "COSTCO",
@@ -1980,6 +1892,72 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785963982239
+    },
+    {
+      "id": "513989",
+      "name": "ROYAL SALUTE 21년 700ML",
+      "store": "COSTCO",
+      "normalPrice": 269900,
+      "discountAmount": -65000,
+      "finalPrice": 204900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786015551936
+    },
+    {
+      "id": "564156",
+      "name": "BALLANTINE'S 17년 / 스코틀랜드 700ML",
+      "store": "COSTCO",
+      "normalPrice": 146900,
+      "discountAmount": -28000,
+      "finalPrice": 118900,
+      "saleStart": "2026/07/11",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786015565703
+    },
+    {
+      "id": "694265",
+      "name": "메이커스 마크 버번 위스키 750ML",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -10000,
+      "finalPrice": 36990,
+      "saleStart": "2026/07/22",
+      "saleEnd": "2026/08/10",
+      "imageVersion": 1786015580192
+    },
+    {
+      "id": "670718",
+      "name": "WOODFORD RESERVE 켄터키 스트레이트 버번위스키 1L",
+      "store": "COSTCO",
+      "normalPrice": 79900,
+      "discountAmount": -13000,
+      "finalPrice": 66900,
+      "saleStart": "2026/07/13",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786015600382
+    },
+    {
+      "id": "678782",
+      "name": "산토리위스키 가쿠빈 700ML",
+      "store": "COSTCO",
+      "normalPrice": 32590,
+      "discountAmount": -4900,
+      "finalPrice": 27690,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786015619542
+    },
+    {
+      "id": "642573",
+      "name": "JAMESON 아이리쉬 위스키 700ML",
+      "store": "COSTCO",
+      "normalPrice": 33490,
+      "discountAmount": -6800,
+      "finalPrice": 26690,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786015631362
     }
   ]
 }
