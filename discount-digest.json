@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T11:31:22.295177+00:00",
+  "generatedAt": "2026-08-07T11:16:24.189639+00:00",
   "items": [
     {
       "id": "683694",
@@ -1958,6 +1958,28 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786015631362
+    },
+    {
+      "id": "574472",
+      "name": "ABSOLUT 보드카 1L",
+      "store": "COSTCO",
+      "normalPrice": 35390,
+      "discountAmount": -10500,
+      "finalPrice": 24890,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786101119189
+    },
+    {
+      "id": "627952",
+      "name": "MALIBU 캐리비안 럼 1L",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -7600,
+      "finalPrice": 24390,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786101134460
     }
   ]
 }
