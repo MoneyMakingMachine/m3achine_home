@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:01:22.049123+00:00",
+  "generatedAt": "2026-08-08T11:16:23.991524+00:00",
   "items": [
     {
       "id": "683694",
@@ -2400,6 +2400,17 @@
       "imageVersion": 1786179655076
     },
     {
+      "id": "694198",
+      "name": "DR.BRONNER'S 퓨어 캐스틸 솝 페퍼민트 740ML+300ML",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786186990593
+    },
+    {
       "id": "556571",
       "name": "KAHLUA 깔루아 리큐르 1L",
       "store": "COSTCO",
@@ -2444,6 +2455,28 @@
       "imageVersion": 1786181956504
     },
     {
+      "id": "698000",
+      "name": "GOODFEEL 좋은느낌 유기농순면 라이너 216개",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786187042155
+    },
+    {
+      "id": "690808",
+      "name": "APRIL AT HOME 린넨/모달차렵이불 싱글150X200CM",
+      "store": "COSTCO",
+      "normalPrice": 51970,
+      "discountAmount": -11000,
+      "finalPrice": 40970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786187271428
+    },
+    {
       "id": "649745",
       "name": "백종원의 빽쿡 돼지김치찜 650G X 4 (8인분)",
       "store": "COSTCO",
@@ -2475,6 +2508,39 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785768870554
+    },
+    {
+      "id": "777450",
+      "name": "PUMA 남아여아 팬티5매 S - XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786187129789
+    },
+    {
+      "id": "691984",
+      "name": "PHYSIOGEL 피지오겔 시 리페어 크림 100ML",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786187309949
+    },
+    {
+      "id": "676685",
+      "name": "HANSSEM 한샘 2단 빨래 건조대 155.5 X 61 X 114CM",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786187394222
     },
     {
       "id": "678284",
@@ -2521,6 +2587,28 @@
       "imageVersion": 1786179327374
     },
     {
+      "id": "690836",
+      "name": "칸타타 콘트라베이스디카페인 500ML X 18PK",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786187355275
+    },
+    {
+      "id": "686447",
+      "name": "KG 케미칼 톨훼스큐잔디씨앗 3KG",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786187487650
+    },
+    {
       "id": "669910",
       "name": "DR.G 그린마일드 업 와이드 선패치 16회분",
       "store": "COSTCO",
@@ -2552,6 +2640,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785580366995
+    },
+    {
+      "id": "1718584",
+      "name": "옷걸이 미끄럼방지 50개입",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -4800,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786187427612
     },
     {
       "id": "682762",
