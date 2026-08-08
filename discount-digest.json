@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T09:16:08.439831+00:00",
+  "generatedAt": "2026-08-08T09:31:10.746385+00:00",
   "items": [
     {
       "id": "683694",
@@ -11,17 +11,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785502993425
-    },
-    {
-      "id": "687042",
-      "name": "뉴트리원 유기농엑스트라버진 올리브유12ML X 60",
-      "store": "COSTCO",
-      "normalPrice": 21990,
-      "discountAmount": -3200,
-      "finalPrice": 18790,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785763739433
     },
     {
       "id": "603188",
@@ -101,6 +90,17 @@
       "imageVersion": 1786180482706
     },
     {
+      "id": "687042",
+      "name": "뉴트리원 유기농엑스트라버진 올리브유12ML X 60",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -3200,
+      "finalPrice": 18790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786180610230
+    },
+    {
       "id": "674000",
       "name": "STARBUCKS 미디엄 아메리카노 1.1G X 170CT",
       "store": "COSTCO",
@@ -110,6 +110,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785768616247
+    },
+    {
+      "id": "585284",
+      "name": "백설 프리미엄 굴소스 350G X 3",
+      "store": "COSTCO",
+      "normalPrice": 10790,
+      "discountAmount": -2300,
+      "finalPrice": 8490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786180619577
     },
     {
       "id": "231153",
@@ -143,6 +154,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786180248906
+    },
+    {
+      "id": "659547",
+      "name": "더 건강한 닭가슴살 소시지 120G X 7",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -4000,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786180670414
     },
     {
       "id": "686805",
@@ -288,17 +310,6 @@
       "imageVersion": 1785503085272
     },
     {
-      "id": "683448",
-      "name": "NETHEREND FARM 가염버터롤 250G X 3원산지영국",
-      "store": "COSTCO",
-      "normalPrice": 23990,
-      "discountAmount": -7200,
-      "finalPrice": 16790,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785763781314
-    },
-    {
       "id": "681658",
       "name": "BOHEMIAN ROASTERS 박이추 핸드드립 커피 1G X 160",
       "store": "COSTCO",
@@ -308,6 +319,28 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786180520868
+    },
+    {
+      "id": "683448",
+      "name": "NETHEREND FARM 가염버터롤 250G X 3원산지영국",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -7200,
+      "finalPrice": 16790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786180599889
+    },
+    {
+      "id": "676991",
+      "name": "풀무원 리얼해초미역면 196G X 6",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2800,
+      "finalPrice": 11190,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786180654421
     },
     {
       "id": "625256",
@@ -926,17 +959,6 @@
       "imageVersion": 1785505185341
     },
     {
-      "id": "585277",
-      "name": "청정원 순창 조개멸치 양념된장 900G X 2",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3100,
-      "finalPrice": 11890,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785499735529
-    },
-    {
       "id": "610902",
       "name": "동원 7겹 돈까스 1,040G",
       "store": "COSTCO",
@@ -979,6 +1001,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786180349832
+    },
+    {
+      "id": "585277",
+      "name": "청정원 순창 조개멸치 양념된장 900G X 2",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3100,
+      "finalPrice": 11890,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786180640986
     },
     {
       "id": "693040",
@@ -1410,17 +1443,6 @@
       "imageVersion": 1786180363344
     },
     {
-      "id": "687696",
-      "name": "해리농협 고창 구운 천일염 800G X 2",
-      "store": "COSTCO",
-      "normalPrice": 9790,
-      "discountAmount": -2000,
-      "finalPrice": 7790,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785763267084
-    },
-    {
       "id": "691498",
       "name": "H&S 헤드앤솔더 '린 앤 밸런스드 샴푸 2L",
       "store": "COSTCO",
@@ -1441,6 +1463,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786180491594
+    },
+    {
+      "id": "687696",
+      "name": "해리농협 고창 구운 천일염 800G X 2",
+      "store": "COSTCO",
+      "normalPrice": 9790,
+      "discountAmount": -2000,
+      "finalPrice": 7790,
+      "saleStart": "2026/07/20",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786180632540
     },
     {
       "id": "680575",
@@ -1542,17 +1575,6 @@
       "imageVersion": 1785913945664
     },
     {
-      "id": "585284",
-      "name": "백설 프리미엄 굴소스 350G X 3",
-      "store": "COSTCO",
-      "normalPrice": 10790,
-      "discountAmount": -2300,
-      "finalPrice": 8490,
-      "saleStart": "2026/07/23",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785570280023
-    },
-    {
       "id": "656405",
       "name": "SPAM 스팸 라이트 340G X 6",
       "store": "COSTCO",
@@ -1562,17 +1584,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785770269025
-    },
-    {
-      "id": "659547",
-      "name": "더 건강한 닭가슴살 소시지 120G X 7",
-      "store": "COSTCO",
-      "normalPrice": 16490,
-      "discountAmount": -4000,
-      "finalPrice": 12490,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785499845700
     },
     {
       "id": "666086",
