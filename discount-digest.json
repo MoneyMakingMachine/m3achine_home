@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T02:45:54.393625+00:00",
+  "generatedAt": "2026-08-08T06:15:56.460495+00:00",
   "items": [
     {
       "id": "683694",
@@ -423,34 +423,12 @@
       "id": "1846556",
       "name": "NIKE 남성반소매폴로 S,M,L,XL,XXL US SIZE",
       "store": "COSTCO",
-      "normalPrice": 54970,
+      "normalPrice": 49970,
       "discountAmount": -12000,
-      "finalPrice": 42970,
-      "saleStart": "2026/06/25",
+      "finalPrice": 37970,
+      "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785566834545
-    },
-    {
-      "id": "687324",
-      "name": "MILLET 남성 반소매 셔츠 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 35990,
-      "discountAmount": -7500,
-      "finalPrice": 28490,
-      "saleStart": "2026/07/31",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785566920116
-    },
-    {
-      "id": "687523",
-      "name": "COLUMBIA 남성 반소매 폴로 XL,XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 27970,
-      "discountAmount": -8000,
-      "finalPrice": 19970,
-      "saleStart": "2026/06/22",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785566982933
+      "imageVersion": 1786169247478
     },
     {
       "id": "659135",
@@ -462,39 +440,6 @@
       "saleStart": "2026/06/22",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785046389858
-    },
-    {
-      "id": "667459",
-      "name": "MILLET 남성 카고 반바지 80 - 96 ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/07/25",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785046429800
-    },
-    {
-      "id": "687299",
-      "name": "BRENTWOOD 리넷 폴로 반소매 SIZE ASIAN S-XXL SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/07/08",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785567005040
-    },
-    {
-      "id": "687565",
-      "name": "EIDER 남성 반소매 폴로 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785579509085
     },
     {
       "id": "657965",
@@ -550,39 +495,6 @@
       "saleStart": "2026/06/29",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785579558526
-    },
-    {
-      "id": "658022",
-      "name": "ADIDAS 남성 첼시 반바지 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 22490,
-      "discountAmount": -4500,
-      "finalPrice": 17990,
-      "saleStart": "2026/07/07",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785579572330
-    },
-    {
-      "id": "667641",
-      "name": "PUMA 트리코트 반바지 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 17990,
-      "discountAmount": -3600,
-      "finalPrice": 14390,
-      "saleStart": "2026/07/08",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785579596559
-    },
-    {
-      "id": "658376",
-      "name": "COLUMBIA 남성 카고 반바지 80-95 ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -6000,
-      "finalPrice": 21990,
-      "saleStart": "2026/06/22",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785579617499
     },
     {
       "id": "687816",
@@ -673,6 +585,94 @@
       "imageVersion": 1785579884583
     },
     {
+      "id": "667459",
+      "name": "MILLET 남성 카고 반바지 80 - 96 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169202480
+    },
+    {
+      "id": "658376",
+      "name": "COLUMBIA 남성 카고 반바지 80-95 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169212901
+    },
+    {
+      "id": "667641",
+      "name": "PUMA 트리코트 반바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -5000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169226975
+    },
+    {
+      "id": "687523",
+      "name": "COLUMBIA 남성 반소매 폴로 XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 23970,
+      "discountAmount": -8000,
+      "finalPrice": 15970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169256182
+    },
+    {
+      "id": "1846548",
+      "name": "남성 반바지 S,M,L,XL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 23470,
+      "discountAmount": -8500,
+      "finalPrice": 14970,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169276593
+    },
+    {
+      "id": "687987",
+      "name": "FLAGSHIP 남성 반바지 30,32,34,36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17970,
+      "discountAmount": -8000,
+      "finalPrice": 9970,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169294931
+    },
+    {
+      "id": "658022",
+      "name": "ADIDAS 남성 첼시 반바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21470,
+      "discountAmount": -4500,
+      "finalPrice": 16970,
+      "saleStart": "2026/07/07",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169303605
+    },
+    {
+      "id": "687367",
+      "name": "FILA KIDS 키즈 바람막이자켓 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 25970,
+      "discountAmount": -6000,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169370241
+    },
+    {
       "id": "636983",
       "name": "BODY BLUE 에어메쉬브라렛 2매 75A - 85B ASIAN SIZE",
       "store": "COSTCO",
@@ -695,17 +695,6 @@
       "imageVersion": 1785660794462
     },
     {
-      "id": "629574",
-      "name": "1865유니크 까베르네쇼비뇽 750ML",
-      "store": "COSTCO",
-      "normalPrice": 45990,
-      "discountAmount": -12000,
-      "finalPrice": 33990,
-      "saleStart": "2026/07/13",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785766343410
-    },
-    {
       "id": "668932",
       "name": "JEEP 소가죽 벨트 FREE SIZE",
       "store": "COSTCO",
@@ -726,17 +715,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785769016241
-    },
-    {
-      "id": "524003",
-      "name": "KINDER 킨더 조이 초콜릿 240 G / 20G X 12",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785504091035
     },
     {
       "id": "1819488",
@@ -1089,17 +1067,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785661646497
-    },
-    {
-      "id": "1956454",
-      "name": "TAILOR VINTAGE 남성 반바지 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -6500,
-      "finalPrice": 13490,
-      "saleStart": "2026/06/17",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785661694562
     },
     {
       "id": "678697",
@@ -1914,6 +1881,138 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786101134460
+    },
+    {
+      "id": "687324",
+      "name": "MILLET 남성 반소매 셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7500,
+      "finalPrice": 28490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169172869
+    },
+    {
+      "id": "687299",
+      "name": "BRENTWOOD 리넷 폴로 반소매 SIZE ASIAN S-XXL SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169183523
+    },
+    {
+      "id": "687565",
+      "name": "EIDER 남성 반소매 폴로 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169191107
+    },
+    {
+      "id": "667284",
+      "name": "OUTDOOR PRODUCTS 남성 우븐 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169234514
+    },
+    {
+      "id": "678506",
+      "name": "COLUMBIA 남성 수영복반바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24970,
+      "discountAmount": -5000,
+      "finalPrice": 19970,
+      "saleStart": "2026/07/29",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169285351
+    },
+    {
+      "id": "1956454",
+      "name": "TAILOR VINTAGE 남성 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 16470,
+      "discountAmount": -6500,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169316834
+    },
+    {
+      "id": "623319",
+      "name": "STARBUCKS스타벅스 네스프레소캡슐 60P",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -10000,
+      "finalPrice": 36990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786169411450
+    },
+    {
+      "id": "600583",
+      "name": "미국산 초이스 치마양지 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 76900,
+      "discountAmount": -12000,
+      "finalPrice": 64900,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169439576
+    },
+    {
+      "id": "524003",
+      "name": "KINDER 킨더 조이 초콜릿 240 G / 20G X 12",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169457487
+    },
+    {
+      "id": "511964",
+      "name": "꽁떼 디 깜삐아노 아파시멘토 750ML",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -3500,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786169633035
+    },
+    {
+      "id": "629574",
+      "name": "1865유니크 까베르네쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -12000,
+      "finalPrice": 33990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169723446
+    },
+    {
+      "id": "688596",
+      "name": "카르멘 빈티지블렌드 750ML",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -6800,
+      "finalPrice": 27190,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786169748037
     }
   ]
 }
