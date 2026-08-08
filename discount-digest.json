@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:16:16.668995+00:00",
+  "generatedAt": "2026-08-08T10:31:18.501610+00:00",
   "items": [
     {
       "id": "683694",
@@ -1036,17 +1036,6 @@
       "imageVersion": 1786178435281
     },
     {
-      "id": "636983",
-      "name": "BODY BLUE 에어메쉬브라렛 2매 75A - 85B ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785660782105
-    },
-    {
       "id": "1846565",
       "name": "THE NORTH FACE 남성 반소매티셔츠 S,M,L,XL US SIZE",
       "store": "COSTCO",
@@ -1608,6 +1597,17 @@
       "imageVersion": 1786184130890
     },
     {
+      "id": "680578",
+      "name": "드시모네 패밀리 캡슐",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -12000,
+      "finalPrice": 47900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786184243160
+    },
+    {
       "id": "684359",
       "name": "LG OLED TV 55형 138CM",
       "store": "COSTCO",
@@ -1806,6 +1806,61 @@
       "imageVersion": 1786184168468
     },
     {
+      "id": "636983",
+      "name": "BODY BLUE 에어메쉬브라렛 2매 75A - 85B ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785660782105
+    },
+    {
+      "id": "688445",
+      "name": "PUMA 프리컷로고팬티5매 L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -7000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786184433586
+    },
+    {
+      "id": "698029",
+      "name": "GOODFEEL 좋은느낌 유기농순면맥시슬림 대형 64개",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786184687263
+    },
+    {
+      "id": "7771921",
+      "name": "KIRKLAND SIGNATURE 면라운드티셔츠6매 S,M,L,XL CUSTOM FIT",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786184479961
+    },
+    {
+      "id": "676698",
+      "name": "정관장 홍삼정 스틱 에브리타임 소프트 10ML X90포",
+      "store": "COSTCO",
+      "normalPrice": 194900,
+      "discountAmount": -39000,
+      "finalPrice": 155900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786184605937
+    },
+    {
       "id": "680575",
       "name": "덴프스 NMN 250 700MG X 60정",
       "store": "COSTCO",
@@ -1850,6 +1905,28 @@
       "imageVersion": 1786180174162
     },
     {
+      "id": "684864",
+      "name": "DR.BRONNER'S 퓨어 캐스틸 솝 라벤더 740ML+300ML",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786184769985
+    },
+    {
+      "id": "693818",
+      "name": "뉴트리원 BB LAB 파인애플효소 3G X 90포",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786184839421
+    },
+    {
       "id": "653909",
       "name": "SVINTO 올인원 세제수세미 200G X 2",
       "store": "COSTCO",
@@ -1859,6 +1936,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786179346555
+    },
+    {
+      "id": "692347",
+      "name": "동국제약 테아닌&아쉬아간다 1,050MG X 50정",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -7600,
+      "finalPrice": 30390,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786185050022
     },
     {
       "id": "675106",
