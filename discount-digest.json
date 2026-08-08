@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:30:58.060070+00:00",
+  "generatedAt": "2026-08-08T06:45:59.585563+00:00",
   "items": [
     {
       "id": "683694",
@@ -1267,17 +1267,6 @@
       "imageVersion": 1785763420869
     },
     {
-      "id": "669512",
-      "name": "CUORE 쿠오레 이동식 대형냉풍기 80L",
-      "store": "COSTCO",
-      "normalPrice": 439900,
-      "discountAmount": -90000,
-      "finalPrice": 349900,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785663503105
-    },
-    {
       "id": "687696",
       "name": "해리농협 고창 구운 천일염 800G X 2",
       "store": "COSTCO",
@@ -2035,6 +2024,94 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786170634655
+    },
+    {
+      "id": "668051",
+      "name": "비비고 김치볶음 150G X 10",
+      "store": "COSTCO",
+      "normalPrice": 21490,
+      "discountAmount": -2500,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786170797698
+    },
+    {
+      "id": "658810",
+      "name": "신라명과 프리미엄 탕종식빵 880G",
+      "store": "COSTCO",
+      "normalPrice": 9790,
+      "discountAmount": -1000,
+      "finalPrice": 8790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786170855088
+    },
+    {
+      "id": "621584",
+      "name": "매일 바이오 드링킹 블루베리 250ML X 10",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786170872940
+    },
+    {
+      "id": "620856",
+      "name": "OCEAN SPRAY 건크랜베리 1.36KG",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3100,
+      "finalPrice": 12890,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786170898737
+    },
+    {
+      "id": "671210",
+      "name": "해태 홈런볼 초코 768G / 128G X 6",
+      "store": "COSTCO",
+      "normalPrice": 15890,
+      "discountAmount": -3100,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786170914480
+    },
+    {
+      "id": "668613",
+      "name": "EXCYCLE 바삭칩 믹스 360G / 45G X 8",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3000,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786170932671
+    },
+    {
+      "id": "669512",
+      "name": "CUORE 쿠오레 이동식 대형냉풍기 80L",
+      "store": "COSTCO",
+      "normalPrice": 439900,
+      "discountAmount": -90000,
+      "finalPrice": 349900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786170950169
+    },
+    {
+      "id": "696627",
+      "name": "SAMSUNG MINI LED TV 85형 214CM",
+      "store": "COSTCO",
+      "normalPrice": 2199000,
+      "discountAmount": -250000,
+      "finalPrice": 1949000,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786170967527
     }
   ]
 }
