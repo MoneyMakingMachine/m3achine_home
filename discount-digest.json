@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T06:15:56.460495+00:00",
+  "generatedAt": "2026-08-08T06:30:58.060070+00:00",
   "items": [
     {
       "id": "683694",
@@ -140,9 +140,9 @@
       "normalPrice": 17790,
       "discountAmount": -4000,
       "finalPrice": 13790,
-      "saleStart": "2026/07/27",
+      "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
-      "imageVersion": 1785502789154
+      "imageVersion": 1786169814322
     },
     {
       "id": "600523",
@@ -187,17 +187,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785568831503
-    },
-    {
-      "id": "507643",
-      "name": "집집 락 쉬라즈 750ML",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3200,
-      "finalPrice": 12790,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785505012035
     },
     {
       "id": "671410",
@@ -2013,6 +2002,39 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786169748037
+    },
+    {
+      "id": "507643",
+      "name": "집집 락 쉬라즈 750ML",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786169765640
+    },
+    {
+      "id": "576165",
+      "name": "SNICKERS 미니스 초콜릿 1745 G",
+      "store": "COSTCO",
+      "normalPrice": 32790,
+      "discountAmount": -6000,
+      "finalPrice": 26790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786170623315
+    },
+    {
+      "id": "83501",
+      "name": "러셋 포테이토 (3KG) 원산지 : 미국",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786170634655
     }
   ]
 }
