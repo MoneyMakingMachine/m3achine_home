@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T07:31:01.119976+00:00",
+  "generatedAt": "2026-08-08T07:46:03.055536+00:00",
   "items": [
     {
       "id": "683694",
@@ -849,17 +849,6 @@
       "imageVersion": 1785557543075
     },
     {
-      "id": "684436",
-      "name": "여에스더 글루타치온 9X 370MG X 42 CT",
-      "store": "COSTCO",
-      "normalPrice": 36990,
-      "discountAmount": -7500,
-      "finalPrice": 29490,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785567555581
-    },
-    {
       "id": "686911",
       "name": "여에스더 콜린 이노시톨 6.5G-X 60포",
       "store": "COSTCO",
@@ -869,17 +858,6 @@
       "saleStart": "2026/07/22",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785567584883
-    },
-    {
-      "id": "677986",
-      "name": "얼라이브 삼부커스 엘더베리 110구미",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -5500,
-      "finalPrice": 22490,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785569858858
     },
     {
       "id": "691641",
@@ -1080,6 +1058,28 @@
       "imageVersion": 1786173772942
     },
     {
+      "id": "684436",
+      "name": "여에스더 글루타치온 9X 370MG X 42 CT",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174302783
+    },
+    {
+      "id": "677986",
+      "name": "얼라이브 삼부커스 엘더베리 110구미",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5500,
+      "finalPrice": 22490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174316362
+    },
+    {
       "id": "694164",
       "name": "동국제약 로얄 알부민 골드 20ML X 30병",
       "store": "COSTCO",
@@ -1089,17 +1089,6 @@
       "saleStart": "2026/07/23",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785662179072
-    },
-    {
-      "id": "695020",
-      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
-      "store": "COSTCO",
-      "normalPrice": 54900,
-      "discountAmount": -15000,
-      "finalPrice": 39900,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785662301313
     },
     {
       "id": "488431",
@@ -1199,6 +1188,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785602928295
+    },
+    {
+      "id": "695020",
+      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
+      "store": "COSTCO",
+      "normalPrice": 54900,
+      "discountAmount": -15000,
+      "finalPrice": 39900,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174508302
     },
     {
       "id": "689756",
@@ -1309,39 +1309,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1785580834821
-    },
-    {
-      "id": "676743",
-      "name": "에버스트로겐 750MG X 60정",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6500,
-      "finalPrice": 23490,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785579989664
-    },
-    {
-      "id": "671247",
-      "name": "네일메드 코세정제 콤보 용기3EA+분말250EA",
-      "store": "COSTCO",
-      "normalPrice": 34990,
-      "discountAmount": -7000,
-      "finalPrice": 27990,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785659293945
-    },
-    {
-      "id": "660246",
-      "name": "에버콜라겐 인앤업플러스 750MG X 112정",
-      "store": "COSTCO",
-      "normalPrice": 37990,
-      "discountAmount": -7500,
-      "finalPrice": 30490,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785659254605
     },
     {
       "id": "675106",
@@ -1476,17 +1443,6 @@
       "imageVersion": 1785903812271
     },
     {
-      "id": "645807",
-      "name": "동원천지인 홍삼정골드8.0 240G",
-      "store": "COSTCO",
-      "normalPrice": 74900,
-      "discountAmount": -15000,
-      "finalPrice": 59900,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/09",
-      "imageVersion": 1785580092857
-    },
-    {
       "id": "627908",
       "name": "NATURE VALLEY 프로틴 바 1.2KG / 40G X 30",
       "store": "COSTCO",
@@ -1584,6 +1540,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785660715438
+    },
+    {
+      "id": "669910",
+      "name": "DR.G 그린마일드 업 와이드 선패치 16회분",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786174467187
     },
     {
       "id": "773368",
@@ -2200,6 +2167,127 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786174260530
+    },
+    {
+      "id": "674350",
+      "name": "동국제약 마그마 스피드샷 20ML X 20병",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174275212
+    },
+    {
+      "id": "676743",
+      "name": "에버스트로겐 750MG X 60정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6500,
+      "finalPrice": 23490,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174287617
+    },
+    {
+      "id": "645807",
+      "name": "동원천지인 홍삼정골드8.0 240G",
+      "store": "COSTCO",
+      "normalPrice": 74900,
+      "discountAmount": -15000,
+      "finalPrice": 59900,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174325709
+    },
+    {
+      "id": "671247",
+      "name": "네일메드 코세정제 콤보 용기3EA+분말250EA",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174381238
+    },
+    {
+      "id": "679589",
+      "name": "DEPEND 디펜드 안심성인용기저귀 32개",
+      "store": "COSTCO",
+      "normalPrice": 26490,
+      "discountAmount": -5500,
+      "finalPrice": 20990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786174410752
+    },
+    {
+      "id": "683065",
+      "name": "SOFY 쏘피 쿨링 패드 중형 20개 X 4팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3500,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786174422837
+    },
+    {
+      "id": "670780",
+      "name": "APRIL AT HOME 리플 누비이불 싱글사이즈/150X200CM",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5500,
+      "finalPrice": 20490,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786174434861
+    },
+    {
+      "id": "668570",
+      "name": "DR.G 닥터지 그린마일드업선플러스 50MLX2EA + 10MLX3EA",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786174449795
+    },
+    {
+      "id": "660528",
+      "name": "유한킴벌리 그린핑거 순한 무기차자 선쿠션",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786174496997
+    },
+    {
+      "id": "670448",
+      "name": "PANTENE 팬틴 콜라겐 극손상케어 트리트먼트 400ML X 3",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -3500,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174530072
+    },
+    {
+      "id": "660246",
+      "name": "에버콜라겐 인앤업플러스 750MG X 112정",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -7500,
+      "finalPrice": 30490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786174540381
     }
   ]
 }
