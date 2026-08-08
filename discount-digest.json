@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:01:14.754118+00:00",
+  "generatedAt": "2026-08-08T10:16:16.668995+00:00",
   "items": [
     {
       "id": "683694",
@@ -783,6 +783,17 @@
       "imageVersion": 1786183136055
     },
     {
+      "id": "694633",
+      "name": "NEPA 런닝화 240- 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -13000,
+      "finalPrice": 46900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786183515501
+    },
+    {
       "id": "657965",
       "name": "PUMA 남성 트리코트바지 M-XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -1036,6 +1047,39 @@
       "imageVersion": 1785660782105
     },
     {
+      "id": "1846565",
+      "name": "THE NORTH FACE 남성 반소매티셔츠 S,M,L,XL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786183360452
+    },
+    {
+      "id": "688250",
+      "name": "FIREFOLKS파이어폭스 바베큐 석쇠 5개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786183411232
+    },
+    {
+      "id": "656998",
+      "name": "PUMA 성인 코트화 230- 280MM",
+      "store": "COSTCO",
+      "normalPrice": 29490,
+      "discountAmount": -6500,
+      "finalPrice": 22990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786183470367
+    },
+    {
       "id": "668932",
       "name": "JEEP 소가죽 벨트 FREE SIZE",
       "store": "COSTCO",
@@ -1190,6 +1234,17 @@
       "imageVersion": 1786180640986
     },
     {
+      "id": "687079",
+      "name": "YOICHEU 여성 플리츠원피스 S/M, M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/01",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786183605669
+    },
+    {
       "id": "693040",
       "name": "농심 신라면 블랙 134G X 16",
       "store": "COSTCO",
@@ -1232,6 +1287,39 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786181880510
+    },
+    {
+      "id": "684263",
+      "name": "CODES COMBINE 남성 반바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15970,
+      "discountAmount": -4000,
+      "finalPrice": 11970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786183729116
+    },
+    {
+      "id": "687527",
+      "name": "COLUMBA 남성 스트레치바지 30 - 36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786183770743
+    },
+    {
+      "id": "669657",
+      "name": "소스락 백년육수 3G X 120",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4200,
+      "finalPrice": 16790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786183882150
     },
     {
       "id": "691641",
@@ -1487,6 +1575,17 @@
       "imageVersion": 1786179449247
     },
     {
+      "id": "653278",
+      "name": "KULTE 스트링면바지 MLXL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786183825870
+    },
+    {
       "id": "691285",
       "name": "에프킬라 라이트 트랩 리필 12입",
       "store": "COSTCO",
@@ -1496,6 +1595,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785662422844
+    },
+    {
+      "id": "687531",
+      "name": "COLUMBIA 키즈 래쉬가드세트, 120,130,140,150",
+      "store": "COSTCO",
+      "normalPrice": 32970,
+      "discountAmount": -6000,
+      "finalPrice": 26970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786184130890
     },
     {
       "id": "684359",
@@ -1672,6 +1782,28 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786180632540
+    },
+    {
+      "id": "684260",
+      "name": "CODES COMBINE 남성 반소매 티셔츠 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3500,
+      "finalPrice": 10490,
+      "saleStart": "2026/07/29",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786184044370
+    },
+    {
+      "id": "652427",
+      "name": "오리고 대나무 카페트 150X200CM",
+      "store": "COSTCO",
+      "normalPrice": 49970,
+      "discountAmount": -10000,
+      "finalPrice": 39970,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786184168468
     },
     {
       "id": "680575",
