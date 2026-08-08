@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T11:16:23.991524+00:00",
+  "generatedAt": "2026-08-08T22:01:25.911124+00:00",
   "items": [
     {
       "id": "683694",
@@ -2268,17 +2268,6 @@
       "imageVersion": 1786186646281
     },
     {
-      "id": "678337",
-      "name": "GEEK 긱 파위 드라이어 BLDC 모터",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -8000,
-      "finalPrice": 31990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1786186393109
-    },
-    {
       "id": "680689",
       "name": "미세스마이어스 다목적 세정제 750ML X3 / 리필",
       "store": "COSTCO",
@@ -2653,6 +2642,50 @@
       "imageVersion": 1786187427612
     },
     {
+      "id": "685589",
+      "name": "VENDICT 벤딕트 무선 에어건 마하 & 파우치 세트",
+      "store": "COSTCO",
+      "normalPrice": 86900,
+      "discountAmount": -18000,
+      "finalPrice": 68900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786225961212
+    },
+    {
+      "id": "680586",
+      "name": "레노아섬유유연제 화이트머스크향 4L",
+      "store": "COSTCO",
+      "normalPrice": 21790,
+      "discountAmount": -4800,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1
+    },
+    {
+      "id": "690145",
+      "name": "EDELKOCHEN 에델코첸 통 3중 웍팬 24CM (찜판 포함)",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -7000,
+      "finalPrice": 32990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786225790977
+    },
+    {
+      "id": "678337",
+      "name": "GEEK 긱 파위 드라이어 BLDC 모터",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786186393109
+    },
+    {
       "id": "682762",
       "name": "VOLVIK 플라이온골프공 2피스 / 24개입",
       "store": "COSTCO",
@@ -2673,6 +2706,28 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785661130060
+    },
+    {
+      "id": "691845",
+      "name": "CORELLE 코렐 디너웨어 4인세트 16P",
+      "store": "COSTCO",
+      "normalPrice": 96900,
+      "discountAmount": -20000,
+      "finalPrice": 76900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786225904207
+    },
+    {
+      "id": "691496",
+      "name": "LEGO ARCHITECTURE 파리-사랑의 도시 #21064",
+      "store": "COSTCO",
+      "normalPrice": 95900,
+      "discountAmount": -20000,
+      "finalPrice": 75900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786226023030
     },
     {
       "id": "678358",
@@ -3665,6 +3720,17 @@
       "imageVersion": 1786179152494
     },
     {
+      "id": "67070",
+      "name": "네이블 오렌지 1봉 (3.4KG 이상) 원산지 : 호주",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -2700,
+      "finalPrice": 15290,
+      "saleStart": "2026/07/29",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786226123805
+    },
+    {
       "id": "648422",
       "name": "창 콤비 블라인드 185 X 240 CM",
       "store": "COSTCO",
@@ -3674,6 +3740,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786179204326
+    },
+    {
+      "id": "247019",
+      "name": "친환경양파1망 (2KG) 원산치 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 5990,
+      "discountAmount": -1100,
+      "finalPrice": 4890,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786226172658
     },
     {
       "id": "627620",
@@ -3698,6 +3775,17 @@
       "imageVersion": 1786179289502
     },
     {
+      "id": "660823",
+      "name": "미니파프리카 (700G) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2000,
+      "finalPrice": 8990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786226269518
+    },
+    {
       "id": "665024",
       "name": "칠성사이다제로 300ML X 20팩",
       "store": "COSTCO",
@@ -3707,6 +3795,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786179354731
+    },
+    {
+      "id": "610652",
+      "name": "미이랑 국내산 체절균형식 5KG",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5200,
+      "finalPrice": 20790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786226331847
     },
     {
       "id": "659155",
@@ -3729,6 +3828,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786179405138
+    },
+    {
+      "id": "685973",
+      "name": "한울 매운실비김치 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 15490,
+      "discountAmount": -3000,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786226443287
     },
     {
       "id": "634558",
@@ -3874,6 +3984,17 @@
       "imageVersion": 1786179437452
     },
     {
+      "id": "595847",
+      "name": "미니 밤호박 (5입) 원산지 : 상품에 표기",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2000,
+      "finalPrice": 8990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786226233496
+    },
+    {
       "id": "668258",
       "name": "씨없는블랙포도 (1.36 KG) 원산지:호주산",
       "store": "COSTCO",
@@ -3938,6 +4059,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/13",
       "imageVersion": 1786179759879
+    },
+    {
+      "id": "586967",
+      "name": "오리늘보 무항생제훈제슬라이스 500GX2원산지국내산",
+      "store": "COSTCO",
+      "normalPrice": 18690,
+      "discountAmount": -3100,
+      "finalPrice": 15590,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786226398506
     },
     {
       "id": "525619",
