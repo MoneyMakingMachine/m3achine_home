@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:01:29.549587+00:00",
+  "generatedAt": "2026-08-09T10:16:31.408816+00:00",
   "items": [
     {
       "id": "683694",
@@ -4050,6 +4050,28 @@
       "imageVersion": 1786269621898
     },
     {
+      "id": "694526",
+      "name": "LG 엘지 휘센 뷰2 2 22+6 PY 스탠드 벽걸이",
+      "store": "COSTCO",
+      "normalPrice": 2999000,
+      "discountAmount": 350000,
+      "finalPrice": 2649000,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786270144753
+    },
+    {
+      "id": "692870",
+      "name": "CJ 제일제당 고메 김치 우동 229G X 4",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2400,
+      "finalPrice": 10590,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786270416408
+    },
+    {
       "id": "1371826",
       "name": "OXO 옥소 야채탈수기 1P",
       "store": "COSTCO",
@@ -4433,6 +4455,39 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786269375992
+    },
+    {
+      "id": "691831",
+      "name": "BELKIN 어린이용 무선헤드폰 블랙,화이트",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/09",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786270258743
+    },
+    {
+      "id": "694790",
+      "name": "소바바 황금홀릭순살 1100G",
+      "store": "COSTCO",
+      "normalPrice": 18490,
+      "discountAmount": -2500,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/09",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786270374388
+    },
+    {
+      "id": "692424",
+      "name": "풀무원 데일리프레쉬 주스 150ML X 7EA",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2700,
+      "finalPrice": 12290,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786270475376
     }
   ]
 }
