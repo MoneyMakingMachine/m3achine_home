@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:46:27.775291+00:00",
+  "generatedAt": "2026-08-09T10:01:29.549587+00:00",
   "items": [
     {
       "id": "683694",
@@ -198,6 +198,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786181865737
+    },
+    {
+      "id": "666295",
+      "name": "한성 담백한골드명란젓갈 500G",
+      "store": "COSTCO",
+      "normalPrice": 33490,
+      "discountAmount": -6700,
+      "finalPrice": 26790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1
     },
     {
       "id": "665140",
@@ -3984,6 +3995,61 @@
       "imageVersion": 1786179888434
     },
     {
+      "id": "688951",
+      "name": "BRAUN 브라운 전기 면도기 8663CC / 8667CC",
+      "store": "COSTCO",
+      "normalPrice": 269900,
+      "discountAmount": -65000,
+      "finalPrice": 204900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786268823195
+    },
+    {
+      "id": "693918",
+      "name": "BALANCE GROW 블루베리 퓨레 20G X 40",
+      "store": "COSTCO",
+      "normalPrice": 17790,
+      "discountAmount": 3800,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786269159776
+    },
+    {
+      "id": "692568",
+      "name": "VONBEE 꿀매실청 2KG",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -4000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786269445105
+    },
+    {
+      "id": "683615",
+      "name": "햇반 파로 통곡물밥 190G X 12",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -3000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786269494691
+    },
+    {
+      "id": "692169",
+      "name": "비비고 플랜테이블물만두 1500G",
+      "store": "COSTCO",
+      "normalPrice": 11790,
+      "discountAmount": -2000,
+      "finalPrice": 9790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786269621898
+    },
+    {
       "id": "1371826",
       "name": "OXO 옥소 야채탈수기 1P",
       "store": "COSTCO",
@@ -4312,6 +4378,61 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786268704720
+    },
+    {
+      "id": "694665",
+      "name": "LG 엘지 휘센 쿨 18+6 PY 스탠드 + 벽걸이",
+      "store": "COSTCO",
+      "normalPrice": 1999000,
+      "discountAmount": -200000,
+      "finalPrice": 1799000,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786268885759
+    },
+    {
+      "id": "672969",
+      "name": "TEFAL 테팔 핸디형스팀다리미 DT2022/ DT2026",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": 8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786269094855
+    },
+    {
+      "id": "683011",
+      "name": "후르츠 거셔스 트로피칼 펀치 1,000G / 40G X 25",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -6000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786269263081
+    },
+    {
+      "id": "1959892",
+      "name": "BLUE DRAGON 팟타이 키트 440G X 2",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786269324987
+    },
+    {
+      "id": "683949",
+      "name": "JOHNSONVILLE 시그니처햄 200G X 8",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -4000,
+      "finalPrice": 15490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786269375992
     }
   ]
 }
