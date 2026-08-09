@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:16:31.408816+00:00",
+  "generatedAt": "2026-08-09T10:31:33.592212+00:00",
   "items": [
     {
       "id": "683694",
@@ -4479,6 +4479,50 @@
       "imageVersion": 1786270374388
     },
     {
+      "id": "686609",
+      "name": "[앤쿠폰적용상품] CASS 472ML X 20캔",
+      "store": "COSTCO",
+      "normalPrice": 28890,
+      "discountAmount": -1500,
+      "finalPrice": 27390,
+      "saleStart": "2026/08/05",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786270966429
+    },
+    {
+      "id": "589845",
+      "name": "산테로 피노샤도스푸만테 750ML",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3000,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786271176913
+    },
+    {
+      "id": "525082",
+      "name": "마크 웨스트 블랙 피노누아 750ML",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786271314328
+    },
+    {
+      "id": "684910",
+      "name": "100 인의 키키자케시 720ML",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/31",
+      "imageVersion": 1786271385751
+    },
+    {
       "id": "692424",
       "name": "풀무원 데일리프레쉬 주스 150ML X 7EA",
       "store": "COSTCO",
@@ -4488,6 +4532,94 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786270475376
+    },
+    {
+      "id": "691378",
+      "name": "고메 소바바양념순살치킨 1100G",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -2500,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786270592798
+    },
+    {
+      "id": "8588899",
+      "name": "CABEZUELO 할라피뇨 파퍼 1.6KG",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786270641122
+    },
+    {
+      "id": "625499",
+      "name": "이롬 약콩 두유 190ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786270713503
+    },
+    {
+      "id": "679297",
+      "name": "ASAHI 소쿠사이 340ML X 12캔",
+      "store": "COSTCO",
+      "normalPrice": 23490,
+      "discountAmount": -3700,
+      "finalPrice": 19790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/09/01",
+      "imageVersion": 1786270811033
+    },
+    {
+      "id": "673102",
+      "name": "[앤쿠폰적용상품] BUDWEISER 맥주 495ML X 8캔",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -1300,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786270861962
+    },
+    {
+      "id": "688810",
+      "name": "CASS 라이트 할인행사(:",
+      "store": "COSTCO",
+      "normalPrice": 24390,
+      "discountAmount": -1200,
+      "finalPrice": 23190,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786271000661
+    },
+    {
+      "id": "679624",
+      "name": "로얄브라클라 12년 700ML",
+      "store": "COSTCO",
+      "normalPrice": 103900,
+      "discountAmount": -21000,
+      "finalPrice": 82900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/31",
+      "imageVersion": 1786271070736
+    },
+    {
+      "id": "514248",
+      "name": "마시코스타세라 아마로네클라시코 750ML",
+      "store": "COSTCO",
+      "normalPrice": 94900,
+      "discountAmount": -18000,
+      "finalPrice": 76900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786271254218
     }
   ]
 }
