@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:01:25.911124+00:00",
+  "generatedAt": "2026-08-09T09:46:27.775291+00:00",
   "items": [
     {
       "id": "683694",
@@ -3874,6 +3874,17 @@
       "imageVersion": 1786179577154
     },
     {
+      "id": "694308",
+      "name": "KITKAT 오리지널 743.4G / 17.7G X 42",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/08/09",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786226484486
+    },
+    {
       "id": "592039",
       "name": "팽성농협 아끼바레현미 5KG",
       "store": "COSTCO",
@@ -3894,6 +3905,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/09",
       "imageVersion": 1786179643658
+    },
+    {
+      "id": "693854",
+      "name": "이탈리안티라미수 ITALIAN TIRAMISU",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786268578173
     },
     {
       "id": "660328",
@@ -3927,6 +3949,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786179700221
+    },
+    {
+      "id": "690864",
+      "name": "TRIKO 크림브퀄레 파미에 500G",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -2500,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786268756029
     },
     {
       "id": "636994",
@@ -4094,6 +4127,17 @@
       "imageVersion": 1786179967746
     },
     {
+      "id": "695470",
+      "name": "대구농산 인도산치아씨드 1KG",
+      "store": "COSTCO",
+      "normalPrice": 8490,
+      "discountAmount": -1700,
+      "finalPrice": 6790,
+      "saleStart": "2026/07/31",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1786268273923
+    },
+    {
       "id": "603988",
       "name": "C-WEED 올리브유 파래김 40G X 8/ 96매",
       "store": "COSTCO",
@@ -4138,6 +4182,17 @@
       "imageVersion": 1786180083871
     },
     {
+      "id": "682511",
+      "name": "GREEN NUT 호두 반태 1.15KG",
+      "store": "COSTCO",
+      "normalPrice": 23490,
+      "discountAmount": -4700,
+      "finalPrice": 18790,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786268399943
+    },
+    {
       "id": "673723",
       "name": "BIBIGO 비비고 통새우만두 200G X 4 (800G)",
       "store": "COSTCO",
@@ -4149,6 +4204,17 @@
       "imageVersion": 1786180107914
     },
     {
+      "id": "694791",
+      "name": "소바바 황금홀릭한마리 820G",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786268453825
+    },
+    {
       "id": "646066",
       "name": "BIBIGO수제만둣집 진한김치만두 1600G",
       "store": "COSTCO",
@@ -4158,6 +4224,17 @@
       "saleStart": "2026/08/04",
       "saleEnd": "2026/08/11",
       "imageVersion": 1786180119453
+    },
+    {
+      "id": "685525",
+      "name": "서울우유 무가당플레인요거트 1L X2",
+      "store": "COSTCO",
+      "normalPrice": 6990,
+      "discountAmount": -1400,
+      "finalPrice": 5590,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786268525276
     },
     {
       "id": "563474",
@@ -4213,6 +4290,28 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786180257561
+    },
+    {
+      "id": "690157",
+      "name": "미니 필링 도넛 20CT/PACK (베리+카라멜)",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -4000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786268634754
+    },
+    {
+      "id": "674607",
+      "name": "삼립 오븐에구운버터도넛 40G X 20",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -1500,
+      "finalPrice": 10490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786268704720
     }
   ]
 }
