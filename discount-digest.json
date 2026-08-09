@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:31:33.592212+00:00",
+  "generatedAt": "2026-08-09T10:46:35.360161+00:00",
   "items": [
     {
       "id": "683694",
@@ -4523,6 +4523,17 @@
       "imageVersion": 1786271385751
     },
     {
+      "id": "694525",
+      "name": "LG 엘지 휘센 뷰2 18+6 PY 스탠드 + 벽걸이",
+      "store": "COSTCO",
+      "normalPrice": 2399000,
+      "discountAmount": -300000,
+      "finalPrice": 2099000,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786271731518
+    },
+    {
       "id": "692424",
       "name": "풀무원 데일리프레쉬 주스 150ML X 7EA",
       "store": "COSTCO",
@@ -4620,6 +4631,28 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786271254218
+    },
+    {
+      "id": "653544",
+      "name": "제일제면소 코다리 냉면 1,069G (4인분)",
+      "store": "COSTCO",
+      "normalPrice": 12290,
+      "discountAmount": -2300,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/05",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785500848103
+    },
+    {
+      "id": "608928",
+      "name": "멈 꼬르동루즈샴페인 750ML",
+      "store": "COSTCO",
+      "normalPrice": 65900,
+      "discountAmount": -14000,
+      "finalPrice": 51900,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/09",
+      "imageVersion": 1785504963471
     }
   ]
 }
