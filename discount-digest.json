@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T16:07:16.652507+00:00",
+  "generatedAt": "2026-08-10T16:22:18.463445+00:00",
   "items": [
     {
       "id": "683694",
@@ -120,6 +120,28 @@
       "finalPrice": 20690,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "630583",
+      "name": "블랙모어스 피쉬오일 미니캡슐 510MG X 250CP",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -6500,
+      "finalPrice": 25490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "515806",
+      "name": "CENOVIS 트리플러스 1,150MG X 100캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29490,
+      "discountAmount": -6000,
+      "finalPrice": 23490,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
     {
@@ -1957,17 +1979,6 @@
       "finalPrice": 204900,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "515806",
-      "name": "CENOVIS 트리플러스 1,150MG X 100캡슐",
-      "store": "COSTCO",
-      "normalPrice": 29490,
-      "discountAmount": -6000,
-      "finalPrice": 23490,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
     {
