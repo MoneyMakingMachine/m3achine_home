@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T09:52:02.570288+00:00",
+  "generatedAt": "2026-08-10T11:22:04.571655+00:00",
   "items": [
     {
       "id": "683694",
@@ -101,6 +101,17 @@
       "imageVersion": 1786180136832
     },
     {
+      "id": "679411",
+      "name": "OBOD 넥쿨러 2개",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -4000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785804144375
+    },
+    {
       "id": "687167",
       "name": "PUMA 여성 스포츠 티 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -176,6 +187,28 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785804452008
+    },
+    {
+      "id": "681022",
+      "name": "NATIONAL GEOGRAPHIC 방수팩 2개입",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785509175412
+    },
+    {
+      "id": "687882",
+      "name": "STETZ 스테츠 바베큐그릴트레이 10 개",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785032531909
     },
     {
       "id": "951681",
@@ -442,12 +475,23 @@
       "imageVersion": 1785418342105
     },
     {
+      "id": "2000580",
+      "name": "HYPERLITE 구명조끼 아동용",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -17000,
+      "finalPrice": 19990,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785509236433
+    },
+    {
       "id": "1872149",
       "name": "INFINİTY X1 스트링 라이트 2개",
       "store": "COSTCO",
-      "normalPrice": 19990,
+      "normalPrice": 17990,
       "discountAmount": -4000,
-      "finalPrice": 15990,
+      "finalPrice": 13990,
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785505185341
@@ -462,17 +506,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785804129800
-    },
-    {
-      "id": "2000580",
-      "name": "HYPERLITE 구명조끼 아동용",
-      "store": "COSTCO",
-      "normalPrice": 46990,
-      "discountAmount": -17000,
-      "finalPrice": 29990,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785509236433
     },
     {
       "id": "687079",
@@ -737,6 +770,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785762006409
+    },
+    {
+      "id": "675221",
+      "name": "GGUBUS 꾸버스 훈제박스 세트 5개",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -20000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785032649589
     },
     {
       "id": "691498",
