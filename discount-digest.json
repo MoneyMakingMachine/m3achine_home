@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:22:04.571655+00:00",
+  "generatedAt": "2026-08-10T11:37:06.455521+00:00",
   "items": [
     {
       "id": "683694",
@@ -112,6 +112,17 @@
       "imageVersion": 1785804144375
     },
     {
+      "id": "687963",
+      "name": "PUMA 여성 운동화 230- 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785496702797
+    },
+    {
       "id": "687167",
       "name": "PUMA 여성 스포츠 티 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -121,6 +132,17 @@
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785902604040
+    },
+    {
+      "id": "699963",
+      "name": "PUMA 남성 운동화 260- 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34970,
+      "discountAmount": -7500,
+      "finalPrice": 27470,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785496548843
     },
     {
       "id": "687184",
@@ -264,6 +286,17 @@
       "saleStart": "2026/07/20",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785558012585
+    },
+    {
+      "id": "663759",
+      "name": "ROCKFISH 여성 롱 레인부츠 230- 245MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 48970,
+      "discountAmount": -19000,
+      "finalPrice": 29970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785505216615
     },
     {
       "id": "687032",
@@ -420,6 +453,17 @@
       "imageVersion": 1786183360452
     },
     {
+      "id": "656998",
+      "name": "PUMA 성인 코트화 230- 280MM",
+      "store": "COSTCO",
+      "normalPrice": 26470,
+      "discountAmount": -6500,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786183470367
+    },
+    {
       "id": "688250",
       "name": "FIREFOLKS파이어폭스 바베큐 석쇠 5개",
       "store": "COSTCO",
@@ -429,17 +473,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786183411232
-    },
-    {
-      "id": "656998",
-      "name": "PUMA 성인 코트화 230- 280MM",
-      "store": "COSTCO",
-      "normalPrice": 29490,
-      "discountAmount": -6500,
-      "finalPrice": 22990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1786183470367
     },
     {
       "id": "688880",
