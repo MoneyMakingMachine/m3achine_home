@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:22:12.455321+00:00",
+  "generatedAt": "2026-08-10T15:52:14.678796+00:00",
   "items": [
     {
       "id": "683694",
@@ -43,6 +43,17 @@
       "finalPrice": 15990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "670780",
+      "name": "APRIL AT HOME 리플 누비이불 싱글사이즈/150X200CM",
+      "store": "COSTCO",
+      "normalPrice": 25970,
+      "discountAmount": -6000,
+      "finalPrice": 19970,
+      "saleStart": "2026/07/30",
+      "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
     {
@@ -2484,17 +2495,6 @@
       "discountAmount": -3800,
       "finalPrice": 13990,
       "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "670780",
-      "name": "APRIL AT HOME 리플 누비이불 싱글사이즈/150X200CM",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -5500,
-      "finalPrice": 20490,
-      "saleStart": "2026/07/30",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
