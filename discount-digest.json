@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:52:08.114819+00:00",
+  "generatedAt": "2026-08-10T12:07:09.977488+00:00",
   "items": [
     {
       "id": "683694",
@@ -30,6 +30,17 @@
       "normalPrice": 39970,
       "discountAmount": -10000,
       "finalPrice": 29970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "678799",
+      "name": "PUMA 남성 카프리 바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
@@ -211,6 +222,17 @@
       "imageVersion": 1785902634930
     },
     {
+      "id": "678382",
+      "name": "FILA 트리코트 반바지 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18490,
+      "discountAmount": -4000,
+      "finalPrice": 14490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785660753179
+    },
+    {
       "id": "1956403",
       "name": "JEZEBEL 여성 티어드원피스 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -343,6 +365,17 @@
       "imageVersion": 1785566631414
     },
     {
+      "id": "668086",
+      "name": "BENETTON 키즈 반소매 티셔츠 120,130,140,150",
+      "store": "COSTCO",
+      "normalPrice": 12970,
+      "discountAmount": -3000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786173662771
+    },
+    {
       "id": "690119",
       "name": "OFF오프 에어로졸 모기/진드기 기피제 150ML X 3",
       "store": "COSTCO",
@@ -409,15 +442,59 @@
       "imageVersion": 1785579558526
     },
     {
-      "id": "687816",
-      "name": "R.ROBOT 키즈 상하의 세트 120,130,145,155",
+      "id": "687523",
+      "name": "COLUMBIA 남성 반소매 폴로 XL,XXL ASIAN SIZE",
       "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -6000,
-      "finalPrice": 19990,
-      "saleStart": "2026/07/07",
+      "normalPrice": 19970,
+      "discountAmount": -8000,
+      "finalPrice": 11970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169256182
+    },
+    {
+      "id": "658022",
+      "name": "ADIDAS 남성 첼시 반바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21470,
+      "discountAmount": -4500,
+      "finalPrice": 16970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786169303605
+    },
+    {
+      "id": "685376",
+      "name": "ADIDAS GOLF 남성 골프 바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39970,
+      "discountAmount": -20000,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785579634772
+    },
+    {
+      "id": "667641",
+      "name": "PUMA 트리코트 반바지 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -5000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
-      "imageVersion": 1785579691637
+      "imageVersion": 1786169226975
+    },
+    {
+      "id": "658093",
+      "name": "GUESS 린넨 혼방 반바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4700,
+      "finalPrice": 18290,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785579543127
     },
     {
       "id": "687658",
@@ -440,6 +517,39 @@
       "saleStart": "2026/03/15",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785579861814
+    },
+    {
+      "id": "687479",
+      "name": "COLUMBIA 키즈시어서커셋업 130,140,150,160",
+      "store": "COSTCO",
+      "normalPrice": 28970,
+      "discountAmount": -9000,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/04",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786174244042
+    },
+    {
+      "id": "668325",
+      "name": "FLA 키즈상하의 세트 130,145;155,165",
+      "store": "COSTCO",
+      "normalPrice": 26970,
+      "discountAmount": -5500,
+      "finalPrice": 21470,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786173873783
+    },
+    {
+      "id": "687816",
+      "name": "R.ROBOT 키즈 상하의 세트 120,130,145,155",
+      "store": "COSTCO",
+      "normalPrice": 21970,
+      "discountAmount": -7000,
+      "finalPrice": 14970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/25",
+      "imageVersion": 1785579691637
     },
     {
       "id": "1846548",
@@ -473,17 +583,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786169370241
-    },
-    {
-      "id": "687479",
-      "name": "COLUMBIA 키즈시어서커셋업 130,140,150,160",
-      "store": "COSTCO",
-      "normalPrice": 32970,
-      "discountAmount": -9000,
-      "finalPrice": 23970,
-      "saleStart": "2026/08/04",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786174244042
     },
     {
       "id": "1846565",
@@ -750,6 +849,17 @@
       "imageVersion": 1786179449247
     },
     {
+      "id": "688026",
+      "name": "NORMAN FRENCH 트리코트 바지 30-36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785602853267
+    },
+    {
       "id": "653278",
       "name": "KULTE 스트링면바지 MLXL,XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -775,9 +885,9 @@
       "id": "687531",
       "name": "COLUMBIA 키즈 래쉬가드세트, 120,130,140,150",
       "store": "COSTCO",
-      "normalPrice": 32970,
+      "normalPrice": 25970,
       "discountAmount": -6000,
-      "finalPrice": 26970,
+      "finalPrice": 19970,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786184130890
@@ -792,17 +902,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786184243160
-    },
-    {
-      "id": "688026",
-      "name": "NORMAN FRENCH 트리코트 바지 30-36 ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785602853267
     },
     {
       "id": "678128",
@@ -2482,7 +2581,7 @@
       "store": "COSTCO",
       "normalPrice": 15490,
       "discountAmount": -4000,
-      "finalPrice": 4902,
+      "finalPrice": 11470,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
