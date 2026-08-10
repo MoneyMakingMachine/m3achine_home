@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:07:09.977488+00:00",
+  "generatedAt": "2026-08-10T15:22:12.455321+00:00",
   "items": [
     {
       "id": "683694",
@@ -66,6 +66,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/31",
       "imageVersion": 1785504735860
+    },
+    {
+      "id": "677804",
+      "name": "TRIUMPH 캐미솔/런닝 3매 90,95,100 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -6000,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
     },
     {
       "id": "686805",
@@ -497,28 +508,6 @@
       "imageVersion": 1785579543127
     },
     {
-      "id": "687658",
-      "name": "PUMA 키즈 카고 반바지 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -5000,
-      "finalPrice": 11990,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785579841822
-    },
-    {
-      "id": "1956458",
-      "name": "UNIONBAY 키즈 면 바지 XS,S,M,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19970,
-      "discountAmount": -9000,
-      "finalPrice": 10970,
-      "saleStart": "2026/03/15",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785579861814
-    },
-    {
       "id": "687479",
       "name": "COLUMBIA 키즈시어서커셋업 130,140,150,160",
       "store": "COSTCO",
@@ -552,6 +541,39 @@
       "imageVersion": 1785579691637
     },
     {
+      "id": "687658",
+      "name": "PUMA 키즈 카고 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 14970,
+      "discountAmount": -5000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785579841822
+    },
+    {
+      "id": "687898",
+      "name": "NEPA 키즈 나일론 바지 130 -160 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17970,
+      "discountAmount": -5000,
+      "finalPrice": 12970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/25",
+      "imageVersion": 1786173682739
+    },
+    {
+      "id": "1956458",
+      "name": "UNIONBAY 키즈 면 바지 XS,S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 16970,
+      "discountAmount": -9000,
+      "finalPrice": 7970,
+      "saleStart": "2026/03/15",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785579861814
+    },
+    {
       "id": "1846548",
       "name": "남성 반바지 S,M,L,XL US SIZE",
       "store": "COSTCO",
@@ -583,6 +605,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786169370241
+    },
+    {
+      "id": "687267",
+      "name": "OUTDOOR PRODUCTS 키즈 우븐 반바지 120,130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 15970,
+      "discountAmount": -4000,
+      "finalPrice": 11970,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785660765122
     },
     {
       "id": "1846565",
@@ -794,6 +827,28 @@
       "imageVersion": 1785555050423
     },
     {
+      "id": "668098",
+      "name": "BENETTON 키즈 반바지 120,130,140,150,160",
+      "store": "COSTCO",
+      "normalPrice": 14970,
+      "discountAmount": -4000,
+      "finalPrice": 10970,
+      "saleStart": "2026/07/07",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785661866048
+    },
+    {
+      "id": "698433",
+      "name": "CODES COMBINE 남성 브리프 3매 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786173772942
+    },
+    {
       "id": "687344",
       "name": "OUTDOOR PRODUCTS 남성 스판 반바지 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -814,17 +869,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785661781720
-    },
-    {
-      "id": "668098",
-      "name": "BENETTON 키즈 반바지 120,130,140,150,160",
-      "store": "COSTCO",
-      "normalPrice": 17990,
-      "discountAmount": -4000,
-      "finalPrice": 13990,
-      "saleStart": "2026/07/07",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785661866048
     },
     {
       "id": "694387",
@@ -990,6 +1034,17 @@
       "saleStart": "2026/07/30",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786184168468
+    },
+    {
+      "id": "636983",
+      "name": "BODY BLUE 에어메쉬브라렛 2매 75A - 85B ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785660782105
     },
     {
       "id": "688445",
@@ -1443,6 +1498,17 @@
       "imageVersion": 1786101134460
     },
     {
+      "id": "687964",
+      "name": "JEEP 키즈 우븐 반바지 140,150,160,170",
+      "store": "COSTCO",
+      "normalPrice": 16970,
+      "discountAmount": -4000,
+      "finalPrice": 12970,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786173698330
+    },
+    {
       "id": "511964",
       "name": "꽁떼 디 깜삐아노 아파시멘토 750ML",
       "store": "COSTCO",
@@ -1463,17 +1529,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786169748037
-    },
-    {
-      "id": "687964",
-      "name": "JEEP 키즈 우븐 반바지 140,150,160,170",
-      "store": "COSTCO",
-      "normalPrice": 18970,
-      "discountAmount": -4000,
-      "finalPrice": 14970,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786173698330
     },
     {
       "id": "637186",
@@ -2554,17 +2609,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "677804",
-      "name": "TRIUMPH 캐미솔/런닝 3매 90,95,100 ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -6000,
-      "finalPrice": 13990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "677978",
       "name": "KG 케미칼 잔디비료 10KG",
       "store": "COSTCO",
@@ -2579,7 +2623,7 @@
       "id": "678338",
       "name": "NEPA 키즈반소매크루 130,140,150,160",
       "store": "COSTCO",
-      "normalPrice": 15490,
+      "normalPrice": 15470,
       "discountAmount": -4000,
       "finalPrice": 11470,
       "saleStart": "2026/08/03",
