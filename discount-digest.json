@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T11:37:06.455521+00:00",
+  "generatedAt": "2026-08-10T11:52:08.114819+00:00",
   "items": [
     {
       "id": "683694",
@@ -21,6 +21,17 @@
       "finalPrice": 11990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "678284",
+      "name": "NORMAN FRENCH 남성 컴포트 재킷 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39970,
+      "discountAmount": -10000,
+      "finalPrice": 29970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
     {
@@ -145,17 +156,6 @@
       "imageVersion": 1785496548843
     },
     {
-      "id": "687184",
-      "name": "COLUMBIA 여성시어서커티셔츠 S,M,L,XL SIZE ASIAN",
-      "store": "COSTCO",
-      "normalPrice": 19970,
-      "discountAmount": -8000,
-      "finalPrice": 11970,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785902634930
-    },
-    {
       "id": "692864",
       "name": "백제 순두부 찌개 쫄면 410G X 4",
       "store": "COSTCO",
@@ -168,11 +168,11 @@
     },
     {
       "id": "687005",
-      "name": "태슬 썬드레스 S/M,M/L ASIAN SIZE",
+      "name": "LAP 태슬 썬드레스 S/M,M/L ASIAN SIZE",
       "store": "COSTCO",
-      "normalPrice": 26990,
+      "normalPrice": 22970,
       "discountAmount": -5500,
-      "finalPrice": 21490,
+      "finalPrice": 17470,
       "saleStart": "2026/07/31",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785804505142
@@ -198,6 +198,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "687184",
+      "name": "COLUMBIA 여성시어서커티셔츠 S,M,L,XL SIZE ASIAN",
+      "store": "COSTCO",
+      "normalPrice": 17970,
+      "discountAmount": -8000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785902634930
     },
     {
       "id": "1956403",
@@ -255,17 +266,6 @@
       "imageVersion": 1786183243969
     },
     {
-      "id": "686998",
-      "name": "LYDIA VINE 여성 와플 니트 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -10000,
-      "finalPrice": 19990,
-      "saleStart": "2026/07/17",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785557897186
-    },
-    {
       "id": "1956390",
       "name": "GUESS 여성 레이온파자마 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -299,12 +299,45 @@
       "imageVersion": 1785505216615
     },
     {
+      "id": "687007",
+      "name": "BENETTE 여성 크루넥 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17970,
+      "discountAmount": -8000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785034593955
+    },
+    {
+      "id": "686998",
+      "name": "LYDIA VINE 여성 와플 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27970,
+      "discountAmount": -10000,
+      "finalPrice": 14970,
+      "saleStart": "2026/07/17",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785557897186
+    },
+    {
+      "id": "687164",
+      "name": "PUMA 여성트리코트반바지 SIZE S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -4000,
+      "finalPrice": 15970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785566645216
+    },
+    {
       "id": "687032",
       "name": "SOUP 여성 슬림핏 바지 S,M,L,XL ASIAN FIT",
       "store": "COSTCO",
-      "normalPrice": 18990,
+      "normalPrice": 18970,
       "discountAmount": -4000,
-      "finalPrice": 14990,
+      "finalPrice": 14970,
       "saleStart": "2026/06/29",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785566631414
@@ -330,6 +363,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786183515501
+    },
+    {
+      "id": "1963987",
+      "name": "BRIGGS 여성 리넨 반바지 XS,S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -4000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785905632494
     },
     {
       "id": "657965",
@@ -552,6 +596,17 @@
       "imageVersion": 1786183605669
     },
     {
+      "id": "79100",
+      "name": "BONISPAX 여성 밴딩팬츠 S,M ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 14970,
+      "discountAmount": -5000,
+      "finalPrice": 9970,
+      "saleStart": "2026/06/15",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785560478769
+    },
+    {
       "id": "687527",
       "name": "COLUMBA 남성 스트레치바지 30 - 36 ASIAN SIZE",
       "store": "COSTCO",
@@ -583,6 +638,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "687428",
+      "name": "FILA 남성 반소매티셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17470,
+      "discountAmount": -3500,
+      "finalPrice": 13970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785661599212
     },
     {
       "id": "691641",
@@ -618,17 +684,6 @@
       "imageVersion": 1785661551201
     },
     {
-      "id": "687428",
-      "name": "FILA 남성 반소매티셔츠 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 17990,
-      "discountAmount": -3500,
-      "finalPrice": 14490,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785661599212
-    },
-    {
       "id": "1872099",
       "name": "PUMA 챌린저백팩 23L",
       "store": "COSTCO",
@@ -638,17 +693,6 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785555050423
-    },
-    {
-      "id": "79100",
-      "name": "BONISPAX 여성 밴딩팬츠 S,M ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19970,
-      "discountAmount": -5000,
-      "finalPrice": 14970,
-      "saleStart": "2026/06/15",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1785560478769
     },
     {
       "id": "687344",
@@ -1199,6 +1243,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786225904207
+    },
+    {
+      "id": "687565",
+      "name": "EIDER 남성 반소매 폴로 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786169191107
     },
     {
       "id": "691496",
@@ -2419,17 +2474,6 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "678284",
-      "name": "NORMAN FRENCH 남성 컴포트 재킷 M,L,XL,XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 39970,
-      "discountAmount": -10000,
-      "finalPrice": 29970,
-      "saleStart": "2026/07/20",
-      "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
     {
