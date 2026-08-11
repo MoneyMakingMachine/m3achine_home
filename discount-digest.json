@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:37:54.885237+00:00",
+  "generatedAt": "2026-08-11T07:52:56.864752+00:00",
   "items": [
     {
       "id": "665288",
@@ -838,6 +838,28 @@
       "imageVersion": 1786433316561
     },
     {
+      "id": "696631",
+      "name": "노비타NOVITA 비데 BD-WCC4-03SB 배송&설치비 포함",
+      "store": "COSTCO",
+      "normalPrice": 259900,
+      "discountAmount": -60000,
+      "finalPrice": 199900,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786434017776
+    },
+    {
+      "id": "679265",
+      "name": "캐리어 냉동고 299L",
+      "store": "COSTCO",
+      "normalPrice": 309900,
+      "discountAmount": -30000,
+      "finalPrice": 279900,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786434106890
+    },
+    {
       "id": "686640",
       "name": "스페인산 돈육 냉동삼겹 3.0KG",
       "store": "COSTCO",
@@ -902,6 +924,28 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786433446102
+    },
+    {
+      "id": "649945",
+      "name": "노비타NOVITA 비데BD-H721 H0 배송&설치비 포함",
+      "store": "COSTCO",
+      "normalPrice": 358900,
+      "discountAmount": -72000,
+      "finalPrice": 286900,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786434048253
+    },
+    {
+      "id": "694750",
+      "name": "TCL QLED TV 50형 126CM",
+      "store": "COSTCO",
+      "normalPrice": 529000,
+      "discountAmount": -40000,
+      "finalPrice": 489000,
+      "saleStart": "2026/08/05",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786434651892
     },
     {
       "id": "656207",
@@ -990,6 +1034,39 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786433793046
+    },
+    {
+      "id": "699906",
+      "name": "HUGGIES 하기스 네이처메이드 팬티형 6단계54개(공용)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/08/08",
+      "saleEnd": "2026/08/13",
+      "imageVersion": 1786433934075
+    },
+    {
+      "id": "694748",
+      "name": "TCL QLED TV 55형 139CM",
+      "store": "COSTCO",
+      "normalPrice": 599000,
+      "discountAmount": -35000,
+      "finalPrice": 564000,
+      "saleStart": "2026/08/05",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786434669568
+    },
+    {
+      "id": "622448",
+      "name": "네덜란드 냉동돈욱 삼겹살 도매 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 19690,
+      "discountAmount": -10000,
+      "finalPrice": 9690,
+      "saleStart": "2026/08/07",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786434741318
     },
     {
       "id": "679411",
