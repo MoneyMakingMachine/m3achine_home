@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T04:07:39.372360+00:00",
+  "generatedAt": "2026-08-11T05:07:41.149940+00:00",
   "items": [
     {
       "id": "683694",
@@ -387,6 +387,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "639795",
+      "name": "종가집 얼갈이열무김치 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -2300,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -440,6 +451,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785498930549
+    },
+    {
+      "id": "692123",
+      "name": "덴마크 리얼프릇딸기 190ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/13",
+      "imageVersion": 1786181922040
     },
     {
       "id": "625256",
@@ -2323,6 +2345,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "563474",
+      "name": "다담 바지락순두부찌개 양념 140G X 5",
+      "store": "COSTCO",
+      "normalPrice": 6390,
+      "discountAmount": -1200,
+      "finalPrice": 5190,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "584857",
       "name": "HEINEKEN 캔맥주 500ML X 8캔",
       "store": "COSTCO",
@@ -2573,6 +2606,17 @@
       "finalPrice": 29490,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "635990",
+      "name": "비비고 총각김치 2.4KG",
+      "store": "COSTCO",
+      "normalPrice": 24390,
+      "discountAmount": -4000,
+      "finalPrice": 20390,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
     {
@@ -3236,6 +3280,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "682484",
+      "name": "아워홈 구씨반갈치김치 1.6KG",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "684055",
       "name": "페브리즈 공기탈취제 165G X 4개",
       "store": "COSTCO",
@@ -3253,6 +3308,17 @@
       "normalPrice": 15490,
       "discountAmount": -2500,
       "finalPrice": 12990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "684825",
+      "name": "매일바이오 그릭드링킹플레인 710ML X 2 (무가당)",
+      "store": "COSTCO",
+      "normalPrice": 7390,
+      "discountAmount": -1500,
+      "finalPrice": 5890,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
