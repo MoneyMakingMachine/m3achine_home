@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T08:23:00.556485+00:00",
+  "generatedAt": "2026-08-11T08:38:03.027614+00:00",
   "items": [
     {
       "id": "665288",
@@ -739,6 +739,50 @@
       "imageVersion": 1786435635498
     },
     {
+      "id": "539967",
+      "name": "켄달 잭슨 샤도네이 750ML",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -5100,
+      "finalPrice": 28890,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436632172
+    },
+    {
+      "id": "619161",
+      "name": "덕혼 까베르네 쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 129900,
+      "discountAmount": -20000,
+      "finalPrice": 109900,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436681965
+    },
+    {
+      "id": "652223",
+      "name": "풀무원 국물 떡볶이 1,700G (8인분)",
+      "store": "COSTCO",
+      "normalPrice": 11490,
+      "discountAmount": -2500,
+      "finalPrice": 8990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "1896287",
+      "name": "ITALPIZZA 마르게리타피자 440G X 3",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -2000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/06",
+      "saleEnd": "2026/08/11",
+      "imageVersion": 1786437015910
+    },
+    {
       "id": "689438",
       "name": "양반 로제떡볶이 1030G",
       "store": "COSTCO",
@@ -1014,6 +1058,17 @@
       "imageVersion": 1786436472620
     },
     {
+      "id": "656614",
+      "name": "아마란타 몬테풀치아노다부르포 750ML",
+      "store": "COSTCO",
+      "normalPrice": 38990,
+      "discountAmount": -9000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436911005
+    },
+    {
       "id": "686640",
       "name": "스페인산 돈육 냉동삼겹 3.0KG",
       "store": "COSTCO",
@@ -1199,6 +1254,50 @@
       "saleStart": "2026/08/04",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786436547141
+    },
+    {
+      "id": "694451",
+      "name": "LOCK&LOCK 락앤락 숨쉬는 유리용기 2.2L + 3.0L",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -4500,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436722655
+    },
+    {
+      "id": "665320",
+      "name": "카네후쿠 짜먹는 명란젓갈 30G X 20",
+      "store": "COSTCO",
+      "normalPrice": 21490,
+      "discountAmount": -2000,
+      "finalPrice": 19490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786436863674
+    },
+    {
+      "id": "695638",
+      "name": "상하치즈 프로틴 치즈체다 12G X 60",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786437052126
+    },
+    {
+      "id": "694838",
+      "name": "비비드 저당오리엔탈드레싱 1,030G",
+      "store": "COSTCO",
+      "normalPrice": 8990,
+      "discountAmount": -2000,
+      "finalPrice": 6990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786437121481
     },
     {
       "id": "656207",
@@ -1463,6 +1562,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786436383525
+    },
+    {
+      "id": "664029",
+      "name": "신천해주냉면 매운비빔냉면 3,120G (6인분)",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -3500,
+      "finalPrice": 19490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786437088799
     },
     {
       "id": "679411",
