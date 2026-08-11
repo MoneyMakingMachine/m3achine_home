@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T00:22:20.444100+00:00",
+  "generatedAt": "2026-08-11T00:52:22.336625+00:00",
   "items": [
     {
       "id": "683694",
@@ -87,6 +87,17 @@
       "finalPrice": 8990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "773368",
+      "name": "스카트 유리거울 세정티슈 30매 X 8",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4200,
+      "finalPrice": 15790,
+      "saleStart": "2026/07/27",
+      "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
     {
@@ -2803,17 +2814,6 @@
       "discountAmount": -3500,
       "finalPrice": 12990,
       "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "773368",
-      "name": "스카트 유리거울 세정티슈 30매 X 8",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -2500,
-      "finalPrice": 17490,
-      "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     }
