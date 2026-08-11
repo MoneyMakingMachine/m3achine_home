@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T08:07:58.675375+00:00",
+  "generatedAt": "2026-08-11T08:23:00.556485+00:00",
   "items": [
     {
       "id": "665288",
@@ -981,6 +981,39 @@
       "imageVersion": 1786435670228
     },
     {
+      "id": "601441",
+      "name": "태광선식 퀴노아10곡미슷가루 20G X 80",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -2700,
+      "finalPrice": 11090,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786435697404
+    },
+    {
+      "id": "680787",
+      "name": "인삼팬다 인테리어 식물 플라스틱 화분",
+      "store": "COSTCO",
+      "normalPrice": 27490,
+      "discountAmount": -7500,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436241568
+    },
+    {
+      "id": "587690",
+      "name": "바다를품은 조미오징어채 600G",
+      "store": "COSTCO",
+      "normalPrice": 22590,
+      "discountAmount": -2600,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786436472620
+    },
+    {
       "id": "686640",
       "name": "스페인산 돈육 냉동삼겹 3.0KG",
       "store": "COSTCO",
@@ -1122,6 +1155,50 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786435095581
+    },
+    {
+      "id": "665666",
+      "name": "해드림 족발 슬라이스 960G 원산지국내산",
+      "store": "COSTCO",
+      "normalPrice": 15590,
+      "discountAmount": -3200,
+      "finalPrice": 12390,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786436274679
+    },
+    {
+      "id": "685123",
+      "name": "호밍스 남도추어탕 600G X 4",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -3500,
+      "finalPrice": 17490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786436321892
+    },
+    {
+      "id": "672904",
+      "name": "[앤쿠폰적용상품] CASS 캔맥주 375ML X 20캔",
+      "store": "COSTCO",
+      "normalPrice": 26490,
+      "discountAmount": -2000,
+      "finalPrice": 24490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436517926
+    },
+    {
+      "id": "696714",
+      "name": "[앤쿠폰 적용상품] 뉴트럴 레몬 473ML X 8캔",
+      "store": "COSTCO",
+      "normalPrice": 17690,
+      "discountAmount": -1700,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/04",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786436547141
     },
     {
       "id": "656207",
@@ -1364,6 +1441,28 @@
       "saleStart": "2026/08/08",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786435608779
+    },
+    {
+      "id": "682991",
+      "name": "동서 둥굴레차 1.2G X 280",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786435723355
+    },
+    {
+      "id": "681840",
+      "name": "BALANCE GROW 수박 주스 230ML X 10",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786436383525
     },
     {
       "id": "679411",
