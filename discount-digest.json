@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T00:52:22.336625+00:00",
+  "generatedAt": "2026-08-11T02:22:24.191414+00:00",
   "items": [
     {
       "id": "683694",
@@ -152,6 +152,17 @@
       "discountAmount": -6000,
       "finalPrice": 23490,
       "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "590950",
+      "name": "ZIPLOC 스마트지퍼백 (대형) 160매",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -2000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
@@ -1443,6 +1454,17 @@
       "imageVersion": 1786225961212
     },
     {
+      "id": "500073",
+      "name": "ZIPLOC 버라이어티 냉장백 소형200, 미니100",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "690145",
       "name": "EDELKOCHEN 에델코첸 통 3중 웍팬 24CM (찜판 포함)",
       "store": "COSTCO",
@@ -2686,17 +2708,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "680586",
-      "name": "레노아섬유유연제 화이트머스크향 4L",
-      "store": "COSTCO",
-      "normalPrice": 21790,
-      "discountAmount": -4800,
-      "finalPrice": 16990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/16",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "680808",
       "name": "APRIL AT HOME 린넨/모달차렵이불 퀸사이즈 180X220CM",
       "store": "COSTCO",
@@ -2704,6 +2715,17 @@
       "discountAmount": -13000,
       "finalPrice": 48970,
       "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "680586",
+      "name": "레노아섬유유연제 화이트머스크향 4L",
+      "store": "COSTCO",
+      "normalPrice": 21790,
+      "discountAmount": -4800,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
     },
