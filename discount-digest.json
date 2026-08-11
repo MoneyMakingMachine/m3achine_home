@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:07:50.139467+00:00",
+  "generatedAt": "2026-08-11T07:22:52.454161+00:00",
   "items": [
     {
       "id": "665288",
@@ -618,6 +618,72 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "677403",
+      "name": "GUESS 쿨 헴팬티 5매 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -6000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432109549
+    },
+    {
+      "id": "686070",
+      "name": "CJ 아이시안 루테인지아잔틴 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432445388
+    },
+    {
+      "id": "669919",
+      "name": "안국건강 아이원 눈건강 솔루션 90캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432491620
+    },
+    {
+      "id": "655328",
+      "name": "엔펫오리진 히알루론산 60캡슐X 2",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -6000,
+      "finalPrice": 20990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432616950
+    },
+    {
+      "id": "699904",
+      "name": "HUGGIES 하기스 네이처메이드 팬티형 4단계 80개(공용)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/08/08",
+      "saleEnd": "2026/08/13",
+      "imageVersion": 1786432811484
+    },
+    {
+      "id": "699905",
+      "name": "HUGGIES 네이처메이드 편티형 5단계66개(공용)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/08/08",
+      "saleEnd": "2026/08/13",
+      "imageVersion": 1786432852656
+    },
+    {
       "id": "689438",
       "name": "양반 로제떡볶이 1030G",
       "store": "COSTCO",
@@ -662,6 +728,39 @@
       "imageVersion": 1785764330095
     },
     {
+      "id": "686876",
+      "name": "GUESS 아동 런닝 5매 65- 85 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786432150301
+    },
+    {
+      "id": "674489",
+      "name": "뉴트리코어 초임계비타민K2 & D3 60정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432249226
+    },
+    {
+      "id": "693849",
+      "name": "덴프스 트루다이어트올인원 30포",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -9000,
+      "finalPrice": 28990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786432526023
+    },
+    {
       "id": "686640",
       "name": "스페인산 돈육 냉동삼겹 3.0KG",
       "store": "COSTCO",
@@ -682,6 +781,39 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786180128148
+    },
+    {
+      "id": "710000",
+      "name": "락토핏 플러스프로바이오틱스 2000MG X 200포",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432203672
+    },
+    {
+      "id": "689149",
+      "name": "HLB제약 알파 CD 3G X 60포",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432552559
+    },
+    {
+      "id": "674687",
+      "name": "종근당건강 키즈 홍삼 튼튼업 20ML X 30포",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432695851
     },
     {
       "id": "656207",
@@ -715,6 +847,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786180136832
+    },
+    {
+      "id": "690136",
+      "name": "ORAL-B 오랄비 글라이드 치실 민트향 40M X 8개",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -3500,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786432923345
     },
     {
       "id": "679411",
