@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:22:24.191414+00:00",
+  "generatedAt": "2026-08-11T02:37:25.629737+00:00",
   "items": [
     {
       "id": "683694",
@@ -101,6 +101,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "624655",
+      "name": "BREF 변기세정볼(레몬) 50G X 12입",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "673545",
       "name": "몽키솔더 700ML",
       "store": "COSTCO",
@@ -134,6 +145,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "613904",
+      "name": "뉴트리나 비스트로 애묘사료 6KG (300G X 20BAGS)",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -3000,
+      "finalPrice": 16790,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "652590",
+      "name": "폴바셋 돌체라떼 330ML X 12개",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "630583",
       "name": "블랙모어스 피쉬오일 미니캡슐 510MG X 250CP",
       "store": "COSTCO",
@@ -156,12 +189,56 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "709854",
+      "name": "홈매트 스마트리퀴드 세트 훈증기 2개 + 리필 4개",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "690993",
+      "name": "이토엔 오이오차 녹차 525ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1785567277998
+    },
+    {
       "id": "590950",
       "name": "ZIPLOC 스마트지퍼백 (대형) 160매",
       "store": "COSTCO",
       "normalPrice": 20990,
       "discountAmount": -2000,
       "finalPrice": 18990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "645356",
+      "name": "NATURAL CORE 애견사료70%유기농 7KG (500G X 14팩)",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -5000,
+      "finalPrice": 38990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "682889",
+      "name": "몬스터 에너지 울트라 500ML X 12캔",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
@@ -2301,6 +2378,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "645300",
+      "name": "IRIS 서랍형 수납함40L 40 X 50 X 23.5CM",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2800,
+      "finalPrice": 11190,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "649272",
       "name": "DOWNY 다우니 섬유유연제 에이프릴 프레쉬 5.03L",
       "store": "COSTCO",
@@ -2353,6 +2441,17 @@
       "finalPrice": 12790,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/12",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "654449",
+      "name": "하이트진로 블랙보리 340ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
     {
@@ -2730,6 +2829,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "680634",
+      "name": "아르르 강아지&고양이 열빙어간식 65G X 3",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "681563",
       "name": "페브리즈 섬유탈취제 / 다우니향 920ML X 2개",
       "store": "COSTCO",
@@ -2837,6 +2947,28 @@
       "finalPrice": 12990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "730054",
+      "name": "홈매트 스마트리퀴드 리필 리필 45일 X 6개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -5000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "833572",
+      "name": "웰치스 탄산소다 / 포도맛 355ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/13",
       "imageVersion": 1786300361977
     }
   ]
