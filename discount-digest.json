@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T06:52:48.295605+00:00",
+  "generatedAt": "2026-08-11T07:07:50.139467+00:00",
   "items": [
     {
       "id": "665288",
@@ -167,6 +167,39 @@
       "imageVersion": 1786431121926
     },
     {
+      "id": "687098",
+      "name": "BALLOP 성인 러닝화 230- 285MM",
+      "store": "COSTCO",
+      "normalPrice": 39900,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/07",
+      "saleEnd": "2026/08/14",
+      "imageVersion": 1786431355804
+    },
+    {
+      "id": "1846318",
+      "name": "NEW BALANCE 여성 후드 자켓 S,M,L,XL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 51900,
+      "discountAmount": -10000,
+      "finalPrice": 41900,
+      "saleStart": "2026/08/07",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431464855
+    },
+    {
+      "id": "1956383",
+      "name": "WEATHERPROOF VINTAGE 여성 러플 가디건 S,M,L US SIŽE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431641575
+    },
+    {
       "id": "677804",
       "name": "TRIUMPH 캐미솔/런닝 3매 90,95,100 ASIAN SIZE",
       "store": "COSTCO",
@@ -264,6 +297,50 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "764543",
+      "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431420565
+    },
+    {
+      "id": "1956373",
+      "name": "NEPA 여성 반소매티셔츠 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431608106
+    },
+    {
+      "id": "687038",
+      "name": "TRUE RELIGION 여성 쿨맥스청바지 26-30 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431829801
+    },
+    {
+      "id": "687188",
+      "name": "COLUMBIA 여성 나일론 바지 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/07",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431903437
     },
     {
       "id": "630583",
@@ -385,6 +462,50 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "1956420",
+      "name": "JACHS 여성 체크 셔츠 SM,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431671708
+    },
+    {
+      "id": "687713",
+      "name": "CRESSON 여성 와이드 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786431964392
+    },
+    {
+      "id": "778559",
+      "name": "OUTDOOR PRODUCTS 남성반소매티셔츠 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15970,
+      "discountAmount": -4000,
+      "finalPrice": 11970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786432000674
+    },
+    {
+      "id": "680048",
+      "name": "BLACKYAK WORKWEAR 남성 반소매 티셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -5000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/08",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786432030663
     },
     {
       "id": "590950",
