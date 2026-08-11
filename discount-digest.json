@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:07:29.678899+00:00",
+  "generatedAt": "2026-08-11T03:22:31.490306+00:00",
   "items": [
     {
       "id": "683694",
@@ -288,6 +288,17 @@
       "imageVersion": 1785503743211
     },
     {
+      "id": "605137",
+      "name": "샤인머스캣 청포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -4200,
+      "finalPrice": 20790,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785498987460
+    },
+    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -330,6 +341,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/11",
       "imageVersion": 1785761673540
+    },
+    {
+      "id": "656207",
+      "name": "캠벨포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5100,
+      "finalPrice": 18890,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785498930549
     },
     {
       "id": "625256",
