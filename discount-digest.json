@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:52:27.504206+00:00",
+  "generatedAt": "2026-08-11T03:07:29.678899+00:00",
   "items": [
     {
       "id": "683694",
@@ -107,6 +107,17 @@
       "normalPrice": 19990,
       "discountAmount": -4000,
       "finalPrice": 15990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "574328",
+      "name": "한우 냉동 사골 2.2KG",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -5000,
+      "finalPrice": 11990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
@@ -308,6 +319,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785769097628
+    },
+    {
+      "id": "686640",
+      "name": "스페인산 돈육 냉동삼겹 3.0KG",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5500,
+      "finalPrice": 24490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/11",
+      "imageVersion": 1785761673540
     },
     {
       "id": "625256",
@@ -2628,6 +2650,17 @@
       "finalPrice": 14970,
       "saleStart": "2026/07/30",
       "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "667116",
+      "name": "미국산초이스 냉동 칼집포갈비(본갈비) 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -8000,
+      "finalPrice": 41990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/13",
       "imageVersion": 1786300361977
     },
     {
