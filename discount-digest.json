@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T02:37:25.629737+00:00",
+  "generatedAt": "2026-08-11T02:52:27.504206+00:00",
   "items": [
     {
       "id": "683694",
@@ -211,6 +211,17 @@
       "imageVersion": 1785567277998
     },
     {
+      "id": "662175",
+      "name": "IRIS 서랍형 수납함 12L X 2PK",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -4000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "590950",
       "name": "ZIPLOC 스마트지퍼백 (대형) 160매",
       "store": "COSTCO",
@@ -241,6 +252,17 @@
       "finalPrice": 22990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "635900",
+      "name": "대림바스 세면대필터헤드 리필필터11개포함",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
     {
@@ -2213,6 +2235,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "602026",
+      "name": "BULLSONE불스원 그라스디퓨저 105ML 3개",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -6500,
+      "finalPrice": 24990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "610481",
       "name": "CAMPFIRE 마시멜로 1KG",
       "store": "COSTCO",
@@ -2287,6 +2320,17 @@
       "finalPrice": 18990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "632662",
+      "name": "SONATEC 소나텍 익스트림나노엔진코팅 300ML 2개",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
