@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T05:52:46.859843+00:00",
+  "generatedAt": "2026-08-11T06:52:48.295605+00:00",
   "items": [
     {
       "id": "665288",
@@ -143,6 +143,28 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785502993425
+    },
+    {
+      "id": "684995",
+      "name": "46CM 데오도란트 바디 미스트 120ML X 2 할인형사025/08/10,",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3500,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431078070
+    },
+    {
+      "id": "696135",
+      "name": "KOVEA 벨로 우드 롤 캠핑 테이블",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -15000,
+      "finalPrice": 54900,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431121926
     },
     {
       "id": "677804",
@@ -451,6 +473,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "693896",
+      "name": "BELIF 빌리프 아쿠아 밤 아이 F2 15ML X 2 사2026/08/2",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786430692319
     },
     {
       "id": "586958",
