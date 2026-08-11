@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T16:22:18.463445+00:00",
+  "generatedAt": "2026-08-11T00:22:20.444100+00:00",
   "items": [
     {
       "id": "683694",
@@ -1113,17 +1113,6 @@
       "imageVersion": 1785660782105
     },
     {
-      "id": "688445",
-      "name": "PUMA 프리컷로고팬티5매 L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -7000,
-      "finalPrice": 17990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786184433586
-    },
-    {
       "id": "698029",
       "name": "GOODFEEL 좋은느낌 유기농순면맥시슬림 대형 64개",
       "store": "COSTCO",
@@ -1133,6 +1122,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1786184687263
+    },
+    {
+      "id": "688445",
+      "name": "PUMA 프리컷로고팬티5매 L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -7000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786184433586
     },
     {
       "id": "693818",
@@ -1498,17 +1498,6 @@
       "imageVersion": 1785931097413
     },
     {
-      "id": "668616",
-      "name": "KIRIN 캔맥주 500ML X8캔",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/10",
-      "imageVersion": 1785963965272
-    },
-    {
       "id": "591667",
       "name": "GUINNESS 드래프트 흑맥주 440MLX6캔",
       "store": "COSTCO",
@@ -1518,17 +1507,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/16",
       "imageVersion": 1785963982239
-    },
-    {
-      "id": "694265",
-      "name": "메이커스 마크 버번 위스키 750ML",
-      "store": "COSTCO",
-      "normalPrice": 46990,
-      "discountAmount": -10000,
-      "finalPrice": 36990,
-      "saleStart": "2026/07/22",
-      "saleEnd": "2026/08/10",
-      "imageVersion": 1786015580192
     },
     {
       "id": "678782",
