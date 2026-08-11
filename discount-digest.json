@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T03:52:37.533016+00:00",
+  "generatedAt": "2026-08-11T04:07:39.372360+00:00",
   "items": [
     {
       "id": "683694",
@@ -294,6 +294,17 @@
       "normalPrice": 10690,
       "discountAmount": -1200,
       "finalPrice": 9490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "679715",
+      "name": "쌍계 애플사이다비니거 사과5G X 40",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
