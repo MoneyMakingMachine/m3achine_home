@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": "2026-08-13-august-closures",
+      "title": "8월 점포 휴무일 안내",
+      "thumbnail": "images/august-closures.webp",
+      "link": "2026-08-13-august-closures.html",
+      "publishedAt": "2026-08-13",
+      "startAt": null,
+      "endAt": "2026-08-26",
+      "priority": 20
+    },
+    {
       "id": "2026-07-24-favorite-alert",
       "title": "즐겨찾기 할인 알림 켜는 법",
       "thumbnail": "images/favorite-alert.webp",
