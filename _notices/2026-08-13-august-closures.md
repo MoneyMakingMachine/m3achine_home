@@ -5,7 +5,7 @@ priority: 20
 
 # 8월 점포 휴무일 안내
 
-![](images/august-closures.webp)
+![](images/august-closures-v2.webp)
 
 8월 점포 휴무일입니다. 헛걸음하지 않도록 **가려는 매장이 쉬는 날인지** 미리 확인하세요.
 
