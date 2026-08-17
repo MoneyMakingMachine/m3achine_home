@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:57:16.942218+00:00",
+  "generatedAt": "2026-08-17T12:12:18.730873+00:00",
   "items": [
     {
       "id": "678284",
@@ -121,6 +121,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786431641575
+    },
+    {
+      "id": "687098",
+      "name": "BALLOP 성인 러닝화 230- 285MM",
+      "store": "COSTCO",
+      "normalPrice": 39900,
+      "discountAmount": -8000,
+      "finalPrice": 31900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786431355804
     },
     {
       "id": "598907",
@@ -783,6 +794,17 @@
       "imageVersion": 1786433547993
     },
     {
+      "id": "507017",
+      "name": "팹시콜라 355ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 16690,
+      "discountAmount": -3700,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "679411",
       "name": "OBOD 넥쿨러 2개",
       "store": "COSTCO",
@@ -803,17 +825,6 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785496702797
-    },
-    {
-      "id": "687167",
-      "name": "PUMA 여성 스포츠 티 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/07/06",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785902604040
     },
     {
       "id": "699963",
@@ -860,15 +871,15 @@
       "imageVersion": 1785660753179
     },
     {
-      "id": "1956403",
-      "name": "JEZEBEL 여성 티어드원피스 S,M,L ASIAN SIZE",
+      "id": "687167",
+      "name": "PUMA 여성 스포츠 티 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
+      "normalPrice": 17970,
+      "discountAmount": -4000,
+      "finalPrice": 13970,
       "saleStart": "2026/07/06",
       "saleEnd": "2026/08/23",
-      "imageVersion": 1785804452008
+      "imageVersion": 1785902604040
     },
     {
       "id": "681022",
@@ -904,6 +915,17 @@
       "imageVersion": 1785505216615
     },
     {
+      "id": "1956403",
+      "name": "JEZEBEL 여성 티어드원피스 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/07/06",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785804452008
+    },
+    {
       "id": "687007",
       "name": "BENETTE 여성 크루넥 니트 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -924,6 +946,39 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785566645216
+    },
+    {
+      "id": "692259",
+      "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785498384743
+    },
+    {
+      "id": "620948",
+      "name": "WEBER 웨버 대형 숯 점화통 30 X 19 X 32 CM",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -17000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "687558",
+      "name": "MILLET 성인 트레킹화 230 - 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 64900,
+      "discountAmount": -15000,
+      "finalPrice": 49900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785033815582
     },
     {
       "id": "668086",
@@ -1080,6 +1135,17 @@
       "imageVersion": 1786963679496
     },
     {
+      "id": "694633",
+      "name": "NEPA 런닝화 240- 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -13000,
+      "finalPrice": 46900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786183515501
+    },
+    {
       "id": "673429",
       "name": "더'진한 레드 주스 125ML X 24",
       "store": "COSTCO",
@@ -1113,6 +1179,17 @@
       "imageVersion": 1786183360452
     },
     {
+      "id": "688250",
+      "name": "FIREFOLKS파이어폭스 바베큐 석쇠 5개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786183411232
+    },
+    {
       "id": "1819488",
       "name": "EASTPOINT SPORTS 자이언트 플링코",
       "store": "COSTCO",
@@ -1144,6 +1221,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786180337289
+    },
+    {
+      "id": "2000580",
+      "name": "HYPERLITE 구명조끼 아동용",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -17000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785509236433
     },
     {
       "id": "687079",
@@ -1265,6 +1353,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "687119",
+      "name": "NIKE나이키 선글리스",
+      "store": "COSTCO",
+      "normalPrice": 124900,
+      "discountAmount": -45000,
+      "finalPrice": 79900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785770297016
     },
     {
       "id": "688445",
@@ -1762,6 +1861,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "665024",
+      "name": "칠성사이다제로 300ML X 20팩",
+      "store": "COSTCO",
+      "normalPrice": 13490,
+      "discountAmount": -2700,
+      "finalPrice": 10790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "665745",
       "name": "예천농협 한아름쌀 10KG 등급 : 상",
       "store": "COSTCO",
@@ -1795,6 +1905,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "671088",
+      "name": "칸타타 콘트라베이스COLDBREW 400ML X 24PK",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "671738",
       "name": "GARDENA 가데나 전동 분무기 1.0L",
       "store": "COSTCO",
@@ -1803,6 +1924,17 @@
       "finalPrice": 14990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "674593",
+      "name": "HIMUNE 하이뮨 프로틴밸런스액티브 250ML X 24입",
+      "store": "COSTCO",
+      "normalPrice": 33490,
+      "discountAmount": -7000,
+      "finalPrice": 26490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
@@ -1825,6 +1957,17 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "678077",
+      "name": "SAINT MILLER 자외선차단 마스크 2개",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
