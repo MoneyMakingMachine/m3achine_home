@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:57:25.175393+00:00",
+  "generatedAt": "2026-08-17T19:57:27.100614+00:00",
   "items": [
     {
       "id": "678284",
@@ -145,17 +145,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "613904",
-      "name": "뉴트리나 비스트로 애묘사료 6KG (300G X 20BAGS)",
-      "store": "COSTCO",
-      "normalPrice": 19790,
-      "discountAmount": -3000,
-      "finalPrice": 16790,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "764543",
       "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
       "store": "COSTCO",
@@ -209,6 +198,39 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "613904",
+      "name": "뉴트리나 비스트로 애묘사료 6KG (300G X 20BAGS)",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -3000,
+      "finalPrice": 16790,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "695846",
+      "name": "펩시 엑스트라 피즈 355ML X 24CAN",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785662772232
+    },
+    {
+      "id": "692100",
+      "name": "썬키스트 애사비 제로 스파클링 500ML X 20",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785762059642
     },
     {
       "id": "709854",
@@ -1509,6 +1531,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "693670",
+      "name": "프로베스트 고양이 사료 15KG",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -5000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785567908932
+    },
+    {
       "id": "694387",
       "name": "LG 엘지 휘센뷰1 18+6 PY 스탠드 + 벽걸이",
       "store": "COSTCO",
@@ -1674,6 +1707,17 @@
       "imageVersion": 1786185627182
     },
     {
+      "id": "617030",
+      "name": "NATURAL CORE 천연 오리가슴살 700G (100G X 7EA)",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785568036799
+    },
+    {
       "id": "691849",
       "name": "네오플램 레브 한수저 세트 8P, 4인조",
       "store": "COSTCO",
@@ -1705,6 +1749,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785579583888
+    },
+    {
+      "id": "690836",
+      "name": "칸타타 콘트라베이스디카페인 500ML X 18PK",
+      "store": "COSTCO",
+      "normalPrice": 20490,
+      "discountAmount": -4000,
+      "finalPrice": 16490,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786187355275
     },
     {
       "id": "686447",
@@ -2026,6 +2081,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "596949",
+      "name": "코카콜라 600ML X 12팩",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "599299",
       "name": "TSINGTAO 병맥주 640ML X 6병",
       "store": "COSTCO",
@@ -2224,6 +2290,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "632138",
+      "name": "칠성사이다 190ML X 30캔",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "632662",
       "name": "SONATEC 소나텍 익스트림나노엔진코팅 300ML 2개",
       "store": "COSTCO",
@@ -2268,17 +2345,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "636824",
-      "name": "KG 케미칼 분갈이 흙 50 리터",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -3000,
-      "finalPrice": 9990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "638369",
       "name": "동원 DONGWON THE KING CRABS 140G X 6",
       "store": "COSTCO",
@@ -2286,6 +2352,28 @@
       "discountAmount": -1800,
       "finalPrice": 8190,
       "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "637547",
+      "name": "코카콜라 제로 300ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 22390,
+      "discountAmount": -4900,
+      "finalPrice": 17490,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "636824",
+      "name": "KG 케미칼 분갈이 흙 50 리터",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
@@ -2334,6 +2422,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "652433",
+      "name": "펩시콜라제로 라임 500ML X 15팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3500,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "657453",
       "name": "파워브라이트 캡슐세탁세제 180입",
       "store": "COSTCO",
@@ -2373,6 +2472,17 @@
       "normalPrice": 29990,
       "discountAmount": -6000,
       "finalPrice": 23990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "663506",
+      "name": "스피드랙 다용도 5단 선반 100 X 40 X 180CM",
+      "store": "COSTCO",
+      "normalPrice": 89900,
+      "discountAmount": -71900,
+      "finalPrice": 18000,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -2587,6 +2697,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "677797",
+      "name": "닥터페퍼제로 350ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/17",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "678077",
       "name": "SAINT MILLER 자외선차단 마스크 2개",
       "store": "COSTCO",
@@ -2664,6 +2785,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "682410",
+      "name": "뉴트리플랜 소프트뮨 화식 애견용 / 100G X 18",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "730054",
       "name": "홈매트 스마트리퀴드 리필 리필 45일 X 6개",
       "store": "COSTCO",
@@ -2672,6 +2804,39 @@
       "finalPrice": 14990,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "745471",
+      "name": "파미데이즈 치킨말이 고구마 1KG (100G X 10개입)",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "753144",
+      "name": "ANF 식스프리골드 애견사료 10KG (400G X 25팩)",
+      "store": "COSTCO",
+      "normalPrice": 72900,
+      "discountAmount": -11000,
+      "finalPrice": 61900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "833572",
+      "name": "웰치스 탄산소다 / 포도맛 355ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/02",
       "imageVersion": 1786300361977
     }
   ]
