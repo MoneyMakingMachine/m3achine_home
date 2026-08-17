@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:12:29.519480+00:00",
+  "generatedAt": "2026-08-17T23:42:31.729823+00:00",
   "items": [
     {
       "id": "678284",
@@ -211,17 +211,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "695846",
-      "name": "펩시 엑스트라 피즈 355ML X 24CAN",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3200,
-      "finalPrice": 12790,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785662772232
-    },
-    {
       "id": "692100",
       "name": "썬키스트 애사비 제로 스파클링 500ML X 20",
       "store": "COSTCO",
@@ -231,6 +220,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785762059642
+    },
+    {
+      "id": "695846",
+      "name": "펩시 엑스트라 피즈 355ML X 24CAN",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785662772232
     },
     {
       "id": "709854",
@@ -464,17 +464,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "686070",
-      "name": "CJ 아이시안 루테인지아잔틴 120캡슐",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786432445388
-    },
-    {
       "id": "669919",
       "name": "안국건강 아이원 눈건강 솔루션 90캡슐",
       "store": "COSTCO",
@@ -517,6 +506,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786432811484
+    },
+    {
+      "id": "686070",
+      "name": "CJ 아이시안 루테인지아잔틴 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432445388
     },
     {
       "id": "686876",
@@ -860,17 +860,6 @@
       "imageVersion": 1786433547993
     },
     {
-      "id": "507017",
-      "name": "팹시콜라 355ML X 24",
-      "store": "COSTCO",
-      "normalPrice": 16690,
-      "discountAmount": -3700,
-      "finalPrice": 12990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "699906",
       "name": "HUGGIES 하기스 네이처메이드 팬티형 6단계54개(공용)",
       "store": "COSTCO",
@@ -880,6 +869,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786433934075
+    },
+    {
+      "id": "507017",
+      "name": "펩시콜라 355ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 16690,
+      "discountAmount": -3700,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
     },
     {
       "id": "679411",
@@ -1553,17 +1553,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "693670",
-      "name": "프로베스트 고양이 사료 15KG",
-      "store": "COSTCO",
-      "normalPrice": 34990,
-      "discountAmount": -5000,
-      "finalPrice": 29990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785567908932
-    },
-    {
       "id": "631181",
       "name": "대림바스 샤위해드필터 12개입",
       "store": "COSTCO",
@@ -1573,6 +1562,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785568774815
+    },
+    {
+      "id": "693670",
+      "name": "프로베스트 고양이 사료 15KG",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -5000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785567908932
     },
     {
       "id": "694387",
