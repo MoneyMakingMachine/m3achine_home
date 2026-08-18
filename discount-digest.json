@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-08-18T11:57:33.634193+00:00",
+  "generatedAt": "2026-08-18T12:12:36.248933+00:00",
   "items": [
+    {
+      "id": "664164",
+      "name": "화과방 크림&딸기붓세 55G X 8",
+      "store": "COSTCO",
+      "normalPrice": 9490,
+      "discountAmount": -1600,
+      "finalPrice": 7890,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
     {
       "id": "678284",
       "name": "NORMAN FRENCH 남성 컴포트 재킷 M,L,XL,XXL ASIAN SIZE",
@@ -343,17 +354,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "605137",
-      "name": "샤인머스캣 청포도 (2KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -4200,
-      "finalPrice": 20790,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785498987460
-    },
-    {
       "id": "1985280",
       "name": "COLEMAN 캐노피 L396 X w396 X H292CM",
       "store": "COSTCO",
@@ -385,6 +385,28 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "605137",
+      "name": "샤인머스캣 청포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -10200,
+      "finalPrice": 14790,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785498987460
+    },
+    {
+      "id": "686805",
+      "name": "월드그린 블랙렌틸콩 5KG 2026/07/27",
+      "store": "COSTCO",
+      "normalPrice": 11970,
+      "discountAmount": -3000,
+      "finalPrice": 8970,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785503743211
     },
     {
       "id": "677403",
@@ -629,6 +651,17 @@
       "imageVersion": 1786436911005
     },
     {
+      "id": "506503",
+      "name": "매일 바이오 플레인 요거트 300G X 6",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -2100,
+      "finalPrice": 8390,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "710000",
       "name": "락토핏 플러스프로바이오틱스 2000MG X 200포",
       "store": "COSTCO",
@@ -728,6 +761,17 @@
       "imageVersion": 1786437052126
     },
     {
+      "id": "647825",
+      "name": "스텔라벨라청포도 (1.36 KG) 원산지 : 상품에 표기",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -3800,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786434854346
+    },
+    {
       "id": "694490",
       "name": "IRIS 플라스틱 수납함 3개입",
       "store": "COSTCO",
@@ -805,17 +849,6 @@
       "imageVersion": 1786436383525
     },
     {
-      "id": "656207",
-      "name": "캠벨포도 (2KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 23990,
-      "discountAmount": -5100,
-      "finalPrice": 18890,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785498930549
-    },
-    {
       "id": "692849",
       "name": "CJ 맛콩 검은콩 700G/ 50G X 14",
       "store": "COSTCO",
@@ -838,6 +871,17 @@
       "imageVersion": 1786433934075
     },
     {
+      "id": "656207",
+      "name": "캠벨포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -6500,
+      "finalPrice": 17490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785498930549
+    },
+    {
       "id": "507017",
       "name": "펩시콜라 355ML X 24",
       "store": "COSTCO",
@@ -847,6 +891,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "1583995",
+      "name": "PISTI 피스타치오 스프레드 600G",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786179621941
     },
     {
       "id": "679411",
@@ -1883,6 +1938,28 @@
       "imageVersion": 1786173636689
     },
     {
+      "id": "579947",
+      "name": "복숭아 (3KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -3500,
+      "finalPrice": 21490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786270190200
+    },
+    {
+      "id": "67070",
+      "name": "네이블 오렌지 1봉 (3.4KG 이상) 원산지 : 호주",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3000,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786226123805
+    },
+    {
       "id": "694526",
       "name": "LG 엘지 휘센 뷰2 2 22+6 PY 스탠드 벽걸이",
       "store": "COSTCO",
@@ -2048,6 +2125,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "521461",
+      "name": "GOLDEN ORCHARDS 트레일 믹스 750G / 25G X 30",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "556571",
       "name": "KAHLUA 깔루아 리큐르 1L",
       "store": "COSTCO",
@@ -2067,6 +2155,17 @@
       "finalPrice": 118900,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "571300",
+      "name": "연어 (양식) 원산지 : 노르웨이산 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -6000,
+      "finalPrice": 39990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/19",
       "imageVersion": 1786300361977
     },
     {
@@ -2122,6 +2221,17 @@
       "finalPrice": 15190,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "587687",
+      "name": "소와나무 생크림 요거트 85G X 16",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -1800,
+      "finalPrice": 8190,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
     {
@@ -2279,12 +2389,45 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "620221",
+      "name": "서울우유 비요뜨 초코링 138G X 12",
+      "store": "COSTCO",
+      "normalPrice": 11690,
+      "discountAmount": -2100,
+      "finalPrice": 9590,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "622265",
       "name": "스카치브라이트 미세먼지청소포/DRY 80매",
       "store": "COSTCO",
       "normalPrice": 19490,
       "discountAmount": -4000,
       "finalPrice": 15490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "626676",
+      "name": "칵테일 토마토 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/18",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "625699",
+      "name": "서울우유 듀오안 150ML X 10",
+      "store": "COSTCO",
+      "normalPrice": 7990,
+      "discountAmount": -1600,
+      "finalPrice": 6390,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -2565,6 +2708,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "668258",
+      "name": "씨없는블랙포도 (1.36 KG) 원산지:호주산",
+      "store": "COSTCO",
+      "normalPrice": 18490,
+      "discountAmount": -3500,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "668880",
       "name": "DR.ROOTEM THE 맥주효모 4000 4.5G X 60포",
       "store": "COSTCO",
@@ -2617,6 +2771,17 @@
       "finalPrice": 15490,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "672332",
+      "name": "KELLOGG'S 컵 시리얼 40G X 18",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -2837,6 +3002,17 @@
       "finalPrice": 13490,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "83501",
+      "name": "러셋 포테이토 (3KG) 원산지 : 미국",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     }
   ]
