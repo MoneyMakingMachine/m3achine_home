@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T14:42:50.687422+00:00",
+  "generatedAt": "2026-08-18T14:57:52.911810+00:00",
   "items": [
     {
       "id": "664164",
@@ -695,17 +695,6 @@
       "imageVersion": 1787059403926
     },
     {
-      "id": "586958",
-      "name": "카프리썬 오렌지망고주스 200ML X 20",
-      "store": "COSTCO",
-      "normalPrice": 10490,
-      "discountAmount": -1900,
-      "finalPrice": 8590,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/09/02",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "658139",
       "name": "ADIDAS 여성 삼선 반소매 M,L",
       "store": "COSTCO",
@@ -838,17 +827,6 @@
       "imageVersion": 1785503743211
     },
     {
-      "id": "691284",
-      "name": "에프킬라 라이트 트랩 히터2+ 리필8입",
-      "store": "COSTCO",
-      "normalPrice": 23490,
-      "discountAmount": -4700,
-      "finalPrice": 18790,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1787058787747
-    },
-    {
       "id": "692845",
       "name": "기린 오후의홍차 밀크티 500ML X 12",
       "store": "COSTCO",
@@ -904,6 +882,28 @@
       "imageVersion": 1787059158956
     },
     {
+      "id": "691284",
+      "name": "에프킬라 라이트 트랩 히터2+ 리필8입",
+      "store": "COSTCO",
+      "normalPrice": 23490,
+      "discountAmount": -4700,
+      "finalPrice": 18790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058787747
+    },
+    {
+      "id": "586958",
+      "name": "카프리썬 오렌지망고주스 200ML X 20",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -1900,
+      "finalPrice": 8590,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/02",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "689438",
       "name": "양반 로제떡볶이 1030G",
       "store": "COSTCO",
@@ -935,17 +935,6 @@
       "saleStart": "2026/08/06",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786435635498
-    },
-    {
-      "id": "503039",
-      "name": "VONBEE 우엉차 1G X 150",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -2000,
-      "finalPrice": 7990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785763651103
     },
     {
       "id": "678465",
@@ -1133,6 +1122,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1787059266974
+    },
+    {
+      "id": "503039",
+      "name": "VONBEE 우엉차 1G X 150",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785763651103
     },
     {
       "id": "521717",
@@ -3258,17 +3258,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "598910",
-      "name": "카프리썬 멀티 비타민주스 200ML X 20",
-      "store": "COSTCO",
-      "normalPrice": 11990,
-      "discountAmount": -1800,
-      "finalPrice": 10190,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "599299",
       "name": "TSINGTAO 병맥주 640ML X 6병",
       "store": "COSTCO",
@@ -3277,6 +3266,17 @@
       "finalPrice": 11990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/31",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "598910",
+      "name": "카프리썬 멀티 비타민주스 200ML X 20",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -1800,
+      "finalPrice": 10190,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
