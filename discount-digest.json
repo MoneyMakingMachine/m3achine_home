@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:27:45.933731+00:00",
+  "generatedAt": "2026-08-18T13:42:47.965447+00:00",
   "items": [
     {
       "id": "664164",
@@ -1399,6 +1399,39 @@
       "imageVersion": 1786434048253
     },
     {
+      "id": "694419",
+      "name": "삼진어묵 정통야채사각 960G",
+      "store": "COSTCO",
+      "normalPrice": 8490,
+      "discountAmount": -1700,
+      "finalPrice": 6790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787059740484
+    },
+    {
+      "id": "686500",
+      "name": "몬테스 ID 750ML",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787059830705
+    },
+    {
+      "id": "688106",
+      "name": "HANSKIN 한스킨 BB 크림 45G + 10G X 2",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787059973328
+    },
+    {
       "id": "694226",
       "name": "망고 푸딩 MANGO PUDDING",
       "store": "COSTCO",
@@ -1518,6 +1551,28 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1787059566360
+    },
+    {
+      "id": "683952",
+      "name": "델몬트 스테비아토마토주스 950ML X 6",
+      "store": "COSTCO",
+      "normalPrice": 15290,
+      "discountAmount": -3000,
+      "finalPrice": 12290,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787059761008
+    },
+    {
+      "id": "694810",
+      "name": "클라우드라인 피노누아 750ML",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787059859491
     },
     {
       "id": "690226",
@@ -1674,6 +1729,28 @@
       "imageVersion": 1787059621643
     },
     {
+      "id": "694820",
+      "name": "반피 로사리갈레아스티 750ML",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4600,
+      "finalPrice": 18390,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787059842686
+    },
+    {
+      "id": "689355",
+      "name": "LUMENA 루메나 폴더블 핸디선풍기 JF20 (2개입)",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -10000,
+      "finalPrice": 59900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787059910676
+    },
+    {
       "id": "687005",
       "name": "LAP 태슬 썬드레스 S/M,M/L ASIAN SIZE",
       "store": "COSTCO",
@@ -1740,6 +1817,28 @@
       "imageVersion": 1787059639319
     },
     {
+      "id": "695908",
+      "name": "서울우유 파머스그릭 120G X 12 (블루베리)",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787059699134
+    },
+    {
+      "id": "696832",
+      "name": "디사론노 리큐르 700ML",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787059791565
+    },
+    {
       "id": "681022",
       "name": "NATIONAL GEOGRAPHIC 방수팩 2개입",
       "store": "COSTCO",
@@ -1749,6 +1848,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785509175412
+    },
+    {
+      "id": "638420",
+      "name": "저스틴 까베르네 쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -7000,
+      "finalPrice": 36990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787059877468
     },
     {
       "id": "687882",
@@ -2068,6 +2178,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "1927990",
+      "name": "비비고 참기름 1L",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -3000,
+      "finalPrice": 11790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787059948850
     },
     {
       "id": "658021",
