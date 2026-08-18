@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T12:57:41.995540+00:00",
+  "generatedAt": "2026-08-18T13:12:43.891195+00:00",
   "items": [
     {
       "id": "664164",
@@ -35,6 +35,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "610784",
+      "name": "COLUMBIA 쿨링 팔토시2쌍 M(손덮개),L(일반)",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787057916089
+    },
+    {
       "id": "678284",
       "name": "NORMAN FRENCH 남성 컴포트 재킷 M,L,XL,XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -44,6 +55,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "7771005",
+      "name": "KIRKLAND SIGNATURE 여성 카프리 바지 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -5000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058041048
     },
     {
       "id": "678799",
@@ -68,6 +90,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "675384",
+      "name": "락토핏 당케어데일리 2G X 100포",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/20",
+      "imageVersion": 1787058348779
+    },
+    {
       "id": "574328",
       "name": "한우 냉동 사골 2.2KG",
       "store": "COSTCO",
@@ -88,6 +121,17 @@
       "saleStart": "2026/07/27",
       "saleEnd": "2026/08/31",
       "imageVersion": 1785504735860
+    },
+    {
+      "id": "690128",
+      "name": "ORAL-B 오랄비 엑스퍼트 9000 첫솔 7개",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -4000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058692831
     },
     {
       "id": "684995",
@@ -233,6 +277,17 @@
       "imageVersion": 1786431829801
     },
     {
+      "id": "888450",
+      "name": "PUMA 여아 팬티 5매 S- XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058232714
+    },
+    {
       "id": "687188",
       "name": "COLUMBIA 여성 나일론 바지 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -266,6 +321,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "692865",
+      "name": "정관장 활삼면역 50ML X 20병",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058403247
+    },
+    {
       "id": "692100",
       "name": "썬키스트 애사비 제로 스파클링 500ML X 20",
       "store": "COSTCO",
@@ -286,6 +352,28 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785662772232
+    },
+    {
+      "id": "678635",
+      "name": "DEPEND 디펜드 스타일 라이더 무향 112개",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2500,
+      "finalPrice": 9490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058504000
+    },
+    {
+      "id": "678774",
+      "name": "리치 키즈 첫솔10개 세트",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2500,
+      "finalPrice": 9490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058620207
     },
     {
       "id": "709854",
@@ -376,6 +464,17 @@
       "imageVersion": 1786432000674
     },
     {
+      "id": "1934200",
+      "name": "NEXGRILL 넥스그릴 57 차콜 그릴 57 X 68 X 100CM",
+      "store": "COSTCO",
+      "normalPrice": 149900,
+      "discountAmount": -30000,
+      "finalPrice": 119900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787057946891
+    },
+    {
       "id": "680048",
       "name": "BLACKYAK WORKWEAR 남성 반소매 티셔츠 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -385,6 +484,17 @@
       "saleStart": "2026/08/08",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786432030663
+    },
+    {
+      "id": "1763871",
+      "name": "LACOSTE 남성 반소매 크루 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -12000,
+      "finalPrice": 47900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/30",
+      "imageVersion": 1787058061348
     },
     {
       "id": "675000",
@@ -398,6 +508,50 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "686741",
+      "name": "OUTDOOR PRODUCTS 아동단목양말 8족 M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2500,
+      "finalPrice": 8490,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058266259
+    },
+    {
+      "id": "680579",
+      "name": "드시모네, 키즈 케어 1.5G X 50포",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058365620
+    },
+    {
+      "id": "691432",
+      "name": "D'ALBA 달바 슈퍼 모이스처 선크림 65ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058529711
+    },
+    {
+      "id": "690661",
+      "name": "스크럽대디 댐프 더스터 5입 먼지 흡착 스펀지",
+      "store": "COSTCO",
+      "normalPrice": 22790,
+      "discountAmount": -3000,
+      "finalPrice": 19790,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058730261
+    },
+    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -407,6 +561,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "658139",
+      "name": "ADIDAS 여성 삼선 반소매 M,L",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058003817
     },
     {
       "id": "635900",
@@ -420,6 +585,39 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "687458",
+      "name": "FILA GOLF 남성 골프 바지 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787058106382
+    },
+    {
+      "id": "651756",
+      "name": "NEW BALANCE 성인장목양말 5족 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3500,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058251209
+    },
+    {
+      "id": "1909194",
+      "name": "ONKAPARINGA 냉감 양면베개2P 48X73CM",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -8000,
+      "finalPrice": 24990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058317189
+    },
+    {
       "id": "1985280",
       "name": "COLEMAN 캐노피 L396 X w396 X H292CM",
       "store": "COSTCO",
@@ -431,6 +629,17 @@
       "imageVersion": 1786427219609
     },
     {
+      "id": "746434",
+      "name": "GILLETTE 질레트 프로 쉐이빙 젤 195G X 4개",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058553902
+    },
+    {
       "id": "693896",
       "name": "BELIF 빌리프 아쿠아 밤 아이 F2 15ML X 2 사2026/08/2",
       "store": "COSTCO",
@@ -440,6 +649,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786430692319
+    },
+    {
+      "id": "785447",
+      "name": "라브아 퍼품 실내탈취제 250G X 3",
+      "store": "COSTCO",
+      "normalPrice": 22490,
+      "discountAmount": -3500,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058754895
     },
     {
       "id": "590950",
@@ -519,6 +739,39 @@
       "imageVersion": 1785763651103
     },
     {
+      "id": "678465",
+      "name": "FILA GOLF 남성 반소매 폴로 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24970,
+      "discountAmount": -5000,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/15",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058078526
+    },
+    {
+      "id": "786876",
+      "name": "GUESS 아동 런닝 5매 65 - 85 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058188365
+    },
+    {
+      "id": "788977",
+      "name": "GUESS 아동팬티10매 65- 85 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/03",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058214662
+    },
+    {
       "id": "672687",
       "name": "LOCK&LOCK 락앤락 스마트킵 보관용기 11P",
       "store": "COSTCO",
@@ -539,6 +792,28 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786433420463
+    },
+    {
+      "id": "686067",
+      "name": "SILK THERAPY 헤어 밀크 120ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787058593672
+    },
+    {
+      "id": "671325",
+      "name": "RED SEAL 레드씰 프로폴리스민트치약 160G X 5개",
+      "store": "COSTCO",
+      "normalPrice": 24490,
+      "discountAmount": -5000,
+      "finalPrice": 19490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058665410
     },
     {
       "id": "539967",
