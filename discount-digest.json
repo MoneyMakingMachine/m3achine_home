@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:42:31.729823+00:00",
+  "generatedAt": "2026-08-18T11:57:33.634193+00:00",
   "items": [
     {
       "id": "678284",
@@ -453,17 +453,6 @@
       "imageVersion": 1786436681965
     },
     {
-      "id": "652223",
-      "name": "풀무원 국물 떡볶이 1,700G (8인분)",
-      "store": "COSTCO",
-      "normalPrice": 11490,
-      "discountAmount": -2500,
-      "finalPrice": 8990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "669919",
       "name": "안국건강 아이원 눈건강 솔루션 90캡슐",
       "store": "COSTCO",
@@ -684,17 +673,6 @@
       "imageVersion": 1786434048253
     },
     {
-      "id": "661374",
-      "name": "하림동물복지통닭 백숙용/ 두마리 2.7KG(1.35KG X 2EA)",
-      "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -3000,
-      "finalPrice": 13990,
-      "saleStart": "2026/08/07",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786434819596
-    },
-    {
       "id": "694226",
       "name": "망고 푸딩 MANGO PUDDING",
       "store": "COSTCO",
@@ -825,17 +803,6 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786436383525
-    },
-    {
-      "id": "664029",
-      "name": "신천해주냉면 매운비빔냉면 3,120G (6인분)",
-      "store": "COSTCO",
-      "normalPrice": 22990,
-      "discountAmount": -3500,
-      "finalPrice": 19490,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786437088799
     },
     {
       "id": "656207",
@@ -1575,6 +1542,17 @@
       "imageVersion": 1785567908932
     },
     {
+      "id": "3333083",
+      "name": "프리지데어 제빙기 (최대제빙12KG/일)",
+      "store": "COSTCO",
+      "normalPrice": 114900,
+      "discountAmount": -23000,
+      "finalPrice": 91900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785568884218
+    },
+    {
       "id": "694387",
       "name": "LG 엘지 휘센뷰1 18+6 PY 스탠드 + 벽걸이",
       "store": "COSTCO",
@@ -1619,17 +1597,6 @@
       "imageVersion": 1785602853267
     },
     {
-      "id": "488431",
-      "name": "ARM & HAMMER 베이킹 소다 6.12KG",
-      "store": "COSTCO",
-      "normalPrice": 15490,
-      "discountAmount": -3500,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/11",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786179315219
-    },
-    {
       "id": "691285",
       "name": "에프킬라 라이트 트랩 리필 12입",
       "store": "COSTCO",
@@ -1650,6 +1617,28 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785603309385
+    },
+    {
+      "id": "691701",
+      "name": "LOCK&LOCK 락앤락 아이스볼 메이커 3P",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786179261647
+    },
+    {
+      "id": "694383",
+      "name": "LG 휘센뷰1 18 PY 스탠드",
+      "store": "COSTCO",
+      "normalPrice": 2499000,
+      "discountAmount": -300000,
+      "finalPrice": 2199000,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785663298738
     },
     {
       "id": "675221",
@@ -1762,6 +1751,17 @@
       "imageVersion": 1785568036799
     },
     {
+      "id": "694150",
+      "name": "락앤락 과일&요거트 보틀 600ML X 2P",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786186707665
+    },
+    {
       "id": "691849",
       "name": "네오플램 레브 한수저 세트 8P, 4인조",
       "store": "COSTCO",
@@ -1793,17 +1793,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785579583888
-    },
-    {
-      "id": "690836",
-      "name": "칸타타 콘트라베이스디카페인 500ML X 18PK",
-      "store": "COSTCO",
-      "normalPrice": 20490,
-      "discountAmount": -4000,
-      "finalPrice": 16490,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786187355275
     },
     {
       "id": "686447",
@@ -1905,6 +1894,17 @@
       "imageVersion": 1786270144753
     },
     {
+      "id": "1371826",
+      "name": "OXO 옥소 야채탈수기 1P",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "694665",
       "name": "LG 엘지 휘센 쿨 18+6 PY 스탠드 + 벽걸이",
       "store": "COSTCO",
@@ -1925,6 +1925,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786271314328
+    },
+    {
+      "id": "691831",
+      "name": "BELKIN 어린이용 무선헤드폰 블랙,화이트",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786270258743
     },
     {
       "id": "684910",
@@ -2070,17 +2081,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "595085",
-      "name": "BOMBAY SAPPHIRE 런던 드라이 진 1L",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -8000,
-      "finalPrice": 31990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "580680",
       "name": "동원 고추참치 100G X 12",
       "store": "COSTCO",
@@ -2122,17 +2122,6 @@
       "finalPrice": 15190,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "596949",
-      "name": "코카콜라 600ML X 12팩",
-      "store": "COSTCO",
-      "normalPrice": 22990,
-      "discountAmount": -5000,
-      "finalPrice": 17990,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
       "imageVersion": 1786300361977
     },
     {
@@ -2279,28 +2268,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "614105",
-      "name": "퍼실 어드밴스드젤세탁세제 4.0L",
-      "store": "COSTCO",
-      "normalPrice": 28990,
-      "discountAmount": -6200,
-      "finalPrice": 22790,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "618426",
-      "name": "프릴(헨켈) 베이킹소다 주방세제 레몬향 / 3L",
-      "store": "COSTCO",
-      "normalPrice": 14490,
-      "discountAmount": -3000,
-      "finalPrice": 11490,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "616204",
       "name": "스카치브라이트 3M 더블액션걸레세트 핸들 / 청소포(12+32)",
       "store": "COSTCO",
@@ -2331,17 +2298,6 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "632138",
-      "name": "칠성사이다 190ML X 30캔",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -3000,
-      "finalPrice": 10990,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
       "imageVersion": 1786300361977
     },
     {
@@ -2411,17 +2367,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "637547",
-      "name": "코카콜라 제로 300ML X 24팩",
-      "store": "COSTCO",
-      "normalPrice": 22390,
-      "discountAmount": -4900,
-      "finalPrice": 17490,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "636824",
       "name": "KG 케미칼 분갈이 흙 50 리터",
       "store": "COSTCO",
@@ -2477,17 +2422,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "652433",
-      "name": "펩시콜라제로 라임 500ML X 15팩",
-      "store": "COSTCO",
-      "normalPrice": 16490,
-      "discountAmount": -3500,
-      "finalPrice": 12990,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "657453",
       "name": "파워브라이트 캡슐세탁세제 180입",
       "store": "COSTCO",
@@ -2540,6 +2474,17 @@
       "finalPrice": 18000,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "661581",
+      "name": "하이트진로 토닉워터 플레인 600ML X 15PET",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -2800,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/18",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
     {
@@ -2760,17 +2705,6 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "677797",
-      "name": "닥터페퍼제로 350ML X 24팩",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3200,
-      "finalPrice": 12790,
-      "saleStart": "2026/08/14",
-      "saleEnd": "2026/08/17",
       "imageVersion": 1786300361977
     },
     {
