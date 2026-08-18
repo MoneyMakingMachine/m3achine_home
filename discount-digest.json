@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T14:57:52.911810+00:00",
+  "generatedAt": "2026-08-18T15:12:55.100548+00:00",
   "items": [
     {
       "id": "664164",
@@ -1982,6 +1982,17 @@
       "imageVersion": 1787059659027
     },
     {
+      "id": "673429",
+      "name": "더'진한 레드 주스 125ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "687187",
       "name": "COLUMBIA 여성 시어서커팬츠 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -2101,17 +2112,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786183515501
-    },
-    {
-      "id": "673429",
-      "name": "더'진한 레드 주스 125ML X 24",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -3000,
-      "finalPrice": 10990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
     },
     {
       "id": "667641",
@@ -3324,17 +3324,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "604753",
-      "name": "TERAROSA 싱글오리진 드립백 10G X 33",
-      "store": "COSTCO",
-      "normalPrice": 31790,
-      "discountAmount": -4000,
-      "finalPrice": 27790,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "611262",
       "name": "풀무원 보리쫄면 1,290G (6인분)",
       "store": "COSTCO",
@@ -3364,6 +3353,17 @@
       "discountAmount": -3300,
       "finalPrice": 13190,
       "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "604753",
+      "name": "TERAROSA 싱글오리진 드립백 10G X 33",
+      "store": "COSTCO",
+      "normalPrice": 31790,
+      "discountAmount": -4000,
+      "finalPrice": 27790,
+      "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
@@ -3500,12 +3500,12 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "622265",
-      "name": "스카치브라이트 미세먼지청소포/DRY 80매",
+      "id": "625699",
+      "name": "서울우유 듀오안 150ML X 10",
       "store": "COSTCO",
-      "normalPrice": 19490,
-      "discountAmount": -4000,
-      "finalPrice": 15490,
+      "normalPrice": 7990,
+      "discountAmount": -1600,
+      "finalPrice": 6390,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -3522,12 +3522,12 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "625699",
-      "name": "서울우유 듀오안 150ML X 10",
+      "id": "622265",
+      "name": "스카치브라이트 미세먼지청소포/DRY 80매",
       "store": "COSTCO",
-      "normalPrice": 7990,
-      "discountAmount": -1600,
-      "finalPrice": 6390,
+      "normalPrice": 19490,
+      "discountAmount": -4000,
+      "finalPrice": 15490,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -3951,17 +3951,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "665384",
-      "name": "남양 야채채움 녹황 190ML X 16",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -2600,
-      "finalPrice": 10390,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "665745",
       "name": "예천농협 한아름쌀 10KG 등급 : 상",
       "store": "COSTCO",
@@ -3990,6 +3979,17 @@
       "normalPrice": 13790,
       "discountAmount": -2800,
       "finalPrice": 10990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "665384",
+      "name": "남양 야채채움 녹황 190ML X 16",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2600,
+      "finalPrice": 10390,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
@@ -4358,17 +4358,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "680634",
-      "name": "아르르 강아지&고양이 열빙어간식 65G X 3",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -3000,
-      "finalPrice": 16990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "680475",
       "name": "파워에이드 이온음료 520ML X 20",
       "store": "COSTCO",
@@ -4377,6 +4366,17 @@
       "finalPrice": 18990,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "680634",
+      "name": "아르르 강아지&고양이 열빙어간식 65G X 3",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
     },
     {
