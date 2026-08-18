@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:42:47.965447+00:00",
+  "generatedAt": "2026-08-18T14:42:50.687422+00:00",
   "items": [
     {
       "id": "664164",
@@ -1441,6 +1441,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786435053892
+    },
+    {
+      "id": "663506",
+      "name": "스피드랙 다용도 5단 선반 100 X 40 X 180CM",
+      "store": "COSTCO",
+      "normalPrice": 89900,
+      "discountAmount": -18000,
+      "finalPrice": 71900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
     },
     {
       "id": "672904",
@@ -3880,17 +3891,6 @@
       "normalPrice": 29990,
       "discountAmount": -6000,
       "finalPrice": 23990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "663506",
-      "name": "스피드랙 다용도 5단 선반 100 X 40 X 180CM",
-      "store": "COSTCO",
-      "normalPrice": 89900,
-      "discountAmount": -71900,
-      "finalPrice": 18000,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
