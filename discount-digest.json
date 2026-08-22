@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:12:57.433292+00:00",
+  "generatedAt": "2026-08-22T06:28:01.059564+00:00",
   "items": [
     {
       "id": "664164",
@@ -1848,6 +1848,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785032531909
+    },
+    {
+      "id": "695426",
+      "name": "LEGO SMALL ASST. 스피트 챔피언 2종 택 1",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": 8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787380032664
     },
     {
       "id": "663759",
