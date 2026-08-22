@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:28:01.059564+00:00",
+  "generatedAt": "2026-08-22T06:58:02.840017+00:00",
   "items": [
     {
       "id": "664164",
@@ -11,17 +11,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "665291",
-      "name": "풀무원 평양 물냉면 205G X 8",
-      "store": "COSTCO",
-      "normalPrice": 12490,
-      "discountAmount": -2800,
-      "finalPrice": 9690,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785761928074
     },
     {
       "id": "618195",
@@ -231,6 +220,17 @@
       "saleStart": "2026/08/18",
       "saleEnd": "2026/08/23",
       "imageVersion": 1787059240430
+    },
+    {
+      "id": "665291",
+      "name": "풀무원 평양 물냉면 205G X 8",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2800,
+      "finalPrice": 9690,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785761928074
     },
     {
       "id": "648306",
@@ -1113,17 +1113,6 @@
       "imageVersion": 1785763651103
     },
     {
-      "id": "694852",
-      "name": "비비고 들기름막국수 188.5G X 4 (754G)",
-      "store": "COSTCO",
-      "normalPrice": 12490,
-      "discountAmount": -2800,
-      "finalPrice": 9690,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1785764330095
-    },
-    {
       "id": "622294",
       "name": "HAAGEN-DAZS 미니컵 컬렉션 100ML X 10",
       "store": "COSTCO",
@@ -1166,6 +1155,28 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786432249226
+    },
+    {
+      "id": "694852",
+      "name": "비비고 들기름막국수 188.5G X 4 (754G)",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2800,
+      "finalPrice": 9690,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1785764330095
+    },
+    {
+      "id": "506503",
+      "name": "매일 바이오 플레인 요거트 300G X 6",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -2100,
+      "finalPrice": 8390,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786300361977
     },
     {
       "id": "1600050",
@@ -1254,17 +1265,6 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786436911005
-    },
-    {
-      "id": "506503",
-      "name": "매일 바이오 플레인 요거트 300G X 6",
-      "store": "COSTCO",
-      "normalPrice": 10490,
-      "discountAmount": -2100,
-      "finalPrice": 8390,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786300361977
     },
     {
       "id": "663486",
@@ -1498,17 +1498,6 @@
       "imageVersion": 1786433218079
     },
     {
-      "id": "681422",
-      "name": "삼진어묵 김치어묵우동 692G X 2",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3000,
-      "finalPrice": 12990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785764568981
-    },
-    {
       "id": "687502",
       "name": "KRAFT A1스테이크소스 425G X 3병",
       "store": "COSTCO",
@@ -1551,6 +1540,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787059859491
+    },
+    {
+      "id": "681422",
+      "name": "삼진어묵 김치어묵우동 692G X 2",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785764568981
     },
     {
       "id": "690226",
@@ -3093,17 +3093,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "570219",
-      "name": "THE LAUGHING COW 플레인 포션 치즈 120G X 3 (360G)",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -2900,
-      "finalPrice": 11090,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/09/02",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "569539",
       "name": "롯데햄 에센뽀득 900G",
       "store": "COSTCO",
@@ -3145,6 +3134,17 @@
       "finalPrice": 118900,
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "570219",
+      "name": "THE LAUGHING COW 플레인 포션 치즈 120G X 3 (360G)",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2900,
+      "finalPrice": 11090,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/02",
       "imageVersion": 1786300361977
     },
     {
