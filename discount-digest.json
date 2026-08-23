@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T01:43:04.771397+00:00",
+  "generatedAt": "2026-08-23T20:13:06.844713+00:00",
   "items": [
     {
       "id": "664164",
@@ -1487,17 +1487,6 @@
       "imageVersion": 1787055416162
     },
     {
-      "id": "694536",
-      "name": "LEGO POKEMON 이브이 #72151",
-      "store": "COSTCO",
-      "normalPrice": 69900,
-      "discountAmount": -14000,
-      "finalPrice": 55900,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786433218079
-    },
-    {
       "id": "687502",
       "name": "KRAFT A1스테이크소스 425G X 3병",
       "store": "COSTCO",
@@ -1551,6 +1540,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785764568981
+    },
+    {
+      "id": "694536",
+      "name": "LEGO POKEMON 이브이 #72151",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786433218079
     },
     {
       "id": "690226",
@@ -1839,17 +1839,6 @@
       "imageVersion": 1787059877468
     },
     {
-      "id": "695426",
-      "name": "LEGO SMALL ASST. 스피트 챔피언 2종 택 1",
-      "store": "COSTCO",
-      "normalPrice": 37990,
-      "discountAmount": 8000,
-      "finalPrice": 29990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1787380032664
-    },
-    {
       "id": "687882",
       "name": "STETZ 스테츠 바베큐그릴트레이 10 개",
       "store": "COSTCO",
@@ -1870,6 +1859,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1785505216615
+    },
+    {
+      "id": "695426",
+      "name": "LEGO SMALL ASST. 스피트 챔피언 2종 택 1",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": 8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1787380032664
     },
     {
       "id": "1956403",
