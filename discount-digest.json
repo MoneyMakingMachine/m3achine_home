@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:58:02.840017+00:00",
+  "generatedAt": "2026-08-23T01:43:04.771397+00:00",
   "items": [
     {
       "id": "664164",
@@ -1322,17 +1322,6 @@
       "imageVersion": 1787059460126
     },
     {
-      "id": "674687",
-      "name": "종근당건강 키즈 홍삼 튼튼업 20ML X 30포",
-      "store": "COSTCO",
-      "normalPrice": 33990,
-      "discountAmount": -7000,
-      "finalPrice": 26990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786432695851
-    },
-    {
       "id": "1076366",
       "name": "KIRKLAND SIGNATURE 코코넛오일 2.48L",
       "store": "COSTCO",
@@ -1430,6 +1419,17 @@
       "saleStart": "2026/08/10",
       "saleEnd": "2026/08/23",
       "imageVersion": 1786436517926
+    },
+    {
+      "id": "674687",
+      "name": "종근당건강 키즈 홍삼 튼튼업 20ML X 30포",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786432695851
     },
     {
       "id": "696714",
@@ -1839,17 +1839,6 @@
       "imageVersion": 1787059877468
     },
     {
-      "id": "687882",
-      "name": "STETZ 스테츠 바베큐그릴트레이 10 개",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785032531909
-    },
-    {
       "id": "695426",
       "name": "LEGO SMALL ASST. 스피트 챔피언 2종 택 1",
       "store": "COSTCO",
@@ -1859,6 +1848,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/23",
       "imageVersion": 1787380032664
+    },
+    {
+      "id": "687882",
+      "name": "STETZ 스테츠 바베큐그릴트레이 10 개",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785032531909
     },
     {
       "id": "663759",
@@ -2389,6 +2389,17 @@
       "imageVersion": 1786183605669
     },
     {
+      "id": "694387",
+      "name": "LG 엘지 휘센뷰1 18+6 PY 스탠드 + 벽걸이",
+      "store": "COSTCO",
+      "normalPrice": 2949000,
+      "discountAmount": -550000,
+      "finalPrice": 2399000,
+      "saleStart": "2026/08/04",
+      "saleEnd": "2026/08/23",
+      "imageVersion": 1786179417326
+    },
+    {
       "id": "698433",
       "name": "CODES COMBINE 남성 브리프 3매 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -2497,17 +2508,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785568884218
-    },
-    {
-      "id": "694387",
-      "name": "LG 엘지 휘센뷰1 18+6 PY 스탠드 + 벽걸이",
-      "store": "COSTCO",
-      "normalPrice": 2949000,
-      "discountAmount": -550000,
-      "finalPrice": 2399000,
-      "saleStart": "2026/08/04",
-      "saleEnd": "2026/08/23",
-      "imageVersion": 1786179417326
     },
     {
       "id": "694388",
