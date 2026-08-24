@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:13:13.728585+00:00",
+  "generatedAt": "2026-08-24T12:28:15.646913+00:00",
   "items": [
     {
       "id": "618195",
@@ -277,6 +277,17 @@
       "imageVersion": 1787058730261
     },
     {
+      "id": "690993",
+      "name": "이토엔 오이오차 녹차 525ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785567277998
+    },
+    {
       "id": "658139",
       "name": "ADIDAS 여성 삼선 반소매 M,L",
       "store": "COSTCO",
@@ -396,6 +407,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787058317189
+    },
+    {
+      "id": "692542",
+      "name": "미네마인 스파클링워터 500ML X 24 병",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -2000,
+      "finalPrice": 8490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785568079138
     },
     {
       "id": "689438",
@@ -750,6 +772,17 @@
       "imageVersion": 1785660753179
     },
     {
+      "id": "677405",
+      "name": "LOVBONG 애견용 한우콜라겐껌 연어 / 100G X 8",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3300,
+      "finalPrice": 12690,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "687184",
       "name": "COLUMBIA 여성시어서커티셔츠 S,M,L,XL SIZE ASIAN",
       "store": "COSTCO",
@@ -847,6 +880,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785033815582
+    },
+    {
+      "id": "681022",
+      "name": "NATIONAL GEOGRAPHIC 방수팩 2개입",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785509175412
     },
     {
       "id": "687164",
@@ -1366,6 +1410,39 @@
       "imageVersion": 1786174508302
     },
     {
+      "id": "783979",
+      "name": "뉴트리플랜 뉴트리트릿 닭안심 동결건조 간식 300G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785662720200
+    },
+    {
+      "id": "687577",
+      "name": "파크론 PVC 롤매트 140 X 300 X 2.0CM",
+      "store": "COSTCO",
+      "normalPrice": 117900,
+      "discountAmount": -24000,
+      "finalPrice": 93900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785662821799
+    },
+    {
+      "id": "691701",
+      "name": "LOCK&LOCK 락앤락 아이스볼 메이커 3P",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786179261647
+    },
+    {
       "id": "691285",
       "name": "에프킬라 라이트 트랩 리필 12입",
       "store": "COSTCO",
@@ -1828,6 +1905,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "601854",
+      "name": "광동 옥수수 수염차 340ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3500,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "602025",
       "name": "액츠데오후레쉬 세탁세제 + 베이킹소다 3.5LX2",
       "store": "COSTCO",
@@ -2026,6 +2114,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "632138",
+      "name": "칠성사이다 190ML X 30캔",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "631244",
       "name": "트레비 탄산수 레몬향 300ML X 30팩",
       "store": "COSTCO",
@@ -2169,6 +2268,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "649564",
+      "name": "DURACELL 듀라셀 울트라알카라인건전지 AA 20 PK",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2800,
+      "finalPrice": 11190,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "649570",
+      "name": "DURACELL 듀라셀 울트라알카라인건전지 AAA 20 PK",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2800,
+      "finalPrice": 11190,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "652572",
       "name": "동원 딤섬새우 하가우 1.2KG",
       "store": "COSTCO",
@@ -2187,6 +2308,17 @@
       "discountAmount": -2000,
       "finalPrice": 8990,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "652433",
+      "name": "펩시콜라제로 라임 500ML X 15팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3000,
+      "finalPrice": 13490,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
@@ -2466,6 +2598,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "674465",
+      "name": "동원 보성말차 500ML X 24병",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "674593",
       "name": "HIMUNE 하이뮨 프로틴밸런스액티브 250ML X 24입",
       "store": "COSTCO",
@@ -2631,12 +2774,23 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "766988",
+      "name": "뉴트리플랜 애견용 홀릭소시지 30G X 42",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -3000,
+      "finalPrice": 11790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "745471",
       "name": "파미데이즈 치킨말이 고구마 1KG (100G X 10개입)",
       "store": "COSTCO",
-      "normalPrice": 18990,
+      "normalPrice": 18790,
       "discountAmount": -3000,
-      "finalPrice": 15990,
+      "finalPrice": 15790,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -2657,8 +2811,8 @@
       "name": "웰치스 탄산소다 / 포도맛 355ML X 24",
       "store": "COSTCO",
       "normalPrice": 16990,
-      "discountAmount": -3500,
-      "finalPrice": 13490,
+      "discountAmount": -3600,
+      "finalPrice": 13390,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
       "imageVersion": 1786300361977
