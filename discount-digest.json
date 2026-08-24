@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:43:17.442424+00:00",
+  "generatedAt": "2026-08-24T12:58:19.728779+00:00",
   "items": [
     {
       "id": "618195",
@@ -913,6 +913,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1787059910676
+    },
+    {
+      "id": "683013",
+      "name": "MAMA'S CHOICE 후라이드 쥐포튀김 300G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785762475068
     },
     {
       "id": "687184",
@@ -1993,6 +2004,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "540537",
+      "name": "신라명과 마들렌 15G X 36",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2200,
+      "finalPrice": 8790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "585284",
       "name": "백설 프리미엄 굴소스 350G X 3",
       "store": "COSTCO",
@@ -2235,6 +2257,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "620654",
+      "name": "KINDER 맥시 초콜릿 756G / 21G X 36",
+      "store": "COSTCO",
+      "normalPrice": 17790,
+      "discountAmount": -3800,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "619895",
       "name": "토레타 과채이온음료 500ML X 20PK",
       "store": "COSTCO",
@@ -2334,6 +2367,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "630807",
+      "name": "KELLOGG'S' 크랜베리 아몬드 그래놀라 500G X 3",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3800,
+      "finalPrice": 15190,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "631244",
       "name": "트레비 탄산수 레몬향 300ML X 30팩",
       "store": "COSTCO",
@@ -2352,6 +2396,17 @@
       "discountAmount": -30000,
       "finalPrice": 129900,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "627908",
+      "name": "NATURE VALLEY 프로틴 바 1.2KG / 40G X 30",
+      "store": "COSTCO",
+      "normalPrice": 21490,
+      "discountAmount": -4500,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
@@ -2565,6 +2620,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "658827",
+      "name": "곰표 후라이드 오징어 270G",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "662556",
       "name": "매일유업 어메이징 오트 950ML X 6",
       "store": "COSTCO",
@@ -2595,6 +2661,17 @@
       "finalPrice": 23990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "662401",
+      "name": "동원 저스트 육포 화이트 페퍼 250G",
+      "store": "COSTCO",
+      "normalPrice": 15790,
+      "discountAmount": -3300,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
@@ -2639,6 +2716,28 @@
       "finalPrice": 44690,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "664919",
+      "name": "청년떡집 말랑말랑 꿀오랑 340G",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -3000,
+      "finalPrice": 11790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "664404",
+      "name": "BE KIND 다크초콜릿 너트바 480G / 20G X 24CT",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -2719,6 +2818,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "669310",
+      "name": "화과방 도넛팥빵 60G X 12",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2200,
+      "finalPrice": 8790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "668880",
       "name": "DR.ROOTEM THE 맥주효모 4000 4.5G X 60포",
       "store": "COSTCO",
@@ -2774,17 +2884,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "672332",
-      "name": "KELLOGG'S 컵 시리얼 40G X 18",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -3000,
-      "finalPrice": 16990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "671679",
       "name": "고로고로 테이프클리너리필6EA 침구용 또는 바닥용",
       "store": "COSTCO",
@@ -2804,6 +2903,17 @@
       "finalPrice": 6190,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "672332",
+      "name": "KELLOGG'S 컵 시리얼 40G X 18",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -2846,6 +2956,17 @@
       "normalPrice": 17990,
       "discountAmount": -3000,
       "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "673761",
+      "name": "삼립 미니생크림보름달 45G X 21",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -3001,6 +3122,17 @@
       "discountAmount": -5000,
       "finalPrice": 19990,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "682845",
+      "name": "대추&아몬드초콜릿 500G",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
