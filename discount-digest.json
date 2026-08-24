@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:58:11.848724+00:00",
+  "generatedAt": "2026-08-24T12:13:13.728585+00:00",
   "items": [
     {
       "id": "618195",
@@ -88,6 +88,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/06",
       "imageVersion": 1787058871411
+    },
+    {
+      "id": "773368",
+      "name": "스카트 유리거울 세정티슈 30매 X 8",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
     },
     {
       "id": "648306",
@@ -253,6 +264,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787058529711
+    },
+    {
+      "id": "690661",
+      "name": "스크럽대디 댐프 더스터 5입 먼지 흡착 스펀지",
+      "store": "COSTCO",
+      "normalPrice": 22790,
+      "discountAmount": -5000,
+      "finalPrice": 17790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058730261
     },
     {
       "id": "658139",
@@ -462,6 +484,17 @@
       "saleStart": "2026/08/15",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787058078526
+    },
+    {
+      "id": "686067",
+      "name": "SILK THERAPY 헤어 밀크 120ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058593672
     },
     {
       "id": "686876",
@@ -1080,6 +1113,17 @@
       "imageVersion": 1785058991435
     },
     {
+      "id": "519026",
+      "name": "비트 세탁세제 7KG",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "674941",
       "name": "네이처스트루스 애플사이다비니거구미 120구미",
       "store": "COSTCO",
@@ -1311,6 +1355,17 @@
       "imageVersion": 1785602853267
     },
     {
+      "id": "695020",
+      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
+      "store": "COSTCO",
+      "normalPrice": 49900,
+      "discountAmount": -15000,
+      "finalPrice": 34900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786174508302
+    },
+    {
       "id": "691285",
       "name": "에프킬라 라이트 트랩 리필 12입",
       "store": "COSTCO",
@@ -1386,6 +1441,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786185627182
+    },
+    {
+      "id": "701306",
+      "name": "크리넥스 수프림플러스화장지 4OM X 30롤, 3겹",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785062655479
     },
     {
       "id": "617030",
@@ -1597,6 +1663,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "521817",
+      "name": "크리넥스 마이비데 물티슈 60매 X 6팩",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/25",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "520440",
       "name": "삼육두유 국산 검은콩 두유 190ML X 24",
       "store": "COSTCO",
@@ -1604,6 +1681,17 @@
       "discountAmount": -3900,
       "finalPrice": 14990,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "519297",
+      "name": "키친솝 주방세제 4.0L + 700ML",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2500,
+      "finalPrice": 10490,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
@@ -1729,6 +1817,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "603722",
+      "name": "크리넥스 보습소프트미용티슈 160매X8팩 (3겹)",
+      "store": "COSTCO",
+      "normalPrice": 23790,
+      "discountAmount": -5500,
+      "finalPrice": 18290,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "602025",
       "name": "액츠데오후레쉬 세탁세제 + 베이킹소다 3.5LX2",
       "store": "COSTCO",
@@ -1814,6 +1913,28 @@
       "finalPrice": 33490,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "617031",
+      "name": "샤프란 꽃담초 섬유유연제 5.7L",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "618426",
+      "name": "프릴(헨켈) 베이킹소다 주방세제 레몬향 / 3L",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3000,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
@@ -2191,23 +2312,23 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "666549",
+      "name": "이지엔 일회용 비닐장갑 1000매",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "666984",
       "name": "이지앤 에어프라이어종이호일 150매",
       "store": "COSTCO",
       "normalPrice": 13490,
       "discountAmount": -3500,
       "finalPrice": 9990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "666549",
-      "name": "이지엔 일회용 비닐장갑 1000매",
-      "store": "COSTCO",
-      "normalPrice": 14490,
-      "discountAmount": -2000,
-      "finalPrice": 12990,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -2220,6 +2341,17 @@
       "discountAmount": -2500,
       "finalPrice": 18990,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "668820",
+      "name": "마미손 고무장갑 대형9 또는 중형12",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
@@ -2286,6 +2418,17 @@
       "discountAmount": -3000,
       "finalPrice": 16990,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "671679",
+      "name": "고로고로 테이프클리너리필6EA 침구용 또는 바닥용",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
@@ -2462,6 +2605,28 @@
       "discountAmount": -5000,
       "finalPrice": 19990,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "720986",
+      "name": "크리넥스 위생행주 100매",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -4800,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "742482",
+      "name": "크리넥스 빨아쓰는 행주타월 45매 X 6롤",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3800,
+      "finalPrice": 15190,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
