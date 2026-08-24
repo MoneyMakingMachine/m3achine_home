@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:43:09.425514+00:00",
+  "generatedAt": "2026-08-24T11:58:11.848724+00:00",
   "items": [
     {
       "id": "618195",
@@ -165,6 +165,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787058944480
+    },
+    {
+      "id": "764543",
+      "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786431420565
     },
     {
       "id": "693397",
@@ -352,6 +363,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "1909194",
+      "name": "ONKAPARINGA 냉감 양면베개2P 48X73CM",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -8000,
+      "finalPrice": 24990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787058317189
     },
     {
       "id": "689438",
@@ -596,6 +618,17 @@
       "imageVersion": 1785764568981
     },
     {
+      "id": "676270",
+      "name": "세노비스 아연 면역 구미 60 구미",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "690226",
       "name": "대추야자 (907G) 원산지 : 미국산",
       "store": "COSTCO",
@@ -772,6 +805,17 @@
       "imageVersion": 1785034593955
     },
     {
+      "id": "687558",
+      "name": "MILLET 성인 트레킹화 230 - 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 64870,
+      "discountAmount": -15000,
+      "finalPrice": 49870,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785033815582
+    },
+    {
       "id": "687164",
       "name": "PUMA 여성트리코트반바지 SIZE S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -805,17 +849,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "687558",
-      "name": "MILLET 성인 트레킹화 230 - 280MM SIZE",
-      "store": "COSTCO",
-      "normalPrice": 64900,
-      "discountAmount": -15000,
-      "finalPrice": 49900,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785033815582
-    },
-    {
       "id": "673429",
       "name": "더'진한 레드 주스 125ML X 24",
       "store": "COSTCO",
@@ -847,6 +880,39 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785905608523
+    },
+    {
+      "id": "687367",
+      "name": "FILA KIDS 키즈 바람막이자켓 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -6000,
+      "finalPrice": 13790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786169370241
+    },
+    {
+      "id": "687479",
+      "name": "COLUMBIA 키즈시어서커셋업 130,140,150,160",
+      "store": "COSTCO",
+      "normalPrice": 23970,
+      "discountAmount": -9000,
+      "finalPrice": 14970,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786969444492
+    },
+    {
+      "id": "687658",
+      "name": "PUMA 키즈 카고 반바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 12970,
+      "discountAmount": -5000,
+      "finalPrice": 7970,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785579841822
     },
     {
       "id": "685376",
@@ -902,17 +968,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786169226975
-    },
-    {
-      "id": "687479",
-      "name": "COLUMBIA 키즈시어서커셋업 130,140,150,160",
-      "store": "COSTCO",
-      "normalPrice": 26970,
-      "discountAmount": -9000,
-      "finalPrice": 17970,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786969444492
     },
     {
       "id": "668086",
@@ -992,6 +1047,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "685913",
+      "name": "얼라이브 슈퍼에너지절 35G X 30포",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5600,
+      "finalPrice": 22390,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785659103240
+    },
+    {
       "id": "1846565",
       "name": "THE NORTH FACE 남성 반소매티셔츠 S,M,L,XL US SIZE",
       "store": "COSTCO",
@@ -1001,6 +1067,28 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786183360452
+    },
+    {
+      "id": "680751",
+      "name": "한독 테라큐민 슈퍼커큐민 50 1G X 130포",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7400,
+      "finalPrice": 29590,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785058991435
+    },
+    {
+      "id": "674941",
+      "name": "네이처스트루스 애플사이다비니거구미 120구미",
+      "store": "COSTCO",
+      "normalPrice": 26970,
+      "discountAmount": -5500,
+      "finalPrice": 21470,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
     },
     {
       "id": "688250",
@@ -1020,17 +1108,6 @@
       "normalPrice": 25990,
       "discountAmount": -5200,
       "finalPrice": 20790,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "674941",
-      "name": "네이처스트루스 애플사이다비니거구미 120구미",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -1155,6 +1232,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786183770743
+    },
+    {
+      "id": "682526",
+      "name": "뉴트리코어 하이퍼셀식물성오메가 1,340MG X 90캡슐",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785662108666
     },
     {
       "id": "79100",
@@ -1333,6 +1421,17 @@
       "imageVersion": 1785579583888
     },
     {
+      "id": "638603",
+      "name": "KIRKLAND SIGNATURE 다목적 렌즈관리용액 473ML X 3",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785659303259
+    },
+    {
       "id": "694265",
       "name": "메이커스 마크 버번 위스키 750ML",
       "store": "COSTCO",
@@ -1474,6 +1573,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/31",
       "imageVersion": 1786271070736
+    },
+    {
+      "id": "414510",
+      "name": "NEUTROGENA 레인바스 샤워젤 1182ML",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
     },
     {
       "id": "513989",
@@ -1693,6 +1803,17 @@
       "finalPrice": 10990,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "614134",
+      "name": "관절N 리프리놀 초록입홍합 추출오일 160MG X 100캡슐",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8500,
+      "finalPrice": 33490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -1916,6 +2037,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "650158",
+      "name": "바이엘 베로카 발포비타민 4.8G X 60정",
+      "store": "COSTCO",
+      "normalPrice": 29490,
+      "discountAmount": -6000,
+      "finalPrice": 23490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "652572",
       "name": "동원 딤섬새우 하가우 1.2KG",
       "store": "COSTCO",
@@ -1949,6 +2081,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "658831",
+      "name": "대웅제약 임팩타뮨 84정",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -6500,
+      "finalPrice": 24990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "662556",
       "name": "매일유업 어메이징 오트 950ML X 6",
       "store": "COSTCO",
@@ -1957,6 +2100,28 @@
       "finalPrice": 12790,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "662799",
+      "name": "네츄럴라이프 칼슘마그네슘VIT.D,K 324캡슐",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "663618",
+      "name": "프로메가식물성RTG 츄어블오메가3키즈 700MG X 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -2199,6 +2364,17 @@
       "finalPrice": 10990,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "678979",
+      "name": "콴첼 MBP 500MG X 120정",
+      "store": "COSTCO",
+      "normalPrice": 23790,
+      "discountAmount": -5000,
+      "finalPrice": 18790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
