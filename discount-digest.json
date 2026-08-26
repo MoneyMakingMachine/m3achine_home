@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:43:28.282622+00:00",
+  "generatedAt": "2026-08-26T00:58:30.538457+00:00",
   "items": [
     {
       "id": "610784",
@@ -1091,6 +1091,17 @@
       "imageVersion": 1785602633661
     },
     {
+      "id": "650457",
+      "name": "GIRAFFE 지라프 가스 바베큐 그릴 44 X 26 X 10 CM",
+      "store": "COSTCO",
+      "normalPrice": 132900,
+      "discountAmount": -28000,
+      "finalPrice": 104900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787705091312
+    },
+    {
       "id": "688105",
       "name": "DEVON 진저브레드 클로티드크림 170GX2 원산지영국",
       "store": "COSTCO",
@@ -1498,6 +1509,17 @@
       "imageVersion": 1787704994573
     },
     {
+      "id": "688949",
+      "name": "KASMO 자전거 헬멧 성인용",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -6000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787705882445
+    },
+    {
       "id": "674941",
       "name": "네이처스트루스 애플사이다비니거구미 120구미",
       "store": "COSTCO",
@@ -1573,6 +1595,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1787704962625
+    },
+    {
+      "id": "675912",
+      "name": "접이식 수납함 패브릭 재질 100L 2개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4500,
+      "finalPrice": 15490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787705682464
     },
     {
       "id": "1819488",
@@ -1652,6 +1685,17 @@
       "imageVersion": 1785418311594
     },
     {
+      "id": "691675",
+      "name": "AMOS 아모스 글라스데코 산리오 캐릭터즈",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787705721957
+    },
+    {
       "id": "678604",
       "name": "NEPA 시어서커 셋업 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -1694,6 +1738,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785662108666
+    },
+    {
+      "id": "686757",
+      "name": "유니참 긴노스푼 냥스푼 10PCS X 4팩",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787705044866
     },
     {
       "id": "79100",
