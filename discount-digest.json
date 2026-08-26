@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T01:28:35.226664+00:00",
+  "generatedAt": "2026-08-26T01:43:37.340556+00:00",
   "items": [
     {
       "id": "610784",
@@ -2048,6 +2048,50 @@
       "imageVersion": 1787707624909
     },
     {
+      "id": "662382",
+      "name": "소스락 치킨스톡 3G X 80",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -3000,
+      "finalPrice": 11490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787707775273
+    },
+    {
+      "id": "661817",
+      "name": "BOHEMIAN ROASTERS 박이추드립백커피 33입",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708060622
+    },
+    {
+      "id": "693688",
+      "name": "해드림 맑은특양곰탕 1,060GX2",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708134192
+    },
+    {
+      "id": "686335",
+      "name": "일일곡식 카무트저당쉐이크 50G X 15",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708327856
+    },
+    {
       "id": "697229",
       "name": "비비고 체소고기만두꽈리고추 1450G",
       "store": "COSTCO",
@@ -2092,6 +2136,28 @@
       "imageVersion": 1787707526535
     },
     {
+      "id": "612676",
+      "name": "DELAMICO 갈릭 후레이크 600G",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2600,
+      "finalPrice": 10390,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708040017
+    },
+    {
+      "id": "692837",
+      "name": "VONBEE 보리차 베이스 1KG",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708270791
+    },
+    {
       "id": "692415",
       "name": "하림 동물복지 닭 안심살 1.8KG",
       "store": "COSTCO",
@@ -2112,6 +2178,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787707311420
+    },
+    {
+      "id": "688575",
+      "name": "얄스버그 슬라이스치즈300G X2 원산지아일랜드 할인행새레3",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708407709
     },
     {
       "id": "696508",
@@ -2136,6 +2213,28 @@
       "imageVersion": 1787707572882
     },
     {
+      "id": "681890",
+      "name": "HARIBO 푸르티부시 1.24KG",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787707734105
+    },
+    {
+      "id": "683442",
+      "name": "ILE DE FRANCE 미니까망베르 25GX10원산지프랑스",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708006096
+    },
+    {
       "id": "694307",
       "name": "KITKAT 녹차 782G / 17G X 46",
       "store": "COSTCO",
@@ -2145,6 +2244,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787707656903
+    },
+    {
+      "id": "657455",
+      "name": "서정옥의 느린부엌 느린수정과 1L X 4",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708371286
     },
     {
       "id": "1766986",
