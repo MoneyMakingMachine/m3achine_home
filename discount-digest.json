@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:58:26.306377+00:00",
+  "generatedAt": "2026-08-26T00:43:28.282622+00:00",
   "items": [
     {
       "id": "610784",
@@ -805,17 +805,6 @@
       "imageVersion": 1786436547141
     },
     {
-      "id": "686640",
-      "name": "스페인산 돈육 냉동삼겹 3.0KG",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -5500,
-      "finalPrice": 24490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/25",
-      "imageVersion": 1785761673540
-    },
-    {
       "id": "647825",
       "name": "스텔라벨라청포도 (1.36 KG) 원산지 : 상품에 표기",
       "store": "COSTCO",
@@ -959,15 +948,15 @@
       "imageVersion": 1786435608779
     },
     {
-      "id": "664029",
-      "name": "신천해주냉면 매운비빔냉면 3,120G (6인분)",
+      "id": "686111",
+      "name": "APRIL AT HOME 밴드형순면 패드 슈퍼싱글/110X200CM",
       "store": "COSTCO",
-      "normalPrice": 22990,
-      "discountAmount": -3500,
-      "finalPrice": 19490,
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
       "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/25",
-      "imageVersion": 1786437088799
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787704278663
     },
     {
       "id": "692849",
@@ -1311,28 +1300,6 @@
       "imageVersion": 1785579634772
     },
     {
-      "id": "687816",
-      "name": "R.ROBOT 키즈 상하의 세트 120,130,145,155",
-      "store": "COSTCO",
-      "normalPrice": 21970,
-      "discountAmount": -7000,
-      "finalPrice": 14970,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/25",
-      "imageVersion": 1785579691637
-    },
-    {
-      "id": "687898",
-      "name": "NEPA 키즈 나일론 바지 130 -160 ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 17970,
-      "discountAmount": -5000,
-      "finalPrice": 12970,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/08/25",
-      "imageVersion": 1786173682739
-    },
-    {
       "id": "694633",
       "name": "NEPA 런닝화 240- 280MM SIZE",
       "store": "COSTCO",
@@ -1487,6 +1454,50 @@
       "imageVersion": 1785764205923
     },
     {
+      "id": "696205",
+      "name": "APRIL AT HOME 웨지형 등받이쿠션 50X45X21CM",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/20",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787704552194
+    },
+    {
+      "id": "686112",
+      "name": "APRIL AT HOME 밴드형 순면 패드 퀸/ 150X200CM",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/08/20",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787704265593
+    },
+    {
+      "id": "667452",
+      "name": "자미에슨츄어블 비타민 D 2500IU 75정X 2병",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787704727271
+    },
+    {
+      "id": "680047",
+      "name": "펫노리터 애견매트 140CM X 200CM X 0.55CM",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -12000,
+      "finalPrice": 47900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787704994573
+    },
+    {
       "id": "674941",
       "name": "네이처스트루스 애플사이다비니거구미 120구미",
       "store": "COSTCO",
@@ -1520,6 +1531,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "614856",
+      "name": "TRUE BLUE 스피루리나 500MG X 500캡슐",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787704880036
+    },
+    {
       "id": "693318",
       "name": "BAREN 바렌 풋케어 세트",
       "store": "COSTCO",
@@ -1542,6 +1564,17 @@
       "imageVersion": 1785418227779
     },
     {
+      "id": "692150",
+      "name": "라브아섬유탈취제 아이리스&피오니 500ML X 3",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -3000,
+      "finalPrice": 11790,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787704962625
+    },
+    {
       "id": "1819488",
       "name": "EASTPOINT SPORTS 자이언트 플링코",
       "store": "COSTCO",
@@ -1562,6 +1595,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786179777064
+    },
+    {
+      "id": "694458",
+      "name": "EUTHYMOL 유시몰 트레블 키트",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -7000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787704919192
     },
     {
       "id": "686224",
@@ -2155,17 +2199,6 @@
       "finalPrice": 204900,
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "521817",
-      "name": "크리넥스 마이비데 물티슈 60매 X 6팩",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -3000,
-      "finalPrice": 10990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/25",
       "imageVersion": 1786300361977
     },
     {
@@ -3585,17 +3618,6 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "684939",
-      "name": "애슐리 고르곤졸라화덕피자 250G X 3",
-      "store": "COSTCO",
-      "normalPrice": 21990,
-      "discountAmount": -3000,
-      "finalPrice": 18990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/25",
       "imageVersion": 1786300361977
     },
     {
