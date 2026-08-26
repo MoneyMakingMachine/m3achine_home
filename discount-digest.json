@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T01:58:39.337353+00:00",
+  "generatedAt": "2026-08-26T11:43:40.687275+00:00",
   "items": [
     {
       "id": "610784",
@@ -79,6 +79,17 @@
       "imageVersion": 1787058871411
     },
     {
+      "id": "588139",
+      "name": "SAPPORO 캔맥주 KG500ML X 6캔",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -1800,
+      "finalPrice": 10190,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "773368",
       "name": "스카트 유리거울 세정티슈 30매 X 8",
       "store": "COSTCO",
@@ -132,17 +143,6 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785764520840
-    },
-    {
-      "id": "588139",
-      "name": "SAPPORO 캔맥주 KG500ML X 6캔",
-      "store": "COSTCO",
-      "normalPrice": 11990,
-      "discountAmount": -1800,
-      "finalPrice": 10190,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
     },
     {
       "id": "648306",
@@ -222,6 +222,17 @@
       "imageVersion": 1787058944480
     },
     {
+      "id": "685747",
+      "name": "MILKA 초코무 800G /200G X 4",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2600,
+      "finalPrice": 10390,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785762548630
+    },
+    {
       "id": "764543",
       "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
       "store": "COSTCO",
@@ -242,17 +253,6 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "685747",
-      "name": "MILKA 초코무 800G /200G X 4",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -2600,
-      "finalPrice": 10390,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785762548630
     },
     {
       "id": "505619",
@@ -354,17 +354,6 @@
       "imageVersion": 1787058730261
     },
     {
-      "id": "690993",
-      "name": "이토엔 오이오차 녹차 525ML X 12",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785567277998
-    },
-    {
       "id": "575848",
       "name": "씨없는 수박 1호 (7KG미만) 원산지 : 국내산",
       "store": "COSTCO",
@@ -396,6 +385,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "690993",
+      "name": "이토엔 오이오차 녹차 525ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785567277998
     },
     {
       "id": "658139",
@@ -519,17 +519,6 @@
       "imageVersion": 1787058317189
     },
     {
-      "id": "692542",
-      "name": "미네마인 스파클링워터 500ML X 24 병",
-      "store": "COSTCO",
-      "normalPrice": 10490,
-      "discountAmount": -2000,
-      "finalPrice": 8490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785568079138
-    },
-    {
       "id": "1796327",
       "name": "LUMENA 루메나 탁상용 선풍기 STAND 4 (2개입)",
       "store": "COSTCO",
@@ -561,6 +550,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787059433859
+    },
+    {
+      "id": "692542",
+      "name": "미네마인 스파클링워터 500ML X 24 병",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -2000,
+      "finalPrice": 8490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785568079138
     },
     {
       "id": "1859672",
@@ -662,17 +662,6 @@
       "imageVersion": 1785761741617
     },
     {
-      "id": "691776",
-      "name": "LOTTE 크런키더블크런치바 855G",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785762945582
-    },
-    {
       "id": "689438",
       "name": "양반 로제떡볶이 1030G",
       "store": "COSTCO",
@@ -682,6 +671,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786180193245
+    },
+    {
+      "id": "691776",
+      "name": "LOTTE 크런키더블크런치바 855G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785762945582
     },
     {
       "id": "686876",
@@ -2752,17 +2752,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "531601",
-      "name": "JACK DANIEL'S 테네시 위스키 1L",
-      "store": "COSTCO",
-      "normalPrice": 55900,
-      "discountAmount": -11210,
-      "finalPrice": 44690,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "540537",
       "name": "신라명과 마들렌 15G X 36",
       "store": "COSTCO",
@@ -2793,6 +2782,17 @@
       "finalPrice": 24890,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "531601",
+      "name": "JACK DANIEL'S 테네시 위스키 1L",
+      "store": "COSTCO",
+      "normalPrice": 55900,
+      "discountAmount": -11210,
+      "finalPrice": 44690,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -3181,17 +3181,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "632138",
-      "name": "칠성사이다 190ML X 30캔",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -2500,
-      "finalPrice": 11490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "630807",
       "name": "KELLOGG'S' 크랜베리 아몬드 그래놀라 500G X 3",
       "store": "COSTCO",
@@ -3231,6 +3220,17 @@
       "normalPrice": 21490,
       "discountAmount": -4500,
       "finalPrice": 16990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "632138",
+      "name": "칠성사이다 190ML X 30캔",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
@@ -3445,22 +3445,22 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "652433",
-      "name": "펩시콜라제로 라임 500ML X 15팩",
+      "id": "653193",
+      "name": "상하키친 비프 카레 170G X 8",
       "store": "COSTCO",
-      "normalPrice": 16490,
-      "discountAmount": -3000,
+      "normalPrice": 16990,
+      "discountAmount": -3500,
       "finalPrice": 13490,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
-      "id": "653193",
-      "name": "상하키친 비프 카레 170G X 8",
+      "id": "652433",
+      "name": "펩시콜라제로 라임 500ML X 15팩",
       "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -3500,
+      "normalPrice": 16490,
+      "discountAmount": -3000,
       "finalPrice": 13490,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
@@ -3610,17 +3610,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "663776",
-      "name": "JACK DANIEL'S 테네시 애플위스키 1L",
-      "store": "COSTCO",
-      "normalPrice": 55900,
-      "discountAmount": -11210,
-      "finalPrice": 44690,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "664919",
       "name": "청년떡집 말랑말랑 꿀오랑 340G",
       "store": "COSTCO",
@@ -3640,6 +3629,17 @@
       "finalPrice": 15990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "663776",
+      "name": "JACK DANIEL'S 테네시 애플위스키 1L",
+      "store": "COSTCO",
+      "normalPrice": 55900,
+      "discountAmount": -11210,
+      "finalPrice": 44690,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -3841,17 +3841,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "671490",
-      "name": "매일 엔요 280ML X 10",
-      "store": "COSTCO",
-      "normalPrice": 7790,
-      "discountAmount": -1600,
-      "finalPrice": 6190,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "672332",
       "name": "KELLOGG'S 컵 시리얼 40G X 18",
       "store": "COSTCO",
@@ -3881,6 +3870,17 @@
       "discountAmount": -15000,
       "finalPrice": 54900,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "671490",
+      "name": "매일 엔요 280ML X 10",
+      "store": "COSTCO",
+      "normalPrice": 7790,
+      "discountAmount": -1600,
+      "finalPrice": 6190,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
