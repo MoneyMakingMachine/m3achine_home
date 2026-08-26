@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T01:43:37.340556+00:00",
+  "generatedAt": "2026-08-26T01:58:39.337353+00:00",
   "items": [
     {
       "id": "610784",
@@ -2092,6 +2092,39 @@
       "imageVersion": 1787708327856
     },
     {
+      "id": "1613184",
+      "name": "HALSTON 여성 반소매 니트 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787708646833
+    },
+    {
+      "id": "1580004",
+      "name": "호텔 그랜드 쿨링 양면 베개 2P/ 50X71CM",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/08/20",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708890899
+    },
+    {
+      "id": "694828",
+      "name": "산타리타 트리플C 다크 750ML",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787709114180
+    },
+    {
       "id": "697229",
       "name": "비비고 체소고기만두꽈리고추 1450G",
       "store": "COSTCO",
@@ -2156,6 +2189,28 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787708270791
+    },
+    {
+      "id": "1111023",
+      "name": "COTTON CLUB 면80수 탱크3매 95- 105 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787709041894
+    },
+    {
+      "id": "589838",
+      "name": "로버트 몬다비 나파 까베르네쇼비용 750ML",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -21000,
+      "finalPrice": 78900,
+      "saleStart": "2026/08/26",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787709245919
     },
     {
       "id": "692415",
@@ -2235,6 +2290,61 @@
       "imageVersion": 1787708006096
     },
     {
+      "id": "684062",
+      "name": "ANBANG 연기잡는 그릴 울트라, 리드포함",
+      "store": "COSTCO",
+      "normalPrice": 198900,
+      "discountAmount": -40000,
+      "finalPrice": 158900,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708696080
+    },
+    {
+      "id": "687584",
+      "name": "COUNTESS MARA 남성 반소매 폴로 S-XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/13",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787708801617
+    },
+    {
+      "id": "684065",
+      "name": "자미에슨츄어블 비타민 B 92정",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5500,
+      "finalPrice": 20490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787708928955
+    },
+    {
+      "id": "692575",
+      "name": "연세우유 말차라떼 유유 190ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 15490,
+      "discountAmount": -3100,
+      "finalPrice": 12390,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787709082232
+    },
+    {
+      "id": "610959",
+      "name": "상하치즈 더블업체다슬라이스 1,440G (240G X 6팩)",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787709185094
+    },
+    {
       "id": "694307",
       "name": "KITKAT 녹차 782G / 17G X 46",
       "store": "COSTCO",
@@ -2255,6 +2365,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787708371286
+    },
+    {
+      "id": "696953",
+      "name": "ODDANGLE 오드앵글 BLDC 선풍기 (화이트 / 네이비)",
+      "store": "COSTCO",
+      "normalPrice": 76900,
+      "discountAmount": -15000,
+      "finalPrice": 61900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787708827596
     },
     {
       "id": "1766986",
