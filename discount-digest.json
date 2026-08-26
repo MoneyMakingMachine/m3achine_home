@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:58:30.538457+00:00",
+  "generatedAt": "2026-08-26T01:13:32.644988+00:00",
   "items": [
     {
       "id": "610784",
@@ -1520,6 +1520,17 @@
       "imageVersion": 1787705882445
     },
     {
+      "id": "696954",
+      "name": "OLLY 올리 BLDC 선풍기 OLF-1203W",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -9000,
+      "finalPrice": 50900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787706121170
+    },
+    {
       "id": "674941",
       "name": "네이처스트루스 애플사이다비니거구미 120구미",
       "store": "COSTCO",
@@ -1606,6 +1617,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787705682464
+    },
+    {
+      "id": "691913",
+      "name": "CACTUSY 캑터시 에어큐브 에어프라이어 4L+1.5L",
+      "store": "COSTCO",
+      "normalPrice": 114900,
+      "discountAmount": -23000,
+      "finalPrice": 91900,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787705930801
     },
     {
       "id": "1819488",
@@ -1696,6 +1718,17 @@
       "imageVersion": 1787705721957
     },
     {
+      "id": "689362",
+      "name": "LUMENA 루메나 BLDC 서쿨레이터",
+      "store": "COSTCO",
+      "normalPrice": 66900,
+      "discountAmount": -10000,
+      "finalPrice": 56900,
+      "saleStart": "2026/08/20",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787706064942
+    },
+    {
       "id": "678604",
       "name": "NEPA 시어서커 셋업 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -1749,6 +1782,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787705044866
+    },
+    {
+      "id": "690383",
+      "name": "ZEUS 제우스 빔프로젝터 하드케이스스 포함",
+      "store": "COSTCO",
+      "normalPrice": 199990,
+      "discountAmount": -30000,
+      "finalPrice": 169990,
+      "saleStart": "2026/08/21",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1787705985542
     },
     {
       "id": "79100",
