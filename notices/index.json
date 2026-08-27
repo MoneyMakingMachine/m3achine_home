@@ -2,6 +2,16 @@
   "version": 1,
   "notices": [
     {
+      "id": "2026-08-27-september-closures",
+      "title": "9월 점포 휴무일 안내",
+      "thumbnail": "images/september-closures.webp",
+      "link": "2026-08-27-september-closures.html",
+      "publishedAt": "2026-08-27",
+      "startAt": null,
+      "endAt": "2026-09-30",
+      "priority": 20
+    },
+    {
       "id": "2026-08-13-august-closures",
       "title": "8월 점포 휴무일 안내",
       "thumbnail": "images/august-closures-v2.webp",
