@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T12:28:48.419058+00:00",
+  "generatedAt": "2026-08-27T23:58:50.658164+00:00",
   "items": [
     {
       "id": "610784",
@@ -101,17 +101,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "607881",
-      "name": "백제 멸치 쌀국수 100G X 10",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -3000,
-      "finalPrice": 10990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785762988538
-    },
-    {
       "id": "665291",
       "name": "풀무원 평양 물냉면 205G X 8",
       "store": "COSTCO",
@@ -143,6 +132,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785764520840
+    },
+    {
+      "id": "607881",
+      "name": "백제 멸치 쌀국수 100G X 10",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785762988538
     },
     {
       "id": "648306",
@@ -814,17 +814,6 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786434854346
-    },
-    {
-      "id": "674926",
-      "name": "존쿡델리미트 닭가슴살슬라이스 350G X 2",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -2600,
-      "finalPrice": 10390,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785764088371
     },
     {
       "id": "660370",
@@ -2257,6 +2246,17 @@
       "imageVersion": 1787708407709
     },
     {
+      "id": "674926",
+      "name": "존쿡델리미트 닭가슴살슬라이스 350G X 2",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2600,
+      "finalPrice": 10390,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785764088371
+    },
+    {
       "id": "696508",
       "name": "ALLO 선식 크래커 블랙 700G / 14 X 50",
       "store": "COSTCO",
@@ -2884,17 +2884,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "598516",
-      "name": "남양 떠먹는 불가리스 85GX16 딸기/복숭아",
-      "store": "COSTCO",
-      "normalPrice": 8990,
-      "discountAmount": -2000,
-      "finalPrice": 6990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "602025",
       "name": "액츠데오후레쉬 세탁세제 + 베이킹소다 3.5LX2",
       "store": "COSTCO",
@@ -2925,6 +2914,17 @@
       "finalPrice": 9590,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "598516",
+      "name": "남양 떠먹는 불가리스 85GX16 딸기/복숭아",
+      "store": "COSTCO",
+      "normalPrice": 8990,
+      "discountAmount": -2000,
+      "finalPrice": 6990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
