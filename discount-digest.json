@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:43:40.687275+00:00",
+  "generatedAt": "2026-08-27T00:13:42.660319+00:00",
   "items": [
     {
       "id": "610784",
@@ -354,17 +354,6 @@
       "imageVersion": 1787058730261
     },
     {
-      "id": "575848",
-      "name": "씨없는 수박 1호 (7KG미만) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 20990,
-      "discountAmount": -4000,
-      "finalPrice": 16990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785499202152
-    },
-    {
       "id": "693047",
       "name": "대파 버터 롤 GREENONION BUTTER ROLL 6CT/PACK",
       "store": "COSTCO",
@@ -396,6 +385,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785567277998
+    },
+    {
+      "id": "575848",
+      "name": "씨없는 수박 1호 (7KG미만) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4000,
+      "finalPrice": 16990,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785499202152
     },
     {
       "id": "658139",
@@ -451,17 +451,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "686805",
-      "name": "월드그린 블랙렌틸콩 5KG 2026/07/27",
-      "store": "COSTCO",
-      "normalPrice": 11970,
-      "discountAmount": -3000,
-      "finalPrice": 8970,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785503743211
     },
     {
       "id": "692845",
@@ -561,6 +550,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1785568079138
+    },
+    {
+      "id": "686805",
+      "name": "월드그린 블랙렌틸콩 5KG 2026/07/27",
+      "store": "COSTCO",
+      "normalPrice": 11970,
+      "discountAmount": -3000,
+      "finalPrice": 8970,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785503743211
     },
     {
       "id": "1859672",
@@ -893,17 +893,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "656207",
-      "name": "캠벨포도 (2KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 20490,
-      "discountAmount": -4000,
-      "finalPrice": 16490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1785498930549
-    },
-    {
       "id": "508070",
       "name": "카라카라 오렌지 (3.4KG 이상) 원산지 : 호주",
       "store": "COSTCO",
@@ -957,6 +946,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787704278663
+    },
+    {
+      "id": "656207",
+      "name": "캠벨포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 20490,
+      "discountAmount": -4000,
+      "finalPrice": 16490,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1785498930549
     },
     {
       "id": "692849",
@@ -2125,6 +2125,17 @@
       "imageVersion": 1787709114180
     },
     {
+      "id": "608720",
+      "name": "삼진어묵 정통어묵탕모듬 1,188G",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2700,
+      "finalPrice": 10290,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "697229",
       "name": "비비고 체소고기만두꽈리고추 1450G",
       "store": "COSTCO",
@@ -2519,17 +2530,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786173636689
-    },
-    {
-      "id": "579947",
-      "name": "복숭아 (3KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -3500,
-      "finalPrice": 21490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/26",
-      "imageVersion": 1786270190200
     },
     {
       "id": "573105",
@@ -2939,17 +2939,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "627331",
-      "name": "소보로단팥빵",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -2000,
-      "finalPrice": 7990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "607852",
       "name": "피프 에레키반자석파스 60개",
       "store": "COSTCO",
@@ -2983,17 +2972,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "607586",
-      "name": "한우물 새우볶음밥 300G X 7",
-      "store": "COSTCO",
-      "normalPrice": 13390,
-      "discountAmount": -2000,
-      "finalPrice": 11390,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "610902",
       "name": "동원 7겹 돈까스 1,040G",
       "store": "COSTCO",
@@ -3005,14 +2983,25 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "608720",
-      "name": "삼진어묵 정통어묵탕모듬 1,188G",
+      "id": "627331",
+      "name": "소보로단팥빵",
       "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -2700,
-      "finalPrice": 10290,
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
       "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/06",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "607586",
+      "name": "한우물 새우볶음밥 300G X 7",
+      "store": "COSTCO",
+      "normalPrice": 13390,
+      "discountAmount": -2000,
+      "finalPrice": 11390,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
     {
@@ -3332,17 +3321,6 @@
       "finalPrice": 12390,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "639400",
-      "name": "한성기업 크래미 300G X 3",
-      "store": "COSTCO",
-      "normalPrice": 10590,
-      "discountAmount": -2000,
-      "finalPrice": 8590,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/26",
       "imageVersion": 1786300361977
     },
     {
@@ -3709,17 +3687,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "667628",
-      "name": "ZESPRI 골드키위 2.4KG 원산지 : 뉴질랜드",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -4000,
-      "finalPrice": 21990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "668051",
       "name": "비비고 김치볶음 150G X 10",
       "store": "COSTCO",
@@ -3727,6 +3694,17 @@
       "discountAmount": -4300,
       "finalPrice": 17190,
       "saleStart": "2026/08/17",
+      "saleEnd": "2026/08/30",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "667628",
+      "name": "ZESPRI 골드키위 2.4KG 원산지 : 뉴질랜드",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1786300361977
     },
