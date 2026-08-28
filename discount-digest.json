@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T23:58:50.658164+00:00",
+  "generatedAt": "2026-08-28T22:58:53.397694+00:00",
   "items": [
     {
       "id": "610784",
@@ -649,17 +649,6 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/08/30",
       "imageVersion": 1787058593672
-    },
-    {
-      "id": "692419",
-      "name": "하림 동물복지 닭 윗날개(봉) 1.8KG",
-      "store": "COSTCO",
-      "normalPrice": 21990,
-      "discountAmount": -4500,
-      "finalPrice": 17490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/27",
-      "imageVersion": 1785761741617
     },
     {
       "id": "689438",
@@ -2213,17 +2202,6 @@
       "imageVersion": 1787709245919
     },
     {
-      "id": "692415",
-      "name": "하림 동물복지 닭 안심살 1.8KG",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -4000,
-      "finalPrice": 14990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/27",
-      "imageVersion": 1787707222382
-    },
-    {
       "id": "530529",
       "name": "부드러운 복숭아 (3KG) 원산지 : 국내산",
       "store": "COSTCO",
@@ -2708,17 +2686,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "509167",
-      "name": "하우스밀감 (1.5KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3500,
-      "finalPrice": 12490,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "556571",
       "name": "KAHLUA 깔루아 리큐르 1L",
       "store": "COSTCO",
@@ -2958,17 +2925,6 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/08/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "612003",
-      "name": "농심 너구리 120G X 20",
-      "store": "COSTCO",
-      "normalPrice": 17590,
-      "discountAmount": -3600,
-      "finalPrice": 13990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/08/27",
       "imageVersion": 1786300361977
     },
     {
