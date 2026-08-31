@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:59:01.355798+00:00",
+  "generatedAt": "2026-08-31T20:14:02.698565+00:00",
   "items": [
     {
       "id": "673545",
@@ -948,6 +948,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "656050",
+      "name": "ILLIYOON 일리윤 가려움 토탈케어크림 330ML + 80ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -7000,
+      "finalPrice": 22990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "658831",
       "name": "대웅제약 임팩타뮨 84정",
       "store": "COSTCO",
@@ -1025,6 +1036,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "662715",
+      "name": "AHC 텐 레볼루션 아이크림 35ML X 3 + 7ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "664404",
       "name": "BE KIND 다크초콜릿 너트바 480G / 20G X 24CT",
       "store": "COSTCO",
@@ -1044,6 +1066,17 @@
       "finalPrice": 44990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "664686",
+      "name": "PHYSIOGEL 피지오겔 DMT PRO B5 로션 210ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8500,
+      "finalPrice": 33490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
