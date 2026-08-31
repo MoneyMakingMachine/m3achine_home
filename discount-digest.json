@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:43:59.829454+00:00",
+  "generatedAt": "2026-08-31T10:59:01.355798+00:00",
   "items": [
     {
       "id": "673545",
@@ -145,6 +145,17 @@
       "imageVersion": 1787058106382
     },
     {
+      "id": "1909194",
+      "name": "ONKAPARINGA 냉감 양면베개2P 48X73CM",
+      "store": "COSTCO",
+      "normalPrice": 32970,
+      "discountAmount": -10000,
+      "finalPrice": 22970,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787058317189
+    },
+    {
       "id": "694700",
       "name": "여주시농협 여주쌀 10KG",
       "store": "COSTCO",
@@ -154,6 +165,17 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/06",
       "imageVersion": 1787059142026
+    },
+    {
+      "id": "786876",
+      "name": "GUESS 아동 런닝 5매 65 - 85 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -6000,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787058188365
     },
     {
       "id": "1076366",
@@ -387,6 +409,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "695568",
+      "name": "비에날씬에스 다이어트유산균 55캡슐",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785058950752
+    },
+    {
+      "id": "671094",
+      "name": "한미양행 콘드로이친1200 1,000MG X 180정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785058557902
+    },
+    {
       "id": "692150",
       "name": "라브아섬유탈취제 아이리스&피오니 500ML X 3",
       "store": "COSTCO",
@@ -407,6 +451,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1787705721957
+    },
+    {
+      "id": "694414",
+      "name": "여에스더 리포좀베르베린 60CT (30CT X 2 SET)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -9600,
+      "finalPrice": 38390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786178523030
     },
     {
       "id": "695020",
@@ -563,6 +618,50 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "678727",
+      "name": "로트백쉔 그로우업 샷 60ML X 30병",
+      "store": "COSTCO",
+      "normalPrice": 159900,
+      "discountAmount": -32000,
+      "finalPrice": 127900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677102",
+      "name": "럭스나인 NEW 라텍스 토퍼 퀸사이즈/150X200CM",
+      "store": "COSTCO",
+      "normalPrice": 259900,
+      "discountAmount": -52000,
+      "finalPrice": 207900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "623901",
+      "name": "3M 넥스케어 블레미쉬 커버 세트 오리지널 OR 릴리프",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2500,
+      "finalPrice": 9490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "777450",
+      "name": "PUMA 남아여아 팬티5매 S - XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4500,
+      "finalPrice": 15490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786187129789
+    },
+    {
       "id": "638603",
       "name": "KIRKLAND SIGNATURE 다목적 렌즈관리용액 473ML X 3",
       "store": "COSTCO",
@@ -627,6 +726,17 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/08/31",
       "imageVersion": 1786271070736
+    },
+    {
+      "id": "502986",
+      "name": "얼라이브 원스데일리 멀티비타민 1734MG X 100정",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5200,
+      "finalPrice": 20790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
     },
     {
       "id": "513989",
@@ -761,6 +871,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "639173",
+      "name": "종근당건강 알로에이뮨스틱 20G X 40포",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "644244",
       "name": "농심 배홍동 비빔면 137G X 20",
       "store": "COSTCO",
@@ -769,6 +890,28 @@
       "finalPrice": 13190,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "643482",
+      "name": "R-TG ULTRA OMEGA3 알티지오메가3 1150MG X 140캡슐",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -6500,
+      "finalPrice": 25490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "649540",
+      "name": "CJ 웰케어리턴업 전립소+옥타코사놀 800MG X 90캡슐",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -871,6 +1014,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "662247",
+      "name": "NEW BALANCE 남성 스포츠 양말 6족 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3500,
+      "finalPrice": 12490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "664404",
       "name": "BE KIND 다크초콜릿 너트바 480G / 20G X 24CT",
       "store": "COSTCO",
@@ -890,6 +1044,28 @@
       "finalPrice": 44990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "665421",
+      "name": "VITAL PROTEINS 바이탈 프로틴 콜라겐 670G",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -13000,
+      "finalPrice": 46900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "669148",
+      "name": "TRUE BLUE 프로폴리스포르테 590MG X 350캡슐",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7200,
+      "finalPrice": 28790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -915,6 +1091,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "673257",
+      "name": "얌그루 어린이눈건강구미 90구미",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "673582",
+      "name": "광동 보감쌍화진액 100ML X 18포",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "675757",
       "name": "DORLY 제주 감귤 과즐 660G / 22G X 30",
       "store": "COSTCO",
@@ -934,6 +1132,28 @@
       "finalPrice": 14990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/02",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677103",
+      "name": "럭스나인 NEW 라텍스 토퍼 킹사이즈/165X200CM",
+      "store": "COSTCO",
+      "normalPrice": 299900,
+      "discountAmount": -61000,
+      "finalPrice": 238900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677101",
+      "name": "럭스나인 NEW 라텍스 토퍼 슈퍼싱글/110X200CM",
+      "store": "COSTCO",
+      "normalPrice": 219900,
+      "discountAmount": -44000,
+      "finalPrice": 175900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -959,12 +1179,34 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "681556",
+      "name": "광동 홍삼 배도라지진액 102ML X 30포",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -6600,
+      "finalPrice": 26390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "684244",
       "name": "LOTTE 찰떡 파이 1225G / 35G X 35",
       "store": "COSTCO",
       "normalPrice": 14990,
       "discountAmount": -3000,
       "finalPrice": 11990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "684063",
+      "name": "덴프스 트루바이타민이문 50포",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -6500,
+      "finalPrice": 25490,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
