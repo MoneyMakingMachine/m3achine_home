@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:28:58.275302+00:00",
+  "generatedAt": "2026-08-31T10:43:59.829454+00:00",
   "items": [
     {
       "id": "673545",
@@ -66,6 +66,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "764543",
+      "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -12000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786431420565
     },
     {
       "id": "687713",
@@ -244,6 +255,17 @@
       "imageVersion": 1787705091312
     },
     {
+      "id": "687963",
+      "name": "PUMA 여성 운동화 230- 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785496702797
+    },
+    {
       "id": "696832",
       "name": "디사론노 리큐르 700ML",
       "store": "COSTCO",
@@ -266,28 +288,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "657965",
-      "name": "PUMA 남성 트리코트바지 M-XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 23970,
-      "discountAmount": -6000,
-      "finalPrice": 17970,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1785579524744
-    },
-    {
-      "id": "687367",
-      "name": "FILA KIDS 키즈 바람막이자켓 130,145,155,165",
-      "store": "COSTCO",
-      "normalPrice": 19790,
-      "discountAmount": -6000,
-      "finalPrice": 13790,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786169370241
-    },
-    {
       "id": "687658",
       "name": "PUMA 키즈 카고 반바지 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -297,6 +297,39 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1785579841822
+    },
+    {
+      "id": "657965",
+      "name": "PUMA 남성 트리코트바지 M-XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -6000,
+      "finalPrice": 13970,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785579524744
+    },
+    {
+      "id": "687367",
+      "name": "FILA KIDS 키즈 바람막이자켓 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 17970,
+      "discountAmount": -6000,
+      "finalPrice": 11970,
+      "saleStart": "2026/08/24",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786169370241
+    },
+    {
+      "id": "694633",
+      "name": "NEPA 런닝화 240- 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -20000,
+      "finalPrice": 39900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786183515501
     },
     {
       "id": "685913",
@@ -901,6 +934,17 @@
       "finalPrice": 14990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/02",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677798",
+      "name": "노와이어브라 2매 75A-85B ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
