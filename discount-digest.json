@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T10:13:56.335860+00:00",
+  "generatedAt": "2026-08-31T10:28:58.275302+00:00",
   "items": [
     {
       "id": "673545",
@@ -46,6 +46,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "7771005",
+      "name": "KIRKLAND SIGNATURE 여성 카프리 바지 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -8000,
+      "finalPrice": 11970,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787058041048
+    },
+    {
       "id": "505619",
       "name": "4C 아이스티 복숭아 2.34KG",
       "store": "COSTCO",
@@ -90,17 +101,6 @@
       "imageVersion": 1787058061348
     },
     {
-      "id": "687458",
-      "name": "FILA GOLF 남성 골프 바지 M- XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 37990,
-      "discountAmount": -8000,
-      "finalPrice": 29990,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1787058106382
-    },
-    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -121,6 +121,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "687458",
+      "name": "FILA GOLF 남성 골프 바지 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -10000,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/17",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787058106382
     },
     {
       "id": "694700",
@@ -332,6 +343,17 @@
       "imageVersion": 1787705882445
     },
     {
+      "id": "658021",
+      "name": "ADIDAS 남성 세레노반소매 M,L,XL,XXL",
+      "store": "COSTCO",
+      "normalPrice": 17470,
+      "discountAmount": -4500,
+      "finalPrice": 12970,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "692150",
       "name": "라브아섬유탈취제 아이리스&피오니 500ML X 3",
       "store": "COSTCO",
@@ -464,17 +486,6 @@
       "imageVersion": 1787707475660
     },
     {
-      "id": "687584",
-      "name": "COUNTESS MARA 남성 반소매 폴로 S-XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/08/13",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1787708801617
-    },
-    {
       "id": "684065",
       "name": "자미에슨츄어블 비타민 B 92정",
       "store": "COSTCO",
@@ -484,6 +495,28 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1787708928955
+    },
+    {
+      "id": "676698",
+      "name": "정관장 홍삼정 스틱 에브리타임 소프트 10ML X90포",
+      "store": "COSTCO",
+      "normalPrice": 194900,
+      "discountAmount": -39000,
+      "finalPrice": 155900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786184605937
+    },
+    {
+      "id": "687584",
+      "name": "COUNTESS MARA 남성 반소매 폴로 S-XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 25970,
+      "discountAmount": -6000,
+      "finalPrice": 19970,
+      "saleStart": "2026/08/13",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1787708801617
     },
     {
       "id": "1740696",
