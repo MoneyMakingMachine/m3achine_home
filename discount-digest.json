@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-08-31T20:29:04.538126+00:00",
+  "generatedAt": "2026-09-01T14:44:06.563882+00:00",
   "items": [
-    {
-      "id": "673545",
-      "name": "몽키솔더 700ML",
-      "store": "COSTCO",
-      "normalPrice": 49790,
-      "discountAmount": -10000,
-      "finalPrice": 39790,
-      "saleStart": "2026/07/27",
-      "saleEnd": "2026/08/31",
-      "imageVersion": 1785504735860
-    },
     {
       "id": "1934016",
       "name": "GLOBAL OUTDOOR 가든 보관함 51 X 51 X 43CM",
@@ -187,17 +176,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787058593672
-    },
-    {
-      "id": "1076366",
-      "name": "KIRKLAND SIGNATURE 코코넛오일 2.48L",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
-      "saleStart": "2026/08/17",
-      "saleEnd": "2026/08/31",
-      "imageVersion": 1787059533879
     },
     {
       "id": "687502",
@@ -440,6 +418,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785058557902
+    },
+    {
+      "id": "684862",
+      "name": "FIJI 냄새제거부스터 65개",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785580354071
     },
     {
       "id": "692150",
@@ -695,6 +684,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "669119",
+      "name": "라보아 섬유유연제 프랑지파니&가이악 4L",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "692843",
       "name": "RUCIPELLO루치펠로 스틱가글 12ML X 120개",
       "store": "COSTCO",
@@ -761,17 +761,6 @@
       "imageVersion": 1786178751151
     },
     {
-      "id": "684910",
-      "name": "100 인의 키키자케시 720ML",
-      "store": "COSTCO",
-      "normalPrice": 34990,
-      "discountAmount": -7000,
-      "finalPrice": 27990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/31",
-      "imageVersion": 1786271385751
-    },
-    {
       "id": "679297",
       "name": "ASAHI 소쿠사이 340ML X 12캔",
       "store": "COSTCO",
@@ -781,17 +770,6 @@
       "saleStart": "2026/08/03",
       "saleEnd": "2026/09/01",
       "imageVersion": 1786270811033
-    },
-    {
-      "id": "679624",
-      "name": "로얄브라클라 12년 700ML",
-      "store": "COSTCO",
-      "normalPrice": 103900,
-      "discountAmount": -21000,
-      "finalPrice": 82900,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/31",
-      "imageVersion": 1786271070736
     },
     {
       "id": "502986",
@@ -871,14 +849,36 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "599299",
-      "name": "TSINGTAO 병맥주 640ML X 6병",
+      "id": "590949",
+      "name": "ZIPLOC 스마트지퍼백 (중형) 275매",
       "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/08/31",
+      "normalPrice": 18990,
+      "discountAmount": -2800,
+      "finalPrice": 16190,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "603671",
+      "name": "스카치브라이트 초강력 린트롤러 95매 X 5롤",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -3900,
+      "finalPrice": 15590,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "599933",
+      "name": "에비앙 천연광천수 330ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3500,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -904,6 +904,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "616204",
+      "name": "스카치브라이트 3M 더블액션걸레세트 핸들 / 청소포(12+32)",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "614134",
       "name": "관절N 리프리놀 초록입홍합 추출오일 160MG X 100캡슐",
       "store": "COSTCO",
@@ -923,6 +934,17 @@
       "finalPrice": 13990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "614105",
+      "name": "퍼실 어드밴스드젤세탁세제 4.0L",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -1066,6 +1088,17 @@
       "finalPrice": 15990,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "659722",
+      "name": "다우니섬유유연제 실내 건조 플러스 4L",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5200,
+      "finalPrice": 17790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -1289,6 +1322,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "677417",
+      "name": "프로쉬 코튼블라썸섬유유연제 3L X 2",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -9000,
+      "finalPrice": 26990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "677103",
       "name": "럭스나인 NEW 라텍스 토퍼 킹사이즈/165X200CM",
       "store": "COSTCO",
@@ -1372,6 +1416,17 @@
       "normalPrice": 31990,
       "discountAmount": -6500,
       "finalPrice": 25490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "766986",
+      "name": "파미데이즈 황태유산균 덴탈껌 밀키베이스 16G X 40",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4500,
+      "finalPrice": 16490,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
