@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:59:12.569358+00:00",
+  "generatedAt": "2026-09-01T21:14:14.406328+00:00",
   "items": [
     {
       "id": "579924",
@@ -123,6 +123,17 @@
       "imageVersion": 1787058061348
     },
     {
+      "id": "1785779",
+      "name": "BOSE 무선 헤드폰 QC SC 블랙",
+      "store": "COSTCO",
+      "normalPrice": 299900,
+      "discountAmount": -60000,
+      "finalPrice": 239900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -198,6 +209,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787058593672
+    },
+    {
+      "id": "694083",
+      "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 6OP",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786179395216
     },
     {
       "id": "687502",
@@ -805,6 +827,17 @@
       "imageVersion": 1786178751151
     },
     {
+      "id": "694547",
+      "name": "NESCAFE 네스카페 돌체구스토 캡슐 아메리카노 60P",
+      "store": "COSTCO",
+      "normalPrice": 32490,
+      "discountAmount": -6500,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786179437452
+    },
+    {
       "id": "679297",
       "name": "ASAHI 소쿠사이 340ML X 12캔",
       "store": "COSTCO",
@@ -1044,6 +1077,17 @@
       "finalPrice": 12790,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "623319",
+      "name": "STARBUCKS스타벅스 네스프레소캡슐 60P",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -9500,
+      "finalPrice": 37490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -1421,6 +1465,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "669584",
+      "name": "TEFAL 테팔 핸드 블렌더 (1L 다지기 포함)",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -12000,
+      "finalPrice": 47900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "670448",
       "name": "PANTENE 팬틴 콜라겐 극손상케어 트리트먼트 400ML X 3",
       "store": "COSTCO",
@@ -1473,6 +1528,17 @@
       "finalPrice": 159900,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "672981",
+      "name": "STARBUCKS 스타벅스 돌체구스토캡슐 60P",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
