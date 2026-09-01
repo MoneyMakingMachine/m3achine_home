@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-09-01T18:59:08.836787+00:00",
+  "generatedAt": "2026-09-01T20:44:10.704356+00:00",
   "items": [
+    {
+      "id": "579924",
+      "name": "DURACELL듀라셀 알카라인 건전지 AA(1.5V) 40개입",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
     {
       "id": "1934016",
       "name": "GLOBAL OUTDOOR 가든 보관함 51 X 51 X 43CM",
@@ -772,6 +783,17 @@
       "imageVersion": 1786270811033
     },
     {
+      "id": "1900508",
+      "name": "NSF 메탈 4단 선반 90.8X35.2X136.5(H)CM",
+      "store": "COSTCO",
+      "normalPrice": 57900,
+      "discountAmount": -12000,
+      "finalPrice": 45900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "502986",
       "name": "얼라이브 원스데일리 멀티비타민 1734MG X 100정",
       "store": "COSTCO",
@@ -857,6 +879,17 @@
       "finalPrice": 16190,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "587509",
+      "name": "DURACELL듀라셀 알카라인 건전지 AAA (1.5V) 40개입",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -956,6 +989,17 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "629419",
+      "name": "STANLEY 스탠리 2 IN 1기능 최대70/137KG적재",
+      "store": "COSTCO",
+      "normalPrice": 89900,
+      "discountAmount": -18000,
+      "finalPrice": 71900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -1066,6 +1110,17 @@
       "finalPrice": 9990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "655666",
+      "name": "DAELIM 대림 분리형비데 자가 설치",
+      "store": "COSTCO",
+      "normalPrice": 164990,
+      "discountAmount": -33000,
+      "finalPrice": 131990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -1289,6 +1344,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "672984",
+      "name": "KARCHER 카처 건/습식 청소기 20리터",
+      "store": "COSTCO",
+      "normalPrice": 199900,
+      "discountAmount": -40000,
+      "finalPrice": 159900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "673257",
       "name": "얌그루 어린이눈건강구미 90구미",
       "store": "COSTCO",
@@ -1410,6 +1476,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "684110",
+      "name": "KARCHER 고압세척기 K4 CONTROL FLEX",
+      "store": "COSTCO",
+      "normalPrice": 349900,
+      "discountAmount": -70000,
+      "finalPrice": 279900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "684244",
       "name": "LOTTE 찰떡 파이 1225G / 35G X 35",
       "store": "COSTCO",
@@ -1458,8 +1535,8 @@
       "name": "웰치스 탄산소다 / 포도맛 355ML X 24",
       "store": "COSTCO",
       "normalPrice": 16990,
-      "discountAmount": -3600,
-      "finalPrice": 13390,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
       "imageVersion": 1786300361977
