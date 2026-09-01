@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T21:14:14.406328+00:00",
+  "generatedAt": "2026-09-01T23:29:16.223618+00:00",
   "items": [
     {
       "id": "579924",
@@ -1256,17 +1256,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "655666",
-      "name": "DAELIM 대림 분리형비데 자가 설치",
-      "store": "COSTCO",
-      "normalPrice": 164990,
-      "discountAmount": -33000,
-      "finalPrice": 131990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "657658",
       "name": "BULLSONE 불스원 프리미엄 연료첨가제 500ML 3개",
       "store": "COSTCO",
@@ -1275,6 +1264,17 @@
       "finalPrice": 26990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "655666",
+      "name": "DAELIM 대림 분리형비데 자가 설치",
+      "store": "COSTCO",
+      "normalPrice": 164990,
+      "discountAmount": -33000,
+      "finalPrice": 131990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -1520,17 +1520,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "672984",
-      "name": "KARCHER 카처 건/습식 청소기 20리터",
-      "store": "COSTCO",
-      "normalPrice": 199900,
-      "discountAmount": -40000,
-      "finalPrice": 159900,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "672981",
       "name": "STARBUCKS 스타벅스 돌체구스토캡슐 60P",
       "store": "COSTCO",
@@ -1539,6 +1528,17 @@
       "finalPrice": 29990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "672984",
+      "name": "KARCHER 카처 건/습식 청소기 20리터",
+      "store": "COSTCO",
+      "normalPrice": 199900,
+      "discountAmount": -40000,
+      "finalPrice": 159900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
