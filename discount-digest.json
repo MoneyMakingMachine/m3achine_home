@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T14:44:06.563882+00:00",
+  "generatedAt": "2026-09-01T18:59:08.836787+00:00",
   "items": [
     {
       "id": "1934016",
@@ -943,6 +943,17 @@
       "normalPrice": 28990,
       "discountAmount": -6000,
       "finalPrice": 22990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "631244",
+      "name": "트레비 탄산수 레몬향 300ML X 30팩",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
