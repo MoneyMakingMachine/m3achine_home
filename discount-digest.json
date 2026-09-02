@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T01:14:18.036932+00:00",
+  "generatedAt": "2026-09-02T10:44:19.915871+00:00",
   "items": [
     {
       "id": "579924",
@@ -68,6 +68,17 @@
       "imageVersion": 1787058041048
     },
     {
+      "id": "683406",
+      "name": "자몽 1 박스 (3.5KG 이상) 원산지 : 남아공",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "505619",
       "name": "4C 아이스티 복숭아 2.34KG",
       "store": "COSTCO",
@@ -132,6 +143,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "605137",
+      "name": "샤인머스캣 청포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 19890,
+      "discountAmount": -4000,
+      "finalPrice": 15890,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785498987460
     },
     {
       "id": "586958",
@@ -211,6 +233,17 @@
       "imageVersion": 1787058593672
     },
     {
+      "id": "692414",
+      "name": "하림 동물복지, 닭 가슴살 1.8KG",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786434791972
+    },
+    {
       "id": "694083",
       "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 6OP",
       "store": "COSTCO",
@@ -220,6 +253,28 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786179395216
+    },
+    {
+      "id": "520688",
+      "name": "DOLE 용과 (4입) 원산지 : 베트남",
+      "store": "COSTCO",
+      "normalPrice": 13490,
+      "discountAmount": -2800,
+      "finalPrice": 10690,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786434889357
+    },
+    {
+      "id": "508070",
+      "name": "카라카라 오렌지 (3.4KG 이상) 원산지 : 호주",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786434909249
     },
     {
       "id": "687502",
@@ -893,6 +948,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "530790",
+      "name": "유기농 달수고구마 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "570219",
       "name": "THE LAUGHING COW 플레인 포션 치즈 120G X 3 (360G)",
       "store": "COSTCO",
@@ -970,23 +1036,23 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "599933",
-      "name": "에비앙 천연광천수 330ML X 24팩",
-      "store": "COSTCO",
-      "normalPrice": 16490,
-      "discountAmount": -3500,
-      "finalPrice": 12990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "602026",
       "name": "BULLSONE불스원 그라스디퓨저 105ML 3개",
       "store": "COSTCO",
       "normalPrice": 31490,
       "discountAmount": -6500,
       "finalPrice": 24990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "599933",
+      "name": "에비앙 천연광천수 330ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3500,
+      "finalPrice": 12990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
