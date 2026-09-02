@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:44:36.094272+00:00",
+  "generatedAt": "2026-09-02T12:59:38.408311+00:00",
   "items": [
     {
       "id": "579924",
@@ -112,17 +112,6 @@
       "imageVersion": 1786180610230
     },
     {
-      "id": "693348",
-      "name": "QBB 캔디모양 치즈 120G X 3",
-      "store": "COSTCO",
-      "normalPrice": 13790,
-      "discountAmount": -2800,
-      "finalPrice": 10990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1785764016333
-    },
-    {
       "id": "507154",
       "name": "백설 햄스빌 베이컨 205G X 4",
       "store": "COSTCO",
@@ -132,6 +121,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "693348",
+      "name": "QBB 캔디모양 치즈 120G X 3",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -2800,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785764016333
     },
     {
       "id": "505619",
@@ -156,17 +156,6 @@
       "imageVersion": 1786431420565
     },
     {
-      "id": "680053",
-      "name": "테이블마크 코코이찌방야카레우동 347G X 4",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -4000,
-      "finalPrice": 23990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "674135",
       "name": "햇반 참치마요 주먹밥 100G X 12",
       "store": "COSTCO",
@@ -175,6 +164,17 @@
       "finalPrice": 11490,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "680053",
+      "name": "테이블마크 코코이찌방야카레우동 347G X 4",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -4000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -354,17 +354,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "688911",
-      "name": "오마뎅 진짜 부산떡볶이 352G X 5",
-      "store": "COSTCO",
-      "normalPrice": 16790,
-      "discountAmount": -3800,
-      "finalPrice": 12990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1785502519526
-    },
-    {
       "id": "691832",
       "name": "몽고 송표 간장 3.8L",
       "store": "COSTCO",
@@ -374,6 +363,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788349561648
+    },
+    {
+      "id": "688911",
+      "name": "오마뎅 진짜 부산떡볶이 352G X 5",
+      "store": "COSTCO",
+      "normalPrice": 16790,
+      "discountAmount": -3800,
+      "finalPrice": 12990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785502519526
     },
     {
       "id": "694700",
@@ -1894,6 +1894,17 @@
       "imageVersion": 1788352741983
     },
     {
+      "id": "695630",
+      "name": "NATURAL CORE 센시티브케어 밀웜 애견사료 500G X 10",
+      "store": "COSTCO",
+      "normalPrice": 53900,
+      "discountAmount": -11000,
+      "finalPrice": 42900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1788353267985
+    },
+    {
       "id": "694313",
       "name": "LG OLED TV 77형 194CM + S20A SOUNDBAR",
       "store": "COSTCO",
@@ -1982,6 +1993,17 @@
       "imageVersion": 1788352956401
     },
     {
+      "id": "683369",
+      "name": "프레지오 로마나산지오베제 750ML",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1788353240281
+    },
+    {
       "id": "1740696",
       "name": "SWISS MILITARY 여행가방 51CM (20)",
       "store": "COSTCO",
@@ -2024,6 +2046,28 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1788352859234
+    },
+    {
+      "id": "638989",
+      "name": "1924 버번 배럴 까베르네 쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788353112199
+    },
+    {
+      "id": "690240",
+      "name": "FOUR ROSES 버번위스키 1L",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788353213432
     },
     {
       "id": "677102",
@@ -2136,17 +2180,6 @@
       "imageVersion": 1785963965272
     },
     {
-      "id": "642573",
-      "name": "JAMESON 아이리쉬 위스키 700ML",
-      "store": "COSTCO",
-      "normalPrice": 33490,
-      "discountAmount": -6800,
-      "finalPrice": 26690,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1786015631362
-    },
-    {
       "id": "694265",
       "name": "메이커스 마크 버번 위스키 750ML",
       "store": "COSTCO",
@@ -2189,6 +2222,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/06",
       "imageVersion": 1785963915825
+    },
+    {
+      "id": "642573",
+      "name": "JAMESON 아이리쉬 위스키 700ML",
+      "store": "COSTCO",
+      "normalPrice": 33490,
+      "discountAmount": -6800,
+      "finalPrice": 26690,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1786015631362
     },
     {
       "id": "689756",
@@ -2356,17 +2400,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "534011",
-      "name": "하림 치킨 너겟 1,500G",
-      "store": "COSTCO",
-      "normalPrice": 15390,
-      "discountAmount": -3400,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "536564",
       "name": "하림 용가리 치킨 1,500G",
       "store": "COSTCO",
@@ -2419,6 +2452,17 @@
       "finalPrice": 11090,
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/02",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "534011",
+      "name": "하림 치킨 너겟 1,500G",
+      "store": "COSTCO",
+      "normalPrice": 15390,
+      "discountAmount": -3400,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -2488,17 +2532,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "584857",
-      "name": "HEINEKEN 캔맥주 500ML X 8캔",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3300,
-      "finalPrice": 12690,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "574784",
       "name": "JOSE CUERVO 레포사도 데킬라 1L",
       "store": "COSTCO",
@@ -2507,6 +2540,17 @@
       "finalPrice": 34990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "584857",
+      "name": "HEINEKEN 캔맥주 500ML X 8캔",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3300,
+      "finalPrice": 12690,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/28",
       "imageVersion": 1786300361977
     },
     {
@@ -2939,17 +2983,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "657658",
-      "name": "BULLSONE 불스원 프리미엄 연료첨가제 500ML 3개",
-      "store": "COSTCO",
-      "normalPrice": 33990,
-      "discountAmount": -7000,
-      "finalPrice": 26990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "655666",
       "name": "DAELIM 대림 분리형비데 자가 설치",
       "store": "COSTCO",
@@ -2958,6 +2991,17 @@
       "finalPrice": 131990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "657658",
+      "name": "BULLSONE 불스원 프리미엄 연료첨가제 500ML 3개",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
