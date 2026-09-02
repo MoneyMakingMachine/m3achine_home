@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T10:44:19.915871+00:00",
+  "generatedAt": "2026-09-02T10:59:22.037612+00:00",
   "items": [
     {
       "id": "579924",
@@ -198,6 +198,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787058317189
+    },
+    {
+      "id": "694843",
+      "name": "화과방 우유앙빵 35G X 15",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2500,
+      "finalPrice": 10490,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786435137317
     },
     {
       "id": "694700",
@@ -618,6 +629,17 @@
       "imageVersion": 1786174508302
     },
     {
+      "id": "671196",
+      "name": "MAMA'S CHOICE 오징어 소면 300G/ 100G X 3",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -3500,
+      "finalPrice": 13990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1785762515643
+    },
+    {
       "id": "694384",
       "name": "BALANCE GROW 룩얼라이브 진저샷 20G X 30",
       "store": "COSTCO",
@@ -805,6 +827,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "616062",
+      "name": "삼립 궁중 꿀약과 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2200,
+      "finalPrice": 8790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786185430170
+    },
+    {
       "id": "692843",
       "name": "RUCIPELLO루치펠로 스틱가글 12ML X 120개",
       "store": "COSTCO",
@@ -814,6 +847,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786185627182
+    },
+    {
+      "id": "666360",
+      "name": "것플렉스 투부현미스낵 490G/7 70GX7",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785569799461
     },
     {
       "id": "777450",
@@ -891,6 +935,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786179437452
+    },
+    {
+      "id": "595847",
+      "name": "미니 밤호박 (5입) 원산지 : 상품에 표기",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2200,
+      "finalPrice": 8790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786226233496
     },
     {
       "id": "1375000",
@@ -1165,6 +1220,17 @@
       "finalPrice": 71900,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "628119",
+      "name": "농심 쫄병 스낵 3종 1.18KG",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
@@ -1498,6 +1564,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "665745",
+      "name": "예천농협 한아름쌀 10KG 등급 : 상",
+      "store": "COSTCO",
+      "normalPrice": 33790,
+      "discountAmount": -2500,
+      "finalPrice": 31290,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "665421",
       "name": "VITAL PROTEINS 바이탈 프로틴 콜라겐 670G",
       "store": "COSTCO",
@@ -1539,6 +1616,17 @@
       "finalPrice": 13990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "671210",
+      "name": "해태 홈런볼 초코 768G / 128G X 6",
+      "store": "COSTCO",
+      "normalPrice": 15890,
+      "discountAmount": -3200,
+      "finalPrice": 12690,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/03",
       "imageVersion": 1786300361977
     },
     {
@@ -1682,6 +1770,17 @@
       "finalPrice": 23990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677530",
+      "name": "미각제빵소 황치즈 버터파이 75G X 10",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
