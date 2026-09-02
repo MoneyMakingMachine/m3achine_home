@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:44:27.602375+00:00",
+  "generatedAt": "2026-09-02T11:59:29.855130+00:00",
   "items": [
     {
       "id": "579924",
@@ -244,6 +244,39 @@
       "imageVersion": 1787059433859
     },
     {
+      "id": "637021",
+      "name": "CADINA 크리스피 프라이스 600G / 60G X 10",
+      "store": "COSTCO",
+      "normalPrice": 18790,
+      "discountAmount": -4000,
+      "finalPrice": 14790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349489976
+    },
+    {
+      "id": "694261",
+      "name": "FISH TREE 만능육수요리한포 4G X 90포",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3800,
+      "finalPrice": 15190,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349542027
+    },
+    {
+      "id": "693738",
+      "name": "PURETEIN 퓨어틴 프로틴 초코쉐이크 330ML X 12팩",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -8000,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349613391
+    },
+    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -332,6 +365,17 @@
       "imageVersion": 1785502519526
     },
     {
+      "id": "691832",
+      "name": "몽고 송표 간장 3.8L",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349561648
+    },
+    {
       "id": "694700",
       "name": "여주시농협 여주쌀 10KG",
       "store": "COSTCO",
@@ -387,6 +431,39 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "692567",
+      "name": "오르조 바닐라라떼 15G X 50",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349593385
+    },
+    {
+      "id": "690527",
+      "name": "뉴트리원 엑스트라버진올리브유 &레몬즙 선물세트",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5600,
+      "finalPrice": 22390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788349658359
+    },
+    {
+      "id": "692097",
+      "name": "CODES COMBINE 셔켓 S/M,M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349723454
+    },
+    {
       "id": "694083",
       "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 6OP",
       "store": "COSTCO",
@@ -440,6 +517,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/06",
       "imageVersion": 1786434909249
+    },
+    {
+      "id": "694690",
+      "name": "청정원 특선C-1호 선물세트",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1788349644611
     },
     {
       "id": "687502",
@@ -574,6 +662,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "694744",
+      "name": "관첼 콘드로이친 + K2 180정",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/08/29",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1788349679376
+    },
+    {
       "id": "687658",
       "name": "PUMA 키즈 카고 반바지 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -616,6 +715,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786183515501
+    },
+    {
+      "id": "2010450",
+      "name": "WEATHERPROOF 여성 카라 자켓 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 54900,
+      "discountAmount": -11000,
+      "finalPrice": 43900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349698109
     },
     {
       "id": "685913",
