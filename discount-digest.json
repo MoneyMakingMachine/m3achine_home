@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T11:29:25.570546+00:00",
+  "generatedAt": "2026-09-02T11:44:27.602375+00:00",
   "items": [
     {
       "id": "579924",
@@ -872,7 +872,7 @@
     },
     {
       "id": "699900",
-      "name": "링티, 쿨 가드 레몬맛 11.6G X 28(+물병)",
+      "name": "링티 쿨 가드 레몬맛 11.6G X 28(+물병)",
       "store": "COSTCO",
       "normalPrice": 28990,
       "discountAmount": -6000,
@@ -1146,6 +1146,17 @@
       "imageVersion": 1786015580192
     },
     {
+      "id": "627952",
+      "name": "MALIBU 캐리비안 럼 1L",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -7600,
+      "finalPrice": 24390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786101134460
+    },
+    {
       "id": "688077",
       "name": "DC 하이브리드 워터티 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -1256,6 +1267,17 @@
       "imageVersion": 1786270966429
     },
     {
+      "id": "608928",
+      "name": "멈 꼬르동루즈샴페인 750ML",
+      "store": "COSTCO",
+      "normalPrice": 65900,
+      "discountAmount": -14000,
+      "finalPrice": 51900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "1375000",
       "name": "LIFETIME라이프타임 다목적 테이블 W122 X D61 X H86 CM",
       "store": "COSTCO",
@@ -1355,6 +1377,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "556571",
+      "name": "KAHLUA 깔루아 리큐르 1L",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -7700,
+      "finalPrice": 23790,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "574472",
+      "name": "ABSOLUT 보드카 1L",
+      "store": "COSTCO",
+      "normalPrice": 35390,
+      "discountAmount": -10500,
+      "finalPrice": 24890,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "570219",
       "name": "THE LAUGHING COW 플레인 포션 치즈 120G X 3 (360G)",
       "store": "COSTCO",
@@ -1440,6 +1484,17 @@
       "finalPrice": 12690,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/28",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "574784",
+      "name": "JOSE CUERVO 레포사도 데킬라 1L",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -9000,
+      "finalPrice": 34990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -1652,17 +1707,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "628119",
-      "name": "농심 쫄병 스낵 3종 1.18KG",
-      "store": "COSTCO",
-      "normalPrice": 12490,
-      "discountAmount": -2500,
-      "finalPrice": 9990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/06",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "627908",
       "name": "NATURE VALLEY 프로틴 바 1.2KG / 40G X 30",
       "store": "COSTCO",
@@ -1671,6 +1715,17 @@
       "finalPrice": 16990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "628119",
+      "name": "농심 쫄병 스낵 3종 1.18KG",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/06",
       "imageVersion": 1786300361977
     },
     {
