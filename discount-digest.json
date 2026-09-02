@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:29:16.223618+00:00",
+  "generatedAt": "2026-09-02T01:14:18.036932+00:00",
   "items": [
     {
       "id": "579924",
@@ -838,17 +838,6 @@
       "imageVersion": 1786179437452
     },
     {
-      "id": "679297",
-      "name": "ASAHI 소쿠사이 340ML X 12캔",
-      "store": "COSTCO",
-      "normalPrice": 23490,
-      "discountAmount": -3700,
-      "finalPrice": 19790,
-      "saleStart": "2026/08/03",
-      "saleEnd": "2026/09/01",
-      "imageVersion": 1786270811033
-    },
-    {
       "id": "1375000",
       "name": "LIFETIME라이프타임 다목적 테이블 W122 X D61 X H86 CM",
       "store": "COSTCO",
@@ -937,17 +926,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "596949",
-      "name": "코카콜라 600ML X 12팩",
-      "store": "COSTCO",
-      "normalPrice": 22990,
-      "discountAmount": -5000,
-      "finalPrice": 17990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "590949",
       "name": "ZIPLOC 스마트지퍼백 (중형) 275매",
       "store": "COSTCO",
@@ -965,6 +943,17 @@
       "normalPrice": 17990,
       "discountAmount": -3600,
       "finalPrice": 14390,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "596949",
+      "name": "코카콜라 600ML X 12팩",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
