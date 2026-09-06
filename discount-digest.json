@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:32:17.843147+00:00",
+  "generatedAt": "2026-09-06T11:32:21.501119+00:00",
   "items": [
     {
       "id": "579924",
@@ -1652,17 +1652,6 @@
       "imageVersion": 1788352824264
     },
     {
-      "id": "659280",
-      "name": "PERLE Dl SOLE 레몬맛 캔디 750G",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -3000,
-      "finalPrice": 15990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/03",
-      "imageVersion": 1788352889561
-    },
-    {
       "id": "684224",
       "name": "MEITO 푸쿠푸쿠 타이 330G / 16.5G X 20",
       "store": "COSTCO",
@@ -2895,17 +2884,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "651776",
-      "name": "JIM BEAM 버번위스키 1L",
-      "store": "COSTCO",
-      "normalPrice": 35990,
-      "discountAmount": -8000,
-      "finalPrice": 27990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/09/04",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "651510",
       "name": "보노 옥수수알 콘스프 21G X 18",
       "store": "COSTCO",
@@ -3233,17 +3211,6 @@
       "finalPrice": 13990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "671210",
-      "name": "해태 홈런볼 초코 768G / 128G X 6",
-      "store": "COSTCO",
-      "normalPrice": 15890,
-      "discountAmount": -3200,
-      "finalPrice": 12690,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/03",
       "imageVersion": 1786300361977
     },
     {
