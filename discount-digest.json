@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:02:29.640275+00:00",
+  "generatedAt": "2026-09-07T12:55:25.955880+00:00",
   "items": [
     {
       "id": "579924",
@@ -24,6 +24,17 @@
       "imageVersion": 1787057916089
     },
     {
+      "id": "7771005",
+      "name": "KIRKLAND SIGNATURE 여성 카프리 바지 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17970,
+      "discountAmount": -8000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787058041048
+    },
+    {
       "id": "588139",
       "name": "SAPPORO 캔맥주 KG500ML X 6캔",
       "store": "COSTCO",
@@ -44,17 +55,6 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "7771005",
-      "name": "KIRKLAND SIGNATURE 여성 카프리 바지 S,M,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": 19970,
-      "discountAmount": -8000,
-      "finalPrice": 11970,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1787058041048
     },
     {
       "id": "683406",
@@ -110,6 +110,28 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "1956420",
+      "name": "JACHS 여성 체크 셔츠 SM,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1786431671708
+    },
+    {
+      "id": "687713",
+      "name": "CRESSON 여성 와이드 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786431964392
     },
     {
       "id": "1763871",
@@ -365,6 +387,17 @@
       "imageVersion": 1785496702797
     },
     {
+      "id": "692259",
+      "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785498384743
+    },
+    {
       "id": "696832",
       "name": "디사론노 리큐르 700ML",
       "store": "COSTCO",
@@ -596,6 +629,17 @@
       "imageVersion": 1788351811635
     },
     {
+      "id": "656998",
+      "name": "PUMA 성인 코트화 230- 280MM",
+      "store": "COSTCO",
+      "normalPrice": 26470,
+      "discountAmount": -6500,
+      "finalPrice": 19970,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786183470367
+    },
+    {
       "id": "1872149",
       "name": "INFINİTY X1 스트링 라이트 2개",
       "store": "COSTCO",
@@ -783,6 +827,28 @@
       "imageVersion": 1786178523030
     },
     {
+      "id": "686911",
+      "name": "여에스더 콜린 이노시톨 6.5G-X 60포",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786178511392
+    },
+    {
+      "id": "653278",
+      "name": "KULTE 스트링면바지 MLXL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786183825870
+    },
+    {
       "id": "726706",
       "name": "이지엔 슬라이더스밴딩지퍼백 145매",
       "store": "COSTCO",
@@ -838,17 +904,6 @@
       "imageVersion": 1788350728185
     },
     {
-      "id": "1613184",
-      "name": "HALSTON 여성 반소매 니트 S,M,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": 23990,
-      "discountAmount": -5000,
-      "finalPrice": 18990,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1787708646833
-    },
-    {
       "id": "694828",
       "name": "산타리타 트리플C 다크 750ML",
       "store": "COSTCO",
@@ -869,6 +924,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1785603071095
+    },
+    {
+      "id": "1613184",
+      "name": "HALSTON 여성 반소매 니트 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787708646833
     },
     {
       "id": "666386",
@@ -1232,6 +1298,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788352058736
+    },
+    {
+      "id": "685149",
+      "name": "VONBEE 6년근 홍삼본 70ML X 30",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -4000,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788350973034
     },
     {
       "id": "694313",
@@ -1674,6 +1751,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "595043",
+      "name": "바슈롬 오큐비전50 PLUS 750MG X 60캡슐",
+      "store": "COSTCO",
+      "normalPrice": 31490,
+      "discountAmount": -6500,
+      "finalPrice": 24990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "603722",
       "name": "크리넥스 보습소프트미용티슈 160매X8팩 (3겹)",
       "store": "COSTCO",
@@ -2004,6 +2092,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "664941",
+      "name": "뉴트리원 루테인지아잔틴164 아스타잔틴60캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "663776",
       "name": "JACK DANIEL'S 테네시 애플위스키 1L",
       "store": "COSTCO",
@@ -2191,6 +2290,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "674431",
+      "name": "동원천지인 홍삼절편 15G X 16갑",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "675757",
       "name": "DORLY 제주 감귤 과즐 660G / 22G X 30",
       "store": "COSTCO",
@@ -2246,17 +2356,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "677798",
-      "name": "노와이어브라 2매 75A-85B ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "677530",
       "name": "미각제빵소 황치즈 버터파이 75G X 10",
       "store": "COSTCO",
@@ -2279,6 +2378,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "677798",
+      "name": "노와이어브라 2매 75A-85B ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677849",
+      "name": "뉴트리원 코코칼슘젤리 20G X 40 포",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "678077",
       "name": "SAINT MILLER 자외선차단 마스크 2개",
       "store": "COSTCO",
@@ -2287,6 +2408,17 @@
       "finalPrice": 10990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "679589",
+      "name": "DEPEND 디펜드 안심성인용기저귀 32개",
+      "store": "COSTCO",
+      "normalPrice": 26490,
+      "discountAmount": -6500,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -2309,6 +2441,17 @@
       "finalPrice": 9590,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "680575",
+      "name": "덴프스 NMN 250 700MG X 60정",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
