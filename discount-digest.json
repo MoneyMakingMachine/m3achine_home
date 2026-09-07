@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:47:26.980287+00:00",
+  "generatedAt": "2026-09-07T12:02:29.640275+00:00",
   "items": [
     {
       "id": "579924",
@@ -2177,6 +2177,17 @@
       "finalPrice": 23990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "674080",
+      "name": "BRIGHTON 여행가방 72CM (26)",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
