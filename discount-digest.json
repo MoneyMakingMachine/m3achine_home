@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T13:10:28.521432+00:00",
+  "generatedAt": "2026-09-07T19:55:31.162306+00:00",
   "items": [
     {
       "id": "579924",
@@ -33,6 +33,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1787058041048
+    },
+    {
+      "id": "624655",
+      "name": "BREF 변기세정볼(레몬) 50G X 12입",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
     },
     {
       "id": "588139",
@@ -649,6 +660,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786183470367
+    },
+    {
+      "id": "574962",
+      "name": "LISTERINE 리스테린 구강청결제 쿨민트 1.5L X 2개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4500,
+      "finalPrice": 15490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785062573970
     },
     {
       "id": "1872149",
@@ -1520,6 +1542,28 @@
       "imageVersion": 1786185627182
     },
     {
+      "id": "701306",
+      "name": "크리넥스 수프림플러스화장지 4OM X 30롤, 3겹",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785062655479
+    },
+    {
+      "id": "615890",
+      "name": "베지터블 코인 압축 티슈 300EA (23CM X 23CM)",
+      "store": "COSTCO",
+      "normalPrice": 11490,
+      "discountAmount": -1500,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786185866304
+    },
+    {
       "id": "666360",
       "name": "것플렉스 투부현미스낵 490G/7 70GX7",
       "store": "COSTCO",
@@ -1674,6 +1718,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "521817",
+      "name": "크리넥스 마이비데 물티슈 60매 X 6팩",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "513989",
       "name": "ROYAL SALUTE 21년 700ML",
       "store": "COSTCO",
@@ -1814,6 +1869,17 @@
       "finalPrice": 18290,
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "617031",
+      "name": "샤프란 꽃담초 섬유유연제 5.7L",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -2100,6 +2166,17 @@
       "finalPrice": 13990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "663585",
+      "name": "액츠 파워젤 세탁세제 14L",
+      "store": "COSTCO",
+      "normalPrice": 23790,
+      "discountAmount": -4000,
+      "finalPrice": 19790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -2422,17 +2499,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "677937",
-      "name": "SENSODYNE 센소다인 제스트라 화이트 치약 120G X 6개",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -6000,
-      "finalPrice": 19990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "677798",
       "name": "노와이어브라 2매 75A-85B ASIAN SIZE",
       "store": "COSTCO",
@@ -2452,6 +2518,17 @@
       "finalPrice": 18990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677937",
+      "name": "SENSODYNE 센소다인 제스트라 화이트 치약 120G X 6개",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -2594,6 +2671,17 @@
       "discountAmount": -4500,
       "finalPrice": 16490,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "720986",
+      "name": "크리넥스 위생행주 100매",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -4800,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
