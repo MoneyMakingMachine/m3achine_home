@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:10:33.816489+00:00",
+  "generatedAt": "2026-09-07T20:25:36.814367+00:00",
   "items": [
     {
       "id": "579924",
@@ -992,6 +992,28 @@
       "imageVersion": 1785662821799
     },
     {
+      "id": "694647",
+      "name": "LG 스탠바이미2 MAX",
+      "store": "COSTCO",
+      "normalPrice": 1399000,
+      "discountAmount": -200000,
+      "finalPrice": 1199000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785663663654
+    },
+    {
+      "id": "687386",
+      "name": "LG 오브제 양문형 매직스페이스 832L",
+      "store": "COSTCO",
+      "normalPrice": 2099000,
+      "discountAmount": -300000,
+      "finalPrice": 1799000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785663088070
+    },
+    {
       "id": "726706",
       "name": "이지엔 슬라이더스밴딩지퍼백 145매",
       "store": "COSTCO",
@@ -1663,6 +1685,17 @@
       "imageVersion": 1785062655479
     },
     {
+      "id": "1806537",
+      "name": "YANKEE CANDLE 양키캔들 차량용 방향제 5개",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -4000,
+      "finalPrice": 12490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786186341776
+    },
+    {
       "id": "615890",
       "name": "베지터블 코인 압축 티슈 300EA (23CM X 23CM)",
       "store": "COSTCO",
@@ -2125,6 +2158,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "627620",
+      "name": "BULLSONE 불스원 3 IN 1 에탄올워셔 1.8L X 3개",
+      "store": "COSTCO",
+      "normalPrice": 11490,
+      "discountAmount": -2500,
+      "finalPrice": 8990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "633905",
       "name": "BACARDI 슈페리에 럼 1L /푸에르토리코",
       "store": "COSTCO",
@@ -2367,6 +2411,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "659155",
+      "name": "PHILIPS필립스 소닉케어전동칫솔 2인용세트 HX6403/70",
+      "store": "COSTCO",
+      "normalPrice": 138900,
+      "discountAmount": -29000,
+      "finalPrice": 109900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "659722",
       "name": "다우니섬유유연제 실내 건조 플러스 4L",
       "store": "COSTCO",
@@ -2386,6 +2441,17 @@
       "finalPrice": 20490,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "660439",
+      "name": "SAFELIFE세이프라이프 소화기 Z07 자동채/캠핑/가정",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -2693,6 +2759,17 @@
       "discountAmount": -5000,
       "finalPrice": 19990,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "675201",
+      "name": "BRITA 브리타 막스트라프로 필터 6P, 독일산",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8400,
+      "finalPrice": 33590,
+      "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
