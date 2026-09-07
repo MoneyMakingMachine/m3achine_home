@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:55:25.955880+00:00",
+  "generatedAt": "2026-09-07T13:10:28.521432+00:00",
   "items": [
     {
       "id": "579924",
@@ -264,6 +264,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1785502519526
+    },
+    {
+      "id": "699904",
+      "name": "HUGGIES 하기스 네이처메이드 팬티형 4단계 80개(공용)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786432811484
     },
     {
       "id": "786876",
@@ -1443,6 +1454,39 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "699905",
+      "name": "HUGGIES 네이처메이드 편티형 5단계66개(공용)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786432852656
+    },
+    {
+      "id": "699906",
+      "name": "HUGGIES 하기스 네이처메이드 팬티형 6단계54개(공용)",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786433934075
+    },
+    {
+      "id": "681390",
+      "name": "EASYDEW 이지듀 멜라토닝 앰플 13ML X 2 + 1ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 49900,
+      "discountAmount": -10000,
+      "finalPrice": 39900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "669119",
       "name": "라보아 섬유유연제 프랑지파니&가이악 4L",
       "store": "COSTCO",
@@ -2320,6 +2364,17 @@
       "finalPrice": 19990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "676323",
+      "name": "O HUI 오휘 에이지 리커버리 스킨소프너&에멀젼",
+      "store": "COSTCO",
+      "normalPrice": 55900,
+      "discountAmount": -12000,
+      "finalPrice": 43900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
