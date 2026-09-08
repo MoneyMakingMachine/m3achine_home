@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T20:25:36.814367+00:00",
+  "generatedAt": "2026-09-08T11:25:39.455421+00:00",
   "items": [
     {
       "id": "579924",
@@ -420,6 +420,17 @@
       "imageVersion": 1786179395216
     },
     {
+      "id": "647825",
+      "name": "스텔라벨라청포도 (1.36 KG) 원산지 : 상품에 표기",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786434854346
+    },
+    {
       "id": "694690",
       "name": "청정원 특선C-1호 선물세트",
       "store": "COSTCO",
@@ -429,6 +440,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1788349644611
+    },
+    {
+      "id": "505374",
+      "name": "후레쉬 라임 (1KG) 원산지 : 멕시코",
+      "store": "COSTCO",
+      "normalPrice": 14890,
+      "discountAmount": -2400,
+      "finalPrice": 12490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786434950648
     },
     {
       "id": "694810",
@@ -1012,6 +1034,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1785663088070
+    },
+    {
+      "id": "692152",
+      "name": "LG 오브제 AI 매직 871L",
+      "store": "COSTCO",
+      "normalPrice": 3649000,
+      "discountAmount": -500000,
+      "finalPrice": 3149000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785663045716
     },
     {
       "id": "726706",
@@ -1740,6 +1773,17 @@
       "imageVersion": 1786187129789
     },
     {
+      "id": "768258",
+      "name": "스윗사파이어블랙포도 (1.36 KG) 원산지:상품에표기",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2400,
+      "finalPrice": 13590,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786226072380
+    },
+    {
       "id": "500073",
       "name": "ZIPLOC 버라이어티 냉장백 소형200, 미니100",
       "store": "COSTCO",
@@ -1793,6 +1837,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786178751151
+    },
+    {
+      "id": "579947",
+      "name": "복숭아 (3KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786270190200
     },
     {
       "id": "694547",
@@ -2070,6 +2125,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "617164",
+      "name": "양념바다장어구이 장어원산지:국산 1KG(500G*2EA)",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -6500,
+      "finalPrice": 25490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "614105",
       "name": "퍼실 어드밴스드젤세탁세제 4.0L",
       "store": "COSTCO",
@@ -2166,17 +2232,6 @@
       "finalPrice": 8990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "633905",
-      "name": "BACARDI 슈페리에 럼 1L /푸에르토리코",
-      "store": "COSTCO",
-      "normalPrice": 27390,
-      "discountAmount": -7400,
-      "finalPrice": 19990,
-      "saleStart": "2026/08/10",
-      "saleEnd": "2026/09/07",
       "imageVersion": 1786300361977
     },
     {
@@ -2584,6 +2639,28 @@
       "finalPrice": 499000,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "667116",
+      "name": "미국산초이스 냉동 칼집포갈비(본갈비) 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/10",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "667628",
+      "name": "ZESPRI 골드키위 2.4KG 원산지 : 뉴질랜드",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
