@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:25:59.566355+00:00",
+  "generatedAt": "2026-09-08T13:41:03.190532+00:00",
   "items": [
     {
       "id": "579924",
@@ -2081,6 +2081,17 @@
       "imageVersion": 1788873945462
     },
     {
+      "id": "692365",
+      "name": "BRENTWOOD 남성 라운드 니트 95 - 115 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788874193435
+    },
+    {
       "id": "696050",
       "name": "ANBANG 안방 연기잡는 그릴 울트라, 하프돔",
       "store": "COSTCO",
@@ -2167,6 +2178,39 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/25",
       "imageVersion": 1788873917876
+    },
+    {
+      "id": "692601",
+      "name": "EIDER 여성 윈드브레이커 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 65900,
+      "discountAmount": -14000,
+      "finalPrice": 51900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788873966221
+    },
+    {
+      "id": "692327",
+      "name": "SOLEZIA 여성 브이넥 니트 S.ML ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788874030029
+    },
+    {
+      "id": "692588",
+      "name": "COUNTESS MARA 남성 니트 베스트 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788874220294
     },
     {
       "id": "693482",
@@ -2356,6 +2400,39 @@
       "imageVersion": 1788873900447
     },
     {
+      "id": "1956419",
+      "name": "JACHS 여성 슬럽 티셔츠 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788874008354
+    },
+    {
+      "id": "692094",
+      "name": "CODES COMBINE 여성 와이드 팬츠 S.M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788874167946
+    },
+    {
+      "id": "692469",
+      "name": "TRUE RELIGION 성인 긴소매 크루 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788874246129
+    },
+    {
       "id": "674119",
       "name": "CORELLE 코렐 더블링 디너웨어 4인세트 17P",
       "store": "COSTCO",
@@ -2464,6 +2541,28 @@
       "saleStart": "2026/09/03",
       "saleEnd": "2026/09/13",
       "imageVersion": 1788873790831
+    },
+    {
+      "id": "2010332",
+      "name": "32 DEGREES 여성 다운 베스트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788873985055
+    },
+    {
+      "id": "692113",
+      "name": "BENETTE 여성 후드 베스트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -9000,
+      "finalPrice": 34990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788874142260
     },
     {
       "id": "692843",
