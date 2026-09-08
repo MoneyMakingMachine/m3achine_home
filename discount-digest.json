@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:10:47.884397+00:00",
+  "generatedAt": "2026-09-08T12:40:51.414272+00:00",
   "items": [
     {
       "id": "579924",
@@ -134,6 +134,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "507154",
+      "name": "백설 햄스빌 베이컨 205G X 4",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "764543",
       "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
       "store": "COSTCO",
@@ -211,6 +222,39 @@
       "imageVersion": 1787058061348
     },
     {
+      "id": "674135",
+      "name": "햇반 참치마요 주먹밥 100G X 12",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "661329",
+      "name": "고삼농협 한우곰탕 330ML X 8",
+      "store": "COSTCO",
+      "normalPrice": 19790,
+      "discountAmount": -3000,
+      "finalPrice": 16790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "665976",
+      "name": "고메 소바바소이허니순살 1100G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "1785779",
       "name": "BOSE 무선 헤드폰 QC SC 블랙",
       "store": "COSTCO",
@@ -285,6 +329,17 @@
       "finalPrice": 22990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "639795",
+      "name": "종가집 얼갈이열무김치 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 13790,
+      "discountAmount": -2300,
+      "finalPrice": 11490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -442,6 +497,28 @@
       "imageVersion": 1788349723454
     },
     {
+      "id": "521717",
+      "name": "고메 함박 스테이크 810G (소스포함)",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "694852",
+      "name": "비비고 들기름막국수 188.5G X 4 (754G)",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2000,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785764330095
+    },
+    {
       "id": "694083",
       "name": "스타벅스 캡슐커피 아이스 아메리카노 혹은 디카페인 6OP",
       "store": "COSTCO",
@@ -495,6 +572,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787059460126
+    },
+    {
+      "id": "692168",
+      "name": "BIBIGO 비비고 깻잎만두 1600G",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -2500,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786180128148
+    },
+    {
+      "id": "660370",
+      "name": "비비고 바지락칼국수 321G X 6",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
     },
     {
       "id": "694690",
@@ -583,6 +682,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786180599889
+    },
+    {
+      "id": "692123",
+      "name": "덴마크 리얼프릇딸기 190ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786181922040
     },
     {
       "id": "694810",
@@ -704,6 +814,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786183515501
+    },
+    {
+      "id": "688576",
+      "name": "TYMBARK 망고애플오렌지주스 250ML X 15",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2200,
+      "finalPrice": 8790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785915141120
     },
     {
       "id": "2010450",
@@ -1443,6 +1564,17 @@
       "imageVersion": 1788352914265
     },
     {
+      "id": "619748",
+      "name": "한성기업 프리미엄 해물경단 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -2500,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1788352766880
+    },
+    {
       "id": "1844965",
       "name": "SKECHERS 여성덧신양말 8족 FREE SIZE",
       "store": "COSTCO",
@@ -1562,6 +1694,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/10/04",
       "imageVersion": 1788353073210
+    },
+    {
+      "id": "691864",
+      "name": "비비고 플랜테이블 오리지널 왕교자 1.4KG",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2000,
+      "finalPrice": 10490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1788352564679
     },
     {
       "id": "645296",
@@ -2004,6 +2147,17 @@
       "imageVersion": 1786015631362
     },
     {
+      "id": "692154",
+      "name": "BALANCE GROW 제주감귤 주스 2L X 2",
+      "store": "COSTCO",
+      "normalPrice": 12790,
+      "discountAmount": -4000,
+      "finalPrice": 8790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785963915825
+    },
+    {
       "id": "689756",
       "name": "IRIS 우드탑 5단 서랍장",
       "store": "COSTCO",
@@ -2103,6 +2257,17 @@
       "imageVersion": 1786269445105
     },
     {
+      "id": "692870",
+      "name": "CJ 제일제당 고메 김치 우동 229G X 4",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2400,
+      "finalPrice": 10590,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786270416408
+    },
+    {
       "id": "694547",
       "name": "NESCAFE 네스카페 돌체구스토 캡슐 아메리카노 60P",
       "store": "COSTCO",
@@ -2167,6 +2332,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "691378",
+      "name": "고메 소바바양념순살치킨 1100G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786270592798
+    },
+    {
+      "id": "625499",
+      "name": "이롬 약콩 두유 190ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786270713503
     },
     {
       "id": "1375000",
@@ -2279,6 +2466,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "525619",
+      "name": "CP 플레이밍 치킨 텐더 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "513989",
       "name": "ROYAL SALUTE 21년 700ML",
       "store": "COSTCO",
@@ -2331,6 +2529,17 @@
       "finalPrice": 21990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "563474",
+      "name": "다담 바지락순두부찌개 양념 140G X 5",
+      "store": "COSTCO",
+      "normalPrice": 6790,
+      "discountAmount": -1300,
+      "finalPrice": 5490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -2543,6 +2752,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "611262",
+      "name": "풀무원 보리쫄면 1,290G (6인분)",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "617031",
       "name": "샤프란 꽃담초 섬유유연제 5.7L",
       "store": "COSTCO",
@@ -2582,6 +2802,17 @@
       "normalPrice": 29990,
       "discountAmount": -3000,
       "finalPrice": 26990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "615210",
+      "name": "BIBIGO남도 떡갈비 남도 떡갈비 900G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
@@ -2719,6 +2950,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "630842",
+      "name": "DENMARK 스위티자몽주스 200ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2000,
+      "finalPrice": 8990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "635990",
+      "name": "비비고 총각김치 2.4KG",
+      "store": "COSTCO",
+      "normalPrice": 24390,
+      "discountAmount": -4000,
+      "finalPrice": 20390,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "637344",
       "name": "AERIUM 여성골프장갑 4개입",
       "store": "COSTCO",
@@ -2760,6 +3013,17 @@
       "finalPrice": 13990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "638369",
+      "name": "동원 DONGWON THE KING CRABS 140G X 6",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -2836,6 +3100,17 @@
       "discountAmount": -6500,
       "finalPrice": 25490,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "646066",
+      "name": "BIBIGO수제만둣집 진한김치만두 1600G",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -2500,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
@@ -2983,6 +3258,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "656897",
+      "name": "서정옥의 느린부엌 느린식혜 1L X 4",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2800,
+      "finalPrice": 9690,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "655475",
+      "name": "하림자연실록 스파이시닭가슴살 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "659155",
       "name": "PHILIPS필립스 소닉케어전동칫솔 2인용세트 HX6403/70",
       "store": "COSTCO",
@@ -3024,6 +3321,28 @@
       "finalPrice": 29490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "660369",
+      "name": "고메 중화짬뽕 326G X 6",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "660568",
+      "name": "롯데햄 의성마늘 직꾸닭 100G X 8",
+      "store": "COSTCO",
+      "normalPrice": 12690,
+      "discountAmount": -2700,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -3101,6 +3420,17 @@
       "finalPrice": 23990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "665140",
+      "name": "BIBIGO 비비고 왕교자 1,925G",
+      "store": "COSTCO",
+      "normalPrice": 15490,
+      "discountAmount": -2500,
+      "finalPrice": 12990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -3192,12 +3522,34 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "667290",
+      "name": "햇반 김치치즈주먹밥 100G X 12",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "667628",
       "name": "ZESPRI 골드키위 2.4KG 원산지 : 뉴질랜드",
       "store": "COSTCO",
       "normalPrice": 25990,
       "discountAmount": -4000,
       "finalPrice": 21990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "668254",
+      "name": "상하치즈 유기농 체다치즈 1,080G (180G X 6)",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -4600,
+      "finalPrice": 19390,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
@@ -3276,6 +3628,28 @@
       "discountAmount": -3500,
       "finalPrice": 13990,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "670157",
+      "name": "고메 크리스피 핫도그 80G X 13",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2500,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "670608",
+      "name": "백종원의빽쿡 소고기메추리알장조림 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3400,
+      "finalPrice": 14590,
+      "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
@@ -3398,6 +3772,17 @@
       "finalPrice": 31990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "673723",
+      "name": "BIBIGO 비비고 통새우만두 200G X 4 (800G)",
+      "store": "COSTCO",
+      "normalPrice": 17790,
+      "discountAmount": -2800,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -3632,6 +4017,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "680698",
+      "name": "마음이가 모둠꿀떡 1.4KG",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -2500,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "681445",
       "name": "면발의 신 마라탕면 85G X 6",
       "store": "COSTCO",
@@ -3665,6 +4061,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "682499",
+      "name": "한성기업 크런치롤유부초밥 240G X 3 (6인분)",
+      "store": "COSTCO",
+      "normalPrice": 9590,
+      "discountAmount": -1800,
+      "finalPrice": 7790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "684110",
       "name": "KARCHER 고압세척기 K4 CONTROL FLEX",
       "store": "COSTCO",
@@ -3695,6 +4102,17 @@
       "finalPrice": 11990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "684939",
+      "name": "애슐리 고르곤졸라화덕피자 250G X 3",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -3000,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -3761,6 +4179,17 @@
       "finalPrice": 61900,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "692888",
+      "name": "고메 고기짜장 340G X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2500,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
