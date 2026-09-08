@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:41:03.190532+00:00",
+  "generatedAt": "2026-09-08T13:56:06.679454+00:00",
   "items": [
     {
       "id": "579924",
@@ -563,17 +563,6 @@
       "imageVersion": 1786435095581
     },
     {
-      "id": "696053",
-      "name": "더다믐 김칩스 264G / 44G X 6",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1785503971099
-    },
-    {
       "id": "691658",
       "name": "햇반 듬뿍 소고기죽 420G X5",
       "store": "COSTCO",
@@ -616,6 +605,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/30",
       "imageVersion": 1786436547141
+    },
+    {
+      "id": "696053",
+      "name": "더다믐 김칩스 264G / 44G X 6",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785503971099
     },
     {
       "id": "694690",
