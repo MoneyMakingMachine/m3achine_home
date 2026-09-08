@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T12:55:54.317114+00:00",
+  "generatedAt": "2026-09-08T13:10:56.949745+00:00",
   "items": [
     {
       "id": "579924",
@@ -517,6 +517,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1785764330095
+    },
+    {
+      "id": "663775",
+      "name": "벅쉑 버번배럴까베르네 쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5000,
+      "finalPrice": 24990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1785766268212
     },
     {
       "id": "694083",
