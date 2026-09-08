@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T11:55:45.287095+00:00",
+  "generatedAt": "2026-09-08T12:10:47.884397+00:00",
   "items": [
     {
       "id": "579924",
@@ -574,6 +574,17 @@
       "imageVersion": 1786435495261
     },
     {
+      "id": "683448",
+      "name": "NETHEREND FARM 가염버터롤 250G X 3원산지영국",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786180599889
+    },
+    {
       "id": "694810",
       "name": "클라우드라인 피노누아 750ML",
       "store": "COSTCO",
@@ -616,6 +627,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786179621941
+    },
+    {
+      "id": "678016",
+      "name": "DELICI 쿠키버터무스 76G X 6 원산지: 벨기에",
+      "store": "COSTCO",
+      "normalPrice": 17790,
+      "discountAmount": -3800,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1787059621643
     },
     {
       "id": "687963",
@@ -2059,6 +2081,28 @@
       "imageVersion": 1786269494691
     },
     {
+      "id": "693914",
+      "name": "TEAZEN 레몬콤부차 5G X 70",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -2000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786179888434
+    },
+    {
+      "id": "692568",
+      "name": "VONBEE 꿀매실청 2KG",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -4000,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786269445105
+    },
+    {
       "id": "694547",
       "name": "NESCAFE 네스카페 돌체구스토 캡슐 아메리카노 60P",
       "store": "COSTCO",
@@ -2154,6 +2198,17 @@
       "discountAmount": -3500,
       "finalPrice": 13490,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "500246",
+      "name": "백설 옥수수유 3.6L",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
@@ -2265,6 +2320,17 @@
       "finalPrice": 6290,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "573693",
+      "name": "THE LAUGHING COW 벨큐브플레인 250GX2 원산지 프랑스",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/16",
       "imageVersion": 1786300361977
     },
     {
@@ -2430,6 +2496,28 @@
       "finalPrice": 20990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "603188",
+      "name": "MAXIM 화이트골드 190 X 2",
+      "store": "COSTCO",
+      "normalPrice": 51990,
+      "discountAmount": -2500,
+      "finalPrice": 49490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "601972",
+      "name": "덴마크 구워먹는치즈 500G",
+      "store": "COSTCO",
+      "normalPrice": 20790,
+      "discountAmount": -4300,
+      "finalPrice": 16490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -2961,6 +3049,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "662557",
+      "name": "EDIYA 요거트 파우더 1KG",
+      "store": "COSTCO",
+      "normalPrice": 9790,
+      "discountAmount": -3000,
+      "finalPrice": 6790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "663582",
       "name": "MAMA'S CHOICE 야채부각 티각태각 450G",
       "store": "COSTCO",
@@ -3346,6 +3445,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "676826",
+      "name": "이롬 1일 영양건강식 30G X 21",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "677417",
       "name": "프로쉬 코튼블라썸섬유유연제 3L X 2",
       "store": "COSTCO",
@@ -3662,6 +3772,17 @@
       "finalPrice": 12990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "90082",
+      "name": "STARBUCKS 브렉퍼스트블렌드 1.13KG",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -6000,
+      "finalPrice": 39990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     }
   ]
