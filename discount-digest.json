@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:56:20.747744+00:00",
+  "generatedAt": "2026-09-10T12:41:23.575682+00:00",
   "items": [
     {
       "id": "579924",
@@ -706,17 +706,6 @@
       "imageVersion": 1786434950648
     },
     {
-      "id": "694339",
-      "name": "대구농산 호주산 루피니빈 2.1KG",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -2000,
-      "finalPrice": 7990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1785503825134
-    },
-    {
       "id": "661578",
       "name": "헤이그램 서리태 스낵 650G",
       "store": "COSTCO",
@@ -1399,6 +1388,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "694339",
+      "name": "대구농산 호주산 루피니빈 2.1KG",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785503825134
+    },
+    {
       "id": "695864",
       "name": "산세베리아 수경식물 유리화분",
       "store": "COSTCO",
@@ -1476,17 +1476,6 @@
       "imageVersion": 1785662673716
     },
     {
-      "id": "681957",
-      "name": "블랙올리브 브레드 BLACK OLIVE BREAD 8CT/PACK",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -2000,
-      "finalPrice": 7990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1785762288835
-    },
-    {
       "id": "695020",
       "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
       "store": "COSTCO",
@@ -1496,6 +1485,17 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786174508302
+    },
+    {
+      "id": "681957",
+      "name": "블랙올리브 브레드 BLACK OLIVE BREAD 8CT/PACK",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1785762288835
     },
     {
       "id": "692736",
@@ -2796,6 +2796,17 @@
       "imageVersion": 1789035961224
     },
     {
+      "id": "692514",
+      "name": "ALEAF 덤벨 세트 7KG",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789035311275
+    },
+    {
       "id": "674119",
       "name": "CORELLE 코렐 더블링 디너웨어 4인세트 17P",
       "store": "COSTCO",
@@ -2926,17 +2937,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1789035208412
-    },
-    {
-      "id": "692514",
-      "name": "ALEAF 덤벨 세트 7KG",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789035311275
     },
     {
       "id": "667218",
@@ -3720,6 +3720,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "573693",
+      "name": "THE LAUGHING COW 벨큐브플레인 250GX2 원산지 프랑스",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/16",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "530790",
       "name": "유기농 달수고구마 (2KG) 원산지 : 국내산",
       "store": "COSTCO",
@@ -3750,17 +3761,6 @@
       "finalPrice": 6290,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "573693",
-      "name": "THE LAUGHING COW 벨큐브플레인 250GX2 원산지 프랑스",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -6000,
-      "finalPrice": 21990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/16",
       "imageVersion": 1786300361977
     },
     {
@@ -3907,6 +3907,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "600523",
+      "name": "동원 EPA 참치 150G X 10",
+      "store": "COSTCO",
+      "normalPrice": 23490,
+      "discountAmount": -2500,
+      "finalPrice": 20990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "601972",
+      "name": "덴마크 구워먹는치즈 500G",
+      "store": "COSTCO",
+      "normalPrice": 20790,
+      "discountAmount": -4300,
+      "finalPrice": 16490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "598079",
       "name": "시저 애견사료 / 소고기 100G X 24캔",
       "store": "COSTCO",
@@ -3940,34 +3962,12 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "600523",
-      "name": "동원 EPA 참치 150G X 10",
-      "store": "COSTCO",
-      "normalPrice": 23490,
-      "discountAmount": -2500,
-      "finalPrice": 20990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "603188",
       "name": "MAXIM 화이트골드 190 X 2",
       "store": "COSTCO",
       "normalPrice": 51990,
       "discountAmount": -2500,
       "finalPrice": 49490,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "601972",
-      "name": "덴마크 구워먹는치즈 500G",
-      "store": "COSTCO",
-      "normalPrice": 20790,
-      "discountAmount": -4300,
-      "finalPrice": 16490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
