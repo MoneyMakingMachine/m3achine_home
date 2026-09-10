@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:56:06.679454+00:00",
+  "generatedAt": "2026-09-10T03:11:09.755918+00:00",
   "items": [
     {
       "id": "579924",
@@ -200,17 +200,6 @@
       "imageVersion": 1785567277998
     },
     {
-      "id": "693047",
-      "name": "대파 버터 롤 GREENONION BUTTER ROLL 6CT/PACK",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -3000,
-      "finalPrice": 9990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/09",
-      "imageVersion": 1787059201840
-    },
-    {
       "id": "1763871",
       "name": "LACOSTE 남성 반소매 크루 S,M,L US SIZE",
       "store": "COSTCO",
@@ -321,17 +310,6 @@
       "imageVersion": 1788349613391
     },
     {
-      "id": "682889",
-      "name": "몬스터 에너지 울트라 500ML X 12캔",
-      "store": "COSTCO",
-      "normalPrice": 28990,
-      "discountAmount": -6000,
-      "finalPrice": 22990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "639795",
       "name": "종가집 얼갈이열무김치 1.5KG",
       "store": "COSTCO",
@@ -340,6 +318,17 @@
       "finalPrice": 11490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "682889",
+      "name": "몬스터 에너지 울트라 500ML X 12캔",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
     },
     {
@@ -2114,28 +2103,6 @@
       "imageVersion": 1788873278053
     },
     {
-      "id": "694674",
-      "name": "CJ 제일제당 스팸복합 CC-2호",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -4000,
-      "finalPrice": 35990,
-      "saleStart": "2026/09/03",
-      "saleEnd": "2026/09/08",
-      "imageVersion": 1788873399272
-    },
-    {
-      "id": "673956",
-      "name": "동원 스페셜C6호",
-      "store": "COSTCO",
-      "normalPrice": 41990,
-      "discountAmount": -5000,
-      "finalPrice": 36990,
-      "saleStart": "2026/09/03",
-      "saleEnd": "2026/09/08",
-      "imageVersion": 1788873466015
-    },
-    {
       "id": "694856",
       "name": "일품채 표고혼합선물세트 290G",
       "store": "COSTCO",
@@ -2255,28 +2222,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788873371856
-    },
-    {
-      "id": "655864",
-      "name": "CJ제일제당 복합스페셜 CC-1호",
-      "store": "COSTCO",
-      "normalPrice": 31990,
-      "discountAmount": -4000,
-      "finalPrice": 27990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/08",
-      "imageVersion": 1788873428782
-    },
-    {
-      "id": "665326",
-      "name": "동원 스페셜C3호",
-      "store": "COSTCO",
-      "normalPrice": 31990,
-      "discountAmount": -4000,
-      "finalPrice": 27990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/08",
-      "imageVersion": 1788873504543
     },
     {
       "id": "694679",
@@ -2464,28 +2409,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788873356424
-    },
-    {
-      "id": "679542",
-      "name": "CJ제일제당 스팸복합 CC-6호",
-      "store": "COSTCO",
-      "normalPrice": 36990,
-      "discountAmount": -4000,
-      "finalPrice": 32990,
-      "saleStart": "2026/09/03",
-      "saleEnd": "2026/09/08",
-      "imageVersion": 1788873412758
-    },
-    {
-      "id": "694672",
-      "name": "동원 프리미엄 C4호",
-      "store": "COSTCO",
-      "normalPrice": 37990,
-      "discountAmount": -5000,
-      "finalPrice": 32990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/08",
-      "imageVersion": 1788873483423
     },
     {
       "id": "777964",
@@ -3522,17 +3445,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "630807",
-      "name": "KELLOGG'S' 크랜베리 아몬드 그래놀라 500G X 3",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -3000,
-      "finalPrice": 15990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/09",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "630842",
       "name": "DENMARK 스위티자몽주스 200ML X 24",
       "store": "COSTCO",
@@ -4083,17 +3995,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "667079",
-      "name": "VITAMIX 바이타믹스 블렌더 E520 화이트 / 블랙",
-      "store": "COSTCO",
-      "normalPrice": 649000,
-      "discountAmount": -150000,
-      "finalPrice": 499000,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "667116",
       "name": "미국산초이스 냉동 칼집포갈비(본갈비) 1.2KG",
       "store": "COSTCO",
@@ -4124,6 +4025,17 @@
       "finalPrice": 11490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "667079",
+      "name": "VITAMIX 바이타믹스 블렌더 E520 화이트 / 블랙",
+      "store": "COSTCO",
+      "normalPrice": 649000,
+      "discountAmount": -150000,
+      "finalPrice": 499000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -4325,17 +4237,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "674551",
-      "name": "FOODSAVER 푸드세이버 진공 포장기 (롤,지퍼백 포함)",
-      "store": "COSTCO",
-      "normalPrice": 149900,
-      "discountAmount": -30000,
-      "finalPrice": 119900,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "673582",
       "name": "광동 보감쌍화진액 100ML X 18포",
       "store": "COSTCO",
@@ -4377,6 +4278,17 @@
       "finalPrice": 14990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "674551",
+      "name": "FOODSAVER 푸드세이버 진공 포장기 (롤,지퍼백 포함)",
+      "store": "COSTCO",
+      "normalPrice": 149900,
+      "discountAmount": -30000,
+      "finalPrice": 119900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
