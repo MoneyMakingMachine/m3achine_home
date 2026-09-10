@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T03:11:09.755918+00:00",
+  "generatedAt": "2026-09-10T10:11:12.710626+00:00",
   "items": [
     {
       "id": "579924",
@@ -2081,6 +2081,17 @@
       "imageVersion": 1788874193435
     },
     {
+      "id": "693951",
+      "name": "씰리 다운얼터너티브베개 2P, 50X70CM",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7500,
+      "finalPrice": 28490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789034996382
+    },
+    {
       "id": "696050",
       "name": "ANBANG 안방 연기잡는 그릴 울트라, 하프돔",
       "store": "COSTCO",
@@ -2180,6 +2191,28 @@
       "imageVersion": 1788874220294
     },
     {
+      "id": "2010498",
+      "name": "CALVIN KLEIN JEANS 남성청바지 30- 38 US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789034888427
+    },
+    {
+      "id": "635119",
+      "name": "JILL BY JILLSTUART 여성캐주얼양말 5족 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2500,
+      "finalPrice": 9490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789034960496
+    },
+    {
       "id": "693482",
       "name": "NINJA 닌자 크리스피 에어 프라이어 3.8L",
       "store": "COSTCO",
@@ -2244,6 +2277,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1788873739060
+    },
+    {
+      "id": "696084",
+      "name": "LG 엘지 디오스 광파오븐 39L",
+      "store": "COSTCO",
+      "normalPrice": 499900,
+      "discountAmount": -75000,
+      "finalPrice": 424900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789034735148
+    },
+    {
+      "id": "685725",
+      "name": "BOSS 소가죽 벨트 FREE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789034932432
     },
     {
       "id": "616062",
@@ -2378,6 +2433,17 @@
       "imageVersion": 1788874246129
     },
     {
+      "id": "687961",
+      "name": "KENNEHTH COLE 남성코튼 팬츠 30,32,34,36 AISAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789034906223
+    },
+    {
       "id": "674119",
       "name": "CORELLE 코렐 더블링 디너웨어 4인세트 17P",
       "store": "COSTCO",
@@ -2486,6 +2552,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/10/04",
       "imageVersion": 1788874142260
+    },
+    {
+      "id": "662885",
+      "name": "COOKEVER쿡에버 스테인리스 찜기 28CM",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -13000,
+      "finalPrice": 46900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789034759986
     },
     {
       "id": "692843",
