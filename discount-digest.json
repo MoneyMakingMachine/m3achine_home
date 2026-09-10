@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:41:18.106866+00:00",
+  "generatedAt": "2026-09-10T10:56:20.747744+00:00",
   "items": [
     {
       "id": "579924",
@@ -90,6 +90,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "685470",
+      "name": "VOVO 휴대용 비데 GO9",
+      "store": "COSTCO",
+      "normalPrice": 69990,
+      "discountAmount": -14000,
+      "finalPrice": 55990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789036905159
+    },
+    {
       "id": "665288",
       "name": "백제 도토리 비빔막국수 297.5G X 8",
       "store": "COSTCO",
@@ -99,6 +110,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "687621",
+      "name": "SKECHERS 스케처스 메모리즘,허디 보호 쿠션 2개",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789037021702
     },
     {
       "id": "693348",
@@ -154,6 +176,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786431420565
+    },
+    {
+      "id": "1600205",
+      "name": "다용도 5단 선반",
+      "store": "COSTCO",
+      "normalPrice": 102990,
+      "discountAmount": -21000,
+      "finalPrice": 81990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789036940508
     },
     {
       "id": "680053",
@@ -277,6 +310,17 @@
       "imageVersion": 1787059433859
     },
     {
+      "id": "689435",
+      "name": "쿠진아트 에어프라이어 오븐 17L",
+      "store": "COSTCO",
+      "normalPrice": 159900,
+      "discountAmount": -32000,
+      "finalPrice": 127900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789036969980
+    },
+    {
       "id": "637021",
       "name": "CADINA 크리스피 프라이스 600G / 60G X 10",
       "store": "COSTCO",
@@ -365,6 +409,17 @@
       "imageVersion": 1786180193245
     },
     {
+      "id": "671069",
+      "name": "OLITALIA 유기농엑스트라버진 올리브유 1L",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789037051353
+    },
+    {
       "id": "691832",
       "name": "몽고 송표 간장 3.8L",
       "store": "COSTCO",
@@ -440,6 +495,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787058593672
+    },
+    {
+      "id": "667538",
+      "name": "EDIYA 스페셜골드블렌드 11G X 400",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -3000,
+      "finalPrice": 38990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789037075646
     },
     {
       "id": "692414",
@@ -605,6 +671,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1785503971099
+    },
+    {
+      "id": "643373",
+      "name": "ARLA 고다 슬라이스 680G 원산지미국",
+      "store": "COSTCO",
+      "normalPrice": 11490,
+      "discountAmount": -2000,
+      "finalPrice": 9490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789037148968
     },
     {
       "id": "694690",
@@ -783,6 +860,17 @@
       "imageVersion": 1785498384743
     },
     {
+      "id": "683441",
+      "name": "MON AMI 쁘띠까망베르 125GX3원산지 : 프랑스",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789037182431
+    },
+    {
       "id": "696832",
       "name": "디사론노 리큐르 700ML",
       "store": "COSTCO",
@@ -838,6 +926,17 @@
       "imageVersion": 1785915141120
     },
     {
+      "id": "690152",
+      "name": "EMMI 아마레토&커피 티라미수 400G",
+      "store": "COSTCO",
+      "normalPrice": 7490,
+      "discountAmount": -1500,
+      "finalPrice": 5990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789037217786
+    },
+    {
       "id": "2010450",
       "name": "WEATHERPROOF 여성 카라 자켓 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -858,6 +957,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1787705882445
+    },
+    {
+      "id": "631090",
+      "name": "클라우디 베이 쇼비뇽블랑 750ML",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -7000,
+      "finalPrice": 38990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/16",
+      "imageVersion": 1789037306239
     },
     {
       "id": "658021",
@@ -1080,6 +1190,17 @@
       "imageVersion": 1785505185341
     },
     {
+      "id": "612650",
+      "name": "SOLESTADO 무화과 스프레드 700G 원산지그리스",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2500,
+      "finalPrice": 10490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789037278380
+    },
+    {
       "id": "686224",
       "name": "MAZZETTI 화이트발사믹콘디멘토 500ML",
       "store": "COSTCO",
@@ -1276,6 +1397,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "695864",
+      "name": "산세베리아 수경식물 유리화분",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -5000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/03",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789037121201
     },
     {
       "id": "653278",
