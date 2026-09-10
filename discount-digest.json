@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T10:11:12.710626+00:00",
+  "generatedAt": "2026-09-10T10:26:15.238695+00:00",
   "items": [
     {
       "id": "579924",
@@ -2092,6 +2092,17 @@
       "imageVersion": 1789034996382
     },
     {
+      "id": "581837",
+      "name": "레몬 1봉 (2.2KG 이상) 원산지 : 칠레",
+      "store": "COSTCO",
+      "normalPrice": 11490,
+      "discountAmount": -1800,
+      "finalPrice": 9690,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789035865966
+    },
+    {
       "id": "696050",
       "name": "ANBANG 안방 연기잡는 그릴 울트라, 하프돔",
       "store": "COSTCO",
@@ -2213,6 +2224,61 @@
       "imageVersion": 1789034960496
     },
     {
+      "id": "686408",
+      "name": "KAMILL 카밀 핸드크림 133MLX2 + 75ML + 30ML",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035081718
+    },
+    {
+      "id": "1929727",
+      "name": "할로윈 장식 LED 박쥐 장식 152CM",
+      "store": "COSTCO",
+      "normalPrice": 145990,
+      "discountAmount": -30000,
+      "finalPrice": 115990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035265483
+    },
+    {
+      "id": "692153",
+      "name": "LG 오브제 세탁기/건조기세트 25KG/25KG, 블랙",
+      "store": "COSTCO",
+      "normalPrice": 3749000,
+      "discountAmount": -500000,
+      "finalPrice": 3249000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035748857
+    },
+    {
+      "id": "593681",
+      "name": "건곤드레 나물 (300G) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789035816427
+    },
+    {
+      "id": "697471",
+      "name": "미이랑 깐녹두 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -2000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035908377
+    },
+    {
       "id": "693482",
       "name": "NINJA 닌자 크리스피 에어 프라이어 3.8L",
       "store": "COSTCO",
@@ -2299,6 +2365,50 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789034932432
+    },
+    {
+      "id": "1851585",
+      "name": "할로윈 장식 움직이는 버틀러 1.8M(H)",
+      "store": "COSTCO",
+      "normalPrice": 329990,
+      "discountAmount": -70000,
+      "finalPrice": 259990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035188973
+    },
+    {
+      "id": "692448",
+      "name": "LG 엘지 월핏 공기청정기 스탠드형",
+      "store": "COSTCO",
+      "normalPrice": 639000,
+      "discountAmount": -90000,
+      "finalPrice": 549000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035560856
+    },
+    {
+      "id": "690203",
+      "name": "LG 오브제김치냉장고 217L",
+      "store": "COSTCO",
+      "normalPrice": 1179000,
+      "discountAmount": -180000,
+      "finalPrice": 999000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035639057
+    },
+    {
+      "id": "697554",
+      "name": "LG 오브제 FIT&MAX 냉장&김치 628L & 386L",
+      "store": "COSTCO",
+      "normalPrice": 5899000,
+      "discountAmount": -900000,
+      "finalPrice": 4999000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035726772
     },
     {
       "id": "616062",
@@ -2444,6 +2554,94 @@
       "imageVersion": 1789034906223
     },
     {
+      "id": "631111",
+      "name": "삼성물산 프리미엄A4복사용지 80G 2500매",
+      "store": "COSTCO",
+      "normalPrice": 18790,
+      "discountAmount": -1300,
+      "finalPrice": 17490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035362245
+    },
+    {
+      "id": "696096",
+      "name": "BULLSONE불스원 그라스디퓨저2P & 탈취 스프레이 1P",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035437450
+    },
+    {
+      "id": "692643",
+      "name": "윤도자기 접시세트 7P",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -7000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789035498805
+    },
+    {
+      "id": "696086",
+      "name": "LG 엘지 코드제로5 컴팩트타워청소기",
+      "store": "COSTCO",
+      "normalPrice": 649000,
+      "discountAmount": -100000,
+      "finalPrice": 549000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035615046
+    },
+    {
+      "id": "696073",
+      "name": "LG 오브제 냉장고 870L",
+      "store": "COSTCO",
+      "normalPrice": 2899000,
+      "discountAmount": -400000,
+      "finalPrice": 2499000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035672594
+    },
+    {
+      "id": "693109",
+      "name": "LG 오브제 세탁기/건조기세트 25KG/25KG, 화이트",
+      "store": "COSTCO",
+      "normalPrice": 3749000,
+      "discountAmount": -500000,
+      "finalPrice": 3249000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035753998
+    },
+    {
+      "id": "589858",
+      "name": "자두 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789035839774
+    },
+    {
+      "id": "693771",
+      "name": "대구농산 파로 2.4KG",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035961224
+    },
+    {
       "id": "674119",
       "name": "CORELLE 코렐 더블링 디너웨어 4인세트 17P",
       "store": "COSTCO",
@@ -2563,6 +2761,50 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1789034759986
+    },
+    {
+      "id": "1851675",
+      "name": "할로원 장식 움직이는 스켈레톤 1.8M(H)",
+      "store": "COSTCO",
+      "normalPrice": 259990,
+      "discountAmount": -60000,
+      "finalPrice": 199990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035208412
+    },
+    {
+      "id": "692514",
+      "name": "ALEAF 덤벨 세트 7KG",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789035311275
+    },
+    {
+      "id": "667218",
+      "name": "LG 엘지 전자레인지 23L MW23BD",
+      "store": "COSTCO",
+      "normalPrice": 169990,
+      "discountAmount": -25000,
+      "finalPrice": 144990,
+      "saleStart": "2026/09/08",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035588489
+    },
+    {
+      "id": "697553",
+      "name": "LG오브제 FIT& MAX 냉장고 628L",
+      "store": "COSTCO",
+      "normalPrice": 3599000,
+      "discountAmount": -600000,
+      "finalPrice": 2999000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035715848
     },
     {
       "id": "692843",
