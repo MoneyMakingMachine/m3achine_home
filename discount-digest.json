@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:56:26.380453+00:00",
+  "generatedAt": "2026-09-10T13:11:29.124458+00:00",
   "items": [
     {
       "id": "579924",
@@ -90,17 +90,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "685470",
-      "name": "VOVO 휴대용 비데 GO9",
-      "store": "COSTCO",
-      "normalPrice": 69990,
-      "discountAmount": -14000,
-      "finalPrice": 55990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789036905159
-    },
-    {
       "id": "665288",
       "name": "백제 도토리 비빔막국수 297.5G X 8",
       "store": "COSTCO",
@@ -143,6 +132,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
       "imageVersion": 1785662772232
+    },
+    {
+      "id": "685470",
+      "name": "VOVO 휴대용 비데 GO9",
+      "store": "COSTCO",
+      "normalPrice": 69990,
+      "discountAmount": -14000,
+      "finalPrice": 55990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789036905159
     },
     {
       "id": "669975",
@@ -596,6 +596,17 @@
       "imageVersion": 1786179395216
     },
     {
+      "id": "696053",
+      "name": "더다믐 김칩스 264G / 44G X 6",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785503971099
+    },
+    {
       "id": "647825",
       "name": "스텔라벨라청포도 (1.36 KG) 원산지 : 상품에 표기",
       "store": "COSTCO",
@@ -660,17 +671,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/30",
       "imageVersion": 1786436547141
-    },
-    {
-      "id": "696053",
-      "name": "더다믐 김칩스 264G / 44G X 6",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1785503971099
     },
     {
       "id": "643373",
@@ -2422,6 +2422,17 @@
       "imageVersion": 1788873190478
     },
     {
+      "id": "6776199",
+      "name": "JACKSON'S 고구마 칩 454G",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2600,
+      "finalPrice": 7390,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789036045302
+    },
+    {
       "id": "2379252",
       "name": "GLASSLOCK 글라스락 밀폐용기 세트 28P",
       "store": "COSTCO",
@@ -2541,17 +2552,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1789035726772
-    },
-    {
-      "id": "6776199",
-      "name": "JACKSON'S 고구마 칩 454G",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -2600,
-      "finalPrice": 7390,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1789036045302
     },
     {
       "id": "694306",
