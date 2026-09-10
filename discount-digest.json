@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T12:41:23.575682+00:00",
+  "generatedAt": "2026-09-10T12:56:26.380453+00:00",
   "items": [
     {
       "id": "579924",
@@ -849,17 +849,6 @@
       "imageVersion": 1785498384743
     },
     {
-      "id": "683441",
-      "name": "MON AMI 쁘띠까망베르 125GX3원산지 : 프랑스",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -3000,
-      "finalPrice": 10990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789037182431
-    },
-    {
       "id": "696832",
       "name": "디사론노 리큐르 700ML",
       "store": "COSTCO",
@@ -1177,17 +1166,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785505185341
-    },
-    {
-      "id": "612650",
-      "name": "SOLESTADO 무화과 스프레드 700G 원산지그리스",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -2500,
-      "finalPrice": 10490,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/13",
-      "imageVersion": 1789037278380
     },
     {
       "id": "686224",
@@ -1586,6 +1564,17 @@
       "imageVersion": 1788350691050
     },
     {
+      "id": "612650",
+      "name": "SOLESTADO 무화과 스프레드 700G 원산지그리스",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2500,
+      "finalPrice": 10490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/13",
+      "imageVersion": 1789037278380
+    },
+    {
       "id": "670081",
       "name": "APRIL AT HOME 줄누비 경추베개 40X60CM",
       "store": "COSTCO",
@@ -1606,6 +1595,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788351182766
+    },
+    {
+      "id": "683441",
+      "name": "MON AMI 쁘띠까망베르 125GX3원산지 : 프랑스",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789037182431
     },
     {
       "id": "685307",
