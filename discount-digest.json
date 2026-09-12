@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T04:56:32.237816+00:00",
+  "generatedAt": "2026-09-12T05:26:35.286668+00:00",
   "items": [
     {
       "id": "579924",
@@ -5381,17 +5381,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "753144",
-      "name": "ANF 식스프리골드 애견사료 10KG (400G X 25팩)",
-      "store": "COSTCO",
-      "normalPrice": 72900,
-      "discountAmount": -11000,
-      "finalPrice": 61900,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "692888",
       "name": "고메 고기짜장 340G X 4",
       "store": "COSTCO",
@@ -5400,6 +5389,17 @@
       "finalPrice": 13490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/13",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "753144",
+      "name": "ANF 식스프리골드 애견사료 10KG (400G X 25팩)",
+      "store": "COSTCO",
+      "normalPrice": 72900,
+      "discountAmount": -11000,
+      "finalPrice": 61900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
