@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:11:29.124458+00:00",
+  "generatedAt": "2026-09-12T04:56:32.237816+00:00",
   "items": [
     {
       "id": "579924",
@@ -1397,17 +1397,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786183825870
-    },
-    {
-      "id": "687577",
-      "name": "파크론 PVC 롤매트 140 X 300 X 2.0CM",
-      "store": "COSTCO",
-      "normalPrice": 117900,
-      "discountAmount": -24000,
-      "finalPrice": 93900,
-      "saleStart": "2026/08/24",
-      "saleEnd": "2026/09/10",
-      "imageVersion": 1785662821799
     },
     {
       "id": "694647",
@@ -3412,17 +3401,6 @@
       "imageVersion": 1786270190200
     },
     {
-      "id": "67070",
-      "name": "네이블 오렌지 1봉 (3.4KG 이상) 원산지 : 호주",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3200,
-      "finalPrice": 12790,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/10",
-      "imageVersion": 1786226123805
-    },
-    {
       "id": "690864",
       "name": "TRIKO 크림브퀄레 파미에 500G",
       "store": "COSTCO",
@@ -4729,17 +4707,6 @@
       "finalPrice": 46900,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "667116",
-      "name": "미국산초이스 냉동 칼집포갈비(본갈비) 1.2KG",
-      "store": "COSTCO",
-      "normalPrice": 49990,
-      "discountAmount": -10000,
-      "finalPrice": 39990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/10",
       "imageVersion": 1786300361977
     },
     {
