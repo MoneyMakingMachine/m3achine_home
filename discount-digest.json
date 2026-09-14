@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T13:11:49.463113+00:00",
+  "generatedAt": "2026-09-14T13:26:52.323436+00:00",
   "items": [
     {
       "id": "579924",
@@ -354,6 +354,17 @@
       "imageVersion": 1786180599889
     },
     {
+      "id": "694690",
+      "name": "청정원 특선C-1호 선물세트",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349644611
+    },
+    {
       "id": "522768",
       "name": "스카치브라이트 다용도행주겸 청소포 100매",
       "store": "COSTCO",
@@ -440,6 +451,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785580354071
+    },
+    {
+      "id": "517558",
+      "name": "정광잘 홍삼진 현 50ML X 20포",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785659272245
     },
     {
       "id": "2016700",
@@ -1212,6 +1234,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "665931",
+      "name": "한뿌리 흑삼아르기닌",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5000,
+      "finalPrice": 24990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788873811681
+    },
+    {
       "id": "692685",
       "name": "ELECTROLUX 인덕션 전기레인지 3구",
       "store": "COSTCO",
@@ -1245,6 +1278,17 @@
       "imageVersion": 1789034996382
     },
     {
+      "id": "694674",
+      "name": "CJ 제일제당 스팸복합 CC-2호",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -4000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1788873399272
+    },
+    {
       "id": "696050",
       "name": "ANBANG 안방 연기잡는 그릴 울트라, 하프돔",
       "store": "COSTCO",
@@ -1256,6 +1300,17 @@
       "imageVersion": 1788873165314
     },
     {
+      "id": "673956",
+      "name": "동원 스페셜C6호",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -5000,
+      "finalPrice": 36990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1788873466015
+    },
+    {
       "id": "675564",
       "name": "DOPCO 도루코 주방가위 2PK",
       "store": "COSTCO",
@@ -1265,6 +1320,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1788873278053
+    },
+    {
+      "id": "673959",
+      "name": "종근당건강 홍삼절편 진",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -5500,
+      "finalPrice": 28490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788873705969
     },
     {
       "id": "694856",
@@ -1421,6 +1487,17 @@
       "imageVersion": 1788873256889
     },
     {
+      "id": "655864",
+      "name": "CJ제일제당 복합스페셜 CC-1호",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -4000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1788873428782
+    },
+    {
       "id": "659496",
       "name": "CLEDBEL 끌레드벨 골드 리프팅 스킨케어 세트",
       "store": "COSTCO",
@@ -1432,6 +1509,17 @@
       "imageVersion": 1788873312718
     },
     {
+      "id": "665326",
+      "name": "동원 스페셜C3호",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -4000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1788873504543
+    },
+    {
       "id": "685855",
       "name": "샤워메이트 브레드이발소 핸드워시 세트",
       "store": "COSTCO",
@@ -1441,6 +1529,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788873371856
+    },
+    {
+      "id": "656342",
+      "name": "동원 프리미엄김C25호",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -4000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1789034808710
+    },
+    {
+      "id": "638900",
+      "name": "종근당건강 산삼배양근 진",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -3500,
+      "finalPrice": 29490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788873739060
     },
     {
       "id": "696084",
@@ -1540,6 +1650,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1788873208451
+    },
+    {
+      "id": "694676",
+      "name": "종근당건강 홍삼쌍화스틱진",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788873689080
     },
     {
       "id": "685859",
@@ -1771,6 +1892,39 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1788873621376
+    },
+    {
+      "id": "679542",
+      "name": "CJ제일제당 스팸복합 CC-6호",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -4000,
+      "finalPrice": 32990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1788873412758
+    },
+    {
+      "id": "694672",
+      "name": "동원 프리미엄 C4호",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -7000,
+      "finalPrice": 30990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788873483423
+    },
+    {
+      "id": "646484",
+      "name": "한뿌리 녹용흑삼스틱",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -7000,
+      "finalPrice": 42990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1788873790831
     },
     {
       "id": "2010332",
