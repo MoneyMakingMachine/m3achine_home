@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:26:46.351797+00:00",
+  "generatedAt": "2026-09-14T13:11:49.463113+00:00",
   "items": [
     {
       "id": "579924",
@@ -726,6 +726,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1785663663654
+    },
+    {
+      "id": "695020",
+      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
+      "store": "COSTCO",
+      "normalPrice": 49900,
+      "discountAmount": -15000,
+      "finalPrice": 34900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1786174508302
     },
     {
       "id": "687386",
