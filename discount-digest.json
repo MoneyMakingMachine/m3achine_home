@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T13:26:52.323436+00:00",
+  "generatedAt": "2026-09-14T13:41:55.215979+00:00",
   "items": [
     {
       "id": "579924",
@@ -46,6 +46,17 @@
       "imageVersion": 1786431121926
     },
     {
+      "id": "1956383",
+      "name": "WEATHERPROOF VINTAGE 여성 러플 가디건 S,M,L US SIŽE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1786431641575
+    },
+    {
       "id": "588139",
       "name": "SAPPORO 캔맥주 KG500ML X 6캔",
       "store": "COSTCO",
@@ -66,6 +77,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789036905159
+    },
+    {
+      "id": "687188",
+      "name": "COLUMBIA 여성 나일론 바지 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1786431903437
     },
     {
       "id": "764543",
@@ -387,6 +409,17 @@
       "imageVersion": 1786179621941
     },
     {
+      "id": "792264",
+      "name": "SLOGGI 여성 스쿠바 티 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1785496745459
+    },
+    {
       "id": "692259",
       "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
       "store": "COSTCO",
@@ -396,6 +429,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1785498384743
+    },
+    {
+      "id": "670593",
+      "name": "ADIDAS 남성 우븐 셋업 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 53900,
+      "discountAmount": -11000,
+      "finalPrice": 42900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1785496770681
     },
     {
       "id": "687367",
@@ -409,17 +453,6 @@
       "imageVersion": 1786169370241
     },
     {
-      "id": "2010450",
-      "name": "WEATHERPROOF 여성 카라 자켓 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 54900,
-      "discountAmount": -11000,
-      "finalPrice": 43900,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1788349698109
-    },
-    {
       "id": "631090",
       "name": "클라우디 베이 쇼비뇽블랑 750ML",
       "store": "COSTCO",
@@ -429,6 +462,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/16",
       "imageVersion": 1789037306239
+    },
+    {
+      "id": "2010450",
+      "name": "WEATHERPROOF 여성 카라 자켓 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 52900,
+      "discountAmount": -13000,
+      "finalPrice": 39900,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349698109
     },
     {
       "id": "671094",
@@ -792,6 +836,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785662673716
+    },
+    {
+      "id": "692264",
+      "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1785496720203
     },
     {
       "id": "692736",
