@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:42:23.422954+00:00",
+  "generatedAt": "2026-09-15T23:57:25.911019+00:00",
   "items": [
     {
       "id": "579924",
@@ -57,6 +57,17 @@
       "imageVersion": 1786431641575
     },
     {
+      "id": "664164",
+      "name": "화과방 크림&딸기붓세 55G X 8",
+      "store": "COSTCO",
+      "normalPrice": 9490,
+      "discountAmount": -1600,
+      "finalPrice": 7890,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "588139",
       "name": "SAPPORO 캔맥주 KG500ML X 6캔",
       "store": "COSTCO",
@@ -88,6 +99,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/11",
       "imageVersion": 1786431903437
+    },
+    {
+      "id": "683406",
+      "name": "자몽 1 박스 (3.5KG 이상) 원산지 : 남아공",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
     },
     {
       "id": "764543",
@@ -365,6 +387,17 @@
       "imageVersion": 1787058593672
     },
     {
+      "id": "689096",
+      "name": "CRISPY S'MORE 오갓멜로 250G",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2400,
+      "finalPrice": 9590,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1787059266974
+    },
+    {
       "id": "692414",
       "name": "하림 동물복지, 닭 가슴살 1.8KG",
       "store": "COSTCO",
@@ -374,6 +407,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786434791972
+    },
+    {
+      "id": "506503",
+      "name": "매일 바이오 플레인 요거트 300G X 6",
+      "store": "COSTCO",
+      "normalPrice": 10490,
+      "discountAmount": -2100,
+      "finalPrice": 8390,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
     },
     {
       "id": "692567",
@@ -528,6 +572,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/15",
       "imageVersion": 1786434741318
+    },
+    {
+      "id": "656207",
+      "name": "캠벨포도 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785498930549
     },
     {
       "id": "522768",
@@ -2741,6 +2796,17 @@
       "imageVersion": 1786269445105
     },
     {
+      "id": "685525",
+      "name": "서울우유 무가당플레인요거트 1L X2",
+      "store": "COSTCO",
+      "normalPrice": 6990,
+      "discountAmount": -1400,
+      "finalPrice": 5590,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786268525276
+    },
+    {
       "id": "683949",
       "name": "JOHNSONVILLE 시그니처햄 200G X 8",
       "store": "COSTCO",
@@ -2947,6 +3013,17 @@
       "finalPrice": 14990,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "587687",
+      "name": "소와나무 생크림 요거트 85G X 16",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -1800,
+      "finalPrice": 8190,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -3885,6 +3962,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "672332",
+      "name": "KELLOGG'S 컵 시리얼 40G X 18",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -5000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "671922",
       "name": "프로쉬 식기세척기 세제 18G X 72개",
       "store": "COSTCO",
@@ -3937,6 +4025,17 @@
       "finalPrice": 31990,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "674608",
+      "name": "삼립 호두 타르트 60G X 10",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -1200,
+      "finalPrice": 10790,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -4036,6 +4135,17 @@
       "finalPrice": 23490,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "676225",
+      "name": "후레쉬 코코넛 (6입) 원산지 : 베트남",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -2500,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -4232,6 +4342,17 @@
       "normalPrice": 29490,
       "discountAmount": -6500,
       "finalPrice": 22990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "685435",
+      "name": "NABISCO 오레오 쿠키 1.6KG / 50G X 32",
+      "store": "COSTCO",
+      "normalPrice": 15490,
+      "discountAmount": -3000,
+      "finalPrice": 12490,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
