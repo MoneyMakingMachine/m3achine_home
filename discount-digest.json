@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T14:12:18.392782+00:00",
+  "generatedAt": "2026-09-15T23:27:21.090103+00:00",
   "items": [
     {
       "id": "579924",
@@ -750,6 +750,17 @@
       "imageVersion": 1786183411232
     },
     {
+      "id": "691883",
+      "name": "LG 그램 프로",
+      "store": "COSTCO",
+      "normalPrice": 2799000,
+      "discountAmount": -300000,
+      "finalPrice": 2499000,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785417969281
+    },
+    {
       "id": "690378",
       "name": "DOMINAS 도미나스 하이퍼 피토닝 앰플 20ML + 7MLX2",
       "store": "COSTCO",
@@ -937,6 +948,17 @@
       "imageVersion": 1788352085809
     },
     {
+      "id": "692156",
+      "name": "LG 나노셀 TV 75형 189CM + S20A SOUNDBAR",
+      "store": "COSTCO",
+      "normalPrice": 1949000,
+      "discountAmount": -550000,
+      "finalPrice": 1399000,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785569379271
+    },
+    {
       "id": "682180",
       "name": "OUTDOOR PRODUCTS 성인 긴팔 크루티 S - XL ASIAN SIZE",
       "store": "COSTCO",
@@ -1045,6 +1067,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785580311257
+    },
+    {
+      "id": "694217",
+      "name": "ORAL-B 오랄비 전동 칫솔 IO 센서티브 클린",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785662990889
     },
     {
       "id": "692152",
@@ -2631,6 +2664,17 @@
       "imageVersion": 1786178751151
     },
     {
+      "id": "688951",
+      "name": "BRAUN 브라운 전기 면도기 8663CC / 8667CC",
+      "store": "COSTCO",
+      "normalPrice": 269900,
+      "discountAmount": -80000,
+      "finalPrice": 189900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786268823195
+    },
+    {
       "id": "688924",
       "name": "ARTISAN 라자냐 키트 692G X 2",
       "store": "COSTCO",
@@ -3577,6 +3621,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "661075",
+      "name": "ORAL-B 오랄비 전동칫솔모10개 미세모,크로스액션",
+      "store": "COSTCO",
+      "normalPrice": 49790,
+      "discountAmount": -13000,
+      "finalPrice": 36790,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "660518",
       "name": "H&S 헤드앤숄더 울트라 쿨멘솔 샴푸 1.8L",
       "store": "COSTCO",
@@ -3704,6 +3759,17 @@
       "normalPrice": 15990,
       "discountAmount": -3200,
       "finalPrice": 12790,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "668620",
+      "name": "ORAL-B 오랄비 전동칫솔 PRO 1 DUAL PACK",
+      "store": "COSTCO",
+      "normalPrice": 109900,
+      "discountAmount": -23000,
+      "finalPrice": 86900,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
