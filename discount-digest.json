@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:57:15.251814+00:00",
+  "generatedAt": "2026-09-15T14:12:18.392782+00:00",
   "items": [
     {
       "id": "579924",
@@ -187,6 +187,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "678567",
+      "name": "TEFAL 테찰 티타늄포스 웍 28CM, 프랑스산",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1787058906733
     },
     {
       "id": "1785779",
@@ -541,6 +552,39 @@
       "imageVersion": 1785602633661
     },
     {
+      "id": "693989",
+      "name": "XEXYMIX 2N1 폼롤러 45CM",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1785496425747
+    },
+    {
+      "id": "672619",
+      "name": "XEXYMIX TPE 요가 매트 183(W)X80(D)X1.0(H)CM",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1785496469510
+    },
+    {
+      "id": "679563",
+      "name": "TUMS 텀스 투게더 핸들 머그 2PK, (600+900ML)",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -9000,
+      "finalPrice": 26990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785660884648
+    },
+    {
       "id": "692259",
       "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
       "store": "COSTCO",
@@ -561,6 +605,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/04",
       "imageVersion": 1785496770681
+    },
+    {
+      "id": "693042",
+      "name": "CRNK 라피드 멀티 에어 펌프",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785033571530
     },
     {
       "id": "687367",
@@ -792,6 +847,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786180337289
+    },
+    {
+      "id": "689066",
+      "name": "ADIDAS 축구공 5호",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785509129116
     },
     {
       "id": "692964",
@@ -2499,6 +2565,17 @@
       "imageVersion": 1786187129789
     },
     {
+      "id": "685589",
+      "name": "VENDICT 벤딕트 무선 에어건 마하 & 파우치 세트",
+      "store": "COSTCO",
+      "normalPrice": 86900,
+      "discountAmount": -18000,
+      "finalPrice": 68900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786225961212
+    },
+    {
       "id": "500073",
       "name": "ZIPLOC 버라이어티 냉장백 소형200, 미니100",
       "store": "COSTCO",
@@ -3643,6 +3720,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "670345",
+      "name": "YONEX 배드민턴 라켓세트",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "669584",
       "name": "TEFAL 테팔 핸드 블렌더 (1L 다지기 포함)",
       "store": "COSTCO",
@@ -3671,6 +3759,17 @@
       "normalPrice": 19490,
       "discountAmount": -4000,
       "finalPrice": 15490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "670869",
+      "name": "MODOO 부릉이 전기자전거 51CM (20)",
+      "store": "COSTCO",
+      "normalPrice": 1249000,
+      "discountAmount": -250000,
+      "finalPrice": 999000,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
