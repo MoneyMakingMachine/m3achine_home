@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:27:21.090103+00:00",
+  "generatedAt": "2026-09-15T23:42:23.422954+00:00",
   "items": [
     {
       "id": "579924",
@@ -442,6 +442,17 @@
       "imageVersion": 1786432695851
     },
     {
+      "id": "686640",
+      "name": "스페인산 돈육 냉동삼겹 3.0KG",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5500,
+      "finalPrice": 24490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1785761673540
+    },
+    {
       "id": "696714",
       "name": "[앤쿠폰 적용상품] 뉴트럴 레몬 473ML X 8캔",
       "store": "COSTCO",
@@ -506,6 +517,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786433167044
+    },
+    {
+      "id": "622448",
+      "name": "네덜란드 냉동돈욱 삼겹살 도매 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 18390,
+      "discountAmount": -9000,
+      "finalPrice": 9390,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
+      "imageVersion": 1786434741318
     },
     {
       "id": "522768",
@@ -1322,6 +1344,17 @@
       "imageVersion": 1788350807284
     },
     {
+      "id": "530529",
+      "name": "부드러운 복숭아 (3KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/16",
+      "imageVersion": 1787707311420
+    },
+    {
       "id": "685000",
       "name": "GOODFEEL 좋은느낌 유기농입는오버나이트 27개",
       "store": "COSTCO",
@@ -2035,6 +2068,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788873333016
+    },
+    {
+      "id": "589858",
+      "name": "자두 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789035839774
     },
     {
       "id": "694688",
