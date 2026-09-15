@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T13:27:09.669090+00:00",
+  "generatedAt": "2026-09-15T13:42:12.667870+00:00",
   "items": [
     {
       "id": "579924",
@@ -160,8 +160,8 @@
       "name": "이토엔 오이오차 녹차 525ML X 12",
       "store": "COSTCO",
       "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/17",
       "imageVersion": 1785567277998
@@ -242,6 +242,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786430692319
+    },
+    {
+      "id": "692845",
+      "name": "기린 오후의홍차 밀크티 500ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787058855209
     },
     {
       "id": "693738",
@@ -3049,6 +3060,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "629076",
+      "name": "원데이케어 애견 관절&치석케어 15G X 40EA",
+      "store": "COSTCO",
+      "normalPrice": 26790,
+      "discountAmount": -4000,
+      "finalPrice": 22790,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "631244",
       "name": "트레비 탄산수 레몬향 300ML X 30팩",
       "store": "COSTCO",
@@ -3082,17 +3104,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "629076",
-      "name": "원데이케어 애견 관절&치석케어 15G X 40EA",
-      "store": "COSTCO",
-      "normalPrice": 26790,
-      "discountAmount": -4000,
-      "finalPrice": 22790,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "627620",
       "name": "BULLSONE 불스원 3 IN 1 에탄올워셔 1.8L X 3개",
       "store": "COSTCO",
@@ -3112,6 +3123,17 @@
       "finalPrice": 22490,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "637547",
+      "name": "코카콜라 제로 300ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 23790,
+      "discountAmount": -4800,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -3291,17 +3313,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "657658",
-      "name": "BULLSONE 불스원 프리미엄 연료첨가제 500ML 3개",
-      "store": "COSTCO",
-      "normalPrice": 33990,
-      "discountAmount": -7000,
-      "finalPrice": 26990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "654776",
       "name": "비우와우 애견용 단백질바 100G X 10팩",
       "store": "COSTCO",
@@ -3310,6 +3321,17 @@
       "finalPrice": 16990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "657658",
+      "name": "BULLSONE 불스원 프리미엄 연료첨가제 500ML 3개",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -3376,6 +3398,17 @@
       "finalPrice": 17490,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "660819",
+      "name": "스타벅스 더블샷바닐라 275ML X 12캔",
+      "store": "COSTCO",
+      "normalPrice": 24490,
+      "discountAmount": -5000,
+      "finalPrice": 19490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/15",
       "imageVersion": 1786300361977
     },
     {
@@ -3475,6 +3508,17 @@
       "finalPrice": 46900,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "666545",
+      "name": "캐나다드라이 진저에일 450ML X 12",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -3819,6 +3863,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "679317",
+      "name": "스프라이트 탄산소다 350ML X 24캔",
+      "store": "COSTCO",
+      "normalPrice": 20490,
+      "discountAmount": -4500,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "679901",
       "name": "매일마이카페라떼 브라운슈가 밀크티 220ML X 10",
       "store": "COSTCO",
@@ -3852,17 +3907,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "680634",
-      "name": "아르르 강아지&고양이 열빙어간식 65G X 3",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -3000,
-      "finalPrice": 16990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "680688",
       "name": "슈가버블 식기세척기세제 10G X 130개",
       "store": "COSTCO",
@@ -3871,6 +3915,17 @@
       "finalPrice": 15490,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "680634",
+      "name": "아르르 강아지&고양이 열빙어간식 65G X 3",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
