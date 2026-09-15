@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:42:00.826595+00:00",
+  "generatedAt": "2026-09-15T12:57:03.759575+00:00",
   "items": [
     {
       "id": "579924",
@@ -112,6 +112,17 @@
       "imageVersion": 1789036940508
     },
     {
+      "id": "630583",
+      "name": "블랙모어스 피쉬오일 미니캡슐 510MG X 250CP",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -6500,
+      "finalPrice": 25490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "1956420",
       "name": "JACHS 여성 체크 셔츠 SM,L US SIZE",
       "store": "COSTCO",
@@ -132,6 +143,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786431964392
+    },
+    {
+      "id": "515806",
+      "name": "CENOVIS 트리플러스 1,150MG X 100캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29490,
+      "discountAmount": -6000,
+      "finalPrice": 23490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
     },
     {
       "id": "690993",
@@ -286,6 +308,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786432109549
+    },
+    {
+      "id": "686070",
+      "name": "CJ 아이시안 루테인지아잔틴 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786432445388
     },
     {
       "id": "692414",
@@ -517,6 +550,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785659272245
+    },
+    {
+      "id": "692681",
+      "name": "뉴트리코어 헤어그릭스케라넷 42캡슐",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1785064096079
     },
     {
       "id": "2016700",
@@ -827,6 +871,17 @@
       "imageVersion": 1785663088070
     },
     {
+      "id": "683462",
+      "name": "판토도란 비오틴 판토텐산 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -4500,
+      "finalPrice": 16490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785580311257
+    },
+    {
       "id": "692152",
       "name": "LG 오브제 AI 매직 871L",
       "store": "COSTCO",
@@ -858,6 +913,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/11",
       "imageVersion": 1785496720203
+    },
+    {
+      "id": "674489",
+      "name": "뉴트리코어 초임계비타민K2 & D3 60정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786432249226
     },
     {
       "id": "692736",
@@ -2884,6 +2950,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "645807",
+      "name": "동원천지인 홍삼정골드8.0 240G",
+      "store": "COSTCO",
+      "normalPrice": 74900,
+      "discountAmount": -15000,
+      "finalPrice": 59900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "644244",
       "name": "농심 배홍동 비빔면 137G X 20",
       "store": "COSTCO",
@@ -2906,6 +2983,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "650725",
+      "name": "CJ BYO 생유산균 프리미엄 50캡슐 X 2병",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "649754",
       "name": "스카치브라이트 베이킹소다 수세미 40매",
       "store": "COSTCO",
@@ -2914,6 +3002,17 @@
       "finalPrice": 17990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "650510",
+      "name": "센트룸 멀티비타민구미 130구미",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
@@ -3034,6 +3133,17 @@
       "discountAmount": -29000,
       "finalPrice": 109900,
       "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "660246",
+      "name": "에버콜라겐 인앤업플러스 750MG X 112정",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -7500,
+      "finalPrice": 30490,
+      "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
@@ -3236,6 +3346,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "673749",
+      "name": "지큐랩 쿨멜팅 유산균 60포",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "674080",
       "name": "BRIGHTON 여행가방 72CM (26)",
       "store": "COSTCO",
@@ -3313,6 +3434,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "676743",
+      "name": "에버스트로겐 750MG X 60정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6500,
+      "finalPrice": 23490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "677417",
       "name": "프로쉬 코튼블라썸섬유유연제 3L X 2",
       "store": "COSTCO",
@@ -3342,6 +3474,17 @@
       "discountAmount": -44000,
       "finalPrice": 175900,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "677986",
+      "name": "얼라이브 삼부커스 엘더베리 110구미",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5600,
+      "finalPrice": 22390,
+      "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
@@ -3398,6 +3541,17 @@
       "finalPrice": 17790,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "678991",
+      "name": "바이탈뷰티 슈퍼레티놀C 80포",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -8000,
+      "finalPrice": 25990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
