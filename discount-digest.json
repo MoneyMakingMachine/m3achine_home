@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T12:57:03.759575+00:00",
+  "generatedAt": "2026-09-15T13:12:06.880948+00:00",
   "items": [
     {
       "id": "579924",
@@ -233,6 +233,17 @@
       "imageVersion": 1788349542027
     },
     {
+      "id": "693896",
+      "name": "BELIF 빌리프 아쿠아 밤 아이 F2 15ML X 2 사2026/08/2",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786430692319
+    },
+    {
       "id": "693738",
       "name": "PURETEIN 퓨어틴 프로틴 초코쉐이크 330ML X 12팩",
       "store": "COSTCO",
@@ -321,6 +332,17 @@
       "imageVersion": 1786432445388
     },
     {
+      "id": "686067",
+      "name": "SILK THERAPY 헤어 밀크 120ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1787058593672
+    },
+    {
       "id": "692414",
       "name": "하림 동물복지, 닭 가슴살 1.8KG",
       "store": "COSTCO",
@@ -385,6 +407,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1785503971099
+    },
+    {
+      "id": "674687",
+      "name": "종근당건강 키즈 홍삼 튼튼업 20ML X 30포",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7500,
+      "finalPrice": 26490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786432695851
     },
     {
       "id": "696714",
@@ -2136,6 +2169,17 @@
       "imageVersion": 1789035715848
     },
     {
+      "id": "692843",
+      "name": "RUCIPELLO루치펠로 스틱가글 12ML X 120개",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786185627182
+    },
+    {
       "id": "639517",
       "name": "SUNKIST 프라임 견과 세트 1,200G / 20G X 60PK",
       "store": "COSTCO",
@@ -2609,6 +2653,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "591501",
+      "name": "크리넥스 소프트터치 미용티슈 250매 X 8팩 (2겹)",
+      "store": "COSTCO",
+      "normalPrice": 18490,
+      "discountAmount": -3500,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "587509",
       "name": "DURACELL듀라셀 알카라인 건전지 AAA (1.5V) 40개입",
       "store": "COSTCO",
@@ -2727,6 +2782,17 @@
       "finalPrice": 20990,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "598790",
+      "name": "크리넥스 소프트엠보싱 물티슈 60매 X 8팩",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -1200,
+      "finalPrice": 9790,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -3357,6 +3423,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "673530",
+      "name": "HERA 헤라 선메이트 프로텍터 50ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "674080",
       "name": "BRIGHTON 여행가방 72CM (26)",
       "store": "COSTCO",
@@ -3397,6 +3474,17 @@
       "discountAmount": -3000,
       "finalPrice": 9990,
       "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "675037",
+      "name": "CELIMAX 셀리맥스 어성초 지우개패드 80매 X 2",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
@@ -3684,6 +3772,17 @@
       "finalPrice": 61900,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "720700",
+      "name": "AVEENO 아비노 바디로션 무향 1000ML",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
