@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:42:58.865168+00:00",
+  "generatedAt": "2026-09-16T04:28:01.857566+00:00",
   "items": [
     {
       "id": "579924",
@@ -2224,6 +2224,61 @@
       "imageVersion": 1789529684954
     },
     {
+      "id": "695649",
+      "name": "우유 찰볼 MILKY CHEWY BALL 15CT/PACK",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532187909
+    },
+    {
+      "id": "987675",
+      "name": "NOVAFORM 주방쿠션매트 60X152CM",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -9500,
+      "finalPrice": 36490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532378227
+    },
+    {
+      "id": "696030",
+      "name": "네오플램 NEOFLAM 트위드 머그세트 380ML, 3P",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/09",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532419519
+    },
+    {
+      "id": "687581",
+      "name": "KITKAT 오리지널 초콜릿 756G / 13.5G X 56",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/09/08",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532553892
+    },
+    {
+      "id": "521457",
+      "name": "PREMIUM CHOICE 튀김 새우 900G (30CT)",
+      "store": "COSTCO",
+      "normalPrice": 22490,
+      "discountAmount": -3500,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532734356
+    },
+    {
       "id": "1740696",
       "name": "SWISS MILITARY 여행가방 51CM (20)",
       "store": "COSTCO",
@@ -2387,6 +2442,28 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789529408249
+    },
+    {
+      "id": "696507",
+      "name": "대조 우리쌀 전병 세트 576G",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2300,
+      "finalPrice": 11690,
+      "saleStart": "2026/09/10",
+      "saleEnd": "2026/09/25",
+      "imageVersion": 1789532298906
+    },
+    {
+      "id": "673058",
+      "name": "수라청 찌개용 두부 420G X 2 국산콩사용",
+      "store": "COSTCO",
+      "normalPrice": 5590,
+      "discountAmount": -1000,
+      "finalPrice": 4590,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532704249
     },
     {
       "id": "677102",
@@ -2565,6 +2642,61 @@
       "imageVersion": 1789529647240
     },
     {
+      "id": "529574",
+      "name": "미국산 초이스 등심 스테이크 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 87900,
+      "discountAmount": -15000,
+      "finalPrice": 72900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/18",
+      "imageVersion": 1789531994556
+    },
+    {
+      "id": "690489",
+      "name": "말차크림 쌀케익 MATCHA CREAM RICE CAKE",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532167881
+    },
+    {
+      "id": "699630",
+      "name": "존쿡델리미트 선물세트",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -8000,
+      "finalPrice": 39990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532453879
+    },
+    {
+      "id": "694867",
+      "name": "마이노멀 두부면 130G x 12",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -2000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532589193
+    },
+    {
+      "id": "673071",
+      "name": "수라청 부침용 두부 420G X2 국산콩사용",
+      "store": "COSTCO",
+      "normalPrice": 5690,
+      "discountAmount": -1000,
+      "finalPrice": 4690,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532785147
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -2719,6 +2851,61 @@
       "imageVersion": 1789529458430
     },
     {
+      "id": "690428",
+      "name": "껍질째 먹는 사과 (2.5KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 25490,
+      "discountAmount": -3500,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532043033
+    },
+    {
+      "id": "690487",
+      "name": "버섯모음 1KG MUSHROOM ASSORTMENTS 원산지 : 국산",
+      "store": "COSTCO",
+      "normalPrice": 8490,
+      "discountAmount": -1500,
+      "finalPrice": 6990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/17",
+      "imageVersion": 1789532110406
+    },
+    {
+      "id": "679113",
+      "name": "LA ABUELA NIEVES 라아부엘라감자칩 900G / 150G X 6",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -3600,
+      "finalPrice": 20390,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/16",
+      "imageVersion": 1789532332998
+    },
+    {
+      "id": "695495",
+      "name": "ECLIPSE 포도 340G / 34G X 10",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532503689
+    },
+    {
+      "id": "659708",
+      "name": "에네미고 말벡 750ML",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789532812429
+    },
+    {
       "id": "669119",
       "name": "라보아 섬유유연제 프랑지파니&가이악 4L",
       "store": "COSTCO",
@@ -2763,6 +2950,17 @@
       "imageVersion": 1789529661976
     },
     {
+      "id": "529690",
+      "name": "햇배 1봉 3.5KG (4-6입) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532061808
+    },
+    {
       "id": "692365",
       "name": "BRENTWOOD 남성 라운드 니트 95 - 115 ASIAN SIZE",
       "store": "COSTCO",
@@ -2774,6 +2972,17 @@
       "imageVersion": 1788874193435
     },
     {
+      "id": "686497",
+      "name": "김화농협 오대쌀 10KG 등급: 상",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -2500,
+      "finalPrice": 37490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532140741
+    },
+    {
       "id": "693951",
       "name": "씰리 다운얼터너티브베개 2P, 50X70CM",
       "store": "COSTCO",
@@ -2783,6 +2992,50 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789034996382
+    },
+    {
+      "id": "695494",
+      "name": "ECLIPSE 페퍼민트 340G / 34G X 10",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532522649
+    },
+    {
+      "id": "618548",
+      "name": "YDK 영덕 게딱지장 200G X 2",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5500,
+      "finalPrice": 22490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532667700
+    },
+    {
+      "id": "641901",
+      "name": "미정당 말랑쫄깃떡국떡 1.9KG",
+      "store": "COSTCO",
+      "normalPrice": 7490,
+      "discountAmount": -1500,
+      "finalPrice": 5990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532756725
+    },
+    {
+      "id": "687123",
+      "name": "UMENOYADO 감귤주 720ML",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -10000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532839316
     },
     {
       "id": "696050",
