@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T01:57:42.582388+00:00",
+  "generatedAt": "2026-09-16T02:12:45.245033+00:00",
   "items": [
     {
       "id": "579924",
@@ -308,6 +308,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "676331",
+      "name": "덕혼디코이 쇼비뇽 블랑페더웨이트 750ML",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -8000,
+      "finalPrice": 28990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785765964884
     },
     {
       "id": "1785779",
@@ -882,6 +893,17 @@
       "imageVersion": 1786181947960
     },
     {
+      "id": "694820",
+      "name": "반피 로사리갈레아스티 750ML",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4600,
+      "finalPrice": 18390,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1787059842686
+    },
+    {
       "id": "692259",
       "name": "LIQUID I.V. 전해질파우더믹스 16G X 30,레본라임맛",
       "store": "COSTCO",
@@ -913,6 +935,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1785033571530
+    },
+    {
+      "id": "589046",
+      "name": "베지밀 아몬드 & 호두 두유 190ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
     },
     {
       "id": "687367",
@@ -1531,6 +1564,17 @@
       "imageVersion": 1785763544412
     },
     {
+      "id": "694828",
+      "name": "산타리타 트리플C 다크 750ML",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1787709114180
+    },
+    {
       "id": "1613184",
       "name": "HALSTON 여성 반소매 니트 S,M,L US SIZE",
       "store": "COSTCO",
@@ -1639,6 +1683,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788352072540
+    },
+    {
+      "id": "589838",
+      "name": "로버트 몬다비 나파 까베르네쇼비용 750ML",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -15000,
+      "finalPrice": 84900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787709245919
     },
     {
       "id": "689790",
@@ -3049,6 +3104,17 @@
       "imageVersion": 1785963965272
     },
     {
+      "id": "627952",
+      "name": "MALIBU 캐리비안 럼 1L",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -7600,
+      "finalPrice": 24390,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786101134460
+    },
+    {
       "id": "642573",
       "name": "JAMESON 아이리쉬 위스키 700ML",
       "store": "COSTCO",
@@ -4080,6 +4146,17 @@
       "finalPrice": 14290,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/16",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "644358",
+      "name": "덕혼 포스트마크 파소로블스카베르네 750ML",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -7000,
+      "finalPrice": 24990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
     },
     {
