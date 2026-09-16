@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:42:48.032962+00:00",
+  "generatedAt": "2026-09-16T02:57:51.055031+00:00",
   "items": [
     {
       "id": "579924",
@@ -1916,6 +1916,39 @@
       "imageVersion": 1788351451025
     },
     {
+      "id": "1819441",
+      "name": "KIRKLAND SIGNATURE 옐로우 골프공 3피스/ 24개입",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -7000,
+      "finalPrice": 32990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526715581
+    },
+    {
+      "id": "665889",
+      "name": "DE NIGRIS 유기농사과식초세트 1호",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526866604
+    },
+    {
+      "id": "640498",
+      "name": "정관장 홍삼원력 50ML X 30",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/10",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526964015
+    },
+    {
       "id": "684686",
       "name": "PHILIPS 필립스 6000 시리즈 면도기 S6830/68",
       "store": "COSTCO",
@@ -2015,6 +2048,28 @@
       "imageVersion": 1789526501211
     },
     {
+      "id": "673926",
+      "name": "CATH KIDSTON 캐스키드슨 핸드크림 세트",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526677306
+    },
+    {
+      "id": "694803",
+      "name": "EUTHYMOL 유시몰 덴탈케어선물세트",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526697545
+    },
+    {
       "id": "693770",
       "name": "대구농산 쌀가루 2.5KG",
       "store": "COSTCO",
@@ -2035,6 +2090,39 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1787707656903
+    },
+    {
+      "id": "604870",
+      "name": "CENOVIS 밀크씨슬 + 900MG X 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526900554
+    },
+    {
+      "id": "694743",
+      "name": "엔젯오리진 포스파티딜세린 SET 90캡슐 X2병",
+      "store": "COSTCO",
+      "normalPrice": 54900,
+      "discountAmount": -11000,
+      "finalPrice": 43900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526940602
+    },
+    {
+      "id": "692336",
+      "name": "CRESSON 여성 덕다운 재킷 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527037040
     },
     {
       "id": "1740696",
@@ -2092,6 +2180,39 @@
       "imageVersion": 1788353213432
     },
     {
+      "id": "689936",
+      "name": "BRIGHTON 여행가방 37CM (15)",
+      "store": "COSTCO",
+      "normalPrice": 94990,
+      "discountAmount": -19000,
+      "finalPrice": 75990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526756113
+    },
+    {
+      "id": "692326",
+      "name": "YOICHEU 여성 퀄팅 베스트 S/M, M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526993738
+    },
+    {
+      "id": "692509",
+      "name": "TRUE RELIGION 남성 데님 재킷 M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527328495
+    },
+    {
       "id": "677102",
       "name": "럭스나인 NEW 라텍스 토퍼 퀸사이즈/150X200CM",
       "store": "COSTCO",
@@ -2114,6 +2235,50 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "690687",
+      "name": "CALLAWAY 골프장갑2개입",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4000,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526735210
+    },
+    {
+      "id": "655874",
+      "name": "CJ제일제당 스팸CC-1호",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -4000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/16",
+      "imageVersion": 1789526795140
+    },
+    {
+      "id": "690742",
+      "name": "오르조 유기농 보리차세트 (팀블러포함)",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -6000,
+      "finalPrice": 26990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789526884258
+    },
+    {
+      "id": "692331",
+      "name": "CRESSON 여성 밴딩 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1789527289347
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -2134,6 +2299,39 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "673462",
+      "name": "동국제약 마그마 스피드샷 20ML X 24병",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7200,
+      "finalPrice": 28790,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789526918135
+    },
+    {
+      "id": "693166",
+      "name": "PUMA 여성 러닝 자켓 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1789527015780
+    },
+    {
+      "id": "692395",
+      "name": "BRENTWOOD 남성 퀼팅 점퍼 S - XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527345807
     },
     {
       "id": "669119",
