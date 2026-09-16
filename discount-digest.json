@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T04:28:01.857566+00:00",
+  "generatedAt": "2026-09-16T04:43:04.353442+00:00",
   "items": [
     {
       "id": "579924",
@@ -2279,6 +2279,50 @@
       "imageVersion": 1789532734356
     },
     {
+      "id": "502134",
+      "name": "케이머스 까베르네 쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 144900,
+      "discountAmount": -20000,
+      "finalPrice": 124900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532931919
+    },
+    {
+      "id": "677303",
+      "name": "ORIHIRO 과일 곤약 젤리 1,040G / 130G X8",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -3000,
+      "finalPrice": 11790,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533021022
+    },
+    {
+      "id": "102290",
+      "name": "SWISS DELICE 밀크 초콜릿 1.5KG",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8500,
+      "finalPrice": 33490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533053082
+    },
+    {
+      "id": "693396",
+      "name": "SACLA 사클라 그린올리브스낵 30G X 12",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789533110547
+    },
+    {
       "id": "1740696",
       "name": "SWISS MILITARY 여행가방 51CM (20)",
       "store": "COSTCO",
@@ -2464,6 +2508,39 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1789532704249
+    },
+    {
+      "id": "691033",
+      "name": "CJ 밸런스밀프로틴바 420G / 14G X 30",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2000,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532997016
+    },
+    {
+      "id": "674514",
+      "name": "레오나르디 화이트발사믹콘디멘토 500ML",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -3000,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533083410
+    },
+    {
+      "id": "696439",
+      "name": "마이노멀 엑스트라버진올리브유 마요네즈 760G",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533137732
     },
     {
       "id": "677102",
@@ -2697,6 +2774,17 @@
       "imageVersion": 1789532785147
     },
     {
+      "id": "607460",
+      "name": "C-WEED 해초샐러드 1KG 원산지국내산",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533638900
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -2906,6 +2994,28 @@
       "imageVersion": 1789532812429
     },
     {
+      "id": "622698",
+      "name": "삼립 송편세트 750G X 2",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -2500,
+      "finalPrice": 16490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789532888771
+    },
+    {
+      "id": "649841",
+      "name": "궁 왕갈비탕 1KG X 2 + 20G X 2",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533663576
+    },
+    {
       "id": "669119",
       "name": "라보아 섬유유연제 프랑지파니&가이악 4L",
       "store": "COSTCO",
@@ -3036,6 +3146,50 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789532839316
+    },
+    {
+      "id": "640394",
+      "name": "박가네빈대떡 녹두빈대떡 180G X7",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532907290
+    },
+    {
+      "id": "665307",
+      "name": "그라함블렌드NO.5 포트와인 750ML",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -8000,
+      "finalPrice": 28990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789532965500
+    },
+    {
+      "id": "665351",
+      "name": "VONBEE 견과류가풍성한 방화차 60입",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -3000,
+      "finalPrice": 16990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533234225
+    },
+    {
+      "id": "1165366",
+      "name": "BELGIOIOS0 모째렐라 슬라이스 907G 원산지미국 할인형사 2028/oe4",
+      "store": "COSTCO",
+      "normalPrice": 16290,
+      "discountAmount": -3300,
+      "finalPrice": 12990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789533602609
     },
     {
       "id": "696050",
