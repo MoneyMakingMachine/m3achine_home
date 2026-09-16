@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:28:07.170122+00:00",
+  "generatedAt": "2026-09-16T07:43:09.672763+00:00",
   "items": [
     {
       "id": "579924",
@@ -3918,6 +3918,17 @@
       "imageVersion": 1789036300121
     },
     {
+      "id": "697240",
+      "name": "LG 오브제 FIT&MAX 김치냉장고",
+      "store": "COSTCO",
+      "normalPrice": 2349000,
+      "discountAmount": -250000,
+      "finalPrice": 2099000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789036804855
+    },
+    {
       "id": "621310",
       "name": "사또 데스끌랑 위스퍼링 엔젤 750ML",
       "store": "COSTCO",
@@ -3927,17 +3938,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/16",
       "imageVersion": 1789036586820
-    },
-    {
-      "id": "697240",
-      "name": "LG 오브제 FIT&MAX 김치냉장고 할인형사(E",
-      "store": "COSTCO",
-      "normalPrice": 2349000,
-      "discountAmount": -250000,
-      "finalPrice": 2099000,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
-      "imageVersion": 1789036804855
     },
     {
       "id": "1932126",
