@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:27:31.449607+00:00",
+  "generatedAt": "2026-09-16T00:42:34.161041+00:00",
   "items": [
     {
       "id": "579924",
@@ -275,6 +275,28 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1787058906733
+    },
+    {
+      "id": "667663",
+      "name": "한성기업 유부초밥박사 160G X 6 (12인분)",
+      "store": "COSTCO",
+      "normalPrice": 9390,
+      "discountAmount": -1700,
+      "finalPrice": 7690,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "665976",
+      "name": "고메 소바바소이허니순살 1100G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
     },
     {
       "id": "1785779",
@@ -1751,6 +1773,17 @@
       "imageVersion": 1788352956401
     },
     {
+      "id": "657455",
+      "name": "서정옥의 느린부엌 느린수정과 1L X 4",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2900,
+      "finalPrice": 9590,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787708371286
+    },
+    {
       "id": "632255",
       "name": "우렁쌈 우렁원산지:국산 KG당단가",
       "store": "COSTCO",
@@ -2983,6 +3016,28 @@
       "imageVersion": 1786269375992
     },
     {
+      "id": "586967",
+      "name": "오리늘보 무항생제훈제슬라이스 500GX2원산지국내산",
+      "store": "COSTCO",
+      "normalPrice": 18690,
+      "discountAmount": -3700,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786226398506
+    },
+    {
+      "id": "692424",
+      "name": "풀무원 데일리프레쉬 주스 150ML X 7EA",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786270475376
+    },
+    {
       "id": "608928",
       "name": "멈 꼬르동루즈샴페인 750ML",
       "store": "COSTCO",
@@ -3123,6 +3178,17 @@
       "finalPrice": 12790,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "563474",
+      "name": "다담 바지락순두부찌개 양념 140G X 5",
+      "store": "COSTCO",
+      "normalPrice": 6790,
+      "discountAmount": -1300,
+      "finalPrice": 5490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -3654,6 +3720,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "635990",
+      "name": "비비고 총각김치 2.4KG",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -4000,
+      "finalPrice": 20990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "637344",
       "name": "AERIUM 여성골프장갑 4개입",
       "store": "COSTCO",
@@ -3907,6 +3984,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "656897",
+      "name": "서정옥의 느린부엌 느린식혜 1L X 4",
+      "store": "COSTCO",
+      "normalPrice": 12470,
+      "discountAmount": -3200,
+      "finalPrice": 9270,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "656050",
       "name": "ILLIYOON 일리윤 가려움 토탈케어크림 330ML + 80ML X 2개",
       "store": "COSTCO",
@@ -3915,17 +4003,6 @@
       "finalPrice": 22990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "656897",
-      "name": "서정옥의 느린부엌 느린식혜 1L X 4",
-      "store": "COSTCO",
-      "normalPrice": 12490,
-      "discountAmount": -2800,
-      "finalPrice": 9690,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -4028,6 +4105,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "660369",
+      "name": "고메 중화짬뽕 326G X 6",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "663585",
       "name": "액츠 파워젤 세탁세제 14L",
       "store": "COSTCO",
@@ -4124,6 +4212,17 @@
       "finalPrice": 11190,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "665483",
+      "name": "미정당 가래떡 떡볶이 400G X 4 (8인분)",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -1800,
+      "finalPrice": 8190,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -4333,6 +4432,17 @@
       "finalPrice": 22990,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "670607",
+      "name": "다담 된장찌개 양념 840G X 2",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -4743,6 +4853,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "682484",
+      "name": "아워홈 구씨반갈치김치 1.6KG",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/18",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "684863",
       "name": "퍼실 디스크캡슐세제 25G X 60DISCS",
       "store": "COSTCO",
@@ -4883,6 +5004,17 @@
       "finalPrice": 12990,
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "692888",
+      "name": "고메 고기짜장 340G X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -2500,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     }
   ]
