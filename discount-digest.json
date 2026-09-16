@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:57:51.055031+00:00",
+  "generatedAt": "2026-09-16T03:12:53.552858+00:00",
   "items": [
     {
       "id": "579924",
@@ -1949,6 +1949,17 @@
       "imageVersion": 1789526964015
     },
     {
+      "id": "682350",
+      "name": "KENNETH COLE 남성 워싱 팬츠 30- 36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527602366
+    },
+    {
       "id": "684686",
       "name": "PHILIPS 필립스 6000 시리즈 면도기 S6830/68",
       "store": "COSTCO",
@@ -1969,6 +1980,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788351902702
+    },
+    {
+      "id": "692359",
+      "name": "PUMA 성인 운동화 230- 285MM",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6500,
+      "finalPrice": 23490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789527723498
     },
     {
       "id": "796077",
@@ -2125,6 +2147,17 @@
       "imageVersion": 1789527037040
     },
     {
+      "id": "671498",
+      "name": "VOLVIK 남성 골프 폴로 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789527562914
+    },
+    {
       "id": "1740696",
       "name": "SWISS MILITARY 여행가방 51CM (20)",
       "store": "COSTCO",
@@ -2213,6 +2246,28 @@
       "imageVersion": 1789527328495
     },
     {
+      "id": "694871",
+      "name": "OUTDOOR PRODUCTS 키즈 세미배기팬츠 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527663740
+    },
+    {
+      "id": "674216",
+      "name": "JEEP 라운드티셔츠 3매 S- XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789527858713
+    },
+    {
       "id": "677102",
       "name": "럭스나인 NEW 라텍스 토퍼 퀸사이즈/150X200CM",
       "store": "COSTCO",
@@ -2279,6 +2334,39 @@
       "imageVersion": 1789527289347
     },
     {
+      "id": "667064",
+      "name": "ADIDAS 윈드블록 재킷 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 53900,
+      "discountAmount": -11000,
+      "finalPrice": 42900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527534340
+    },
+    {
+      "id": "711148",
+      "name": "ADIDAS 성인 운동화 230- 285MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789527695501
+    },
+    {
+      "id": "667038",
+      "name": "SOCKSTOP 성인캐주얼양말10족 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789528320084
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -2332,6 +2420,61 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/04",
       "imageVersion": 1789527345807
+    },
+    {
+      "id": "692548",
+      "name": "PUMA 남성 러닝팬츠 M- XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789527619448
+    },
+    {
+      "id": "691716",
+      "name": "WHITE SAND 울 니트 모자 FREE사이즈",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789527820099
+    },
+    {
+      "id": "652151",
+      "name": "BODYBLUE 헴 팬티5매 90- 105 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -6000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789528009812
+    },
+    {
+      "id": "672502",
+      "name": "GUESS 남성 박서쇼츠3매 M- XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -6000,
+      "finalPrice": 20990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789528068832
+    },
+    {
+      "id": "694082",
+      "name": "NEW BALANCE 아동쿠션양말 5족 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789528304815
     },
     {
       "id": "669119",
