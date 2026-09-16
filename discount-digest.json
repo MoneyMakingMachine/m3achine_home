@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:27:56.036754+00:00",
+  "generatedAt": "2026-09-16T03:42:58.865168+00:00",
   "items": [
     {
       "id": "579924",
@@ -2015,6 +2015,17 @@
       "imageVersion": 1789528907707
     },
     {
+      "id": "690173",
+      "name": "VENDICT 벤딕트 세이프링크 QR 주차번호판 메탈",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529312368
+    },
+    {
       "id": "685149",
       "name": "VONBEE 6년근 홍삼본 70ML X 30",
       "store": "COSTCO",
@@ -2024,6 +2035,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788350973034
+    },
+    {
+      "id": "622212",
+      "name": "창 암막 콤비 블라인드 155 X 240 CM",
+      "store": "COSTCO",
+      "normalPrice": 85900,
+      "discountAmount": -18000,
+      "finalPrice": 67900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529374061
     },
     {
       "id": "694313",
@@ -2191,6 +2213,17 @@
       "imageVersion": 1789528528467
     },
     {
+      "id": "689231",
+      "name": "LG 오브제 김치냉장고 491L",
+      "store": "COSTCO",
+      "normalPrice": 2899000,
+      "discountAmount": -300000,
+      "finalPrice": 2599000,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789529684954
+    },
+    {
       "id": "1740696",
       "name": "SWISS MILITARY 여행가방 51CM (20)",
       "store": "COSTCO",
@@ -2332,6 +2365,28 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789529215967
+    },
+    {
+      "id": "667953",
+      "name": "KUNDAL 쿤달 디퓨저 세트 400MLX2, STICK 15PC",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529344273
+    },
+    {
+      "id": "693817",
+      "name": "COLEMAN 접이식 손수레 106(D)X53(W)X100(H)CM",
+      "store": "COSTCO",
+      "normalPrice": 89990,
+      "discountAmount": -18000,
+      "finalPrice": 71990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529408249
     },
     {
       "id": "677102",
@@ -2488,6 +2543,28 @@
       "imageVersion": 1789529238236
     },
     {
+      "id": "692255",
+      "name": "FISSLER 휘슬러 콤비 압력솥 (2.5+4.5L),독일산",
+      "store": "COSTCO",
+      "normalPrice": 299900,
+      "discountAmount": -60000,
+      "finalPrice": 239900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789529544537
+    },
+    {
+      "id": "695937",
+      "name": "LG 그램",
+      "store": "COSTCO",
+      "normalPrice": 2599000,
+      "discountAmount": -300000,
+      "finalPrice": 299000,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529647240
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -2620,6 +2697,28 @@
       "imageVersion": 1789529003971
     },
     {
+      "id": "622213",
+      "name": "창 암막 콤비 블라인드 185 X 240 CM",
+      "store": "COSTCO",
+      "normalPrice": 97900,
+      "discountAmount": -20000,
+      "finalPrice": 77900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529380536
+    },
+    {
+      "id": "693718",
+      "name": "CELLVERINE 리커버리 슬리브 2개",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529458430
+    },
+    {
       "id": "669119",
       "name": "라보아 섬유유연제 프랑지파니&가이악 4L",
       "store": "COSTCO",
@@ -2651,6 +2750,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/20",
       "imageVersion": 1788873142307
+    },
+    {
+      "id": "691891",
+      "name": "LG 그램 북",
+      "store": "COSTCO",
+      "normalPrice": 1299000,
+      "discountAmount": -100000,
+      "finalPrice": 1199000,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789529661976
     },
     {
       "id": "692365",
