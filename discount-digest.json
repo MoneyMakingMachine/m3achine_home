@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T02:12:45.245033+00:00",
+  "generatedAt": "2026-09-16T02:42:48.032962+00:00",
   "items": [
     {
       "id": "579924",
@@ -1872,6 +1872,28 @@
       "imageVersion": 1788350825824
     },
     {
+      "id": "679151",
+      "name": "비첸향 골든코인 선물세트 320G",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -3000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/12",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1789526449169
+    },
+    {
+      "id": "694806",
+      "name": "LABO-H 라보에이치 프리미엄샴푸세트",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/09/09",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526538186
+    },
+    {
       "id": "679727",
       "name": "SU:M 37 숨 37 시크릿 에센스 80ML + 30ML",
       "store": "COSTCO",
@@ -1982,6 +2004,17 @@
       "imageVersion": 1788352152825
     },
     {
+      "id": "696234",
+      "name": "샌드웨이퍼선물세트 480G",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/10",
+      "saleEnd": "2026/09/25",
+      "imageVersion": 1789526501211
+    },
+    {
       "id": "693770",
       "name": "대구농산 쌀가루 2.5KG",
       "store": "COSTCO",
@@ -2024,6 +2057,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1788352859234
+    },
+    {
+      "id": "694802",
+      "name": "DR.GROOT 닥터그루트 헤어케어선물세트",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/08",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526521290
     },
     {
       "id": "638989",
