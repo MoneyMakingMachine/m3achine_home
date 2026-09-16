@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:57:36.887617+00:00",
+  "generatedAt": "2026-09-16T01:27:39.534576+00:00",
   "items": [
     {
       "id": "579924",
@@ -563,6 +563,17 @@
       "imageVersion": 1788349658359
     },
     {
+      "id": "521717",
+      "name": "고메 함박 스테이크 810G (소스포함)",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "692097",
       "name": "CODES COMBINE 셔켓 S/M,M/L ASIAN SIZE",
       "store": "COSTCO",
@@ -792,6 +803,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786183041679
+    },
+    {
+      "id": "688971",
+      "name": "BBQ 후라이드 치킨 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -3000,
+      "finalPrice": 16490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786181947960
     },
     {
       "id": "692259",
@@ -3038,6 +3060,17 @@
       "imageVersion": 1786270475376
     },
     {
+      "id": "691378",
+      "name": "고메 소바바양념순살치킨 1100G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786270592798
+    },
+    {
       "id": "608928",
       "name": "멈 꼬르동루즈샴페인 750ML",
       "store": "COSTCO",
@@ -3522,6 +3555,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "610902",
+      "name": "동원 7겹 돈까스 1,040G",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -3500,
+      "finalPrice": 12990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "617031",
       "name": "샤프란 꽃담초 섬유유연제 5.7L",
       "store": "COSTCO",
@@ -3574,6 +3618,17 @@
       "finalPrice": 22490,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "615210",
+      "name": "BIBIGO남도 떡갈비 남도 떡갈비 900G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
@@ -3995,6 +4050,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "656361",
+      "name": "BBQ 닭강정 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3000,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "656050",
       "name": "ILLIYOON 일리윤 가려움 토탈케어크림 330ML + 80ML X 2개",
       "store": "COSTCO",
@@ -4014,6 +4080,17 @@
       "finalPrice": 109900,
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "658910",
+      "name": "씨제이 꼬마돈까스 1400G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/20",
       "imageVersion": 1786300361977
     },
     {
