@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T11:13:12.299120+00:00",
+  "generatedAt": "2026-09-18T20:13:15.398751+00:00",
   "items": [
     {
       "id": "579924",
@@ -231,17 +231,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "690993",
-      "name": "이토엔 오이오차 녹차 525ML X 12",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -3000,
-      "finalPrice": 16990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/17",
-      "imageVersion": 1785567277998
     },
     {
       "id": "1763871",
@@ -607,17 +596,6 @@
       "imageVersion": 1788349723454
     },
     {
-      "id": "622294",
-      "name": "HAAGEN-DAZS 미니컵 컬렉션 100ML X 10",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -5500,
-      "finalPrice": 24490,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1785764478909
-    },
-    {
       "id": "663775",
       "name": "벅쉑 버번배럴까베르네 쇼비뇽 750ML",
       "store": "COSTCO",
@@ -649,6 +627,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786436472620
+    },
+    {
+      "id": "622294",
+      "name": "HAAGEN-DAZS 미니컵 컬렉션 100ML X 10",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5500,
+      "finalPrice": 24490,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785764478909
     },
     {
       "id": "696053",
@@ -2915,17 +2904,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/20",
       "imageVersion": 1789532043033
-    },
-    {
-      "id": "690487",
-      "name": "버섯모음 1KG MUSHROOM ASSORTMENTS 원산지 : 국산",
-      "store": "COSTCO",
-      "normalPrice": 8490,
-      "discountAmount": -1500,
-      "finalPrice": 6990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/17",
-      "imageVersion": 1789532110406
     },
     {
       "id": "695495",
