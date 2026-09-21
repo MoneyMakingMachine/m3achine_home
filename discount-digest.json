@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:58:28.333456+00:00",
+  "generatedAt": "2026-09-21T21:13:31.293312+00:00",
   "items": [
     {
       "id": "579924",
@@ -13,17 +13,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "7771005",
-      "name": "KIRKLAND SIGNATURE 여성 카프리 바지 S,M,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": 17970,
-      "discountAmount": -8000,
-      "finalPrice": 9970,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1787058041048
-    },
-    {
       "id": "696135",
       "name": "KOVEA 벨로 우드 롤 캠핑 테이블",
       "store": "COSTCO",
@@ -35,15 +24,15 @@
       "imageVersion": 1786431121926
     },
     {
-      "id": "1956383",
-      "name": "WEATHERPROOF VINTAGE 여성 러플 가디건 S,M,L US SIŽE",
+      "id": "7771005",
+      "name": "KIRKLAND SIGNATURE 여성 카프리 바지 S,M,L US SIZE",
       "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1786431641575
+      "normalPrice": 17970,
+      "discountAmount": -8000,
+      "finalPrice": 9970,
+      "saleStart": "2026/08/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787058041048
     },
     {
       "id": "685470",
@@ -55,17 +44,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789036905159
-    },
-    {
-      "id": "687188",
-      "name": "COLUMBIA 여성 나일론 바지 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1786431903437
     },
     {
       "id": "683406",
@@ -101,6 +79,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "687188",
+      "name": "COLUMBIA 여성 나일론 바지 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1786431903437
+    },
+    {
       "id": "764543",
       "name": "DIADORA 여성 스니커즈 230- 250MM SIZE",
       "store": "COSTCO",
@@ -121,28 +110,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "1956420",
-      "name": "JACHS 여성 체크 셔츠 SM,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1786431671708
-    },
-    {
-      "id": "687713",
-      "name": "CRESSON 여성 와이드 팬츠 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -5000,
-      "finalPrice": 19990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786431964392
     },
     {
       "id": "515806",
@@ -407,17 +374,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786433167044
-    },
-    {
-      "id": "792264",
-      "name": "SLOGGI 여성 스쿠바 티 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -7000,
-      "finalPrice": 19990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1785496745459
     },
     {
       "id": "682610",
@@ -794,17 +750,6 @@
       "imageVersion": 1785662990889
     },
     {
-      "id": "692264",
-      "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -7000,
-      "finalPrice": 19990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1785496720203
-    },
-    {
       "id": "674489",
       "name": "뉴트리코어 초임계비타민K2 & D3 60정",
       "store": "COSTCO",
@@ -882,15 +827,15 @@
       "imageVersion": 1787709114180
     },
     {
-      "id": "1613184",
-      "name": "HALSTON 여성 반소매 니트 S,M,L US SIZE",
+      "id": "692264",
+      "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
       "store": "COSTCO",
-      "normalPrice": 19970,
-      "discountAmount": -5000,
-      "finalPrice": 14970,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1787708646833
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1785496720203
     },
     {
       "id": "683441",
@@ -1707,17 +1652,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "692331",
-      "name": "CRESSON 여성 밴딩 팬츠 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -6000,
-      "finalPrice": 21990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1789527289347
-    },
-    {
       "id": "667064",
       "name": "ADIDAS 윈드블록 재킷 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -1848,6 +1782,17 @@
       "saleStart": "2026/09/17",
       "saleEnd": "2026/09/21",
       "imageVersion": 1789526795140
+    },
+    {
+      "id": "692331",
+      "name": "CRESSON 여성 밴딩 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1789527289347
     },
     {
       "id": "677939",
@@ -2367,6 +2312,39 @@
       "imageVersion": 1788873739060
     },
     {
+      "id": "692137",
+      "name": "LYDIA VINE 여성 캐시미어100% 가디건 SIZE S,M,L\n여성 캐시미어100%\n가디건   SIZE S,M,L",
+      "store": "COSTCO",
+      "normalPrice": 99990,
+      "discountAmount": -20000,
+      "finalPrice": 79990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790024375050
+    },
+    {
+      "id": "1956420",
+      "name": "JACHS 여성 체크 셔츠 SM,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1786431671708
+    },
+    {
+      "id": "792264",
+      "name": "SLOGGI 여성 스쿠바 티 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1785496745459
+    },
+    {
       "id": "616062",
       "name": "삼립 궁중 꿀약과 1.5KG",
       "store": "COSTCO",
@@ -2442,17 +2420,6 @@
       "saleStart": "2026/09/05",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788873448418
-    },
-    {
-      "id": "692094",
-      "name": "CODES COMBINE 여성 와이드 팬츠 S.M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5500,
-      "finalPrice": 21490,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1788874167946
     },
     {
       "id": "665889",
@@ -2532,6 +2499,50 @@
       "imageVersion": 1788873900447
     },
     {
+      "id": "692095",
+      "name": "CODES COMBINE 여성 크루넥 니트 S/M,M/L ASIAN SIZE\n여성 크루넥 니트\nS/M,M/L  ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790024434715
+    },
+    {
+      "id": "7771772",
+      "name": "KIRKLAND SIGNATURE 여성 립 크루티 XS,S,M,L US SIZE\n여성 립 크루티\nXS,S,M,L  US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -5000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790024541331
+    },
+    {
+      "id": "7771771",
+      "name": "KIRKLAND SIGNATURE 여성 립 조거 XS,S,M,L US SIZE\n여성 립 조거\nXS,S,M,L  US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -5000,
+      "finalPrice": 14990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790024592281
+    },
+    {
+      "id": "692094",
+      "name": "CODES COMBINE 여성 와이드 팬츠 S.M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788874167946
+    },
+    {
       "id": "692514",
       "name": "ALEAF 덤벨 세트 7KG",
       "store": "COSTCO",
@@ -2609,6 +2620,17 @@
       "imageVersion": 1789526848686
     },
     {
+      "id": "1613184",
+      "name": "HALSTON 여성 반소매 니트 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/08/20",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1787708646833
+    },
+    {
       "id": "777964",
       "name": "궁 쇠고기육포 선물세트 510G",
       "store": "COSTCO",
@@ -2618,6 +2640,17 @@
       "saleStart": "2026/09/20",
       "saleEnd": "2026/09/23",
       "imageVersion": 1788873547006
+    },
+    {
+      "id": "687713",
+      "name": "CRESSON 여성 와이드 팬츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -5000,
+      "finalPrice": 14970,
+      "saleStart": "2026/08/10",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786431964392
     },
     {
       "id": "575126",
@@ -2640,6 +2673,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/10/04",
       "imageVersion": 1788873985055
+    },
+    {
+      "id": "661634",
+      "name": "GUESS 여성 파자마 세트 S,M,L ASIAN SIZE\n여성 파자마 세트\nS,M,L  ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790024330247
+    },
+    {
+      "id": "1956383",
+      "name": "WEATHERPROOF VINTAGE 여성 러플 가디건 S,M,L US SIŽE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1786431641575
     },
     {
       "id": "692843",
