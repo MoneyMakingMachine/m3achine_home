@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:28:22.561799+00:00",
+  "generatedAt": "2026-09-21T20:43:25.259367+00:00",
   "items": [
     {
       "id": "579924",
@@ -409,17 +409,6 @@
       "imageVersion": 1787055416162
     },
     {
-      "id": "694690",
-      "name": "청정원 특선C-1호 선물세트",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -7000,
-      "finalPrice": 19990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1788349644611
-    },
-    {
       "id": "694490",
       "name": "IRIS 플라스틱 수납함 3개입",
       "store": "COSTCO",
@@ -563,17 +552,6 @@
       "imageVersion": 1785580354071
     },
     {
-      "id": "517558",
-      "name": "정광잘 홍삼진 현 50ML X 20포",
-      "store": "COSTCO",
-      "normalPrice": 37490,
-      "discountAmount": -7500,
-      "finalPrice": 29990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1785659272245
-    },
-    {
       "id": "2016700",
       "name": "DKNY 여성 잠옷 세트 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -682,6 +660,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788351144068
+    },
+    {
+      "id": "517558",
+      "name": "정광잘 홍삼진 현 50ML X 20포",
+      "store": "COSTCO",
+      "normalPrice": 37490,
+      "discountAmount": -7500,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1785659272245
     },
     {
       "id": "574962",
@@ -1157,28 +1146,6 @@
       "imageVersion": 1788351451025
     },
     {
-      "id": "665889",
-      "name": "DE NIGRIS 유기농사과식초세트 1호",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -4000,
-      "finalPrice": 21990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789526866604
-    },
-    {
-      "id": "640498",
-      "name": "정관장 홍삼원력 50ML X 30",
-      "store": "COSTCO",
-      "normalPrice": 26990,
-      "discountAmount": -5000,
-      "finalPrice": 21990,
-      "saleStart": "2026/09/10",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789526964015
-    },
-    {
       "id": "682350",
       "name": "KENNETH COLE 남성 워싱 팬츠 30- 36 ASIAN SIZE",
       "store": "COSTCO",
@@ -1267,6 +1234,17 @@
       "imageVersion": 1789526715581
     },
     {
+      "id": "640498",
+      "name": "정관장 홍삼원력 50ML X 30",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/10",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526964015
+    },
+    {
       "id": "694313",
       "name": "LG OLED TV 77형 194CM + S20A SOUNDBAR",
       "store": "COSTCO",
@@ -1331,28 +1309,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788352793009
-    },
-    {
-      "id": "604870",
-      "name": "CENOVIS 밀크씨슬 + 900MG X 120캡슐",
-      "store": "COSTCO",
-      "normalPrice": 28990,
-      "discountAmount": -6000,
-      "finalPrice": 22990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789526900554
-    },
-    {
-      "id": "694743",
-      "name": "엔젯오리진 포스파티딜세린 SET 90캡슐 X2병",
-      "store": "COSTCO",
-      "normalPrice": 54900,
-      "discountAmount": -11000,
-      "finalPrice": 43900,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1789526940602
     },
     {
       "id": "692336",
@@ -1520,6 +1476,28 @@
       "imageVersion": 1790021915569
     },
     {
+      "id": "604870",
+      "name": "CENOVIS 밀크씨슬 + 900MG X 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526900554
+    },
+    {
+      "id": "694743",
+      "name": "엔젯오리진 포스파티딜세린 SET 90캡슐 X2병",
+      "store": "COSTCO",
+      "normalPrice": 54900,
+      "discountAmount": -11000,
+      "finalPrice": 43900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526940602
+    },
+    {
       "id": "638989",
       "name": "1924 버번 배럴 까베르네 쇼비뇽 750ML",
       "store": "COSTCO",
@@ -1584,17 +1562,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789527858713
-    },
-    {
-      "id": "692335",
-      "name": "SOLEZIA 캐시미어혼방 자켓 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 99900,
-      "discountAmount": -20000,
-      "finalPrice": 79900,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1789528635708
     },
     {
       "id": "717750",
@@ -1716,6 +1683,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789526756113
+    },
+    {
+      "id": "692335",
+      "name": "SOLEZIA 캐시미어혼방 자켓 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1789528635708
     },
     {
       "id": "677102",
@@ -1894,17 +1872,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "693166",
-      "name": "PUMA 여성 러닝 자켓 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -8000,
-      "finalPrice": 31990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1789527015780
-    },
-    {
       "id": "692395",
       "name": "BRENTWOOD 남성 퀼팅 점퍼 S - XL ASIAN SIZE",
       "store": "COSTCO",
@@ -2035,6 +2002,17 @@
       "saleStart": "2026/09/16",
       "saleEnd": "2026/09/21",
       "imageVersion": 1789526829309
+    },
+    {
+      "id": "693166",
+      "name": "PUMA 여성 러닝 자켓 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1789527015780
     },
     {
       "id": "669119",
@@ -2191,17 +2169,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "689744",
-      "name": "뉴트리원 올리브오일 캡슐 240캡슐",
-      "store": "COSTCO",
-      "normalPrice": 44990,
-      "discountAmount": -9000,
-      "finalPrice": 35990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/25",
-      "imageVersion": 1788873917876
-    },
-    {
       "id": "692601",
       "name": "EIDER 여성 윈드브레이커 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -2235,6 +2202,17 @@
       "imageVersion": 1788874030029
     },
     {
+      "id": "689744",
+      "name": "뉴트리원 올리브오일 캡슐 240캡슐",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/05",
+      "saleEnd": "2026/09/25",
+      "imageVersion": 1788873917876
+    },
+    {
       "id": "692588",
       "name": "COUNTESS MARA 남성 니트 베스트 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -2266,6 +2244,28 @@
       "saleStart": "2026/09/16",
       "saleEnd": "2026/09/22",
       "imageVersion": 1788873466015
+    },
+    {
+      "id": "694856",
+      "name": "일품채 표고혼합선물세트 290G",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -3000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788873597658
+    },
+    {
+      "id": "673475",
+      "name": "락토핏 당케어선물세트 2G X 120포",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/09/19",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790023131976
     },
     {
       "id": "659496",
@@ -2334,6 +2334,17 @@
       "imageVersion": 1788873428782
     },
     {
+      "id": "694679",
+      "name": "해초미인 자연산돌미역세트",
+      "store": "COSTCO",
+      "normalPrice": 59900,
+      "discountAmount": -12000,
+      "finalPrice": 47900,
+      "saleStart": "2026/09/16",
+      "saleEnd": "2026/09/24",
+      "imageVersion": 1788873563257
+    },
+    {
       "id": "665326",
       "name": "동원 스페셜C3호",
       "store": "COSTCO",
@@ -2343,6 +2354,28 @@
       "saleStart": "2026/09/16",
       "saleEnd": "2026/09/22",
       "imageVersion": 1788873504543
+    },
+    {
+      "id": "656342",
+      "name": "동원 프리미엄김C25호",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -6000,
+      "finalPrice": 33990,
+      "saleStart": "2026/09/16",
+      "saleEnd": "2026/09/22",
+      "imageVersion": 1789034808710
+    },
+    {
+      "id": "638900",
+      "name": "종근당건강 산삼배양근 진",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -5000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/16",
+      "saleEnd": "2026/09/21",
+      "imageVersion": 1788873739060
     },
     {
       "id": "616062",
@@ -2365,6 +2398,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788873333016
+    },
+    {
+      "id": "694744",
+      "name": "관첼 콘드로이친 + K2 180정",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/09/19",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349679376
     },
     {
       "id": "608481",
@@ -2422,6 +2466,17 @@
       "imageVersion": 1788874167946
     },
     {
+      "id": "665889",
+      "name": "DE NIGRIS 유기농사과식초세트 1호",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/08",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1789526866604
+    },
+    {
       "id": "692469",
       "name": "TRUE RELIGION 성인 긴소매 크루 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -2431,6 +2486,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788874246129
+    },
+    {
+      "id": "662782",
+      "name": "종근당건강 침향환 선물세트 3.75G X 48환",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/05",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788873758610
+    },
+    {
+      "id": "694676",
+      "name": "종근당건강 홍삼쌍화스틱진",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/16",
+      "saleEnd": "2026/09/21",
+      "imageVersion": 1788873689080
     },
     {
       "id": "692643",
@@ -2444,6 +2521,28 @@
       "imageVersion": 1789035498805
     },
     {
+      "id": "528813",
+      "name": "정관장 흥삼정 현 세트 120G X2개입",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/19",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788873834055
+    },
+    {
+      "id": "633592",
+      "name": "뉴트리원 루테인지아잔틴164+ 120캡슐",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788873900447
+    },
+    {
       "id": "692514",
       "name": "ALEAF 덤벨 세트 7KG",
       "store": "COSTCO",
@@ -2453,17 +2552,6 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1789035311275
-    },
-    {
-      "id": "777964",
-      "name": "궁 쇠고기육포 선물세트 510G",
-      "store": "COSTCO",
-      "normalPrice": 42990,
-      "discountAmount": -3000,
-      "finalPrice": 39990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1788873547006
     },
     {
       "id": "679614",
@@ -2532,6 +2620,39 @@
       "imageVersion": 1788873621376
     },
     {
+      "id": "673954",
+      "name": "동원 프리미엄 C1호",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/09/16",
+      "saleEnd": "2026/09/22",
+      "imageVersion": 1789526848686
+    },
+    {
+      "id": "777964",
+      "name": "궁 쇠고기육포 선물세트 510G",
+      "store": "COSTCO",
+      "normalPrice": 42990,
+      "discountAmount": -3000,
+      "finalPrice": 39990,
+      "saleStart": "2026/09/20",
+      "saleEnd": "2026/09/23",
+      "imageVersion": 1788873547006
+    },
+    {
+      "id": "575126",
+      "name": "종근당건강 6년근 홍삼골드 70ML X 30",
+      "store": "COSTCO",
+      "normalPrice": 16790,
+      "discountAmount": -3300,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788873724495
+    },
+    {
       "id": "692843",
       "name": "RUCIPELLO루치펠로 스틱가글 12ML X 120개",
       "store": "COSTCO",
@@ -2541,6 +2662,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786185627182
+    },
+    {
+      "id": "694690",
+      "name": "청정원 특선C-1호 선물세트",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -7000,
+      "finalPrice": 19990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349644611
     },
     {
       "id": "558559",
