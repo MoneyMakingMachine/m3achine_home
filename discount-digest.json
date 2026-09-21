@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:43:25.259367+00:00",
+  "generatedAt": "2026-09-21T20:58:28.333456+00:00",
   "items": [
     {
       "id": "579924",
@@ -319,17 +319,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788349593385
-    },
-    {
-      "id": "692097",
-      "name": "CODES COMBINE 셔켓 S/M,M/L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 34990,
-      "discountAmount": -7000,
-      "finalPrice": 27990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1788349723454
     },
     {
       "id": "663775",
@@ -2169,17 +2158,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "692601",
-      "name": "EIDER 여성 윈드브레이커 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 65900,
-      "discountAmount": -14000,
-      "finalPrice": 51900,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1788873966221
-    },
-    {
       "id": "694674",
       "name": "CJ 제일제당 스팸복합 CC-2호",
       "store": "COSTCO",
@@ -2266,6 +2244,17 @@
       "saleStart": "2026/09/19",
       "saleEnd": "2026/09/27",
       "imageVersion": 1790023131976
+    },
+    {
+      "id": "692601",
+      "name": "EIDER 여성 윈드브레이커 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 65900,
+      "discountAmount": -14000,
+      "finalPrice": 51900,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788873966221
     },
     {
       "id": "659496",
@@ -2587,17 +2576,6 @@
       "imageVersion": 1788873483423
     },
     {
-      "id": "2010332",
-      "name": "32 DEGREES 여성 다운 베스트 S,M,L ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 32990,
-      "discountAmount": -7000,
-      "finalPrice": 25990,
-      "saleStart": "2026/09/07",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1788873985055
-    },
-    {
       "id": "692113",
       "name": "BENETTE 여성 후드 베스트 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -2653,6 +2631,17 @@
       "imageVersion": 1788873724495
     },
     {
+      "id": "2010332",
+      "name": "32 DEGREES 여성 다운 베스트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1788873985055
+    },
+    {
       "id": "692843",
       "name": "RUCIPELLO루치펠로 스틱가글 12ML X 120개",
       "store": "COSTCO",
@@ -2673,6 +2662,28 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788349644611
+    },
+    {
+      "id": "692097",
+      "name": "CODES COMBINE 셔켓 S/M,M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788349723454
+    },
+    {
+      "id": "2003108",
+      "name": "32 DEGREES 여성 패딩 자켓 S,M,L US SIZE\n여성 패딩 자켓\nS,M,L  US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790024258617
     },
     {
       "id": "558559",
