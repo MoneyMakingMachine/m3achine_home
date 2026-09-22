@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:58:44.327318+00:00",
+  "generatedAt": "2026-09-22T12:13:47.169436+00:00",
   "items": [
     {
       "id": "7771005",
@@ -3918,6 +3918,17 @@
       "imageVersion": 1790078188047
     },
     {
+      "id": "94676",
+      "name": "아스파라거스 (794G) 원산지 : 멕시코",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -6000,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/18",
+      "saleEnd": "2026/09/23",
+      "imageVersion": 1790078902026
+    },
+    {
       "id": "693718",
       "name": "CELLVERINE 리커버리 슬리브 2개",
       "store": "COSTCO",
@@ -4037,6 +4048,17 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790078165564
+    },
+    {
+      "id": "674487",
+      "name": "호주산 곡물비육 홍두깨 육전용 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -5000,
+      "finalPrice": 34990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/09/24",
+      "imageVersion": 1790078571912
     },
     {
       "id": "689229",
@@ -4160,6 +4182,17 @@
       "imageVersion": 1790077961833
     },
     {
+      "id": "666037",
+      "name": "멜론& 샤인머스캣선물세트 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 42990,
+      "discountAmount": -5000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/18",
+      "saleEnd": "2026/09/24",
+      "imageVersion": 1790078726511
+    },
+    {
       "id": "695082",
       "name": "ROLL KITCHEN 롤키친 야채 탈수기 스텐 바스켓,뚜껑",
       "store": "COSTCO",
@@ -4246,6 +4279,39 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790078134657
+    },
+    {
+      "id": "636221",
+      "name": "샤인머스캣 세트 (4KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -6000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/18",
+      "saleEnd": "2026/09/24",
+      "imageVersion": 1790078745577
+    },
+    {
+      "id": "675781",
+      "name": "참전복세트 (양식) 원산지 : 국내산 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -10000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/20",
+      "saleEnd": "2026/09/22",
+      "imageVersion": 1790078601980
+    },
+    {
+      "id": "628352",
+      "name": "햇밤 1망 (3KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4100,
+      "finalPrice": 15890,
+      "saleStart": "2026/09/18",
+      "saleEnd": "2026/09/23",
+      "imageVersion": 1790078871269
     },
     {
       "id": "696030",
