@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:28:50.338769+00:00",
+  "generatedAt": "2026-09-22T23:13:53.060121+00:00",
   "items": [
     {
       "id": "7771005",
@@ -508,17 +508,6 @@
       "imageVersion": 1786435212557
     },
     {
-      "id": "686493",
-      "name": "크라운 새콤달콤 870G / 29G X 30",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -2000,
-      "finalPrice": 7990,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1786435463202
-    },
-    {
       "id": "688830",
       "name": "오뚜기 열라면 120G X 20",
       "store": "COSTCO",
@@ -561,6 +550,17 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/04",
       "imageVersion": 1790079888627
+    },
+    {
+      "id": "686493",
+      "name": "크라운 새콤달콤 870G / 29G X 30",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1786435463202
     },
     {
       "id": "682526",
@@ -4732,17 +4732,6 @@
       "imageVersion": 1785963915825
     },
     {
-      "id": "668616",
-      "name": "KIRIN 캔맥주 500ML X8캔",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1785963965272
-    },
-    {
       "id": "642573",
       "name": "JAMESON 아이리쉬 위스키 700ML",
       "store": "COSTCO",
@@ -4763,6 +4752,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786101134460
+    },
+    {
+      "id": "668616",
+      "name": "KIRIN 캔맥주 500ML X8캔",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/28",
+      "imageVersion": 1785963965272
     },
     {
       "id": "696627",
