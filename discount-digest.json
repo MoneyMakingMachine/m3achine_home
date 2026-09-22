@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:43:41.574587+00:00",
+  "generatedAt": "2026-09-22T11:58:44.327318+00:00",
   "items": [
     {
       "id": "7771005",
@@ -1300,6 +1300,17 @@
       "imageVersion": 1788351182766
     },
     {
+      "id": "695686",
+      "name": "WINTER IN VENICE 윈터 인 베니스 핸드워시 485ML X 4",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/16",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790077503456
+    },
+    {
       "id": "670081",
       "name": "APRIL AT HOME 줄누비 경추베개 40X60CM",
       "store": "COSTCO",
@@ -2169,6 +2180,28 @@
       "imageVersion": 1789532298906
     },
     {
+      "id": "697786",
+      "name": "포카리스웨트 이온음료 240ML X 30CAN",
+      "store": "COSTCO",
+      "normalPrice": 20990,
+      "discountAmount": -3200,
+      "finalPrice": 17790,
+      "saleStart": "2026/09/18",
+      "saleEnd": "2026/09/23",
+      "imageVersion": 1790077614604
+    },
+    {
+      "id": "653309",
+      "name": "GIRAFFE 지라프 휴대용 가스렌지 35 X 27 X 10 CM",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -4000,
+      "finalPrice": 32990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077876232
+    },
+    {
       "id": "717750",
       "name": "삼풍 종이용기세트 1,100CC / 뚜껑포함",
       "store": "COSTCO",
@@ -2244,6 +2277,17 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/09/24",
       "imageVersion": 1789532453879
+    },
+    {
+      "id": "692899",
+      "name": "프롬바이오 관절연골엔보스웰리아 850MG X 120정",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/17",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077437286
     },
     {
       "id": "677937",
@@ -3313,6 +3357,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "696151",
+      "name": "WHITE SANDS 장우산",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -4000,
+      "finalPrice": 12990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077653381
+    },
+    {
       "id": "608481",
       "name": "WONDERFUL 견과 선물세트 1,400G",
       "store": "COSTCO",
@@ -3698,6 +3753,17 @@
       "imageVersion": 1786431641575
     },
     {
+      "id": "694405",
+      "name": "ALEAF 밴드& 악력기 8종",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077841390
+    },
+    {
       "id": "692113",
       "name": "BENETTE 여성 후드 베스트 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -3786,6 +3852,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "696078",
+      "name": "LG OLED TV 55형 138CM",
+      "store": "COSTCO",
+      "normalPrice": 1749000,
+      "discountAmount": -600000,
+      "finalPrice": 1149000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790078015561
+    },
+    {
       "id": "683013",
       "name": "MAMA'S CHOICE 후라이드 쥐포튀김 300G",
       "store": "COSTCO",
@@ -3797,6 +3874,17 @@
       "imageVersion": 1785762475068
     },
     {
+      "id": "696621",
+      "name": "SAMSUNG MINI LED TV 55형 138CM",
+      "store": "COSTCO",
+      "normalPrice": 1179000,
+      "discountAmount": -110000,
+      "finalPrice": 1069000,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790078077485
+    },
+    {
       "id": "664404",
       "name": "BE KIND 다크초콜릿 너트바 480G / 20G X 24CT",
       "store": "COSTCO",
@@ -3806,6 +3894,28 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/04",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "670913",
+      "name": "SAMSUNG 비스포크 AI 건조기 17KG 화이트",
+      "store": "COSTCO",
+      "normalPrice": 1099000,
+      "discountAmount": -100000,
+      "finalPrice": 999000,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790078157021
+    },
+    {
+      "id": "691829",
+      "name": "PLUSMORE 65W+45W 고속충전기 케이블2개",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790078188047
     },
     {
       "id": "693718",
@@ -3907,6 +4017,39 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "655397",
+      "name": "에델코첸 통5중엠보 웍팬 28CM",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077749047
+    },
+    {
+      "id": "670914",
+      "name": "SAMSUNG 비스포크 AI 세탁기 21KG 화이트",
+      "store": "COSTCO",
+      "normalPrice": 1079000,
+      "discountAmount": -100000,
+      "finalPrice": 979000,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790078165564
+    },
+    {
+      "id": "689229",
+      "name": "SAMSUNG 비스포크키친핏맥스 김치냉장고 420L",
+      "store": "COSTCO",
+      "normalPrice": 2579000,
+      "discountAmount": -130000,
+      "finalPrice": 2449000,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790078114799
+    },
+    {
       "id": "621310",
       "name": "사또 데스끌랑 위스퍼링 엔젤 750ML",
       "store": "COSTCO",
@@ -3995,6 +4138,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "693407",
+      "name": "SORDEY 쏘르디 무선충전거치대 QI2 25W",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077814323
+    },
+    {
+      "id": "696076",
+      "name": "LG 나노셀 AI TV 55형 138CM",
+      "store": "COSTCO",
+      "normalPrice": 1099000,
+      "discountAmount": -200000,
+      "finalPrice": 899000,
+      "saleStart": "2026/09/07",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790077961833
+    },
+    {
       "id": "695082",
       "name": "ROLL KITCHEN 롤키친 야채 탈수기 스텐 바스켓,뚜껑",
       "store": "COSTCO",
@@ -4026,6 +4191,61 @@
       "saleStart": "2026/09/19",
       "saleEnd": "2026/10/04",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "713160",
+      "name": "KIRKLAND SIGNATURE 다용도 극세사타월 40X40CM 36장-노랑",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790077783274
+    },
+    {
+      "id": "686786",
+      "name": "닌자 4 IN 1 블렌더 (갈기,채썰기,편 썰기,푸드프로세싱)",
+      "store": "COSTCO",
+      "normalPrice": 246900,
+      "discountAmount": -50000,
+      "finalPrice": 196900,
+      "saleStart": "2026/09/19",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790077935117
+    },
+    {
+      "id": "693833",
+      "name": "LG 나노셀 TV 65형 163CM",
+      "store": "COSTCO",
+      "normalPrice": 1549000,
+      "discountAmount": -550000,
+      "finalPrice": 999000,
+      "saleStart": "2026/09/15",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1790077981246
+    },
+    {
+      "id": "696622",
+      "name": "SAMSUNG MINI LED TV 65형 163CM",
+      "store": "COSTCO",
+      "normalPrice": 1339000,
+      "discountAmount": -110000,
+      "finalPrice": 1229000,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790078063919
+    },
+    {
+      "id": "685057",
+      "name": "SAMSUNG 하이브리드냉장고 901L",
+      "store": "COSTCO",
+      "normalPrice": 2649000,
+      "discountAmount": -150000,
+      "finalPrice": 2499000,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790078134657
     },
     {
       "id": "696030",
