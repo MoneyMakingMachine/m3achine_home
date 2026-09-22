@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T21:13:31.293312+00:00",
+  "generatedAt": "2026-09-22T10:58:33.828379+00:00",
   "items": [
     {
       "id": "579924",
@@ -442,17 +442,6 @@
       "imageVersion": 1787059842686
     },
     {
-      "id": "670593",
-      "name": "ADIDAS 남성 우븐 셋업 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 53900,
-      "discountAmount": -11000,
-      "finalPrice": 42900,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1785496770681
-    },
-    {
       "id": "693042",
       "name": "CRNK 라피드 멀티 에어 펌프",
       "store": "COSTCO",
@@ -671,17 +660,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1788350505749
-    },
-    {
-      "id": "681915",
-      "name": "MILLET 남성 소로나폴로티 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 29990,
-      "discountAmount": -6000,
-      "finalPrice": 23990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/27",
-      "imageVersion": 1788350581584
     },
     {
       "id": "687956",
@@ -1652,17 +1630,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "667064",
-      "name": "ADIDAS 윈드블록 재킷 M - XXL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 53900,
-      "discountAmount": -11000,
-      "finalPrice": 42900,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1789527534340
-    },
-    {
       "id": "711148",
       "name": "ADIDAS 성인 운동화 230- 285MM SIZE",
       "store": "COSTCO",
@@ -1773,17 +1740,6 @@
       "imageVersion": 1789526735210
     },
     {
-      "id": "655874",
-      "name": "CJ제일제당 스팸CC-1호",
-      "store": "COSTCO",
-      "normalPrice": 59900,
-      "discountAmount": -4000,
-      "finalPrice": 55900,
-      "saleStart": "2026/09/17",
-      "saleEnd": "2026/09/21",
-      "imageVersion": 1789526795140
-    },
-    {
       "id": "692331",
       "name": "CRESSON 여성 밴딩 팬츠 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -1795,6 +1751,17 @@
       "imageVersion": 1789527289347
     },
     {
+      "id": "667064",
+      "name": "ADIDAS 윈드블록 재킷 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 52970,
+      "discountAmount": -13000,
+      "finalPrice": 39970,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527534340
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -1804,17 +1771,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "692395",
-      "name": "BRENTWOOD 남성 퀼팅 점퍼 S - XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": 69900,
-      "discountAmount": -14000,
-      "finalPrice": 55900,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/10/04",
-      "imageVersion": 1789527345807
     },
     {
       "id": "692548",
@@ -1927,15 +1883,15 @@
       "imageVersion": 1789532812429
     },
     {
-      "id": "645930",
-      "name": "C제일제당 스팸스위트C-3호",
+      "id": "692395",
+      "name": "BRENTWOOD 남성 퀼팅 점퍼 S - XL ASIAN SIZE",
       "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -3000,
-      "finalPrice": 22990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/21",
-      "imageVersion": 1789526829309
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1789527345807
     },
     {
       "id": "693166",
@@ -2103,17 +2059,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "694674",
-      "name": "CJ 제일제당 스팸복합 CC-2호",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -4000,
-      "finalPrice": 35990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/21",
-      "imageVersion": 1788873399272
-    },
-    {
       "id": "692327",
       "name": "SOLEZIA 여성 브이넥 니트 S.ML ASIAN SIZE",
       "store": "COSTCO",
@@ -2213,6 +2158,17 @@
       "imageVersion": 1788873312718
     },
     {
+      "id": "671485",
+      "name": "NEPA 남성 바람막이재킷 M - XXL ASIAN SIZE\n남성 바람막이재킷\nM - XXL  ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 79990,
+      "discountAmount": -16000,
+      "finalPrice": 63990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790074469054
+    },
+    {
       "id": "685855",
       "name": "샤워메이트 브레드이발소 핸드워시 세트",
       "store": "COSTCO",
@@ -2257,17 +2213,6 @@
       "imageVersion": 1789034932432
     },
     {
-      "id": "655864",
-      "name": "CJ제일제당 복합스페셜 CC-1호",
-      "store": "COSTCO",
-      "normalPrice": 31990,
-      "discountAmount": -6000,
-      "finalPrice": 25990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/21",
-      "imageVersion": 1788873428782
-    },
-    {
       "id": "694679",
       "name": "해초미인 자연산돌미역세트",
       "store": "COSTCO",
@@ -2299,17 +2244,6 @@
       "saleStart": "2026/09/16",
       "saleEnd": "2026/09/22",
       "imageVersion": 1789034808710
-    },
-    {
-      "id": "638900",
-      "name": "종근당건강 산삼배양근 진",
-      "store": "COSTCO",
-      "normalPrice": 32990,
-      "discountAmount": -5000,
-      "finalPrice": 27990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/21",
-      "imageVersion": 1788873739060
     },
     {
       "id": "692137",
@@ -2455,17 +2389,6 @@
       "imageVersion": 1788873758610
     },
     {
-      "id": "694676",
-      "name": "종근당건강 홍삼쌍화스틱진",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -6000,
-      "finalPrice": 21990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/21",
-      "imageVersion": 1788873689080
-    },
-    {
       "id": "692643",
       "name": "윤도자기 접시세트 7P",
       "store": "COSTCO",
@@ -2541,6 +2464,61 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/10/04",
       "imageVersion": 1788874167946
+    },
+    {
+      "id": "670593",
+      "name": "ADIDAS 남성 우븐 셋업 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 53900,
+      "discountAmount": -14000,
+      "finalPrice": 39900,
+      "saleStart": "2026/09/14",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1785496770681
+    },
+    {
+      "id": "681915",
+      "name": "MILLET 남성 소로나폴로티 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/08/31",
+      "saleEnd": "2026/09/27",
+      "imageVersion": 1788350581584
+    },
+    {
+      "id": "671682",
+      "name": "FILA GOLF 남성 긴팔 폴로 M - XXL ASIAN SIZE\n남성 긴팔 폴로\nM - XXL  ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790074541630
+    },
+    {
+      "id": "692769",
+      "name": "PUMA 남성 경량 패딩 M - XXL ASIAN SIZE\n남성 경량 패딩\nM - XXL  ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/21",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790074372015
+    },
+    {
+      "id": "1789710",
+      "name": "32 DEGREES 남성 다운 베스트 M - XXL ASIAN SIZE\n남성 다운 베스트\nM - XXL  ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/15",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790074406984
     },
     {
       "id": "692514",
@@ -3101,17 +3079,6 @@
       "finalPrice": 8190,
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "579734",
-      "name": "MIZKAN 쯔유(3배 농축) 1.8L",
-      "store": "COSTCO",
-      "normalPrice": 7490,
-      "discountAmount": -1600,
-      "finalPrice": 5890,
-      "saleStart": "2026/09/14",
-      "saleEnd": "2026/09/21",
       "imageVersion": 1786300361977
     },
     {
