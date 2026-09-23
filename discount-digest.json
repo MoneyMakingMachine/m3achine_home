@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:13:53.060121+00:00",
+  "generatedAt": "2026-09-23T14:43:55.481679+00:00",
   "items": [
     {
       "id": "7771005",
@@ -231,17 +231,6 @@
       "saleStart": "2026/08/17",
       "saleEnd": "2026/09/30",
       "imageVersion": 1787058061348
-    },
-    {
-      "id": "610194",
-      "name": "센트룸멀티비타민 실버우먼 112CT",
-      "store": "COSTCO",
-      "normalPrice": 35990,
-      "discountAmount": -7200,
-      "finalPrice": 28790,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1786300361977
     },
     {
       "id": "675106",
@@ -517,17 +506,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786435533384
-    },
-    {
-      "id": "657055",
-      "name": "사옹원 모둠전 1102G",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -3000,
-      "finalPrice": 15990,
-      "saleStart": "2026/09/18",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1790079687465
     },
     {
       "id": "692567",
@@ -2257,17 +2235,6 @@
       "imageVersion": 1789527858713
     },
     {
-      "id": "610193",
-      "name": "센트룸멀티비타민 실버맨 112CT",
-      "store": "COSTCO",
-      "normalPrice": 35990,
-      "discountAmount": -7200,
-      "finalPrice": 28790,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "501458",
       "name": "WEBBER NATURALS 비타민D 1000 IU 205MG X 250캡슐",
       "store": "COSTCO",
@@ -2596,17 +2563,6 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/04",
       "imageVersion": 1789532812429
-    },
-    {
-      "id": "692468",
-      "name": "BRENTWOOD 포 스웨이드 재킷 S,M,L,XL ASIAN SIZE",
-      "store": "COSTCO",
-      "normalPrice": null,
-      "discountAmount": null,
-      "finalPrice": 69990,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1790077113405
     },
     {
       "id": "693166",
@@ -3093,17 +3049,6 @@
       "imageVersion": 1789532140741
     },
     {
-      "id": "651079",
-      "name": "CALVIN KLEIN 크로마틱 팬티3매 S,M,L US SIZE",
-      "store": "COSTCO",
-      "normalPrice": null,
-      "discountAmount": null,
-      "finalPrice": 27990,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1790077341572
-    },
-    {
       "id": "695020",
       "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
       "store": "COSTCO",
@@ -3135,17 +3080,6 @@
       "saleStart": "2026/08/24",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "673956",
-      "name": "동원 스페셜C6호",
-      "store": "COSTCO",
-      "normalPrice": 41990,
-      "discountAmount": -5000,
-      "finalPrice": 36990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1788873466015
     },
     {
       "id": "694856",
@@ -3377,28 +3311,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/09/27",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "665326",
-      "name": "동원 스페셜C3호",
-      "store": "COSTCO",
-      "normalPrice": 31990,
-      "discountAmount": -4000,
-      "finalPrice": 27990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1788873504543
-    },
-    {
-      "id": "656342",
-      "name": "동원 프리미엄김C25호",
-      "store": "COSTCO",
-      "normalPrice": 39990,
-      "discountAmount": -6000,
-      "finalPrice": 33990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1789034808710
     },
     {
       "id": "692137",
@@ -3795,28 +3707,6 @@
       "saleStart": "2026/09/16",
       "saleEnd": "2026/09/29",
       "imageVersion": 1788873621376
-    },
-    {
-      "id": "694672",
-      "name": "동원 프리미엄 C4호",
-      "store": "COSTCO",
-      "normalPrice": 37990,
-      "discountAmount": -8000,
-      "finalPrice": 29990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1788873483423
-    },
-    {
-      "id": "673954",
-      "name": "동원 프리미엄 C1호",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -4000,
-      "finalPrice": 21990,
-      "saleStart": "2026/09/16",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1789526848686
     },
     {
       "id": "777964",
@@ -4226,17 +4116,6 @@
       "imageVersion": 1790079405526
     },
     {
-      "id": "606584",
-      "name": "단감1 팩 (6-8입) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": null,
-      "discountAmount": null,
-      "finalPrice": 9890,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1790080106217
-    },
-    {
       "id": "689229",
       "name": "SAMSUNG 비스포크키친핏맥스 김치냉장고 420L",
       "store": "COSTCO",
@@ -4477,17 +4356,6 @@
       "saleStart": "2026/09/18",
       "saleEnd": "2026/09/24",
       "imageVersion": 1790078745577
-    },
-    {
-      "id": "675781",
-      "name": "참전복세트 (양식) 원산지 : 국내산 KG당단가",
-      "store": "COSTCO",
-      "normalPrice": 45990,
-      "discountAmount": -10000,
-      "finalPrice": 35990,
-      "saleStart": "2026/09/20",
-      "saleEnd": "2026/09/22",
-      "imageVersion": 1790078601980
     },
     {
       "id": "628352",
