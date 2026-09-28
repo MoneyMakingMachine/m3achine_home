@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:09:09.315208+00:00",
+  "generatedAt": "2026-09-28T13:24:12.085330+00:00",
   "items": [
     {
       "id": "591501",
@@ -1927,6 +1927,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "1806281",
+      "name": "ARTIKA LED솔라 라이트",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601189297
+    },
+    {
       "id": "1851585",
       "name": "할로윈 장식 움직이는 버틀러 1.8M(H)",
       "store": "COSTCO",
@@ -1993,6 +2004,17 @@
       "imageVersion": 1790599989002
     },
     {
+      "id": "683146",
+      "name": "SWISS MILITARY 여행가방 62CM (24)",
+      "store": "COSTCO",
+      "normalPrice": 128990,
+      "discountAmount": -29000,
+      "finalPrice": 99990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601566632
+    },
+    {
       "id": "792264",
       "name": "SLOGGI 여성 스쿠바 티 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -2013,6 +2035,17 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790074469054
+    },
+    {
+      "id": "692084",
+      "name": "ROLLKITCHEN 롤키친 실리콘 푸드백 6P",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601635481
     },
     {
       "id": "666713",
@@ -2356,6 +2389,50 @@
       "imageVersion": 1786433316561
     },
     {
+      "id": "695737",
+      "name": "SENSODYNE센소다인 멀티케어 EX 치약 100G X 5개",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601143035
+    },
+    {
+      "id": "1926205",
+      "name": "AESTHETIK KIDS 미피 아동 의자 W435 X D435 X H460 MM",
+      "store": "COSTCO",
+      "normalPrice": 84900,
+      "discountAmount": -17000,
+      "finalPrice": 67900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601243910
+    },
+    {
+      "id": "693648",
+      "name": "JOIE I-PIVOT 카시트 신장 40-135CM",
+      "store": "COSTCO",
+      "normalPrice": 499900,
+      "discountAmount": -100000,
+      "finalPrice": 399900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790601583762
+    },
+    {
+      "id": "691998",
+      "name": "CUCKOO 쿠쿠 IH 전기 압력밥솥 10인용",
+      "store": "COSTCO",
+      "normalPrice": 329900,
+      "discountAmount": -66000,
+      "finalPrice": 263900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601610461
+    },
+    {
       "id": "692843",
       "name": "RUCIPELLO루치펠로 스틱가글 12ML X 120개",
       "store": "COSTCO",
@@ -2378,6 +2455,17 @@
       "imageVersion": 1790600466481
     },
     {
+      "id": "694024",
+      "name": "WELEDA 벨레다 검케어 치약 100G X 4",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790601168888
+    },
+    {
       "id": "2003108",
       "name": "32 DEGREES 여성 패딩 자켓 S,M,L US SIZE",
       "store": "COSTCO",
@@ -2387,6 +2475,39 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/18",
       "imageVersion": 1790024258617
+    },
+    {
+      "id": "691715",
+      "name": "매직캔 히포 27L 리필9개 포함",
+      "store": "COSTCO",
+      "normalPrice": 59990,
+      "discountAmount": -12000,
+      "finalPrice": 47990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601224948
+    },
+    {
+      "id": "689427",
+      "name": "PRISM 프리즘 LED 데스크 램프 PL-7200WH",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -9000,
+      "finalPrice": 28990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601255926
+    },
+    {
+      "id": "691846",
+      "name": "TUMS 텀스 올데이 핸들텀블러 2PK, 540ML",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601598020
     },
     {
       "id": "683013",
@@ -2532,6 +2653,17 @@
       "imageVersion": 1789035498805
     },
     {
+      "id": "689490",
+      "name": "CUCKOO 쿠쿠 IH 전기 압력밥솥 6인용",
+      "store": "COSTCO",
+      "normalPrice": 299900,
+      "discountAmount": -60000,
+      "finalPrice": 239900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601623907
+    },
+    {
       "id": "655397",
       "name": "에델코첸 통5중엠보 웍팬 28CM",
       "store": "COSTCO",
@@ -2607,6 +2739,28 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790078114799
+    },
+    {
+      "id": "672806",
+      "name": "락앤락 스마트킵 계란보관 3PK",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790601690041
+    },
+    {
+      "id": "694927",
+      "name": "SAMSUNG UHD TV 65형 163CM",
+      "store": "COSTCO",
+      "normalPrice": 1199000,
+      "discountAmount": -200000,
+      "finalPrice": 999000,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790601834500
     },
     {
       "id": "696623",
