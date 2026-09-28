@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:54:06.560928+00:00",
+  "generatedAt": "2026-09-28T13:09:09.315208+00:00",
   "items": [
     {
       "id": "591501",
@@ -1894,6 +1894,28 @@
       "imageVersion": 1790600038843
     },
     {
+      "id": "696004",
+      "name": "CJ 바이오코어 다이어트 유산균 400MG X 35캡슐",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790600151761
+    },
+    {
+      "id": "671209",
+      "name": "래오 이경제 진흑염소 70ML X 30 포",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790600174521
+    },
+    {
       "id": "1807116",
       "name": "DURO 듀로 듀얼 차콜그릴 155 X 71 X 138 CM",
       "store": "COSTCO",
@@ -2103,6 +2125,17 @@
       "imageVersion": 1789034906223
     },
     {
+      "id": "678447",
+      "name": "DYSON 다이슨 무선청소기 MICRO 1.5 충전거치대 포함",
+      "store": "COSTCO",
+      "normalPrice": 359900,
+      "discountAmount": -50000,
+      "finalPrice": 309900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790600066067
+    },
+    {
       "id": "692094",
       "name": "CODES COMBINE 여성 와이드 팬츠 S.M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -2112,6 +2145,17 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/10/04",
       "imageVersion": 1788874167946
+    },
+    {
+      "id": "602630",
+      "name": "BIODERMA 바이오더마 아토덤 울트라크림 500ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7500,
+      "finalPrice": 28490,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790600278900
     },
     {
       "id": "692095",
@@ -2213,6 +2257,17 @@
       "imageVersion": 1790077841390
     },
     {
+      "id": "695001",
+      "name": "DR.G 닥터지 레드블레미쉬 수딩 에센스 80ML + 50ML",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5500,
+      "finalPrice": 20490,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790600316563
+    },
+    {
       "id": "691570",
       "name": "LEGO NINJAGO 생명의 드래곤 #71859",
       "store": "COSTCO",
@@ -2310,6 +2365,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1786185627182
+    },
+    {
+      "id": "695917",
+      "name": "LABIORA 라비오라 허니 워시오프 팩 150G X 2",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790600466481
     },
     {
       "id": "2003108",
