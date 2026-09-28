@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:39:03.283699+00:00",
+  "generatedAt": "2026-09-28T12:54:06.560928+00:00",
   "items": [
     {
       "id": "591501",
@@ -827,6 +827,28 @@
       "imageVersion": 1790598923147
     },
     {
+      "id": "777743",
+      "name": "DIADORA 남성 구동화 260 - 280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -12000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599257415
+    },
+    {
+      "id": "1851577",
+      "name": "할로윈 장식 움직이는 가고일 2.2M(H)",
+      "store": "COSTCO",
+      "normalPrice": 299990,
+      "discountAmount": -70000,
+      "finalPrice": 229990,
+      "saleStart": "2026/09/23",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599276060
+    },
+    {
       "id": "692429",
       "name": "BALLOP 성인 운동화 230 - 285MM",
       "store": "COSTCO",
@@ -937,6 +959,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "691045",
+      "name": "넘버블록스 기차 놀이",
+      "store": "COSTCO",
+      "normalPrice": 68990,
+      "discountAmount": -14000,
+      "finalPrice": 54990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599312284
+    },
+    {
       "id": "661817",
       "name": "BOHEMIAN ROASTERS 박이추드립백커피 33입",
       "store": "COSTCO",
@@ -1001,6 +1034,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790599123011
+    },
+    {
+      "id": "695316",
+      "name": "ZURU X-SHOT 프로 전자 타겟 콤보 팩",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599326086
     },
     {
       "id": "1967258",
@@ -1069,6 +1113,17 @@
       "imageVersion": 1785763577447
     },
     {
+      "id": "46629",
+      "name": "마이스토 MAISTO 장식용 모형자동차 1:18 스케일",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -6000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599338226
+    },
+    {
       "id": "652813",
       "name": "페리에주에 그랑브뤼샴페인 750ML",
       "store": "COSTCO",
@@ -1078,6 +1133,17 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/10/04",
       "imageVersion": 1788353073210
+    },
+    {
+      "id": "687701",
+      "name": "보이러 전기요 1인용 80X150CM",
+      "store": "COSTCO",
+      "normalPrice": 89900,
+      "discountAmount": -10000,
+      "finalPrice": 79900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/05",
+      "imageVersion": 1790599629864
     },
     {
       "id": "1810882",
@@ -1122,6 +1188,28 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1788352229707
+    },
+    {
+      "id": "1929769",
+      "name": "구이 구이 트로피카나 슬라임 세트",
+      "store": "COSTCO",
+      "normalPrice": 67990,
+      "discountAmount": -16000,
+      "finalPrice": 51990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599351408
+    },
+    {
+      "id": "695314",
+      "name": "BUNNIES BY THE BAY 토끼 애착인형 40CM",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -6000,
+      "finalPrice": 19990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790599387561
     },
     {
       "id": "671932",
@@ -1234,6 +1322,17 @@
       "imageVersion": 1787709082232
     },
     {
+      "id": "695315",
+      "name": "또봇 TOBOT 소닉 전북 현대",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599364297
+    },
+    {
       "id": "682350",
       "name": "KENNETH COLE 남성 워싱 팬츠 30- 36 ASIAN SIZE",
       "store": "COSTCO",
@@ -1243,6 +1342,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/04",
       "imageVersion": 1789527602366
+    },
+    {
+      "id": "695322",
+      "name": "타요 놀이동산 플레이 세트",
+      "store": "COSTCO",
+      "normalPrice": 54990,
+      "discountAmount": -11000,
+      "finalPrice": 43990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599375127
     },
     {
       "id": "663360",
@@ -1267,6 +1377,17 @@
       "imageVersion": 1788350973034
     },
     {
+      "id": "603775",
+      "name": "CALVIN KLEIN 박서 브리프 3 매 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599424623
+    },
+    {
       "id": "651776",
       "name": "JIM BEAM 버번위스키 1L",
       "store": "COSTCO",
@@ -1278,6 +1399,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "667010",
+      "name": "씰리 메모리폼 베개 40X60CM",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790599613213
+    },
+    {
       "id": "1796171",
       "name": "LIFECOMFORT 얼티메이트 담요 152X177CM",
       "store": "COSTCO",
@@ -1287,6 +1419,28 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/04",
       "imageVersion": 1790077378326
+    },
+    {
+      "id": "696583",
+      "name": "REACH 리치 컬러팝스와이드칫솔 10개",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/26",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790599578843
+    },
+    {
+      "id": "687702",
+      "name": "보이러 전기요 2인용 140X150CM",
+      "store": "COSTCO",
+      "normalPrice": 139900,
+      "discountAmount": -15000,
+      "finalPrice": 124900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/05",
+      "imageVersion": 1790599641024
     },
     {
       "id": "692509",
@@ -1399,6 +1553,17 @@
       "imageVersion": 1786185113659
     },
     {
+      "id": "692790",
+      "name": "COLUMBIA KIDS 경량 다운 재킷 130,140,155,165",
+      "store": "COSTCO",
+      "normalPrice": 69900,
+      "discountAmount": -14000,
+      "finalPrice": 55900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790599961361
+    },
+    {
       "id": "682410",
       "name": "뉴트리플랜 소프트뮨 화식 애견용 / 100G X 18",
       "store": "COSTCO",
@@ -1452,6 +1617,28 @@
       "saleStart": "2026/09/07",
       "saleEnd": "2026/10/11",
       "imageVersion": 1789527619448
+    },
+    {
+      "id": "692778",
+      "name": "PUMA 남성 다운 베스트 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59990,
+      "discountAmount": -12000,
+      "finalPrice": 47990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790599679149
+    },
+    {
+      "id": "692379",
+      "name": "GUESS 남성 청바지 30 - 36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790599927703
     },
     {
       "id": "699905",
@@ -1553,6 +1740,28 @@
       "imageVersion": 1789035865966
     },
     {
+      "id": "692428",
+      "name": "VINE 남성 캐시미어크루 S - XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 89990,
+      "discountAmount": -20000,
+      "finalPrice": 69990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1790599913732
+    },
+    {
+      "id": "671486",
+      "name": "NEPA 남성 카고 팬츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 38990,
+      "discountAmount": -9000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/04",
+      "imageVersion": 1790599945253
+    },
+    {
       "id": "523029",
       "name": "울샴푸 중성세제 4.5L",
       "store": "COSTCO",
@@ -1652,6 +1861,17 @@
       "imageVersion": 1786185357860
     },
     {
+      "id": "692263",
+      "name": "NBA 아동 하프집업세트 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1790599975936
+    },
+    {
       "id": "674080",
       "name": "BRIGHTON 여행가방 72CM (26)",
       "store": "COSTCO",
@@ -1661,6 +1881,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/04",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "681993",
+      "name": "ELLE 텐셀 팬티5매 S - XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -3500,
+      "finalPrice": 13990,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1790600038843
     },
     {
       "id": "1807116",
@@ -1727,6 +1958,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/11/01",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "693153",
+      "name": "R.ROBOT 아동 긴소매 크루 120,130,145,155",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1790599989002
     },
     {
       "id": "792264",
