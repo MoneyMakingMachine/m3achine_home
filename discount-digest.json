@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T13:39:15.368235+00:00",
+  "generatedAt": "2026-09-29T08:09:19.097356+00:00",
   "items": [
     {
       "id": "591501",
@@ -1729,17 +1729,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "581837",
-      "name": "레몬 1봉 (2.2KG 이상) 원산지 : 칠레",
-      "store": "COSTCO",
-      "normalPrice": 11990,
-      "discountAmount": -1800,
-      "finalPrice": 10190,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1789035865966
-    },
-    {
       "id": "692428",
       "name": "VINE 남성 캐시미어크루 S - XL ASIAN SIZE",
       "store": "COSTCO",
@@ -3071,17 +3060,6 @@
       "imageVersion": 1789529661976
     },
     {
-      "id": "508070",
-      "name": "카라카라 오렌지 (3.4KG 이상) 원산지 : 호주",
-      "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -3000,
-      "finalPrice": 13990,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1786434909249
-    },
-    {
       "id": "799778",
       "name": "코데즈 컴바인 여성보온내의세트 90-105 ASIAN SIZE",
       "store": "COSTCO",
@@ -3170,17 +3148,6 @@
       "imageVersion": 1789036535588
     },
     {
-      "id": "647825",
-      "name": "스텔라벨라청포도 (1.36 KG) 원산지 : 상품에 표기",
-      "store": "COSTCO",
-      "normalPrice": 17990,
-      "discountAmount": -3000,
-      "finalPrice": 14990,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1786434854346
-    },
-    {
       "id": "692849",
       "name": "CJ 맛콩 검은콩 700G/ 50G X 14",
       "store": "COSTCO",
@@ -3247,17 +3214,6 @@
       "imageVersion": 1786186707665
     },
     {
-      "id": "768258",
-      "name": "스윗사파이어블랙포도 (1.36 KG) 원산지:상품에표기",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3000,
-      "finalPrice": 12990,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1786226072380
-    },
-    {
       "id": "638603",
       "name": "KIRKLAND SIGNATURE 다목적 렌즈관리용액 473ML X 3",
       "store": "COSTCO",
@@ -3289,17 +3245,6 @@
       "saleStart": "2026/08/31",
       "saleEnd": "2026/10/04",
       "imageVersion": 1786015631362
-    },
-    {
-      "id": "668616",
-      "name": "KIRIN 캔맥주 500ML X8캔",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/08/31",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1785963965272
     },
     {
       "id": "627952",
@@ -3434,17 +3379,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "679624",
-      "name": "로얄브라클라 12년 700ML",
-      "store": "COSTCO",
-      "normalPrice": 103900,
-      "discountAmount": -21000,
-      "finalPrice": 82900,
-      "saleStart": "2026/09/01",
-      "saleEnd": "2026/09/28",
-      "imageVersion": 1786271070736
-    },
-    {
       "id": "691378",
       "name": "고메 소바바양념순살치킨 1100G",
       "store": "COSTCO",
@@ -3530,17 +3464,6 @@
       "finalPrice": 118900,
       "saleStart": "2026/09/28",
       "saleEnd": "2026/11/01",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "584857",
-      "name": "HEINEKEN 캔맥주 500ML X 8캔",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3300,
-      "finalPrice": 12690,
-      "saleStart": "2026/08/25",
-      "saleEnd": "2026/09/28",
       "imageVersion": 1786300361977
     },
     {
@@ -3673,17 +3596,6 @@
       "finalPrice": 14590,
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/04",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "607586",
-      "name": "한우물 새우볶음밥 300G X 7",
-      "store": "COSTCO",
-      "normalPrice": 13390,
-      "discountAmount": -2000,
-      "finalPrice": 11390,
-      "saleStart": "2026/09/22",
-      "saleEnd": "2026/09/28",
       "imageVersion": 1786300361977
     },
     {
