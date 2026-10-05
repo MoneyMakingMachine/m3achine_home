@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:09:36.530804+00:00",
+  "generatedAt": "2026-10-05T11:24:39.047264+00:00",
   "items": [
     {
       "id": "591501",
@@ -2818,6 +2818,17 @@
       "imageVersion": 1789527345807
     },
     {
+      "id": "630043",
+      "name": "꽁떼 디 깜삐아노 프리미티보만두리아 750ML",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791199344289
+    },
+    {
       "id": "663360",
       "name": "CROCS 아동 바야 클로그 175 - 220MM",
       "store": "COSTCO",
@@ -3060,6 +3071,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "697246",
+      "name": "아티장 미트라구파스타 1,200G (4인분)",
+      "store": "COSTCO",
+      "normalPrice": 12790,
+      "discountAmount": -2800,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791198608070
+    },
+    {
+      "id": "777001",
+      "name": "KIRKLAND SIGNATURE 생새우(50 - 70) 908 G / 2 LBS",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -2000,
+      "finalPrice": 19990,
+      "saleStart": "2026/10/02",
+      "saleEnd": "2026/10/07",
+      "imageVersion": 1791198636769
+    },
+    {
       "id": "680057",
       "name": "고메 베이컨트러플파스타 251.8G X 6",
       "store": "COSTCO",
@@ -3069,6 +3102,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "559111",
+      "name": "ONITAIJI 오니타이지 사케 2L",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2000,
+      "finalPrice": 11990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791198830141
     },
     {
       "id": "684065",
@@ -3159,6 +3203,28 @@
       "imageVersion": 1791198516958
     },
     {
+      "id": "694263",
+      "name": "쿠보타 센주 준마이 긴죠 720ML",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -7000,
+      "finalPrice": 28990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791198802753
+    },
+    {
+      "id": "694546",
+      "name": "TEACHER'S 하이랜드 크림 스카치 1L",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/10/01",
+      "saleEnd": "2026/11/02",
+      "imageVersion": 1791199248848
+    },
+    {
       "id": "684110",
       "name": "KARCHER 고압세척기 K4 CONTROL FLEX",
       "store": "COSTCO",
@@ -3234,6 +3300,28 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "695258",
+      "name": "맥반석참구이 오징어 300G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2000,
+      "finalPrice": 12990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791198776157
+    },
+    {
+      "id": "677110",
+      "name": "오린스위프트 앱스트랙트 750ML",
+      "store": "COSTCO",
+      "normalPrice": 79900,
+      "discountAmount": -12910,
+      "finalPrice": 66990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791199404635
     },
     {
       "id": "615890",
@@ -3388,6 +3476,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1790602328510
+    },
+    {
+      "id": "624049",
+      "name": "슈미트숀블루 리슬링아우스레제 750ML",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -5000,
+      "finalPrice": 14990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791199453511
     },
     {
       "id": "694589",
