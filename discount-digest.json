@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:39:30.782547+00:00",
+  "generatedAt": "2026-10-05T10:54:33.702409+00:00",
   "items": [
     {
       "id": "591501",
@@ -706,6 +706,17 @@
       "imageVersion": 1785496595734
     },
     {
+      "id": "662894",
+      "name": "SEALY(씰리) 메디슨6 매트리스 캘리포니아 킹",
+      "store": "COSTCO",
+      "normalPrice": 1489000,
+      "discountAmount": -360000,
+      "finalPrice": 1129000,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197116090
+    },
+    {
       "id": "675819",
       "name": "LABNOSH 랍노쉬 슬림쉐이크 미 인절미맛 45GX14개",
       "store": "COSTCO",
@@ -858,6 +869,17 @@
       "saleStart": "2026/10/02",
       "saleEnd": "2026/10/11",
       "imageVersion": 1785580354071
+    },
+    {
+      "id": "670199",
+      "name": "XENICS 아레나게이밍의자 TYPE 9 레드",
+      "store": "COSTCO",
+      "normalPrice": 179900,
+      "discountAmount": -36000,
+      "finalPrice": 143900,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197036747
     },
     {
       "id": "680047",
@@ -1091,6 +1113,17 @@
       "imageVersion": 1790598978505
     },
     {
+      "id": "1937904",
+      "name": "접이식 쇼핑카트 최대 중량 75KG",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -8000,
+      "finalPrice": 28990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791196804679
+    },
+    {
       "id": "682411",
       "name": "GUESS 남성 라운지 팬츠 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -1300,6 +1333,39 @@
       "imageVersion": 1791196205806
     },
     {
+      "id": "685475",
+      "name": "MOOAS 자동 디스펜서 450ML",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -7000,
+      "finalPrice": 16990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791196828879
+    },
+    {
+      "id": "677614",
+      "name": "BLACK&DECKER 충전식 블로워 20V",
+      "store": "COSTCO",
+      "normalPrice": 99900,
+      "discountAmount": -20000,
+      "finalPrice": 79900,
+      "saleStart": "2026/10/02",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791196916634
+    },
+    {
+      "id": "677198",
+      "name": "OVER & BACK 나눔접시 세트 4P",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/09/30",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791197184400
+    },
+    {
       "id": "680932",
       "name": "대성 농협 국산 볶음 땅콩 1KG",
       "store": "COSTCO",
@@ -1320,6 +1386,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790599351408
+    },
+    {
+      "id": "683416",
+      "name": "PHILIPS 필립스 전동 칫솔모 옵티멀화이트 8개입",
+      "store": "COSTCO",
+      "normalPrice": 43990,
+      "discountAmount": -9000,
+      "finalPrice": 34990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197254616
     },
     {
       "id": "639698",
@@ -1364,6 +1441,28 @@
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/11",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "692715",
+      "name": "VENDICT 벤딕트 무선 에어건 써지 & 파우치 세트",
+      "store": "COSTCO",
+      "normalPrice": 144900,
+      "discountAmount": -30000,
+      "finalPrice": 114900,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791197007777
+    },
+    {
+      "id": "683573",
+      "name": "SEALY(씰리) 메디슨6 세트 퀸",
+      "store": "COSTCO",
+      "normalPrice": 1649000,
+      "discountAmount": -350000,
+      "finalPrice": 1299000,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197077504
     },
     {
       "id": "645296",
@@ -1432,6 +1531,17 @@
       "imageVersion": 1790599424623
     },
     {
+      "id": "662892",
+      "name": "SEALY(씰리) 메디슨6 매트리스 퀸",
+      "store": "COSTCO",
+      "normalPrice": 1219000,
+      "discountAmount": -300000,
+      "finalPrice": 919000,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197088734
+    },
+    {
       "id": "667010",
       "name": "씰리 메모리폼 베개 40X60CM",
       "store": "COSTCO",
@@ -1441,6 +1551,39 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790599613213
+    },
+    {
+      "id": "678566",
+      "name": "TEFAL 테팔 티타늄포스 프라이팬 28CM, 프랑스산",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -9500,
+      "finalPrice": 37490,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197151202
+    },
+    {
+      "id": "662893",
+      "name": "SEALY(씰리) 메디슨6 매트리스 킹",
+      "store": "COSTCO",
+      "normalPrice": 1349000,
+      "discountAmount": -320000,
+      "finalPrice": 1029000,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197099519
+    },
+    {
+      "id": "662891",
+      "name": "SEALY(씰리) 메디슨6 매트리스 슈퍼 싱글",
+      "store": "COSTCO",
+      "normalPrice": 979000,
+      "discountAmount": -240000,
+      "finalPrice": 739000,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197109375
     },
     {
       "id": "692335",
@@ -1476,6 +1619,17 @@
       "imageVersion": 1788352859234
     },
     {
+      "id": "686157",
+      "name": "NEOFLAM 네오플램 칼세트 3P",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197221515
+    },
+    {
       "id": "692331",
       "name": "CRESSON 여성 밴딩 팬츠 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -1485,6 +1639,17 @@
       "saleStart": "2026/09/14",
       "saleEnd": "2026/10/11",
       "imageVersion": 1789527289347
+    },
+    {
+      "id": "694926",
+      "name": "SAMSUNG UHD TV 75형 189CM",
+      "store": "COSTCO",
+      "normalPrice": 1659000,
+      "discountAmount": -360000,
+      "finalPrice": 1299000,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197470436
     },
     {
       "id": "682527",
@@ -1507,6 +1672,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1790599961361
+    },
+    {
+      "id": "691237",
+      "name": "SAMSUNG 비스포크키친핏맥스 640L",
+      "store": "COSTCO",
+      "normalPrice": 2399000,
+      "discountAmount": -120000,
+      "finalPrice": 2279000,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791197626852
     },
     {
       "id": "692548",
@@ -1971,6 +2147,17 @@
       "imageVersion": 1785418227779
     },
     {
+      "id": "1926205",
+      "name": "AESTHETIK KIDS 미피 아동 의자 W435 X D435 X H460 MM",
+      "store": "COSTCO",
+      "normalPrice": 84900,
+      "discountAmount": -17000,
+      "finalPrice": 67900,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791196864755
+    },
+    {
       "id": "658831",
       "name": "대웅제약 임팩타뮨 84정",
       "store": "COSTCO",
@@ -2024,17 +2211,6 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1790601143035
-    },
-    {
-      "id": "1926205",
-      "name": "AESTHETIK KIDS 미피 아동 의자 W435 X D435 X H460 MM",
-      "store": "COSTCO",
-      "normalPrice": 84900,
-      "discountAmount": -17000,
-      "finalPrice": 67900,
-      "saleStart": "2026/09/28",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1790601243910
     },
     {
       "id": "691998",
