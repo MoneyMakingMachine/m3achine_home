@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T10:09:25.084338+00:00",
+  "generatedAt": "2026-10-05T10:24:28.217323+00:00",
   "items": [
     {
       "id": "591501",
@@ -11,6 +11,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "691232",
+      "name": "할로윈 장식 기차가 있는 유령의 집 44CM(H)",
+      "store": "COSTCO",
+      "normalPrice": 69990,
+      "discountAmount": -15000,
+      "finalPrice": 54990,
+      "saleStart": "2026/09/30",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791195357791
     },
     {
       "id": "7771772",
@@ -66,6 +77,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
       "imageVersion": 1787058803009
+    },
+    {
+      "id": "1784963",
+      "name": "할로윈 장식 강아지 모형 67CM(H)",
+      "store": "COSTCO",
+      "normalPrice": 67990,
+      "discountAmount": -15000,
+      "finalPrice": 52990,
+      "saleStart": "2026/09/30",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791195396728
     },
     {
       "id": "687188",
@@ -255,6 +277,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "601971",
+      "name": "센타스타 바이탈프리미엄이불 퀸사이즈/200X230CM",
+      "store": "COSTCO",
+      "normalPrice": 249900,
+      "discountAmount": -45000,
+      "finalPrice": 204900,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791195830079
+    },
+    {
+      "id": "601973",
+      "name": "센타스타 바이탈프리미엄이불 싱글사이즈/155X200CM",
+      "store": "COSTCO",
+      "normalPrice": 199900,
+      "discountAmount": -35000,
+      "finalPrice": 164900,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791195843689
+    },
+    {
       "id": "785447",
       "name": "라브아 퍼품 실내탈취제 250G X 3",
       "store": "COSTCO",
@@ -442,17 +486,6 @@
       "imageVersion": 1786435670228
     },
     {
-      "id": "663506",
-      "name": "스피드랙 다용도 5단 선반 100 X 40 X 180CM",
-      "store": "COSTCO",
-      "normalPrice": 89990,
-      "discountAmount": -18000,
-      "finalPrice": 71990,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/18",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "686640",
       "name": "스페인산 돈육 냉동삼겹 3.0KG",
       "store": "COSTCO",
@@ -462,6 +495,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/11",
       "imageVersion": 1785761673540
+    },
+    {
+      "id": "663506",
+      "name": "스피드랙 다용도 5단 선반 100 X 40 X 180CM",
+      "store": "COSTCO",
+      "normalPrice": 89990,
+      "discountAmount": -18000,
+      "finalPrice": 71990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1786300361977
     },
     {
       "id": "692168",
@@ -3434,6 +3478,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "620221",
+      "name": "서울우유 비요뜨 초코링 138G X 12",
+      "store": "COSTCO",
+      "normalPrice": 12790,
+      "discountAmount": -2800,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "619304",
       "name": "골든 스텔리온 유기농 와인 750ML",
       "store": "COSTCO",
@@ -3452,17 +3507,6 @@
       "discountAmount": -4000,
       "finalPrice": 15990,
       "saleStart": "2026/09/28",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "620221",
-      "name": "서울우유 비요뜨 초코링 138G X 12",
-      "store": "COSTCO",
-      "normalPrice": 12790,
-      "discountAmount": -2800,
-      "finalPrice": 9990,
-      "saleStart": "2026/10/05",
       "saleEnd": "2026/10/11",
       "imageVersion": 1786300361977
     },
@@ -4380,6 +4424,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "677797",
+      "name": "닥터페퍼제로 350ML X 24팩",
+      "store": "COSTCO",
+      "normalPrice": 16790,
+      "discountAmount": -3800,
+      "finalPrice": 12990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1786300361977
+    },
+    {
       "id": "677849",
       "name": "뉴트리원 코코칼슘젤리 20G X 40 포",
       "store": "COSTCO",
@@ -4399,17 +4454,6 @@
       "finalPrice": 20990,
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/11",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "677797",
-      "name": "닥터페퍼제로 350ML X 24팩",
-      "store": "COSTCO",
-      "normalPrice": 16790,
-      "discountAmount": -3800,
-      "finalPrice": 12990,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/18",
       "imageVersion": 1786300361977
     },
     {
