@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T11:24:39.047264+00:00",
+  "generatedAt": "2026-10-05T11:39:41.534670+00:00",
   "items": [
     {
       "id": "591501",
@@ -3115,6 +3115,28 @@
       "imageVersion": 1791198830141
     },
     {
+      "id": "685847",
+      "name": "투핸즈 블루 스카이 750ML",
+      "store": "COSTCO",
+      "normalPrice": 39790,
+      "discountAmount": -9800,
+      "finalPrice": 29990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791199620712
+    },
+    {
+      "id": "633013",
+      "name": "돈육 고추장불고기 돈육원산지 : 미국 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 15790,
+      "discountAmount": -4300,
+      "finalPrice": 11490,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791199810939
+    },
+    {
       "id": "684065",
       "name": "자미에슨츄어블 비타민 B 92정",
       "store": "COSTCO",
@@ -3223,6 +3245,17 @@
       "saleStart": "2026/10/01",
       "saleEnd": "2026/11/02",
       "imageVersion": 1791199248848
+    },
+    {
+      "id": "641563",
+      "name": "아포틱 까베르네쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 18790,
+      "discountAmount": -3800,
+      "finalPrice": 14990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791199741573
     },
     {
       "id": "684110",
@@ -3346,6 +3379,17 @@
       "imageVersion": 1787057946891
     },
     {
+      "id": "679332",
+      "name": "트리벤토 프라이빗리저브말벡 750ML",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791199596180
+    },
+    {
       "id": "692425",
       "name": "돌체구스토 캡슐 커피머신 지니오 S 쉐어",
       "store": "COSTCO",
@@ -3355,6 +3399,17 @@
       "saleStart": "2026/10/02",
       "saleEnd": "2026/11/01",
       "imageVersion": 1785603753160
+    },
+    {
+      "id": "697248",
+      "name": "아티장 머쉬룸크림파스타 1,212G (4인분)",
+      "store": "COSTCO",
+      "normalPrice": 12790,
+      "discountAmount": -2800,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791200006985
     },
     {
       "id": "697757",
@@ -3487,6 +3542,39 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1791199453511
+    },
+    {
+      "id": "529760",
+      "name": "국내산 돈육 앞다리살 진공팩 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -6500,
+      "finalPrice": 13490,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1791199904443
+    },
+    {
+      "id": "670179",
+      "name": "LEVI'S 남성청바지 #505 30 - 36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791199959499
+    },
+    {
+      "id": "333078",
+      "name": "FLYING GOOSE 스리라차핫소스 730ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 14790,
+      "discountAmount": -2300,
+      "finalPrice": 12490,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791199983032
     },
     {
       "id": "694589",
