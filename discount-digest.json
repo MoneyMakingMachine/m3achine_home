@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:44:51.056604+00:00",
+  "generatedAt": "2026-10-08T12:17:53.946329+00:00",
   "items": [
     {
       "id": "591501",
@@ -2741,17 +2741,6 @@
       "imageVersion": 1790079497589
     },
     {
-      "id": "1710218",
-      "name": "KIRKLAND SIGNATURE 모짜렐라 슬라이스 510GX2 원산지:미국",
-      "store": "COSTCO",
-      "normalPrice": 14490,
-      "discountAmount": -3000,
-      "finalPrice": 11490,
-      "saleStart": "2026/10/01",
-      "saleEnd": "2026/10/07",
-      "imageVersion": 1790079587860
-    },
-    {
       "id": "696622",
       "name": "SAMSUNG MINI LED TV 65형 163CM",
       "store": "COSTCO",
@@ -2840,17 +2829,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "695020",
-      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
-      "store": "COSTCO",
-      "normalPrice": 49990,
-      "discountAmount": -20000,
-      "finalPrice": 29990,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/18",
-      "imageVersion": 1786174508302
-    },
-    {
       "id": "615843",
       "name": "MAMA'S CHOICE 치즈 오징어 200G",
       "store": "COSTCO",
@@ -2906,17 +2884,6 @@
       "imageVersion": 1791198608070
     },
     {
-      "id": "777001",
-      "name": "KIRKLAND SIGNATURE 생새우(50 - 70) 908 G / 2 LBS",
-      "store": "COSTCO",
-      "normalPrice": 21990,
-      "discountAmount": -2000,
-      "finalPrice": 19990,
-      "saleStart": "2026/10/02",
-      "saleEnd": "2026/10/07",
-      "imageVersion": 1791198636769
-    },
-    {
       "id": "680057",
       "name": "고메 베이컨트러플파스타 251.8G X 6",
       "store": "COSTCO",
@@ -2959,6 +2926,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/11",
       "imageVersion": 1791199810939
+    },
+    {
+      "id": "695020",
+      "name": "HARRY'S 해리스 크롬면도기세트 기1 + 날16",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -20000,
+      "finalPrice": 29990,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1786174508302
     },
     {
       "id": "684065",
@@ -3695,17 +3673,6 @@
       "finalPrice": 18290,
       "saleStart": "2026/10/01",
       "saleEnd": "2026/10/11",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "25551",
-      "name": "KIRKLAND SIGNATURE 생새우(21 - 25) 908 G / 2 LBS",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -2000,
-      "finalPrice": 22990,
-      "saleStart": "2026/10/02",
-      "saleEnd": "2026/10/07",
       "imageVersion": 1786300361977
     },
     {
