@@ -144,6 +144,15 @@ def parse_post(path: Path) -> dict | None:
     if not thumbnail:
         print(f"  ! {path.name}: 썸네일이 없어 배너에 제목 문구만 보입니다.", file=sys.stderr)
 
+    # 링크: 앞머리 `link:`(절대 URL)가 있으면 배너가 그 주소를 바로 연다 — 웹사이트 글을 배너로
+    # 홍보할 때 쓴다. 이때는 공지 HTML 을 만들지 않는다. 같은 글의 사본이 두 도메인에 생기면
+    # 「베낀 쪽」으로 읽히기 때문이다(아래 noindex 주석과 같은 이유). 웹도 이런 항목은 소식 목록에
+    # 다시 그리지 않는다(`Costraders_web/src/lib/notices.ts`).
+    external = str(meta.get("link") or "").strip()
+    if external and not external.startswith("https://"):
+        print(f"  ! {path.name}: link 는 https:// 로 시작하는 절대 URL 이어야 합니다 — 무시합니다.", file=sys.stderr)
+        external = ""
+
     body_html = markdown.markdown(body_md.strip(), extensions=["extra", "sane_lists"])
     page = (
         PAGE_TEMPLATE
@@ -153,13 +162,13 @@ def parse_post(path: Path) -> dict | None:
     )
 
     return {
-        "page_name": f"{slug}.html",
+        "page_name": None if external else f"{slug}.html",
         "page_html": page,
         "entry": {
             "id": slug,
             "title": title,
             "thumbnail": thumbnail,
-            "link": f"{slug}.html",
+            "link": external or f"{slug}.html",
             "publishedAt": published,
             "startAt": _date_or_none(meta.get("start")),
             "endAt": _date_or_none(meta.get("end")),
@@ -203,9 +212,12 @@ def build(root: Path) -> int:
         post = parse_post(md_path)
         if post is None:
             continue
-        (out / post["page_name"]).write_text(post["page_html"], encoding="utf-8")
+        if post["page_name"]:
+            (out / post["page_name"]).write_text(post["page_html"], encoding="utf-8")
+            print(f"  + {md_path.name} → {OUT_DIR}/{post['page_name']}")
+        else:
+            print(f"  + {md_path.name} → {post['entry']['link']}")
         entries.append(post["entry"])
-        print(f"  + {md_path.name} → {OUT_DIR}/{post['page_name']}")
 
     # 앱과 같은 순서로 정렬해 둔다(앱도 다시 정렬하지만, 사람이 파일을 열어 볼 때 순서가 맞는 편이 낫다).
     entries.sort(key=lambda e: (-e["priority"], _desc(e["publishedAt"]), e["id"]))
