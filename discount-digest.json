@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:17:57.010394+00:00",
+  "generatedAt": "2026-10-10T03:03:00.840018+00:00",
   "items": [
     {
       "id": "591501",
@@ -684,17 +684,6 @@
       "imageVersion": 1785765443606
     },
     {
-      "id": "630807",
-      "name": "KELLOGG'S' 크랜베리 아몬드 그래놀라 500G X 3",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -4400,
-      "finalPrice": 14590,
-      "saleStart": "2026/09/28",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "689438",
       "name": "양반 로제떡볶이 1030G",
       "store": "COSTCO",
@@ -704,6 +693,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/25",
       "imageVersion": 1786180193245
+    },
+    {
+      "id": "630807",
+      "name": "KELLOGG'S' 크랜베리 아몬드 그래놀라 500G X 3",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4400,
+      "finalPrice": 14590,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
+      "imageVersion": 1786300361977
     },
     {
       "id": "673507",
@@ -3852,17 +3852,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "598021",
-      "name": "동화약품 부채표 까스 활 75ML X 10병 X 2개",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -3200,
-      "finalPrice": 12790,
-      "saleStart": "2026/09/28",
-      "saleEnd": "2026/10/11",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "599299",
       "name": "TSINGTAO 병맥주 640ML X 6병",
       "store": "COSTCO",
@@ -3871,6 +3860,17 @@
       "finalPrice": 11990,
       "saleStart": "2026/09/21",
       "saleEnd": "2026/10/19",
+      "imageVersion": 1786300361977
+    },
+    {
+      "id": "598021",
+      "name": "동화약품 부채표 까스 활 75ML X 10병 X 2개",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3200,
+      "finalPrice": 12790,
+      "saleStart": "2026/09/28",
+      "saleEnd": "2026/10/11",
       "imageVersion": 1786300361977
     },
     {
@@ -4894,17 +4894,6 @@
       "finalPrice": 57900,
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "733591",
-      "name": "ARLA 하바티 슬라이스 907G 원산지미국",
-      "store": "COSTCO",
-      "normalPrice": 15490,
-      "discountAmount": -3000,
-      "finalPrice": 12490,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/08",
       "imageVersion": 1786300361977
     },
     {
