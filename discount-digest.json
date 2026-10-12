@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:18:07.066978+00:00",
+  "generatedAt": "2026-10-12T12:33:11.019597+00:00",
   "items": [
     {
       "id": "7771772",
@@ -1069,6 +1069,17 @@
       "imageVersion": 1791807190595
     },
     {
+      "id": "691105",
+      "name": "GUY LAROCHE 바스 타월 1P, 80X150CM",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791807583791
+    },
+    {
       "id": "683416",
       "name": "PHILIPS 필립스 전동 칫솔모 옵티멀화이트 8개입",
       "store": "COSTCO",
@@ -1179,6 +1190,17 @@
       "imageVersion": 1791197099519
     },
     {
+      "id": "667412",
+      "name": "COLUMBIA 성인등산양말 5족 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3500,
+      "finalPrice": 11490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791807567422
+    },
+    {
       "id": "662891",
       "name": "SEALY(씰리) 메디슨6 매트리스 슈퍼 싱글",
       "store": "COSTCO",
@@ -1188,6 +1210,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1791197109375
+    },
+    {
+      "id": "691698",
+      "name": "ANDREA VANNA 울 니트 모자 FREE사이즈",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1791807597597
     },
     {
       "id": "686157",
@@ -1267,6 +1300,17 @@
       "imageVersion": 1786963679496
     },
     {
+      "id": "695848",
+      "name": "뽀로로 비타민C & D +아연 500정",
+      "store": "COSTCO",
+      "normalPrice": 13490,
+      "discountAmount": -2700,
+      "finalPrice": 10790,
+      "saleStart": "2026/10/08",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791807636995
+    },
+    {
       "id": "691237",
       "name": "SAMSUNG 비스포크키친핏맥스 640L",
       "store": "COSTCO",
@@ -1276,6 +1320,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1791197626852
+    },
+    {
+      "id": "680594",
+      "name": "IOPE 아이오페 슈퍼바이탈 크림 50ML(크림, 에센스)",
+      "store": "COSTCO",
+      "normalPrice": 89900,
+      "discountAmount": -18000,
+      "finalPrice": 71900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791807749805
     },
     {
       "id": "699905",
@@ -1322,6 +1377,28 @@
       "imageVersion": 1789532043033
     },
     {
+      "id": "670174",
+      "name": "그레인온 카무트 효소 3G X 60포",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5400,
+      "finalPrice": 21590,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791807722474
+    },
+    {
+      "id": "680592",
+      "name": "IOPE 아이오페 슈퍼바이탈 에멀전 150ML + 18ML X 3",
+      "store": "COSTCO",
+      "normalPrice": 48990,
+      "discountAmount": -10000,
+      "finalPrice": 38990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791807784852
+    },
+    {
       "id": "632138",
       "name": "칠성사이다 190ML X 30캔",
       "store": "COSTCO",
@@ -1364,6 +1441,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1791197842079
+    },
+    {
+      "id": "680591",
+      "name": "IOPE 아이오페 슈퍼바이탈 소프너 150ML + 18MLX3",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791807768953
     },
     {
       "id": "635119",
