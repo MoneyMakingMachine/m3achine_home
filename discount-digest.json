@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:48:23.223880+00:00",
+  "generatedAt": "2026-10-12T14:03:26.511583+00:00",
   "items": [
     {
       "id": "7771772",
@@ -2884,6 +2884,28 @@
       "imageVersion": 1791812728885
     },
     {
+      "id": "571233",
+      "name": "카비앙카 무스카토 다스티 750ML",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812983018
+    },
+    {
+      "id": "149915",
+      "name": "FLEXISPOT 플렉시스팟 높이조절사이드테이블 W70 X D40 X H66-106 CM",
+      "store": "COSTCO",
+      "normalPrice": 69990,
+      "discountAmount": -14000,
+      "finalPrice": 55990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791813442661
+    },
+    {
       "id": "689517",
       "name": "무농약 루꼴라 250G 원산지 : 국내산",
       "store": "COSTCO",
@@ -2948,6 +2970,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791812817761
+    },
+    {
+      "id": "526040",
+      "name": "삼호어묵 부산어묵-골드 1,200G",
+      "store": "COSTCO",
+      "normalPrice": 6490,
+      "discountAmount": -1100,
+      "finalPrice": 5390,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812950995
     },
     {
       "id": "683076",
@@ -3069,6 +3102,28 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791812623314
+    },
+    {
+      "id": "631116",
+      "name": "EURO POMELLA 부라타치즈 100G X 4",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4500,
+      "finalPrice": 14490,
+      "saleStart": "2026/10/08",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812931163
+    },
+    {
+      "id": "689440",
+      "name": "FRATELLI LONGOBARDI 토마토홀 800G X 4",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -3000,
+      "finalPrice": 8990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1791813586206
     },
     {
       "id": "1929727",
@@ -3212,6 +3267,39 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791812772804
+    },
+    {
+      "id": "681719",
+      "name": "VISIT IN NY 여성 체크 셔츠 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1791812906137
+    },
+    {
+      "id": "679351",
+      "name": "잭니클라우스 까베르네쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 124990,
+      "discountAmount": -38000,
+      "finalPrice": 86990,
+      "saleStart": "2026/10/08",
+      "saleEnd": "2026/10/31",
+      "imageVersion": 1791813370746
+    },
+    {
+      "id": "697837",
+      "name": "풀무원 다논 액티비아 부스트샷4 100ML X 12 (무가당)",
+      "store": "COSTCO",
+      "normalPrice": 7990,
+      "discountAmount": -1600,
+      "finalPrice": 6390,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791813596994
     },
     {
       "id": "1851585",
