@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T12:33:11.019597+00:00",
+  "generatedAt": "2026-10-12T12:48:14.035102+00:00",
   "items": [
     {
       "id": "7771772",
@@ -1223,6 +1223,17 @@
       "imageVersion": 1791807597597
     },
     {
+      "id": "693235",
+      "name": "VT PDRN 에센스 100 50ML + 30ML",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791808642507
+    },
+    {
       "id": "686157",
       "name": "NEOFLAM 네오플램 칼세트 3P",
       "store": "COSTCO",
@@ -1507,6 +1518,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "644227",
+      "name": "BIODERMA바이오더마 에센스로션 200ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 38990,
+      "discountAmount": -8000,
+      "finalPrice": 30990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791808545508
     },
     {
       "id": "692137",
