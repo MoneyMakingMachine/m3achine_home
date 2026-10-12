@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:33:20.528269+00:00",
+  "generatedAt": "2026-10-12T13:48:23.223880+00:00",
   "items": [
     {
       "id": "7771772",
@@ -2158,6 +2158,17 @@
       "imageVersion": 1791811471298
     },
     {
+      "id": "685391",
+      "name": "미니 대추토마토 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812022517
+    },
+    {
       "id": "559111",
       "name": "ONITAIJI 오니타이지 사케 2L",
       "store": "COSTCO",
@@ -2477,6 +2488,17 @@
       "imageVersion": 1791811905439
     },
     {
+      "id": "579034",
+      "name": "메로골드 자몽 ( 3.5KG 이상) 원산지 : 미국",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -3000,
+      "finalPrice": 15990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812015567
+    },
+    {
       "id": "695258",
       "name": "맥반석참구이 오징어 300G",
       "store": "COSTCO",
@@ -2642,6 +2664,28 @@
       "imageVersion": 1791811794521
     },
     {
+      "id": "589859",
+      "name": "천도복숭아 (2KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2500,
+      "finalPrice": 12490,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/12",
+      "imageVersion": 1791812029531
+    },
+    {
+      "id": "587666",
+      "name": "마장농협 이천쌀 10KG",
+      "store": "COSTCO",
+      "normalPrice": 42990,
+      "discountAmount": -3000,
+      "finalPrice": 39990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1791812039899
+    },
+    {
       "id": "695937",
       "name": "LG 그램",
       "store": "COSTCO",
@@ -2708,6 +2752,17 @@
       "imageVersion": 1791811441844
     },
     {
+      "id": "606616",
+      "name": "하우스밀감 (2.5KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -5000,
+      "finalPrice": 13990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812001651
+    },
+    {
       "id": "333078",
       "name": "FLYING GOOSE 스리라차핫소스 730ML X 2",
       "store": "COSTCO",
@@ -2717,6 +2772,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791199983032
+    },
+    {
+      "id": "692387",
+      "name": "대구농산 페루산 퀴노아 1.8KG",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812057546
     },
     {
       "id": "670179",
@@ -2730,6 +2796,17 @@
       "imageVersion": 1791199959499
     },
     {
+      "id": "697472",
+      "name": "미이랑 캐나다산 햄프씨드 1.6KG",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812088939
+    },
+    {
       "id": "512672",
       "name": "벨버드 치킨밀크껌 1KG",
       "store": "COSTCO",
@@ -2741,6 +2818,17 @@
       "imageVersion": 1786186294222
     },
     {
+      "id": "687840",
+      "name": "무농약 카이피라 400G 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 6990,
+      "discountAmount": -1100,
+      "finalPrice": 5890,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812131507
+    },
+    {
       "id": "696096",
       "name": "BULLSONE불스원 그라스디퓨저2P & 탈취 스프레이 1P",
       "store": "COSTCO",
@@ -2750,6 +2838,116 @@
       "saleStart": "2026/10/01",
       "saleEnd": "2026/10/18",
       "imageVersion": 1789035437450
+    },
+    {
+      "id": "698801",
+      "name": "남양 떠먹는 불가리스 80GX16 딸기 / 복숭아",
+      "store": "COSTCO",
+      "normalPrice": 7990,
+      "discountAmount": -1500,
+      "finalPrice": 6490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812241203
+    },
+    {
+      "id": "695557",
+      "name": "BASIC PROMOTIONS 할로윈 팝행어스 840G / 12G X 70",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2000,
+      "finalPrice": 11990,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812331609
+    },
+    {
+      "id": "695330",
+      "name": "AMOS PEELERZ 스푸키파티믹스구미 1,020G",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2000,
+      "finalPrice": 11990,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812351059
+    },
+    {
+      "id": "696164",
+      "name": "존쿡델리미트 슬라이스 차슈 250G X 3",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812728885
+    },
+    {
+      "id": "689517",
+      "name": "무농약 루꼴라 250G 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 8990,
+      "discountAmount": -1500,
+      "finalPrice": 7490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812230413
+    },
+    {
+      "id": "635784",
+      "name": "HARIBO 스케어리 펀 젤리 980G",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -2000,
+      "finalPrice": 12990,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812317487
+    },
+    {
+      "id": "656173",
+      "name": "TROLLI 할로윈 파티 902G",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -2000,
+      "finalPrice": 17990,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812545595
+    },
+    {
+      "id": "690972",
+      "name": "쌍계 말차파우더 15G X 40",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -2500,
+      "finalPrice": 11490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812720676
+    },
+    {
+      "id": "693337",
+      "name": "스윗밸런스 당근라페 650G",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812744060
+    },
+    {
+      "id": "1310002",
+      "name": "호텔 그랜드 페더 & 다운 베개 2P / 50X71CM",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -8000,
+      "finalPrice": 28990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812817761
     },
     {
       "id": "683076",
@@ -2772,6 +2970,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1786186593843
+    },
+    {
+      "id": "679037",
+      "name": "모둠견과깨강정 NUTS & SEEDS BRITTLE",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2000,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812259160
     },
     {
       "id": "692264",
@@ -2818,6 +3027,17 @@
       "imageVersion": 1785058694183
     },
     {
+      "id": "1946138",
+      "name": "DJ&A 피클칩 200G",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812280201
+    },
+    {
       "id": "698024",
       "name": "GOODFEEL 좋은느낌 유기농순면울트라슬림 중형 72개",
       "store": "COSTCO",
@@ -2829,6 +3049,28 @@
       "imageVersion": 1789528907707
     },
     {
+      "id": "689331",
+      "name": "SWEETORY 몬스터 스탬프캔디 1,216G / 15.2G X 80",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -2000,
+      "finalPrice": 10990,
+      "saleStart": "2026/10/09",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812436883
+    },
+    {
+      "id": "695393",
+      "name": "ARIAKE 매운나가사끼짬뽕스프 1.8L",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812623314
+    },
+    {
       "id": "1929727",
       "name": "할로윈 장식 LED 박쥐 장식 152CM",
       "store": "COSTCO",
@@ -2838,6 +3080,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/18",
       "imageVersion": 1789035265483
+    },
+    {
+      "id": "695019",
+      "name": "맥스봉 치즈플러스 40G X 33",
+      "store": "COSTCO",
+      "normalPrice": 16490,
+      "discountAmount": -2000,
+      "finalPrice": 14490,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812305600
     },
     {
       "id": "692331",
@@ -2884,6 +3137,17 @@
       "imageVersion": 1789035208412
     },
     {
+      "id": "615975",
+      "name": "MAILLE 홀그레인 머스타드 845G",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2000,
+      "finalPrice": 8990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791812685532
+    },
+    {
       "id": "692428",
       "name": "VINE 남성 캐시미어크루 S - XL ASIAN SIZE",
       "store": "COSTCO",
@@ -2917,6 +3181,17 @@
       "imageVersion": 1786433793046
     },
     {
+      "id": "681889",
+      "name": "HEINZ 토마토케찹 1.35KG X 2",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1791812702083
+    },
+    {
       "id": "660352",
       "name": "페브리즈 화장실비치형 방향제/탈취제 6EA",
       "store": "COSTCO",
@@ -2926,6 +3201,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "658145",
+      "name": "싱그람 우엉과 단무지 250G X 2 국내산",
+      "store": "COSTCO",
+      "normalPrice": 6890,
+      "discountAmount": -1400,
+      "finalPrice": 5490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791812772804
     },
     {
       "id": "1851585",
