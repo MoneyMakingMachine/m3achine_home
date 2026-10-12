@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T13:18:17.384180+00:00",
+  "generatedAt": "2026-10-12T13:33:20.528269+00:00",
   "items": [
     {
       "id": "7771772",
@@ -1740,6 +1740,17 @@
       "imageVersion": 1790024258617
     },
     {
+      "id": "675614",
+      "name": "커튼 명가 창 스페셜 오더 6폭780CM",
+      "store": "COSTCO",
+      "normalPrice": 449900,
+      "discountAmount": -90000,
+      "finalPrice": 359900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811291811
+    },
+    {
       "id": "699904",
       "name": "HUGGIES 하기스 네이처메이드 팬티형 4단계 80개(공용)",
       "store": "COSTCO",
@@ -1892,6 +1903,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791811087008
+    },
+    {
+      "id": "675605",
+      "name": "커튼 명가 창 스페셜 오더 5폭650CM",
+      "store": "COSTCO",
+      "normalPrice": 289900,
+      "discountAmount": -58000,
+      "finalPrice": 231900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811347859
     },
     {
       "id": "644349",
@@ -2081,6 +2103,17 @@
       "imageVersion": 1791811096028
     },
     {
+      "id": "675588",
+      "name": "커튼 명가 창 스페셜 오더 3폭380CM",
+      "store": "COSTCO",
+      "normalPrice": 189900,
+      "discountAmount": -38000,
+      "finalPrice": 151900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811322345
+    },
+    {
       "id": "701306",
       "name": "크리넥스 수프림플러스화장지 4OM X 30롤, 3겹",
       "store": "COSTCO",
@@ -2090,6 +2123,39 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1785062655479
+    },
+    {
+      "id": "675607",
+      "name": "커튼 명가 창 스페셜 오더 3폭380CM",
+      "store": "COSTCO",
+      "normalPrice": 224900,
+      "discountAmount": -45000,
+      "finalPrice": 179900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811370651
+    },
+    {
+      "id": "683572",
+      "name": "SEALY(씰리) 메디슨6 세트 슈퍼 싱글",
+      "store": "COSTCO",
+      "normalPrice": 1319000,
+      "discountAmount": -270000,
+      "finalPrice": 1049000,
+      "saleStart": "2026/10/05",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811406349
+    },
+    {
+      "id": "693113",
+      "name": "LG 오브제 세탁기/건조기세트 19KG /20KG",
+      "store": "COSTCO",
+      "normalPrice": 2769000,
+      "discountAmount": -350000,
+      "finalPrice": 2419000,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1791811471298
     },
     {
       "id": "559111",
@@ -2202,6 +2268,17 @@
       "imageVersion": 1787058593672
     },
     {
+      "id": "675604",
+      "name": "커튼 명가 창 스페셜 오더 4폭520CM",
+      "store": "COSTCO",
+      "normalPrice": 239900,
+      "discountAmount": -48000,
+      "finalPrice": 191900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811340225
+    },
+    {
       "id": "694586",
       "name": "다우니 섬유유연제 화이트 티 4L",
       "store": "COSTCO",
@@ -2222,6 +2299,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1787058841732
+    },
+    {
+      "id": "657758",
+      "name": "생물데친우렁살 원산지 : 국산 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -4000,
+      "finalPrice": 19990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811931858
     },
     {
       "id": "694263",
@@ -2279,6 +2367,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "675606",
+      "name": "커튼 명가 창 스페셜 오더 6폭780CM",
+      "store": "COSTCO",
+      "normalPrice": 339900,
+      "discountAmount": -68000,
+      "finalPrice": 271900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811357251
+    },
+    {
       "id": "691883",
       "name": "LG 그램 프로",
       "store": "COSTCO",
@@ -2312,6 +2411,72 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "675610",
+      "name": "커튼 명가 창 스페셜 오더 6폭780CM",
+      "store": "COSTCO",
+      "normalPrice": 389900,
+      "discountAmount": -78000,
+      "finalPrice": 311900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811389853
+    },
+    {
+      "id": "692445",
+      "name": "KARCHER 카처 스팀청소기 SC 1 MULTI",
+      "store": "COSTCO",
+      "normalPrice": 149900,
+      "discountAmount": -30000,
+      "finalPrice": 119900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1791811459485
+    },
+    {
+      "id": "698098",
+      "name": "차우면 닭원산지:국내산 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -2000,
+      "finalPrice": 14990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811820927
+    },
+    {
+      "id": "648683",
+      "name": "뼈없는 오리주물럭 오리원산지 : 국내산 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 21790,
+      "discountAmount": -5000,
+      "finalPrice": 16790,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811850179
+    },
+    {
+      "id": "529752",
+      "name": "미국산 초이스 아롱사태 진공팩 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5000,
+      "finalPrice": 22990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811866866
+    },
+    {
+      "id": "681444",
+      "name": "절단꽃게 원산지 : 국산 1.2KG",
+      "store": "COSTCO",
+      "normalPrice": 18790,
+      "discountAmount": -3800,
+      "finalPrice": 14990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811905439
+    },
+    {
       "id": "695258",
       "name": "맥반석참구이 오징어 300G",
       "store": "COSTCO",
@@ -2321,6 +2486,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1791198776157
+    },
+    {
+      "id": "675608",
+      "name": "커튼 명가 창 스페셜 오더 4폭520CM",
+      "store": "COSTCO",
+      "normalPrice": 279900,
+      "discountAmount": -56000,
+      "finalPrice": 223900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811373804
     },
     {
       "id": "677110",
@@ -2367,6 +2543,17 @@
       "imageVersion": 1791199596180
     },
     {
+      "id": "689513",
+      "name": "풀무원 생만두 고기미나리 400G X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 12990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811607061
+    },
+    {
       "id": "692425",
       "name": "돌체구스토 캡슐 커피머신 지니오 S 쉐어",
       "store": "COSTCO",
@@ -2376,6 +2563,17 @@
       "saleStart": "2026/10/02",
       "saleEnd": "2026/11/01",
       "imageVersion": 1785603753160
+    },
+    {
+      "id": "689512",
+      "name": "풀무원 생만두 고기배추 400G X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3000,
+      "finalPrice": 12990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811622437
     },
     {
       "id": "691077",
@@ -2433,6 +2631,17 @@
       "imageVersion": 1790601935157
     },
     {
+      "id": "696553",
+      "name": "감자탕 돈목뼈원산지:미국",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -5000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/14",
+      "imageVersion": 1791811794521
+    },
+    {
       "id": "695937",
       "name": "LG 그램",
       "store": "COSTCO",
@@ -2442,6 +2651,17 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1789529647240
+    },
+    {
+      "id": "675609",
+      "name": "커튼 명가 창 스페셜 오더 5폭650CM",
+      "store": "COSTCO",
+      "normalPrice": 334900,
+      "discountAmount": -67000,
+      "finalPrice": 267900,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1791811383105
     },
     {
       "id": "682868",
@@ -2475,6 +2695,17 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
       "imageVersion": 1791199453511
+    },
+    {
+      "id": "697909",
+      "name": "ROBOROCK 로보락 로봇청소기 Q REVO C PRO",
+      "store": "COSTCO",
+      "normalPrice": 749990,
+      "discountAmount": -100000,
+      "finalPrice": 649990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/10/18",
+      "imageVersion": 1791811441844
     },
     {
       "id": "333078",
