@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:03:26.511583+00:00",
+  "generatedAt": "2026-10-15T22:33:30.051565+00:00",
   "items": [
     {
       "id": "7771772",
@@ -176,17 +176,6 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1787058553902
-    },
-    {
-      "id": "603776",
-      "name": "씨제이 도톰 동그랑땡 1.5KG",
-      "store": "COSTCO",
-      "normalPrice": 15990,
-      "discountAmount": -2500,
-      "finalPrice": 13490,
-      "saleStart": "2026/10/07",
-      "saleEnd": "2026/10/13",
-      "imageVersion": 1790079712721
     },
     {
       "id": "682889",
@@ -2059,17 +2048,6 @@
       "imageVersion": 1791198271564
     },
     {
-      "id": "1710218",
-      "name": "KIRKLAND SIGNATURE 모짜렐라 슬라이스 510GX2 원산지:미국",
-      "store": "COSTCO",
-      "normalPrice": 14490,
-      "discountAmount": -3000,
-      "finalPrice": 11490,
-      "saleStart": "2026/10/08",
-      "saleEnd": "2026/10/12",
-      "imageVersion": 1790079587860
-    },
-    {
       "id": "692429",
       "name": "BALLOP 성인 운동화 230 - 285MM",
       "store": "COSTCO",
@@ -2620,17 +2598,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "694668",
-      "name": "농심 조청 유과 500G",
-      "store": "COSTCO",
-      "normalPrice": 6290,
-      "discountAmount": -1300,
-      "finalPrice": 4990,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/14",
-      "imageVersion": 1790602196093
-    },
-    {
       "id": "586958",
       "name": "카프리썬 오렌지망고주스 200ML X 20",
       "store": "COSTCO",
@@ -2651,28 +2618,6 @@
       "saleStart": "2026/09/28",
       "saleEnd": "2026/10/18",
       "imageVersion": 1790601935157
-    },
-    {
-      "id": "696553",
-      "name": "감자탕 돈목뼈원산지:미국",
-      "store": "COSTCO",
-      "normalPrice": 28990,
-      "discountAmount": -5000,
-      "finalPrice": 23990,
-      "saleStart": "2026/10/12",
-      "saleEnd": "2026/10/14",
-      "imageVersion": 1791811794521
-    },
-    {
-      "id": "589859",
-      "name": "천도복숭아 (2KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -2500,
-      "finalPrice": 12490,
-      "saleStart": "2026/10/09",
-      "saleEnd": "2026/10/12",
-      "imageVersion": 1791812029531
     },
     {
       "id": "587666",
@@ -3522,17 +3467,6 @@
       "imageVersion": 1785660884648
     },
     {
-      "id": "667628",
-      "name": "ZESPRI 골드키위 2.4KG 원산지 : 뉴질랜드",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -4500,
-      "finalPrice": 21490,
-      "saleStart": "2026/10/12",
-      "saleEnd": "2026/10/14",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "694506",
       "name": "I'M VITA 비타민 젤리 600G / 25G X 24",
       "store": "COSTCO",
@@ -4061,28 +3995,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "513710",
-      "name": "농심 육개장 사발면 86G X 24",
-      "store": "COSTCO",
-      "normalPrice": 21790,
-      "discountAmount": -2900,
-      "finalPrice": 18890,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/14",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "523006",
-      "name": "농심 올리브 짜파게티 140G X 20",
-      "store": "COSTCO",
-      "normalPrice": 19490,
-      "discountAmount": -2700,
-      "finalPrice": 16790,
-      "saleStart": "2026/10/06",
-      "saleEnd": "2026/10/14",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "522180",
       "name": "더건강한 샌드위치햄 700G X 6",
       "store": "COSTCO",
@@ -4102,17 +4014,6 @@
       "finalPrice": 11990,
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/18",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "570219",
-      "name": "THE LAUGHING COW 플레인 포션 치즈 120G X 3 (360G)",
-      "store": "COSTCO",
-      "normalPrice": 13990,
-      "discountAmount": -5000,
-      "finalPrice": 8990,
-      "saleStart": "2026/10/01",
-      "saleEnd": "2026/10/14",
       "imageVersion": 1786300361977
     },
     {
@@ -4311,17 +4212,6 @@
       "finalPrice": 4990,
       "saleStart": "2026/10/09",
       "saleEnd": "2026/10/25",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "612001",
-      "name": "농심 안성탕면 125G X 20",
-      "store": "COSTCO",
-      "normalPrice": 13490,
-      "discountAmount": -1700,
-      "finalPrice": 11790,
-      "saleStart": "2026/10/06",
-      "saleEnd": "2026/10/14",
       "imageVersion": 1786300361977
     },
     {
@@ -4740,17 +4630,6 @@
       "finalPrice": 179900,
       "saleStart": "2026/10/05",
       "saleEnd": "2026/10/18",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "650019",
-      "name": "농심 김치 사발면 86G X 24",
-      "store": "COSTCO",
-      "normalPrice": 21790,
-      "discountAmount": -2900,
-      "finalPrice": 18890,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/14",
       "imageVersion": 1786300361977
     },
     {
