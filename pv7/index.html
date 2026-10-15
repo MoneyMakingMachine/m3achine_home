@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PV7 기다리는 중</title>
+<meta name="description" content="기아 PV5·PV7 정보를 모으고 PV7 구매 자금을 얼마나 모았는지 보여 주는 개인 페이지">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --surface: #ffffff;
+    --surface-2: #eceef2;
+    --text: #05141f;
+    --muted: #5b6670;
+    --line: #d9dde3;
+    --accent: #05141f;
+    --accent-text: #ffffff;
+    --pop: #e8442e;
+    --bar-track: #e1e4e9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #070b10;
+      --surface: #111821;
+      --surface-2: #19222d;
+      --text: #eef1f4;
+      --muted: #97a2ad;
+      --line: #263140;
+      --accent: #eef1f4;
+      --accent-text: #05141f;
+      --pop: #ff6a52;
+      --bar-track: #222c38;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #070b10; --surface: #111821; --surface-2: #19222d; --text: #eef1f4;
+    --muted: #97a2ad; --line: #263140; --accent: #eef1f4; --accent-text: #05141f;
+    --pop: #ff6a52; --bar-track: #222c38;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Noto Sans KR", system-ui, sans-serif;
+    line-height: 1.6;
+  }
+  a { color: inherit; }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
+
+  header.top {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 18px 0;
+  }
+  .logo { font-weight: 900; letter-spacing: .08em; font-size: 20px; }
+  .draft-tag {
+    font-size: 12px; border: 1px solid var(--line); border-radius: 999px;
+    padding: 2px 10px; color: var(--muted);
+  }
+
+  /* 히어로 */
+  .hero { padding: 28px 0 8px; }
+  .hero h1 { font-size: clamp(32px, 6vw, 56px); line-height: 1.15; margin: 0 0 12px; font-weight: 900; }
+  .hero h1 em { font-style: normal; color: var(--pop); }
+  .hero p { color: var(--muted); margin: 0; max-width: 620px; }
+
+  /* 저축 진행률 */
+  .fund {
+    margin: 28px 0; padding: 24px; border-radius: 16px;
+    background: var(--accent); color: var(--accent-text);
+  }
+  .fund-head { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+  .fund-head h2 { margin: 0; font-size: 16px; font-weight: 500; opacity: .8; }
+  .fund-pct { font-size: clamp(44px, 9vw, 72px); font-weight: 900; line-height: 1; }
+  .bar { height: 14px; border-radius: 999px; background: rgba(127,127,127,.3); margin: 18px 0 10px; overflow: hidden; }
+  .bar > span { display: block; height: 100%; width: 0; background: var(--pop); border-radius: inherit; transition: width 1.2s ease; }
+  .fund-nums { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px 16px; font-size: 14px; opacity: .85; }
+  .fund-note { font-size: 12px; opacity: .6; margin-top: 10px; }
+
+  /* 섹션 */
+  section { margin: 48px 0; }
+  section > h2 { font-size: 24px; margin: 0 0 4px; }
+  section > .sub { color: var(--muted); margin: 0 0 20px; font-size: 14px; }
+
+  .cars { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+  .car { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+  .car img { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; display: block; background: var(--surface-2); }
+  .car-body { padding: 18px 20px 20px; }
+  .car-body h3 { margin: 0; font-size: 22px; }
+  .car-body .badge {
+    display: inline-block; font-size: 12px; padding: 1px 8px; border-radius: 6px;
+    background: var(--surface-2); color: var(--muted); margin-left: 6px; vertical-align: middle;
+  }
+  .car-body p { color: var(--muted); font-size: 14px; margin: 6px 0 0; }
+  .credit { font-size: 11px; color: var(--muted); padding: 0 20px 14px; }
+
+  table.spec { width: 100%; border-collapse: collapse; background: var(--surface); border-radius: 12px; overflow: hidden; font-size: 14px; }
+  .spec th, .spec td { padding: 11px 14px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+  .spec thead th { background: var(--surface-2); font-weight: 700; }
+  .spec tbody th { color: var(--muted); font-weight: 500; white-space: nowrap; }
+  .spec tr:last-child th, .spec tr:last-child td { border-bottom: 0; }
+  .table-scroll { overflow-x: auto; border: 1px solid var(--line); border-radius: 12px; }
+
+  .links { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+  .link {
+    display: block; text-decoration: none; padding: 16px 18px; border-radius: 12px;
+    background: var(--surface); border: 1px solid var(--line);
+  }
+  .link:hover { border-color: var(--text); }
+  .link strong { display: block; }
+  .link span { color: var(--muted); font-size: 13px; }
+  .link.todo { border-style: dashed; }
+
+  footer { color: var(--muted); font-size: 12px; padding: 32px 0 48px; border-top: 1px solid var(--line); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div class="logo">PV7 DIARY</div>
+    <div class="draft-tag">draft</div>
+  </header>
+
+  <div class="hero">
+    <h1>PV7 나오면 산다.<br><em>지금 모으는 중.</em></h1>
+    <p>기아 PBV PV5·PV7 소식과 제원을 모아 두고, PV7 출고까지 돈을 얼마나 모았는지 기록하는 개인 페이지입니다.</p>
+  </div>
+
+  <!-- 저축 진행률: 아래 FUND 값만 바꾸면 된다 -->
+  <div class="fund">
+    <div class="fund-head">
+      <h2>PV7 구매 자금</h2>
+      <div class="fund-pct" id="fund-pct">0%</div>
+    </div>
+    <div class="bar"><span id="fund-bar"></span></div>
+    <div class="fund-nums">
+      <span>모은 돈 <b id="fund-saved">-</b></span>
+      <span>목표 <b id="fund-goal">-</b></span>
+      <span>남은 돈 <b id="fund-left">-</b></span>
+    </div>
+    <div class="fund-note" id="fund-note"></div>
+  </div>
+
+  <section>
+    <h2>라인업</h2>
+    <p class="sub">기아 첫 전용 PBV 형제.</p>
+    <div class="cars">
+      <article class="car">
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kia_PV5_(SW1)_Passenger_–_Seoul_Mobility_Show_2025_(04).jpg?width=1200"
+             alt="기아 PV5 패신저" loading="lazy">
+        <div class="car-body">
+          <h3>PV5 <span class="badge">판매 중</span></h3>
+          <p>2025년 출시한 중형 PBV. 패신저·카고 두 갈래로 시작해 컨버전 모델로 넓혀 가는 중.</p>
+        </div>
+        <div class="credit">사진: Wikimedia Commons, Kia PV5 (SW1) Passenger – Seoul Mobility Show 2025</div>
+      </article>
+      <article class="car">
+        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kia_PV7_IAA_Transportation_2024_(DSC02586).jpg?width=1200"
+             alt="기아 PV7 콘셉트" loading="lazy">
+        <div class="car-body">
+          <h3>PV7 <span class="badge">2027 하반기 출시 예정</span></h3>
+          <p>2026년 9월 IAA 트랜스포테이션(하노버)에서 양산형 첫 공개. 국내·유럽에 패신저 롱·카고 롱부터 나온다.</p>
+        </div>
+        <div class="credit">사진: Wikimedia Commons, Kia PV7 IAA Transportation 2024 (콘셉트)</div>
+      </article>
+    </div>
+  </section>
+
+  <section>
+    <h2>제원 비교</h2>
+    <p class="sub">공개된 수치 기준. PV7 은 양산 확정 전이라 바뀔 수 있다.</p>
+    <div class="table-scroll">
+      <table class="spec">
+        <thead>
+          <tr><th></th><th>PV5</th><th>PV7</th></tr>
+        </thead>
+        <tbody>
+          <tr><th>상태</th><td>2025년 8월 국내 출시</td><td>2027년 하반기 국내·유럽 출시 예정</td></tr>
+          <tr><th>크기 (전장×전폭×전고)</th><td>패신저 축거 2,995mm</td><td>5,350 × 1,995 × 1,990mm, 축거 3,500mm</td></tr>
+          <tr><th>배터리</th><td>패신저 71.2kWh<br>카고 71.2 / 51.5kWh</td><td>71.5 / 96.2kWh (NCM)</td></tr>
+          <tr><th>주행거리</th><td>패신저 358km, 카고 최대 377km (국내 인증)</td><td>카고 롱레인지 460km 이상 (WLTP)</td></tr>
+          <tr><th>급속 충전 (10→80%)</th><td>약 30분 (350kW 충전기)</td><td>20분대 중반</td></tr>
+          <tr><th>모터</th><td>-</td><td>전륜 200kW / 420Nm</td></tr>
+          <tr><th>적재</th><td>패신저 트렁크 1,330ℓ (2열 접으면 2,310ℓ)</td><td>카고 롱 6.1㎥, 최대 약 1,165kg</td></tr>
+          <tr><th>디스플레이</th><td>12.9인치</td><td>14.6인치 + 9.9인치 계기판</td></tr>
+          <tr><th>가격</th><td>4,200만 ~ 5,390만 원대</td><td>미정</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section>
+    <h2>유튜브</h2>
+    <p class="sub">일단 검색 링크. 즐겨 보는 채널·영상이 정해지면 바꿔 넣는다.</p>
+    <div class="links">
+      <a class="link" href="https://www.youtube.com/results?search_query=%EA%B8%B0%EC%95%84+PV7" target="_blank" rel="noopener">
+        <strong>PV7 영상</strong><span>YouTube 검색: 기아 PV7</span>
+      </a>
+      <a class="link" href="https://www.youtube.com/results?search_query=%EA%B8%B0%EC%95%84+PV5+%EB%A6%AC%EB%B7%B0" target="_blank" rel="noopener">
+        <strong>PV5 리뷰</strong><span>YouTube 검색: 기아 PV5 리뷰</span>
+      </a>
+      <a class="link" href="https://www.youtube.com/results?search_query=PV5+%EC%B0%A8%EB%B0%95" target="_blank" rel="noopener">
+        <strong>PV5 차박·캠핑</strong><span>YouTube 검색: PV5 차박</span>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>링크</h2>
+    <p class="sub">공식 정보와 커뮤니티.</p>
+    <div class="links">
+      <a class="link" href="https://www.kia.com/kr/vehicles/pv5" target="_blank" rel="noopener">
+        <strong>기아 PV5 공식</strong><span>kia.com</span>
+      </a>
+      <a class="link" href="https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%95%84_PV7" target="_blank" rel="noopener">
+        <strong>PV7 위키백과</strong><span>제원·공개 이력 정리</span>
+      </a>
+      <a class="link todo" href="#" onclick="return false">
+        <strong>네이버 카페</strong><span>주소 넣을 자리</span>
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    개인 팬 페이지입니다. 기아와 관계없습니다. 제원은 언론 보도와 위키백과 기준(2026-10)이며 공식 발표가 우선합니다.
+  </footer>
+</div>
+
+<script>
+  // 금액은 원 단위. PV7 가격이 나오면 goal 을 바꾼다.
+  const FUND = {
+    goal: 55000000,
+    saved: 0,
+    updated: "2026-10-15",
+    note: "PV7 가격 미정 — 목표 5,500만 원은 임시값"
+  };
+
+  const won = n => Math.round(n / 10000).toLocaleString("ko-KR") + "만 원";
+  const pct = Math.min(100, FUND.saved / FUND.goal * 100);
+  document.getElementById("fund-pct").textContent = pct.toFixed(1) + "%";
+  document.getElementById("fund-saved").textContent = won(FUND.saved);
+  document.getElementById("fund-goal").textContent = won(FUND.goal);
+  document.getElementById("fund-left").textContent = won(Math.max(0, FUND.goal - FUND.saved));
+  document.getElementById("fund-note").textContent = FUND.note + " · " + FUND.updated + " 기준";
+  requestAnimationFrame(() => {
+    document.getElementById("fund-bar").style.width = pct + "%";
+  });
+</script>
+</body>
+</html>
