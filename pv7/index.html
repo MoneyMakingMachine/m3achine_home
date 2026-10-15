@@ -115,6 +115,54 @@
   .link.todo { border-style: dashed; }
 
   footer { color: var(--muted); font-size: 12px; padding: 32px 0 48px; border-top: 1px solid var(--line); }
+  footer a { color: inherit; }
+
+  /* 대표 사진 슬라이드 */
+  .slider { position: relative; margin: 28px 0 0; border-radius: 16px; overflow: hidden; background: #000; aspect-ratio: 16 / 9; }
+  .slides { display: flex; height: 100%; transition: transform .6s ease; }
+  .slide { flex: 0 0 100%; height: 100%; position: relative; cursor: zoom-in; border: 0; padding: 0; background: none; }
+  .slide img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .slide .cap {
+    position: absolute; left: 0; right: 0; bottom: 0; padding: 40px 20px 18px; text-align: left;
+    background: linear-gradient(transparent, rgba(0,0,0,.7)); color: #fff;
+  }
+  .slide .cap b { display: block; font-size: clamp(18px, 3vw, 26px); }
+  .slide .cap span { font-size: 13px; opacity: .8; }
+  .nav-btn {
+    position: absolute; top: 50%; transform: translateY(-50%); width: 40px; height: 40px; border-radius: 50%;
+    border: 0; background: rgba(0,0,0,.45); color: #fff; font-size: 20px; cursor: pointer; z-index: 2;
+  }
+  .nav-btn:hover { background: rgba(0,0,0,.7); }
+  .nav-btn.prev { left: 12px; } .nav-btn.next { right: 12px; }
+  .dots { position: absolute; right: 16px; bottom: 16px; display: flex; gap: 6px; z-index: 2; }
+  .dots button { width: 8px; height: 8px; border-radius: 99px; border: 0; padding: 0; background: rgba(255,255,255,.45); cursor: pointer; transition: width .3s; }
+  .dots button.on { width: 22px; background: #fff; }
+
+  .car .open { display: block; width: 100%; border: 0; padding: 0; background: none; cursor: zoom-in; position: relative; }
+  .car .open .count {
+    position: absolute; right: 10px; bottom: 10px; font-size: 12px; color: #fff;
+    background: rgba(0,0,0,.6); padding: 2px 9px; border-radius: 99px;
+  }
+
+  /* 갤러리 (라이트박스) */
+  .lb { position: fixed; inset: 0; z-index: 50; background: #05080c; color: #fff; display: none; flex-direction: column; }
+  .lb.on { display: flex; }
+  .lb-top { display: flex; justify-content: space-between; align-items: center; padding: 12px 16px; font-size: 14px; }
+  .lb-close { border: 0; background: none; color: #fff; font-size: 28px; cursor: pointer; line-height: 1; }
+  .lb-stage { flex: 1; position: relative; display: flex; align-items: center; justify-content: center; min-height: 0; padding: 0 56px; }
+  .lb-stage img { max-width: 100%; max-height: 100%; object-fit: contain; }
+  .lb-cap { text-align: center; font-size: 13px; padding: 8px 16px 0; opacity: .85; }
+  .lb-cap small { display: block; opacity: .65; font-size: 11px; }
+  .lb-cap a { color: inherit; }
+  .lb-thumbs { display: flex; gap: 8px; overflow-x: auto; padding: 12px 16px 16px; justify-content: safe center; scrollbar-width: thin; scrollbar-color: #333 transparent; }
+  .lb-thumbs button { flex: 0 0 auto; border: 2px solid transparent; padding: 0; border-radius: 6px; overflow: hidden; background: none; cursor: pointer; opacity: .5; }
+  .lb-thumbs button.on { border-color: #fff; opacity: 1; }
+  .lb-thumbs img { width: 88px; height: 56px; object-fit: cover; display: block; }
+  @media (max-width: 600px) {
+    .lb-stage { padding: 0 8px; }
+    .lb .nav-btn { display: none; }
+    .slider { aspect-ratio: 4 / 3; }
+  }
 </style>
 </head>
 <body>
@@ -128,6 +176,14 @@
   <div class="hero">
     <h1>PV7 나오면 산다.<br><em>지금 모으는 중.</em></h1>
     <p>기아 PBV PV5·PV7 소식과 제원을 모아 두고, PV7 출고까지 돈을 얼마나 모았는지 기록하는 개인 페이지입니다.</p>
+  </div>
+
+  <!-- 대표 사진 슬라이드: 사진을 누르면 그 차의 갤러리가 열린다 -->
+  <div class="slider" id="slider">
+    <div class="slides" id="slides"></div>
+    <button class="nav-btn prev" id="sl-prev" aria-label="이전 사진">‹</button>
+    <button class="nav-btn next" id="sl-next" aria-label="다음 사진">›</button>
+    <div class="dots" id="dots"></div>
   </div>
 
   <!-- 저축 진행률: 아래 FUND 값만 바꾸면 된다 -->
@@ -150,22 +206,26 @@
     <p class="sub">기아 첫 전용 PBV 형제.</p>
     <div class="cars">
       <article class="car">
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kia_PV5_(SW1)_Passenger_–_Seoul_Mobility_Show_2025_(04).jpg?width=1200"
-             alt="기아 PV5 패신저" loading="lazy">
-        <div class="car-body">
-          <h3>PV5 <span class="badge">판매 중</span></h3>
-          <p>2025년 출시한 중형 PBV. 패신저·카고 두 갈래로 시작해 컨버전 모델로 넓혀 가는 중.</p>
-        </div>
-        <div class="credit">사진: Wikimedia Commons, Kia PV5 (SW1) Passenger – Seoul Mobility Show 2025</div>
-      </article>
-      <article class="car">
-        <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kia_PV7_IAA_Transportation_2024_(DSC02586).jpg?width=1200"
-             alt="기아 PV7 콘셉트" loading="lazy">
+        <button class="open" data-car="pv7" data-i="0">
+          <img src="img/pv7-01.webp" alt="기아 PV7 카고 롱" loading="lazy">
+          <span class="count" data-count="pv7"></span>
+        </button>
         <div class="car-body">
           <h3>PV7 <span class="badge">2027 하반기 출시 예정</span></h3>
           <p>2026년 9월 IAA 트랜스포테이션(하노버)에서 양산형 첫 공개. 국내·유럽에 패신저 롱·카고 롱부터 나온다.</p>
         </div>
-        <div class="credit">사진: Wikimedia Commons, Kia PV7 IAA Transportation 2024 (콘셉트)</div>
+        <div class="credit">사진: 기아 보도자료 (IAA 트랜스포테이션 2026)</div>
+      </article>
+      <article class="car">
+        <button class="open" data-car="pv5" data-i="0">
+          <img src="img/pv5-01.webp" alt="기아 PV5 패신저" loading="lazy">
+          <span class="count" data-count="pv5"></span>
+        </button>
+        <div class="car-body">
+          <h3>PV5 <span class="badge">판매 중</span></h3>
+          <p>2025년 출시한 중형 PBV. 패신저·카고 두 갈래로 시작해 컨버전 모델로 넓혀 가는 중.</p>
+        </div>
+        <div class="credit">사진: Wikimedia Commons (CC BY-SA 4.0 · CC0), 촬영자는 갤러리에 표기</div>
       </article>
     </div>
   </section>
@@ -226,8 +286,24 @@
   </section>
 
   <footer>
-    개인 팬 페이지입니다. 기아와 관계없습니다. 제원은 언론 보도와 위키백과 기준(2026-10)이며 공식 발표가 우선합니다.
+    개인 팬 페이지입니다. 기아와 관계없습니다. 제원은 언론 보도와 위키백과 기준(2026-10)이며 공식 발표가 우선합니다.<br>
+    PV7 사진 © Kia (<a href="https://worldwide.kia.com/en/newsroom/view/?id=161944" target="_blank" rel="noopener">기아 뉴스룸</a>).
+    PV5 사진은 Wikimedia Commons 의 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" target="_blank" rel="noopener">CC BY-SA 4.0</a>·CC0 사진을 크기만 줄여 썼습니다.
   </footer>
+</div>
+
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="사진 갤러리">
+  <div class="lb-top">
+    <span id="lb-title"></span>
+    <button class="lb-close" id="lb-close" aria-label="닫기">×</button>
+  </div>
+  <div class="lb-stage" id="lb-stage">
+    <button class="nav-btn prev" id="lb-prev" aria-label="이전 사진">‹</button>
+    <img id="lb-img" alt="">
+    <button class="nav-btn next" id="lb-next" aria-label="다음 사진">›</button>
+  </div>
+  <div class="lb-cap" id="lb-cap"></div>
+  <div class="lb-thumbs" id="lb-thumbs"></div>
 </div>
 
 <script>
@@ -249,6 +325,139 @@
   requestAnimationFrame(() => {
     document.getElementById("fund-bar").style.width = pct + "%";
   });
+
+  // 사진: img/<id>.webp(1600px) 와 img/<id>-t.webp(480px) 두 벌. 새 사진은 여기에 한 줄 추가.
+  const KIA = "© Kia · IAA 트랜스포테이션 2026 보도사진";
+  const commons = (author, file, lic = "CC BY-SA 4.0") =>
+    `${author} · ${lic} · <a href="https://commons.wikimedia.org/wiki/File:${encodeURIComponent(file)}" target="_blank" rel="noopener">Wikimedia Commons</a>`;
+  const CARS = {
+    pv7: {
+      name: "PV7",
+      photos: [
+        { id: "pv7-01", cap: "PV7 카고 롱", credit: KIA },
+        { id: "pv7-02", cap: "PV7 카고 롱 정면", credit: KIA },
+        { id: "pv7-04", cap: "PV7 패신저 롱", credit: KIA },
+        { id: "pv7-03", cap: "PV7 카고 롱 후면", credit: KIA },
+        { id: "pv7-05", cap: "하노버 세계 최초 공개 무대", credit: KIA },
+        { id: "pv7-06", cap: "운전석 — 14.6인치 디스플레이", credit: KIA },
+        { id: "pv7-07", cap: "패신저 실내", credit: KIA },
+        { id: "pv7-08", cap: "패신저 2·3열", credit: KIA },
+        { id: "pv7-09", cap: "패신저 시트 배치", credit: KIA },
+        { id: "pv7-10", cap: "카고 적재 공간", credit: KIA },
+      ],
+    },
+    pv5: {
+      name: "PV5",
+      photos: [
+        { id: "pv5-01", cap: "PV5 패신저", credit: commons("Alexander Migl", "Kia PV5 Passenger Ditzingen Mobil 2026 IMG 5475.jpg") },
+        { id: "pv5-02", cap: "PV5 패신저 정면 · 서울모빌리티쇼 2025", credit: commons("Treeinkr", "Kia PV5 (SW1) Passenger – Seoul Mobility Show 2025 (03).jpg") },
+        { id: "pv5-03", cap: "슬라이딩 도어를 연 옆모습", credit: commons("Treeinkr", "Kia PV5 (SW1) Passenger – Seoul Mobility Show 2025 (04).jpg") },
+        { id: "pv5-04", cap: "PV5 패신저 소프트 민트", credit: commons("Damian B Oh", "Kia PV5 Passenger SW1 Soft Mint (3).jpg") },
+        { id: "pv5-05", cap: "2열 시트", credit: commons("Treeinkr", "Kia PV5 (SW1) Passenger – Seoul Mobility Show 2025 (02).jpg") },
+        { id: "pv5-06", cap: "운전석 — 12.9인치 디스플레이", credit: commons("Alexander Migl", "Kia PV5 Passenger IAA 2025 DSC 2423.jpg") },
+        { id: "pv5-07", cap: "PV5 카고 스노우 화이트 펄", credit: commons("Damian B Oh", "Kia PV5 Cargo SW1 Snow White Pearl (7).jpg") },
+        { id: "pv5-08", cap: "재팬 모빌리티쇼 2025", credit: commons("TTTNIS", "Kia PV5 Passenger JMS 2025.jpg", "CC0") },
+      ],
+    },
+  };
+  const src = (id, thumb) => `img/${id}${thumb ? "-t" : ""}.webp`;
+
+  // 대표 사진 슬라이드
+  const SLIDES = [
+    { car: "pv7", i: 0, title: "PV7", sub: "2026년 9월 하노버에서 양산형 첫 공개" },
+    { car: "pv7", i: 2, title: "PV7 패신저 롱", sub: "2027년 하반기 국내 출시 예정" },
+    { car: "pv7", i: 4, title: "PV7 월드 프리미어", sub: "IAA 트랜스포테이션 2026" },
+    { car: "pv5", i: 0, title: "PV5", sub: "기아 첫 전용 PBV, 2025년 출시" },
+    { car: "pv5", i: 1, title: "PV5 패신저", sub: "서울모빌리티쇼 2025" },
+  ];
+  const slidesEl = document.getElementById("slides");
+  const dotsEl = document.getElementById("dots");
+  SLIDES.forEach((s, k) => {
+    const p = CARS[s.car].photos[s.i];
+    const b = document.createElement("button");
+    b.className = "slide";
+    b.setAttribute("aria-label", `${s.title} 갤러리 열기`);
+    b.innerHTML = `<img src="${src(p.id)}" alt="${p.cap}" ${k ? 'loading="lazy"' : ""}>
+      <div class="cap"><b>${s.title}</b><span>${s.sub}</span></div>`;
+    b.onclick = () => openGallery(s.car, s.i);
+    slidesEl.appendChild(b);
+    const d = document.createElement("button");
+    d.setAttribute("aria-label", `${k + 1}번째 사진`);
+    d.onclick = () => { go(k); restart(); };
+    dotsEl.appendChild(d);
+  });
+  let cur = 0, timer;
+  function go(k) {
+    cur = (k + SLIDES.length) % SLIDES.length;
+    slidesEl.style.transform = `translateX(-${cur * 100}%)`;
+    [...dotsEl.children].forEach((d, j) => d.classList.toggle("on", j === cur));
+  }
+  function restart() { clearInterval(timer); timer = setInterval(() => go(cur + 1), 5000); }
+  document.getElementById("sl-prev").onclick = () => { go(cur - 1); restart(); };
+  document.getElementById("sl-next").onclick = () => { go(cur + 1); restart(); };
+  const slider = document.getElementById("slider");
+  slider.addEventListener("mouseenter", () => clearInterval(timer));
+  slider.addEventListener("mouseleave", restart);
+  swipe(slider, dir => { go(cur + dir); restart(); });
+  go(0); restart();
+
+  // 라인업 카드 → 갤러리
+  document.querySelectorAll(".car .open").forEach(b => b.onclick = () => openGallery(b.dataset.car, +b.dataset.i));
+  document.querySelectorAll("[data-count]").forEach(el => el.textContent = `사진 ${CARS[el.dataset.count].photos.length}장`);
+
+  // 갤러리
+  const lb = document.getElementById("lb"), lbImg = document.getElementById("lb-img");
+  const lbThumbs = document.getElementById("lb-thumbs");
+  let gCar = null, gi = 0;
+  function openGallery(car, i) {
+    gCar = car;
+    lbThumbs.innerHTML = "";
+    CARS[car].photos.forEach((p, j) => {
+      const t = document.createElement("button");
+      t.innerHTML = `<img src="${src(p.id, true)}" alt="${p.cap}" loading="lazy">`;
+      t.onclick = () => show(j);
+      lbThumbs.appendChild(t);
+    });
+    lb.classList.add("on");
+    document.body.style.overflow = "hidden";
+    clearInterval(timer);
+    show(i);
+  }
+  function show(j) {
+    const ps = CARS[gCar].photos;
+    gi = (j + ps.length) % ps.length;
+    const p = ps[gi];
+    lbImg.src = src(p.id);
+    lbImg.alt = p.cap;
+    document.getElementById("lb-title").textContent = `${CARS[gCar].name} · ${gi + 1} / ${ps.length}`;
+    document.getElementById("lb-cap").innerHTML = `${p.cap}<small>${p.credit}</small>`;
+    [...lbThumbs.children].forEach((t, k) => t.classList.toggle("on", k === gi));
+    lbThumbs.children[gi].scrollIntoView({ block: "nearest", inline: "center" });
+    new Image().src = src(ps[(gi + 1) % ps.length].id); // 다음 사진 미리 받기
+  }
+  function closeGallery() { lb.classList.remove("on"); document.body.style.overflow = ""; restart(); }
+  document.getElementById("lb-close").onclick = closeGallery;
+  document.getElementById("lb-prev").onclick = () => show(gi - 1);
+  document.getElementById("lb-next").onclick = () => show(gi + 1);
+  document.getElementById("lb-stage").addEventListener("click", e => { if (e.target.id === "lb-stage") closeGallery(); });
+  swipe(document.getElementById("lb-stage"), dir => show(gi + dir));
+  document.addEventListener("keydown", e => {
+    if (!lb.classList.contains("on")) return;
+    if (e.key === "Escape") closeGallery();
+    if (e.key === "ArrowLeft") show(gi - 1);
+    if (e.key === "ArrowRight") show(gi + 1);
+  });
+
+  function swipe(el, cb) {
+    let x0 = null;
+    el.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; }, { passive: true });
+    el.addEventListener("touchend", e => {
+      if (x0 === null) return;
+      const dx = e.changedTouches[0].clientX - x0;
+      if (Math.abs(dx) > 40) cb(dx < 0 ? 1 : -1);
+      x0 = null;
+    });
+  }
 </script>
 </body>
 </html>
