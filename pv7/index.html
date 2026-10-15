@@ -66,6 +66,20 @@
   .hero h1 { font-size: clamp(32px, 6vw, 56px); line-height: 1.15; margin: 0 0 12px; font-weight: 900; }
   .hero h1 em { font-style: normal; color: var(--pop); }
   .hero p { color: var(--muted); margin: 0; max-width: 620px; }
+  .hero-head { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 16px; }
+  /* 포획 볼: 기아 로고 대신 버튼에 PV7 (빨강·흰색, 띠는 남색) */
+  .ball { width: clamp(84px, 16vw, 160px); height: auto; transform-origin: 50% 90%; }
+  .ball .rim { stroke: #05141f; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .ball .rim { stroke: #3a4756; } }
+  :root[data-theme="dark"] .ball .rim { stroke: #3a4756; }
+  @media (prefers-reduced-motion: no-preference) {
+    .ball { animation: wobble 4s ease-in-out 1s infinite; }
+  }
+  @keyframes wobble {
+    0%, 45%, 100% { transform: rotate(0); }
+    5% { transform: rotate(-14deg); } 10% { transform: rotate(10deg); } 15% { transform: rotate(0); }
+    22% { transform: rotate(-9deg); } 27% { transform: rotate(6deg); } 32% { transform: rotate(0); }
+  }
 
   /* 저축 진행률 */
   .fund {
@@ -174,7 +188,19 @@
   </header>
 
   <div class="hero">
-    <h1>PV7 나오면 산다.<br><em>지금 모으는 중.</em></h1>
+    <div class="hero-head">
+      <h1>PV7, 넌 내 거야!<br><em>지금 모으는 중.</em></h1>
+      <svg class="ball" viewBox="0 0 200 200" role="img" aria-label="PV7 포획 볼">
+        <path d="M10 100a90 90 0 0 1 180 0z" fill="#e8442e"/>
+        <path d="M10 100a90 90 0 0 0 180 0z" fill="#ffffff"/>
+        <ellipse cx="60" cy="52" rx="24" ry="11" transform="rotate(-35 60 52)" fill="#ffffff" opacity=".2"/>
+        <rect x="10" y="92" width="180" height="16" fill="#05141f"/>
+        <circle class="rim" cx="100" cy="100" r="90" fill="none" stroke-width="8"/>
+        <circle cx="100" cy="100" r="33" fill="#ffffff" stroke="#05141f" stroke-width="8"/>
+        <circle cx="100" cy="100" r="22" fill="none" stroke="#d9dde3" stroke-width="2"/>
+        <text x="100" y="107" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-weight="900" font-size="19" fill="#e8442e">PV7</text>
+      </svg>
+    </div>
     <p>기아 PBV PV5·PV7 소식과 제원을 모아 두고, PV7 출고까지 돈을 얼마나 모았는지 기록하는 개인 페이지입니다.</p>
   </div>
 
