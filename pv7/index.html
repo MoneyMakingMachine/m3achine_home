@@ -147,6 +147,25 @@
   .link span { color: var(--muted); font-size: 13px; }
   .link.todo { border-style: dashed; }
 
+  /* 유튜브 영상 카드 */
+  .videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-bottom: 20px; }
+  .video { display: block; text-decoration: none; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; transition: border-color .2s, transform .2s; }
+  .video:hover { border-color: var(--text); transform: translateY(-2px); }
+  .video .thumb { position: relative; aspect-ratio: 16 / 9; background: #000; }
+  .video .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .video .play {
+    position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
+    width: 56px; height: 40px; border-radius: 12px; background: rgba(0,0,0,.65);
+    display: flex; align-items: center; justify-content: center; transition: background .2s;
+  }
+  .video:hover .play { background: #ff0033; }
+  .video .play::after { content: ""; border-left: 15px solid #fff; border-top: 9px solid transparent; border-bottom: 9px solid transparent; margin-left: 3px; }
+  .video .tag { position: absolute; left: 10px; top: 10px; font-size: 12px; font-weight: 700; color: #fff; background: rgba(0,0,0,.6); padding: 1px 9px; border-radius: 99px; }
+  .video .meta { padding: 12px 14px 14px; }
+  .video .meta b { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-size: 15px; line-height: 1.45; }
+  .video .meta span { display: block; color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .more-label { font-size: 13px; color: var(--muted); margin: 0 0 8px; }
+
   footer { color: var(--muted); font-size: 12px; padding: 32px 0 48px; border-top: 1px solid var(--line); }
   footer a { color: inherit; }
 
@@ -309,7 +328,9 @@
 
   <section id="youtube">
     <h2>유튜브</h2>
-    <p class="sub">일단 검색 링크. 즐겨 보는 채널·영상이 정해지면 바꿔 넣는다.</p>
+    <p class="sub">눌러 보면 유튜브에서 열린다.</p>
+    <div class="videos" id="videos"></div>
+    <p class="more-label">더 찾아보기</p>
     <div class="links">
       <a class="link" href="https://www.youtube.com/results?search_query=%EA%B8%B0%EC%95%84+PV7" target="_blank" rel="noopener">
         <strong>PV7 영상</strong><span>YouTube 검색: 기아 PV7</span>
@@ -415,6 +436,21 @@
     },
   };
   const src = (id, thumb) => `img/${id}${thumb ? "-t" : ""}.webp`;
+
+  // 유튜브: 영상 ID·제목·채널만 적으면 썸네일은 유튜브에서 가져온다. 새 영상은 여기에 한 줄 추가.
+  const VIDEOS = [
+    { id: "sHs9nm2mFSA", car: "PV7", title: "PV7 실물 리뷰.. 16인승은? // 기아, PV7, PBV, 독일, 하노버, 상용차모터쇼", channel: "mediaAUTO 미디어오토" },
+    { id: "6w2dDqLbViA", car: "PV5", title: "PV5 카고 구매 전 꼭 보세요｜1,200km 오너 장단점 총정리", channel: "밍구구" },
+  ];
+  const esc = t => t.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  document.getElementById("videos").innerHTML = VIDEOS.map(v => `
+    <a class="video" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">
+      <div class="thumb">
+        <img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" loading="lazy">
+        <span class="play"></span>${v.car ? `<span class="tag">${v.car}</span>` : ""}
+      </div>
+      <div class="meta"><b>${esc(v.title)}</b><span>${esc(v.channel)}</span></div>
+    </a>`).join("");
 
   // 대표 사진 슬라이드
   const SLIDES = [
