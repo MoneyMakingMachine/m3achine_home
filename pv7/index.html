@@ -51,15 +51,34 @@
   a { color: inherit; }
   .wrap { max-width: 1080px; margin: 0 auto; padding: 0 16px; }
 
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+  /* 고정 목차: 누르면 그 섹션으로 간다. 스크롤 위치에 맞춰 지금 섹션이 켜진다 */
   header.top {
-    display: flex; justify-content: space-between; align-items: center;
-    padding: 18px 0;
+    position: sticky; top: 0; z-index: 20;
+    background: color-mix(in srgb, var(--bg) 88%, transparent);
+    backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--line);
   }
-  .logo { font-weight: 900; letter-spacing: .08em; font-size: 20px; }
-  .draft-tag {
-    font-size: 12px; border: 1px solid var(--line); border-radius: 999px;
-    padding: 2px 10px; color: var(--muted);
+  .top-in { display: flex; align-items: center; gap: 16px; height: 56px; }
+  .toc { position: relative; display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; margin-left: auto; }
+  .toc::-webkit-scrollbar { display: none; }
+  .toc a {
+    flex: 0 0 auto; text-decoration: none; font-size: 14px; font-weight: 500; color: var(--muted);
+    padding: 6px 12px; border-radius: 999px; transition: background .2s, color .2s;
   }
+  .toc a:hover { color: var(--text); background: var(--surface-2); }
+  .toc a.on { color: var(--accent-text); background: var(--accent); }
+  [id] { scroll-margin-top: 72px; }
+  @media (max-width: 600px) {
+    .top-in { height: auto; flex-direction: column; align-items: stretch; gap: 0; padding-top: 10px; padding-bottom: 8px; }
+    .top-in .logo { font-size: 16px; }
+    .toc { margin: 6px -16px 0; padding: 0 16px; }
+    .toc a { padding: 5px 11px; font-size: 13px; }
+    [id] { scroll-margin-top: 96px; }
+  }
+  .logo { font-weight: 900; letter-spacing: .08em; font-size: 20px; text-decoration: none; white-space: nowrap; }
 
   /* 히어로 */
   .hero { padding: 28px 0 8px; }
@@ -180,14 +199,23 @@
 </style>
 </head>
 <body>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="logo" href="#top">PV7 DIARY</a>
+    <nav class="toc" id="toc" aria-label="목차">
+      <a href="#photos">사진</a>
+      <a href="#fund">구매 자금</a>
+      <a href="#lineup">라인업</a>
+      <a href="#spec">제원 비교</a>
+      <a href="#youtube">유튜브</a>
+      <a href="#links">링크</a>
+    </nav>
+  </div>
+</header>
+
 <div class="wrap">
 
-  <header class="top">
-    <div class="logo">PV7 DIARY</div>
-    <div class="draft-tag">draft</div>
-  </header>
-
-  <div class="hero">
+  <div class="hero" id="top">
     <div class="hero-head">
       <h1>PV7, 넌 내 거야!<br><em>지금 모으는 중.</em></h1>
       <svg class="ball" viewBox="0 0 200 200" role="img" aria-label="PV7 포획 볼">
@@ -205,7 +233,7 @@
   </div>
 
   <!-- 대표 사진 슬라이드: 사진을 누르면 그 차의 갤러리가 열린다 -->
-  <div class="slider" id="slider">
+  <div class="slider" id="photos">
     <div class="slides" id="slides"></div>
     <button class="nav-btn prev" id="sl-prev" aria-label="이전 사진">‹</button>
     <button class="nav-btn next" id="sl-next" aria-label="다음 사진">›</button>
@@ -213,7 +241,7 @@
   </div>
 
   <!-- 저축 진행률: 아래 FUND 값만 바꾸면 된다 -->
-  <div class="fund">
+  <div class="fund" id="fund">
     <div class="fund-head">
       <h2>PV7 구매 자금</h2>
       <div class="fund-pct" id="fund-pct">0%</div>
@@ -227,7 +255,7 @@
     <div class="fund-note" id="fund-note"></div>
   </div>
 
-  <section>
+  <section id="lineup">
     <h2>라인업</h2>
     <p class="sub">기아 첫 전용 PBV 형제.</p>
     <div class="cars">
@@ -256,7 +284,7 @@
     </div>
   </section>
 
-  <section>
+  <section id="spec">
     <h2>제원 비교</h2>
     <p class="sub">공개된 수치 기준. PV7 은 양산 확정 전이라 바뀔 수 있다.</p>
     <div class="table-scroll">
@@ -279,7 +307,7 @@
     </div>
   </section>
 
-  <section>
+  <section id="youtube">
     <h2>유튜브</h2>
     <p class="sub">일단 검색 링크. 즐겨 보는 채널·영상이 정해지면 바꿔 넣는다.</p>
     <div class="links">
@@ -295,7 +323,7 @@
     </div>
   </section>
 
-  <section>
+  <section id="links">
     <h2>링크</h2>
     <p class="sub">공식 정보와 커뮤니티.</p>
     <div class="links">
@@ -421,7 +449,7 @@
   function restart() { clearInterval(timer); timer = setInterval(() => go(cur + 1), 5000); }
   document.getElementById("sl-prev").onclick = () => { go(cur - 1); restart(); };
   document.getElementById("sl-next").onclick = () => { go(cur + 1); restart(); };
-  const slider = document.getElementById("slider");
+  const slider = document.getElementById("photos");
   slider.addEventListener("mouseenter", () => clearInterval(timer));
   slider.addEventListener("mouseleave", restart);
   swipe(slider, dir => { go(cur + dir); restart(); });
@@ -473,6 +501,26 @@
     if (e.key === "ArrowLeft") show(gi - 1);
     if (e.key === "ArrowRight") show(gi + 1);
   });
+
+  // 목차: 화면 위쪽 3분의 1에 걸린 섹션을 켠다. 맨 아래면 마지막 섹션.
+  const tocLinks = [...document.querySelectorAll("#toc a")];
+  const targets = tocLinks.map(a => document.querySelector(a.getAttribute("href")));
+  function spy() {
+    const line = innerHeight / 3;
+    let k = -1;
+    targets.forEach((t, j) => { if (t.getBoundingClientRect().top <= line) k = j; });
+    if (innerHeight + scrollY >= document.documentElement.scrollHeight - 2) k = targets.length - 1;
+    tocLinks.forEach((a, j) => a.classList.toggle("on", j === k));
+    // 좁은 화면에서 켜진 메뉴가 가려지지 않게 목차만 가로로 민다(scrollIntoView 는 페이지 스크롤을 끊는다)
+    if (k >= 0) {
+      const toc = document.getElementById("toc"), a = tocLinks[k];
+      if (a.offsetLeft < toc.scrollLeft || a.offsetLeft + a.offsetWidth > toc.scrollLeft + toc.clientWidth)
+        toc.scrollLeft = a.offsetLeft - 16;
+    }
+  }
+  addEventListener("scroll", spy, { passive: true });
+  addEventListener("resize", spy);
+  spy();
 
   function swipe(el, cb) {
     let x0 = null;
