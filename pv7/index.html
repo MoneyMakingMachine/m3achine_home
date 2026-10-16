@@ -148,22 +148,22 @@
   .link.todo { border-style: dashed; }
 
   /* 유튜브 영상 카드 */
-  .videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; margin-bottom: 20px; }
-  .video { display: block; text-decoration: none; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; transition: border-color .2s, transform .2s; }
+  .videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 460px), 1fr)); gap: 12px; margin-bottom: 20px; }
+  .video { display: flex; align-items: center; text-decoration: none; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; transition: border-color .2s, transform .2s; }
   .video:hover { border-color: var(--text); transform: translateY(-2px); }
-  .video .thumb { position: relative; aspect-ratio: 16 / 9; background: #000; }
+  .video .thumb { position: relative; flex: 0 0 200px; aspect-ratio: 16 / 9; background: #000; }
   .video .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
   .video .play {
     position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
-    width: 56px; height: 40px; border-radius: 12px; background: rgba(0,0,0,.65);
+    width: 40px; height: 28px; border-radius: 9px; background: rgba(0,0,0,.65);
     display: flex; align-items: center; justify-content: center; transition: background .2s;
   }
   .video:hover .play { background: #ff0033; }
-  .video .play::after { content: ""; border-left: 15px solid #fff; border-top: 9px solid transparent; border-bottom: 9px solid transparent; margin-left: 3px; }
-  .video .tag { position: absolute; left: 10px; top: 10px; font-size: 12px; font-weight: 700; color: #fff; background: rgba(0,0,0,.6); padding: 1px 9px; border-radius: 99px; }
-  .video .meta { padding: 12px 14px 14px; }
+  .video .play::after { content: ""; border-left: 11px solid #fff; border-top: 7px solid transparent; border-bottom: 7px solid transparent; margin-left: 2px; }
+  .video .tag { display: inline-block; font-size: 11px; font-weight: 700; color: var(--muted); background: var(--surface-2); padding: 1px 8px; border-radius: 99px; margin-bottom: 6px; }
+  .video .meta { padding: 10px 14px; min-width: 0; }
   .video .meta b { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-size: 15px; line-height: 1.45; }
-  .video .meta span { display: block; color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .video .meta > span:last-child { display: block; color: var(--muted); font-size: 13px; margin-top: 4px; }
   .vcats { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin: 0 0 16px; padding-bottom: 2px; }
   .vcats::-webkit-scrollbar { display: none; }
   .vcats button {
@@ -174,6 +174,12 @@
   .vcats button small { color: var(--muted); margin-left: 4px; }
   .vcats button.on { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
   .vcats button.on small { color: inherit; opacity: .7; }
+  @media (max-width: 600px) {
+    .video .thumb { flex-basis: 136px; }
+    .video .meta { padding: 8px 12px; }
+    .video .meta b { font-size: 14px; }
+    .video .meta > span:last-child { font-size: 12px; }
+  }
   .videos-empty { grid-column: 1 / -1; padding: 28px; text-align: center; color: var(--muted); border: 1px dashed var(--line); border-radius: 14px; font-size: 14px; }
   .more-label { font-size: 13px; color: var(--muted); margin: 0 0 8px; }
 
@@ -462,9 +468,9 @@
       <a class="video" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">
         <div class="thumb">
           <img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" loading="lazy">
-          <span class="play"></span><span class="tag">${esc(v.cat)}</span>
+          <span class="play"></span>
         </div>
-        <div class="meta"><b>${esc(v.title)}</b><span>${esc(v.channel)}</span></div>
+        <div class="meta"><span class="tag">${esc(v.cat)}</span><b>${esc(v.title)}</b><span>${esc(v.channel)}</span></div>
       </a>`).join("") : `<div class="videos-empty">아직 넣은 영상이 없어요.</div>`;
     [...vcatsEl.children].forEach(b => b.classList.toggle("on", b.dataset.cat === (cat || "")));
   }
