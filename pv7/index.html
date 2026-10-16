@@ -164,6 +164,17 @@
   .video .meta { padding: 12px 14px 14px; }
   .video .meta b { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; font-size: 15px; line-height: 1.45; }
   .video .meta span { display: block; color: var(--muted); font-size: 13px; margin-top: 4px; }
+  .vcats { display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none; margin: 0 0 16px; padding-bottom: 2px; }
+  .vcats::-webkit-scrollbar { display: none; }
+  .vcats button {
+    flex: 0 0 auto; font: inherit; font-size: 14px; font-weight: 500; cursor: pointer;
+    padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line);
+    background: var(--surface); color: var(--text);
+  }
+  .vcats button small { color: var(--muted); margin-left: 4px; }
+  .vcats button.on { background: var(--accent); color: var(--accent-text); border-color: var(--accent); }
+  .vcats button.on small { color: inherit; opacity: .7; }
+  .videos-empty { grid-column: 1 / -1; padding: 28px; text-align: center; color: var(--muted); border: 1px dashed var(--line); border-radius: 14px; font-size: 14px; }
   .more-label { font-size: 13px; color: var(--muted); margin: 0 0 8px; }
 
   footer { color: var(--muted); font-size: 12px; padding: 32px 0 48px; border-top: 1px solid var(--line); }
@@ -328,7 +339,7 @@
 
   <section id="youtube">
     <h2>유튜브</h2>
-    <p class="sub">눌러 보면 유튜브에서 열린다.</p>
+    <div class="vcats" id="vcats" role="tablist" aria-label="영상 카테고리"></div>
     <div class="videos" id="videos"></div>
     <p class="more-label">더 찾아보기</p>
     <div class="links">
@@ -437,20 +448,35 @@
   };
   const src = (id, thumb) => `img/${id}${thumb ? "-t" : ""}.webp`;
 
-  // 유튜브: 영상 ID·제목·채널만 적으면 썸네일은 유튜브에서 가져온다. 새 영상은 여기에 한 줄 추가.
+  // 유튜브: 카테고리는 VCATS 순서대로 탭이 된다. 영상은 cat·ID·제목·채널만 적으면 썸네일은 유튜브에서 가져온다.
+  const VCATS = ["PV5 카고 사용 후기", "PV5 오픈베드", "PV5 하이루프", "PV5 컴팩트", "PV7 리뷰"];
   const VIDEOS = [
-    { id: "sHs9nm2mFSA", car: "PV7", title: "PV7 실물 리뷰.. 16인승은? // 기아, PV7, PBV, 독일, 하노버, 상용차모터쇼", channel: "mediaAUTO 미디어오토" },
-    { id: "6w2dDqLbViA", car: "PV5", title: "PV5 카고 구매 전 꼭 보세요｜1,200km 오너 장단점 총정리", channel: "밍구구" },
+    { cat: "PV7 리뷰", id: "sHs9nm2mFSA", title: "PV7 실물 리뷰.. 16인승은? // 기아, PV7, PBV, 독일, 하노버, 상용차모터쇼", channel: "mediaAUTO 미디어오토" },
+    { cat: "PV5 카고 사용 후기", id: "6w2dDqLbViA", title: "PV5 카고 구매 전 꼭 보세요｜1,200km 오너 장단점 총정리", channel: "밍구구" },
   ];
   const esc = t => t.replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
-  document.getElementById("videos").innerHTML = VIDEOS.map(v => `
-    <a class="video" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">
-      <div class="thumb">
-        <img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" loading="lazy">
-        <span class="play"></span>${v.car ? `<span class="tag">${v.car}</span>` : ""}
-      </div>
-      <div class="meta"><b>${esc(v.title)}</b><span>${esc(v.channel)}</span></div>
-    </a>`).join("");
+  const vcatsEl = document.getElementById("vcats"), videosEl = document.getElementById("videos");
+  function showVideos(cat) {
+    const list = cat ? VIDEOS.filter(v => v.cat === cat) : VIDEOS;
+    videosEl.innerHTML = list.length ? list.map(v => `
+      <a class="video" href="https://www.youtube.com/watch?v=${v.id}" target="_blank" rel="noopener">
+        <div class="thumb">
+          <img src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg" alt="" loading="lazy">
+          <span class="play"></span><span class="tag">${esc(v.cat)}</span>
+        </div>
+        <div class="meta"><b>${esc(v.title)}</b><span>${esc(v.channel)}</span></div>
+      </a>`).join("") : `<div class="videos-empty">아직 넣은 영상이 없어요.</div>`;
+    [...vcatsEl.children].forEach(b => b.classList.toggle("on", b.dataset.cat === (cat || "")));
+  }
+  [["", "전체", VIDEOS.length], ...VCATS.map(c => [c, c, VIDEOS.filter(v => v.cat === c).length])].forEach(([key, label, n]) => {
+    const b = document.createElement("button");
+    b.dataset.cat = key;
+    b.setAttribute("role", "tab");
+    b.innerHTML = `${esc(label)}<small>${n}</small>`;
+    b.onclick = () => showVideos(key);
+    vcatsEl.appendChild(b);
+  });
+  showVideos("");
 
   // 대표 사진 슬라이드
   const SLIDES = [
