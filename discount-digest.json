@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:18:39.246880+00:00",
+  "generatedAt": "2026-10-19T21:33:42.299106+00:00",
   "items": [
     {
       "id": "641048",
@@ -55,6 +55,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791806731851
+    },
+    {
+      "id": "692604",
+      "name": "NEPA 남성 다운 재킷 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 89990,
+      "discountAmount": -18000,
+      "finalPrice": 71990,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792445492625
     },
     {
       "id": "690179",
@@ -211,6 +222,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "692329",
+      "name": "ANSICH 여성 모크넥 니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/10/15",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792445403717
+    },
+    {
       "id": "694261",
       "name": "FISH TREE 만능육수요리한포 4G X 90포",
       "store": "COSTCO",
@@ -275,6 +297,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1786432491620
+    },
+    {
+      "id": "692325",
+      "name": "YOICHEU 여성 모크넥 티 S/M, M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/15",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792445386438
     },
     {
       "id": "661329",
@@ -398,6 +431,17 @@
       "imageVersion": 1791806869321
     },
     {
+      "id": "2010443",
+      "name": "CALVIN KLEIN JEAN 여성 배럴진 26-30 US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -12000,
+      "finalPrice": 29990,
+      "saleStart": "2026/10/14",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792445436464
+    },
+    {
       "id": "692168",
       "name": "BIBIGO 비비고 깻잎만두 1600G",
       "store": "COSTCO",
@@ -486,6 +530,28 @@
       "imageVersion": 1791196114886
     },
     {
+      "id": "671392",
+      "name": "VIVIEN 여성라운지바지 2PK S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/10/16",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792445452213
+    },
+    {
+      "id": "692472",
+      "name": "EPIGRAM 남성 울 트러커 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 119990,
+      "discountAmount": -25000,
+      "finalPrice": 94990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792445469505
+    },
+    {
       "id": "692946",
       "name": "COLUMBIA 남성 긴소매 셔켓 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -561,6 +627,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791806800098
+    },
+    {
+      "id": "671496",
+      "name": "VOLVIK 남성골프다운재킷 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 89990,
+      "discountAmount": -18000,
+      "finalPrice": 71990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792445484997
     },
     {
       "id": "672484",
