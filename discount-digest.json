@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:48:45.896357+00:00",
+  "generatedAt": "2026-10-20T13:03:49.339442+00:00",
   "items": [
     {
       "id": "641048",
@@ -1179,6 +1179,17 @@
       "imageVersion": 1791807190595
     },
     {
+      "id": "673470",
+      "name": "RU21 비타민C 6정X 12박스",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -5600,
+      "finalPrice": 22390,
+      "saleStart": "2026/10/13",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1792500862931
+    },
+    {
       "id": "691105",
       "name": "GUY LAROCHE 바스 타월 1P, 80X150CM",
       "store": "COSTCO",
@@ -1188,6 +1199,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791807583791
+    },
+    {
+      "id": "571123",
+      "name": "DEPEND 디펜드 프리미엄성인용기저귀 40개",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1792500926730
     },
     {
       "id": "614105",
@@ -1223,6 +1245,28 @@
       "imageVersion": 1791197007777
     },
     {
+      "id": "635945",
+      "name": "오스트레일리안 보태니컬 비누 200G X 8입",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1792501000616
+    },
+    {
+      "id": "696144",
+      "name": "NIVEA 니베아 리페어 앤 케어 바디로션 591ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1792501061808
+    },
+    {
       "id": "796077",
       "name": "LG OLED TV 65형 스탠드/벽걸이택1",
       "store": "COSTCO",
@@ -1243,6 +1287,17 @@
       "saleStart": "2026/10/14",
       "saleEnd": "2026/10/25",
       "imageVersion": 1788350973034
+    },
+    {
+      "id": "617169",
+      "name": "이지엔 페이퍼호일 30CM X 75M X 2팩",
+      "store": "COSTCO",
+      "normalPrice": 18590,
+      "discountAmount": -2000,
+      "finalPrice": 16590,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1792501196087
     },
     {
       "id": "687635",
@@ -1300,6 +1355,17 @@
       "imageVersion": 1788352617217
     },
     {
+      "id": "696386",
+      "name": "스카치브라이트 베이킹소다 물걸레 청소포 50매",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792501256946
+    },
+    {
       "id": "667412",
       "name": "COLUMBIA 성인등산양말 5족 FREE SIZE",
       "store": "COSTCO",
@@ -1309,6 +1375,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791807567422
+    },
+    {
+      "id": "693455",
+      "name": "ECOGRIP 친환경 장갑 6켤레",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792501358478
     },
     {
       "id": "662893",
@@ -1331,6 +1408,17 @@
       "saleStart": "2026/10/19",
       "saleEnd": "2026/10/25",
       "imageVersion": 1785662673716
+    },
+    {
+      "id": "694958",
+      "name": "벤딕트 솔베아 고체 탈취제 3P",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792501417681
     },
     {
       "id": "691698",
