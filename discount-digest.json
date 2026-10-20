@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T21:33:42.299106+00:00",
+  "generatedAt": "2026-10-20T12:48:45.896357+00:00",
   "items": [
     {
       "id": "641048",
@@ -640,6 +640,17 @@
       "imageVersion": 1792445484997
     },
     {
+      "id": "692435",
+      "name": "VINE 남성 캐시미어폴로 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 109990,
+      "discountAmount": -25000,
+      "finalPrice": 84990,
+      "saleStart": "2026/10/17",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500024332
+    },
+    {
       "id": "672484",
       "name": "NEPA 겨울용 패딩 모자 여성용",
       "store": "COSTCO",
@@ -671,6 +682,17 @@
       "saleStart": "2026/10/19",
       "saleEnd": "2026/10/25",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "692474",
+      "name": "DANIEL HECHTER 남성 케이블 니트 S,M,L,XL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500076484
     },
     {
       "id": "646596",
@@ -706,6 +728,17 @@
       "imageVersion": 1791806825408
     },
     {
+      "id": "692671",
+      "name": "VOLVIK 남성 긴소매 폴로 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792500095197
+    },
+    {
       "id": "656775",
       "name": "오리고 벨보아 실내화 2P 스몰/라지 세트",
       "store": "COSTCO",
@@ -715,6 +748,28 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1791806838152
+    },
+    {
+      "id": "671421",
+      "name": "JEEP 남성 긴소매 후디 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500106205
+    },
+    {
+      "id": "691488",
+      "name": "파크론 PARKLON 볼륨 주방매트 120X44X2CM",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/10/15",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792500319571
     },
     {
       "id": "687042",
@@ -750,6 +805,17 @@
       "imageVersion": 1785058950752
     },
     {
+      "id": "695368",
+      "name": "CODE GRAPHY 남성 후디 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/10/17",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500120291
+    },
+    {
       "id": "692193",
       "name": "VISIT IN NY 여성 밴딩 팬츠 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -759,6 +825,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/11/01",
       "imageVersion": 1791806931959
+    },
+    {
+      "id": "1846573",
+      "name": "DICKIES 남성셔츠 재킷 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59970,
+      "discountAmount": -15000,
+      "finalPrice": 44970,
+      "saleStart": "2026/10/17",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500136948
     },
     {
       "id": "693721",
@@ -816,6 +893,17 @@
       "imageVersion": 1785766742301
     },
     {
+      "id": "664391",
+      "name": "ADIDAS 남성 조거 바지 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39490,
+      "discountAmount": -15000,
+      "finalPrice": 24490,
+      "saleStart": "2026/10/17",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500152867
+    },
+    {
       "id": "682519",
       "name": "COLUMBIA 남성경량패딩재킷 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -871,6 +959,17 @@
       "imageVersion": 1788350555395
     },
     {
+      "id": "2010508",
+      "name": "TAILOR VINTAGE 남성 스판 바지 30 - 38 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 16970,
+      "discountAmount": -3500,
+      "finalPrice": 13470,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500166699
+    },
+    {
       "id": "682909",
       "name": "FILA 키즈 상하의 세트 120 - 165 ASIAN SIZE",
       "store": "COSTCO",
@@ -882,6 +981,17 @@
       "imageVersion": 1791807143516
     },
     {
+      "id": "692781",
+      "name": "COLUMBIA 키즈 플리스베스트 130,140,155,165",
+      "store": "COSTCO",
+      "normalPrice": 24970,
+      "discountAmount": -5000,
+      "finalPrice": 19970,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792500211698
+    },
+    {
       "id": "694339",
       "name": "대구농산 호주산 루피니빈 2.1KG",
       "store": "COSTCO",
@@ -891,6 +1001,28 @@
       "saleStart": "2026/10/09",
       "saleEnd": "2026/11/01",
       "imageVersion": 1785503825134
+    },
+    {
+      "id": "692477",
+      "name": "COLUMBIA 키즈 경량패딩재킷 130 - 165 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 44970,
+      "discountAmount": -9000,
+      "finalPrice": 35970,
+      "saleStart": "2026/10/12",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792500187033
+    },
+    {
+      "id": "692260",
+      "name": "NBA 키즈 패딩 베스트 130,145,155,165",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1792500225600
     },
     {
       "id": "2014984",
@@ -959,6 +1091,17 @@
       "imageVersion": 1791807031917
     },
     {
+      "id": "685933",
+      "name": "기라로쉬 모달선염 타월세트 4P, 180G",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/10/15",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792500338546
+    },
+    {
       "id": "2015093",
       "name": "TIMBERLAND 키즈 조거 팬츠 S,M,L,XL US SIZE",
       "store": "COSTCO",
@@ -968,6 +1111,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/11/08",
       "imageVersion": 1791807172462
+    },
+    {
+      "id": "630926",
+      "name": "CROCS 성인 바야 클로그 230 - 280MM",
+      "store": "COSTCO",
+      "normalPrice": 38490,
+      "discountAmount": -8500,
+      "finalPrice": 29990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1792500400195
     },
     {
       "id": "663353",
@@ -1001,6 +1155,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/10/25",
       "imageVersion": 1785763544412
+    },
+    {
+      "id": "7771758",
+      "name": "KIRKLAND SIGNATURE 아동 셔링 슬립온 190 - 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -3500,
+      "finalPrice": 28490,
+      "saleStart": "2026/10/17",
+      "saleEnd": "2026/10/25",
+      "imageVersion": 1792500386790
     },
     {
       "id": "690456",
@@ -3874,17 +4039,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "585277",
-      "name": "청정원 순창 조개멸치 양념된장 900G X 2",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3100,
-      "finalPrice": 11890,
-      "saleStart": "2026/10/05",
-      "saleEnd": "2026/10/19",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "582828",
       "name": "JAGER MEISTER 예거마이스터 1L",
       "store": "COSTCO",
@@ -3893,17 +4047,6 @@
       "finalPrice": 31990,
       "saleStart": "2026/10/05",
       "saleEnd": "2026/11/01",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "599299",
-      "name": "TSINGTAO 병맥주 640ML X 6병",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -3000,
-      "finalPrice": 11990,
-      "saleStart": "2026/09/21",
-      "saleEnd": "2026/10/19",
       "imageVersion": 1786300361977
     },
     {
