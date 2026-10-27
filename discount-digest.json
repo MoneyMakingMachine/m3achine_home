@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:18:56.602966+00:00",
+  "generatedAt": "2026-10-27T11:49:00.705864+00:00",
   "items": [
     {
       "id": "574328",
@@ -2477,17 +2477,6 @@
       "imageVersion": 1789529374061
     },
     {
-      "id": "671591",
-      "name": "한우 1++(9)등급 사태 도매 KG당단가",
-      "store": "COSTCO",
-      "normalPrice": 42990,
-      "discountAmount": -8000,
-      "finalPrice": 34990,
-      "saleStart": "2026/10/22",
-      "saleEnd": "2026/10/26",
-      "imageVersion": 1790602059872
-    },
-    {
       "id": "686112",
       "name": "APRIL AT HOME 밴드형 순면 패드 퀸/ 150X200CM",
       "store": "COSTCO",
@@ -2675,6 +2664,17 @@
       "imageVersion": 1791198376229
     },
     {
+      "id": "692120",
+      "name": "GUESS 여성 기모 청바지 26-30 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101495517
+    },
+    {
       "id": "788977",
       "name": "GUESS 아동팬티10매 65- 85 ASIAN SIZE",
       "store": "COSTCO",
@@ -2741,6 +2741,39 @@
       "imageVersion": 1785418678352
     },
     {
+      "id": "683230",
+      "name": "UCLA 성인 후디 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101361866
+    },
+    {
+      "id": "692913",
+      "name": "PUMA 남성 트레이닝팬츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -6000,
+      "finalPrice": 19990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101507349
+    },
+    {
+      "id": "2010478",
+      "name": "VISIT IN NY 캐시미어혼방 코트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 109990,
+      "discountAmount": -22000,
+      "finalPrice": 87990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101553701
+    },
+    {
       "id": "694536",
       "name": "LEGO POKEMON 이브이 #72151",
       "store": "COSTCO",
@@ -2796,6 +2829,50 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "791109",
+      "name": "GUESS 여성 기모 바지 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -6000,
+      "finalPrice": 19990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101516279
+    },
+    {
+      "id": "891390",
+      "name": "CODES COMBINE 여성 파자마 세트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101525576
+    },
+    {
+      "id": "682289",
+      "name": "NEPA 구스다운 재킷 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 184990,
+      "discountAmount": -37000,
+      "finalPrice": 147990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101565596
+    },
+    {
+      "id": "681718",
+      "name": "COLUMBIA 남성 패딩 베스트 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 59990,
+      "discountAmount": -12000,
+      "finalPrice": 47990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101598270
+    },
+    {
       "id": "683499",
       "name": "비비고 스팸듬뿍부대찌개 460G X 4",
       "store": "COSTCO",
@@ -2840,6 +2917,39 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "692136",
+      "name": "LYDIA VINE 여성 캐시미어100% 가디건 SIZE S,M,L",
+      "store": "COSTCO",
+      "normalPrice": 124990,
+      "discountAmount": -26000,
+      "finalPrice": 98990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101349062
+    },
+    {
+      "id": "661122",
+      "name": "GUESS 남성 청바지 30 - 36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 47990,
+      "discountAmount": -10000,
+      "finalPrice": 37990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101467149
+    },
+    {
+      "id": "692600",
+      "name": "EIDER 여성 다운 자켓 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 149990,
+      "discountAmount": -30000,
+      "finalPrice": 119990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101582746
+    },
+    {
       "id": "1967258",
       "name": "ADIDAS 여성 삼선 바지 S,M,L,XL ASIAN SIZE",
       "store": "COSTCO",
@@ -2873,6 +2983,39 @@
       "imageVersion": 1786187129789
     },
     {
+      "id": "693258",
+      "name": "컬럼비아 키즈푸퍼다운재킷 130,140,155,165",
+      "store": "COSTCO",
+      "normalPrice": 83990,
+      "discountAmount": -17000,
+      "finalPrice": 66990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101627740
+    },
+    {
+      "id": "693257",
+      "name": "레고 LEGO 모형 보관함 2개 / 1세트",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101696253
+    },
+    {
+      "id": "692831",
+      "name": "크리스마스 장식 뜨개 인형 2개 / 1세트",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -6000,
+      "finalPrice": 20990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101714465
+    },
+    {
       "id": "687386",
       "name": "LG 오브제 양문형 매직스페이스 832L",
       "store": "COSTCO",
@@ -2893,6 +3036,17 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786183041679
+    },
+    {
+      "id": "693793",
+      "name": "크리스마스 장식 산타와 핫초코 2개 / 1세트",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793101727947
     },
     {
       "id": "588139",
@@ -3135,17 +3289,6 @@
       "saleStart": "2026/10/05",
       "saleEnd": "2026/11/01",
       "imageVersion": 1786300361977
-    },
-    {
-      "id": "679624",
-      "name": "로얄브라클라 12년 700ML",
-      "store": "COSTCO",
-      "normalPrice": 103900,
-      "discountAmount": -21000,
-      "finalPrice": 82900,
-      "saleStart": "2026/09/29",
-      "saleEnd": "2026/10/26",
-      "imageVersion": 1786271070736
     },
     {
       "id": "1454974",
