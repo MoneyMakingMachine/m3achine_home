@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:19:08.852080+00:00",
+  "generatedAt": "2026-10-27T12:34:13.038216+00:00",
   "items": [
     {
       "id": "574328",
@@ -3346,6 +3346,50 @@
       "imageVersion": 1793102793428
     },
     {
+      "id": "692838",
+      "name": "UNOVE 어노브 트리트먼트 500ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793103875602
+    },
+    {
+      "id": "695133",
+      "name": "CAREPOD 케어팟 가습기 스탠드 4L MS043 LIGHTING PLUS",
+      "store": "COSTCO",
+      "normalPrice": 189990,
+      "discountAmount": -40000,
+      "finalPrice": 149990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104074976
+    },
+    {
+      "id": "681695",
+      "name": "LG 오브제 식기세척기 14인용,프리스탠딩",
+      "store": "COSTCO",
+      "normalPrice": 1409000,
+      "discountAmount": -110000,
+      "finalPrice": 1299000,
+      "saleStart": "2026/10/15",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793104335123
+    },
+    {
+      "id": "682403",
+      "name": "뇨끼 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 19190,
+      "discountAmount": -3200,
+      "finalPrice": 15990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1793104438249
+    },
+    {
       "id": "1851635",
       "name": "크리스마스 장식 LED 눈사람 높이 2.7M",
       "store": "COSTCO",
@@ -3443,6 +3487,72 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/08",
       "imageVersion": 1793102777921
+    },
+    {
+      "id": "683415",
+      "name": "THERABREATH 테라브레스헬시검스 오랄린스 1L X 2개",
+      "store": "COSTCO",
+      "normalPrice": 33990,
+      "discountAmount": -7000,
+      "finalPrice": 26990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793103896202
+    },
+    {
+      "id": "694544",
+      "name": "싱하 소다 워터 325ML X 24",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -4000,
+      "finalPrice": 13990,
+      "saleStart": "2026/10/17",
+      "saleEnd": "2026/10/30",
+      "imageVersion": 1793103925143
+    },
+    {
+      "id": "689965",
+      "name": "ATTIC&BASE 2단 슬라이딩 정리함",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -5000,
+      "finalPrice": 18990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793103993052
+    },
+    {
+      "id": "694701",
+      "name": "DYSON 다이슨 냉온풍기 핫앤쿨 HF1",
+      "store": "COSTCO",
+      "normalPrice": 349900,
+      "discountAmount": -50000,
+      "finalPrice": 299900,
+      "saleStart": "2026/10/21",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1793104060313
+    },
+    {
+      "id": "687746",
+      "name": "삼성 커브드모니터 68.6CM",
+      "store": "COSTCO",
+      "normalPrice": 214900,
+      "discountAmount": -45000,
+      "finalPrice": 169900,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104112705
+    },
+    {
+      "id": "697547",
+      "name": "LG QNED MINI LED 75형 189CM + S20A SOUNDBAR",
+      "store": "COSTCO",
+      "normalPrice": 2399000,
+      "discountAmount": -500000,
+      "finalPrice": 1899000,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104411844
     },
     {
       "id": "1055226",
@@ -3575,6 +3685,127 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1793102724964
+    },
+    {
+      "id": "684107",
+      "name": "BRENNENSTUHL 케이블 릴 10M",
+      "store": "COSTCO",
+      "normalPrice": 48990,
+      "discountAmount": -10000,
+      "finalPrice": 38990,
+      "saleStart": "2026/10/22",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1793103937566
+    },
+    {
+      "id": "8527825",
+      "name": "마카롱 볼세트 6P",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -4000,
+      "finalPrice": 11990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793103984010
+    },
+    {
+      "id": "695135",
+      "name": "BOTTOOM 바툼 욕실 온풍기 BTF-4001",
+      "store": "COSTCO",
+      "normalPrice": 99990,
+      "discountAmount": -20000,
+      "finalPrice": 79990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104104106
+    },
+    {
+      "id": "694969",
+      "name": "SAMSUNG 푸드쇼케이스냉장고 889L",
+      "store": "COSTCO",
+      "normalPrice": 4199000,
+      "discountAmount": -850000,
+      "finalPrice": 3349000,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104356158
+    },
+    {
+      "id": "692900",
+      "name": "현관고무 매트 62.2 X 91.4CM 2개입",
+      "store": "COSTCO",
+      "normalPrice": 19970,
+      "discountAmount": -4000,
+      "finalPrice": 15970,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793103960191
+    },
+    {
+      "id": "695132",
+      "name": "LUMENA 루메나 가습기 0.8L (2입) HUMID MC3 MAX",
+      "store": "COSTCO",
+      "normalPrice": 66990,
+      "discountAmount": -14000,
+      "finalPrice": 52990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104085891
+    },
+    {
+      "id": "687475",
+      "name": "닥터웰 밀착땅콩 돌 찜질기 DWH-179",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -11000,
+      "finalPrice": 34990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793103974975
+    },
+    {
+      "id": "695541",
+      "name": "키친플라워 스테인리스김장용기 5.5L X 2PK",
+      "store": "COSTCO",
+      "normalPrice": 32990,
+      "discountAmount": -7000,
+      "finalPrice": 25990,
+      "saleStart": "2026/10/19",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1793104037174
+    },
+    {
+      "id": "692889",
+      "name": "CALEO 칼레오 캡슐 커피 100P 네스프레소 호환",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104050636
+    },
+    {
+      "id": "695136",
+      "name": "오드앵글 ODDANGLE 테이블 히터 CTH613",
+      "store": "COSTCO",
+      "normalPrice": 119990,
+      "discountAmount": -24000,
+      "finalPrice": 95990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104097648
+    },
+    {
+      "id": "699148",
+      "name": "SAMSUNG 비스포크 김치냉장고 420L",
+      "store": "COSTCO",
+      "normalPrice": 3499000,
+      "discountAmount": -700000,
+      "finalPrice": 2799000,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793104379740
     },
     {
       "id": "627952",
