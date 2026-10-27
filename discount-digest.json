@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:49:16.923659+00:00",
+  "generatedAt": "2026-10-27T13:04:20.739443+00:00",
   "items": [
     {
       "id": "693917",
@@ -11,6 +11,17 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/01",
       "imageVersion": 1793105145313
+    },
+    {
+      "id": "692933",
+      "name": "크리스마스 장식 진저브레드 패밀리 3개 / 1세트",
+      "store": "COSTCO",
+      "normalPrice": 69990,
+      "discountAmount": -14000,
+      "finalPrice": 55990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793105529858
     },
     {
       "id": "574328",
@@ -134,6 +145,17 @@
       "imageVersion": 1787059294639
     },
     {
+      "id": "589786",
+      "name": "에밀리오 모로 뗌쁘라니요 750ML",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793105497745
+    },
+    {
       "id": "692201",
       "name": "SOUP 여성 구스다운자켓 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -154,6 +176,17 @@
       "saleStart": "2026/10/17",
       "saleEnd": "2026/11/01",
       "imageVersion": 1792444197132
+    },
+    {
+      "id": "692518",
+      "name": "COLUMBIA 남성스웨트 셔츠 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/10/22",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793105564119
     },
     {
       "id": "665976",
@@ -187,6 +220,17 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1787057846740
+    },
+    {
+      "id": "692449",
+      "name": "VINE 남성캐시미어가디건 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 109990,
+      "discountAmount": -23000,
+      "finalPrice": 86990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793105513120
     },
     {
       "id": "692329",
@@ -255,6 +299,17 @@
       "imageVersion": 1791195879699
     },
     {
+      "id": "1851620",
+      "name": "크리스마스 장식 LED 대형 리본 높이 122CM",
+      "store": "COSTCO",
+      "normalPrice": 144990,
+      "discountAmount": -30000,
+      "finalPrice": 114990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793105541222
+    },
+    {
       "id": "1846395",
       "name": "CANADA GOOSE 여성 다운 베스트 S,M,L US SIZE",
       "store": "COSTCO",
@@ -264,6 +319,17 @@
       "saleStart": "2026/10/17",
       "saleEnd": "2026/11/08",
       "imageVersion": 1792444124565
+    },
+    {
+      "id": "695726",
+      "name": "꼬박꼬밥 프로틴쉐이크초코맛 50G X 14개",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793105595017
     },
     {
       "id": "692325",
@@ -330,6 +396,17 @@
       "saleStart": "2026/10/22",
       "saleEnd": "2026/11/01",
       "imageVersion": 1786436681965
+    },
+    {
+      "id": "1929729",
+      "name": "크리스마스 장식 펭귄 또는 북극곰 높이 61CM",
+      "store": "COSTCO",
+      "normalPrice": 79990,
+      "discountAmount": -16000,
+      "finalPrice": 63990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793105554330
     },
     {
       "id": "692700",
