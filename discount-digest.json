@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T12:04:04.178977+00:00",
+  "generatedAt": "2026-10-27T12:19:08.852080+00:00",
   "items": [
     {
       "id": "574328",
@@ -3082,6 +3082,17 @@
       "imageVersion": 1793102568622
     },
     {
+      "id": "695843",
+      "name": "AESTURA 에스트라 아토베리어365 로션플러스 180ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 57990,
+      "discountAmount": -12000,
+      "finalPrice": 45990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793102762301
+    },
+    {
       "id": "687386",
       "name": "LG 오브제 양문형 매직스페이스 832L",
       "store": "COSTCO",
@@ -3192,6 +3203,39 @@
       "imageVersion": 1793102615423
     },
     {
+      "id": "689250",
+      "name": "익스트림 트리플 아르기닌 20ML X 40포",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793102700679
+    },
+    {
+      "id": "686276",
+      "name": "WELEDA 벨레다 슈퍼푸드 너리싱 크림 40ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793102745236
+    },
+    {
+      "id": "695852",
+      "name": "BURT'S BEES 버츠비 립밤 4입 세트",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793102814131
+    },
+    {
       "id": "588139",
       "name": "SAPPORO 캔맥주 KG500ML X 6캔",
       "store": "COSTCO",
@@ -3280,6 +3324,28 @@
       "imageVersion": 1793102534534
     },
     {
+      "id": "675401",
+      "name": "MEGRHYTHM 멕리듬 스팀 아이마스크 36매",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -5500,
+      "finalPrice": 21490,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/01",
+      "imageVersion": 1793102714909
+    },
+    {
+      "id": "653839",
+      "name": "NUXE 눅스 멀티 리치오일 100ML + 10ML",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793102793428
+    },
+    {
       "id": "1851635",
       "name": "크리스마스 장식 LED 눈사람 높이 2.7M",
       "store": "COSTCO",
@@ -3366,6 +3432,17 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/08",
       "imageVersion": 1793102607254
+    },
+    {
+      "id": "679203",
+      "name": "DR.G 닥터지 더모이스처 배리어D 멀티밤 50ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793102777921
     },
     {
       "id": "1055226",
@@ -3476,6 +3553,28 @@
       "saleStart": "2026/10/21",
       "saleEnd": "2026/11/08",
       "imageVersion": 1793102584845
+    },
+    {
+      "id": "671697",
+      "name": "NEPA 성인 패딩 슬립온 230-280MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 46990,
+      "discountAmount": -9500,
+      "finalPrice": 37490,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793102656617
+    },
+    {
+      "id": "689420",
+      "name": "온그리디언츠 스킨 베리어 카밍 로션 220ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793102724964
     },
     {
       "id": "627952",
