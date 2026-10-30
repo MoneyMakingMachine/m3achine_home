@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T13:04:20.739443+00:00",
+  "generatedAt": "2026-10-30T13:19:24.355535+00:00",
   "items": [
     {
       "id": "693917",
@@ -1861,17 +1861,6 @@
       "imageVersion": 1792501673730
     },
     {
-      "id": "688575",
-      "name": "얄스버그 슬라이스치즈300G X2 원산지아일랜드",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/10/23",
-      "saleEnd": "2026/10/29",
-      "imageVersion": 1787708407709
-    },
-    {
       "id": "692425",
       "name": "돌체구스토 캡슐 커피머신 지니오 S 쉐어",
       "store": "COSTCO",
@@ -2345,17 +2334,6 @@
       "imageVersion": 1789037182431
     },
     {
-      "id": "777001",
-      "name": "KIRKLAND SIGNATURE 생새우(50 - 70) 908 G / 2 LBS",
-      "store": "COSTCO",
-      "normalPrice": 21990,
-      "discountAmount": -2000,
-      "finalPrice": 19990,
-      "saleStart": "2026/10/23",
-      "saleEnd": "2026/10/28",
-      "imageVersion": 1791198636769
-    },
-    {
       "id": "600201",
       "name": "한우물 유기농 곤드레나물밥 262G X 5",
       "store": "COSTCO",
@@ -2750,17 +2728,6 @@
       "saleStart": "2026/10/23",
       "saleEnd": "2026/11/08",
       "imageVersion": 1789532839316
-    },
-    {
-      "id": "690483",
-      "name": "LA FERMIERE 바닐라요거트 140GX2 원산지프랑스",
-      "store": "COSTCO",
-      "normalPrice": 13490,
-      "discountAmount": -2500,
-      "finalPrice": 10990,
-      "saleStart": "2026/10/26",
-      "saleEnd": "2026/10/27",
-      "imageVersion": 1791198376229
     },
     {
       "id": "692120",
@@ -4061,17 +4028,6 @@
       "imageVersion": 1793104822629
     },
     {
-      "id": "697836",
-      "name": "청정원 한입 소떡 280G X 3 (6인분)",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -2700,
-      "finalPrice": 12290,
-      "saleStart": "2026/10/26",
-      "saleEnd": "2026/10/29",
-      "imageVersion": 1793105136277
-    },
-    {
       "id": "687475",
       "name": "닥터웰 밀착땅콩 돌 찜질기 DWH-179",
       "store": "COSTCO",
@@ -4136,17 +4092,6 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/01",
       "imageVersion": 1793104491159
-    },
-    {
-      "id": "696830",
-      "name": "무화과 (1KG) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 11990,
-      "discountAmount": -2000,
-      "finalPrice": 9990,
-      "saleStart": "2026/10/21",
-      "saleEnd": "2026/10/27",
-      "imageVersion": 1793104531399
     },
     {
       "id": "654440",
@@ -4468,17 +4413,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "25551",
-      "name": "KIRKLAND SIGNATURE 생새우(21 - 25) 908 G / 2 LBS",
-      "store": "COSTCO",
-      "normalPrice": 24990,
-      "discountAmount": -3000,
-      "finalPrice": 21990,
-      "saleStart": "2026/10/23",
-      "saleEnd": "2026/10/28",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "546995",
       "name": "백설 소갈비양념 840G X 2",
       "store": "COSTCO",
@@ -4520,17 +4454,6 @@
       "finalPrice": 5490,
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/01",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "530310",
-      "name": "무농약 팽이버섯 (6-7입) 원산지 : 국내산",
-      "store": "COSTCO",
-      "normalPrice": 4690,
-      "discountAmount": -1000,
-      "finalPrice": 3690,
-      "saleStart": "2026/10/26",
-      "saleEnd": "2026/10/29",
       "imageVersion": 1786300361977
     },
     {
@@ -4677,17 +4600,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "612003",
-      "name": "농심 너구리 120G X 20",
-      "store": "COSTCO",
-      "normalPrice": 17590,
-      "discountAmount": -2800,
-      "finalPrice": 14790,
-      "saleStart": "2026/10/15",
-      "saleEnd": "2026/10/29",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "607206",
       "name": "슈가버블 애플향 주방세제 4.0L + 940ML",
       "store": "COSTCO",
@@ -4743,17 +4655,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "620834",
-      "name": "농심 신라면 건면 97G X 20",
-      "store": "COSTCO",
-      "normalPrice": 18790,
-      "discountAmount": -2300,
-      "finalPrice": 16490,
-      "saleStart": "2026/10/15",
-      "saleEnd": "2026/10/29",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "619895",
       "name": "토레타 과채이온음료 500ML X 20PK",
       "store": "COSTCO",
@@ -4762,17 +4663,6 @@
       "finalPrice": 18990,
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/01",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "616212",
-      "name": "농심 새우탕/튀김우동 115G X 8 / 111G X 8",
-      "store": "COSTCO",
-      "normalPrice": 18990,
-      "discountAmount": -2500,
-      "finalPrice": 16490,
-      "saleStart": "2026/10/19",
-      "saleEnd": "2026/10/29",
       "imageVersion": 1786300361977
     },
     {
