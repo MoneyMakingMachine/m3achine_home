@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T19:49:31.672048+00:00",
+  "generatedAt": "2026-11-02T20:04:35.169232+00:00",
   "items": [
     {
       "id": "692933",
@@ -1685,6 +1685,17 @@
       "imageVersion": 1789532140741
     },
     {
+      "id": "696439",
+      "name": "마이노멀 엑스트라버진올리브유 마요네즈 760G",
+      "store": "COSTCO",
+      "normalPrice": 20290,
+      "discountAmount": 4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1789533137732
+    },
+    {
       "id": "693833",
       "name": "LG 나노셀 TV 65형 163CM",
       "store": "COSTCO",
@@ -1947,6 +1958,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/08",
       "imageVersion": 1787059877468
+    },
+    {
+      "id": "2653232",
+      "name": "VISIT IN NY 여성 케이블터틀넥 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/10/28",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793649638370
     },
     {
       "id": "613478",
@@ -2444,6 +2466,17 @@
       "imageVersion": 1789035081718
     },
     {
+      "id": "684806",
+      "name": "ATOMIC 아토믹 스키 / 보드 헬멧 고글일체형(아동용)",
+      "store": "COSTCO",
+      "normalPrice": 92990,
+      "discountAmount": -19000,
+      "finalPrice": 73990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793649805545
+    },
+    {
       "id": "677939",
       "name": "JORDAN 조르단 인디비주얼 소프트 칫솔 8개",
       "store": "COSTCO",
@@ -2510,6 +2543,17 @@
       "imageVersion": 1791806724092
     },
     {
+      "id": "692208",
+      "name": "GUESS 여성 플리스 집업 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/10/30",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793649662700
+    },
+    {
       "id": "692865",
       "name": "정관장 활삼면역 50ML X 20병",
       "store": "COSTCO",
@@ -2563,6 +2607,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/11/08",
       "imageVersion": 1785496720203
+    },
+    {
+      "id": "622426",
+      "name": "ATOMIC아토믹 스키 / 보드 헬멧 고글 일체형",
+      "store": "COSTCO",
+      "normalPrice": 124990,
+      "discountAmount": -25000,
+      "finalPrice": 99990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793649757255
     },
     {
       "id": "1111005",
@@ -2662,6 +2717,17 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/11/08",
       "imageVersion": 1789529684954
+    },
+    {
+      "id": "695896",
+      "name": "캐치티니핑 캠핑세트 웨건+테이블+체어",
+      "store": "COSTCO",
+      "normalPrice": 79990,
+      "discountAmount": -16000,
+      "finalPrice": 63990,
+      "saleStart": "2026/10/29",
+      "saleEnd": "2026/11/06",
+      "imageVersion": 1793649821116
     },
     {
       "id": "660352",
@@ -3069,6 +3135,17 @@
       "saleStart": "2026/09/16",
       "saleEnd": "2026/11/08",
       "imageVersion": 1790077334520
+    },
+    {
+      "id": "672981",
+      "name": "STARBUCKS 스타벅스 돌체구스토캡슐 60P",
+      "store": "COSTCO",
+      "normalPrice": 33290,
+      "discountAmount": 8000,
+      "finalPrice": 29490,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1786300361977
     },
     {
       "id": "693257",
