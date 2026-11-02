@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T20:04:35.169232+00:00",
+  "generatedAt": "2026-11-02T20:19:37.828271+00:00",
   "items": [
     {
       "id": "692933",
@@ -2147,6 +2147,28 @@
       "imageVersion": 1785502519526
     },
     {
+      "id": "696648",
+      "name": "AIRIA LIVING 여행용 목베개 22.9X21.8X12.4CM",
+      "store": "COSTCO",
+      "normalPrice": 13990,
+      "discountAmount": -3000,
+      "finalPrice": 10990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793649998439
+    },
+    {
+      "id": "696412",
+      "name": "네파 귀마개2개 코듀로이 / 퍼",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793650041723
+    },
+    {
       "id": "694668",
       "name": "농심 조청 유과 500G",
       "store": "COSTCO",
@@ -2488,6 +2510,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "1792150",
+      "name": "크리스마스 장식 눈사람 인형 3개 / 1세트",
+      "store": "COSTCO",
+      "normalPrice": 31990,
+      "discountAmount": -7000,
+      "finalPrice": 24990,
+      "saleStart": "2026/10/26",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793649896186
+    },
+    {
+      "id": "1785046",
+      "name": "크리스마스 트리 LED 전구 포함 높이 1.3M",
+      "store": "COSTCO",
+      "normalPrice": 159990,
+      "discountAmount": -33000,
+      "finalPrice": 126990,
+      "saleStart": "2026/10/29",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793649953097
+    },
+    {
       "id": "697229",
       "name": "비비고 체소고기만두꽈리고추 1450G",
       "store": "COSTCO",
@@ -2730,6 +2774,28 @@
       "imageVersion": 1793649821116
     },
     {
+      "id": "1739949",
+      "name": "크리스마스 장식 원형 리스 지름 61CM",
+      "store": "COSTCO",
+      "normalPrice": 42990,
+      "discountAmount": -9000,
+      "finalPrice": 33990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793649931989
+    },
+    {
+      "id": "2010475",
+      "name": "NEPA 여성 플리스 재킷 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/10/29",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793650164452
+    },
+    {
       "id": "660352",
       "name": "페브리즈 화장실비치형 방향제/탈취제 6EA",
       "store": "COSTCO",
@@ -2794,6 +2860,28 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/08",
       "imageVersion": 1785764330095
+    },
+    {
+      "id": "1739980",
+      "name": "크리스마스 트리 LED 전구 포함 높이 2.2M",
+      "store": "COSTCO",
+      "normalPrice": 559990,
+      "discountAmount": -120000,
+      "finalPrice": 439990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793649971233
+    },
+    {
+      "id": "692500",
+      "name": "NEPA 여성 구스다운자켓 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 149900,
+      "discountAmount": -30000,
+      "finalPrice": 119900,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1793650145395
     },
     {
       "id": "523029",
