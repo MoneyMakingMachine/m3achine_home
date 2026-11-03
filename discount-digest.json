@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:19:51.919819+00:00",
+  "generatedAt": "2026-11-03T12:34:55.497811+00:00",
   "items": [
     {
       "id": "692933",
@@ -3522,6 +3522,17 @@
       "imageVersion": 1793707909484
     },
     {
+      "id": "696397",
+      "name": "복음자리 딸기잼 1050G",
+      "store": "COSTCO",
+      "normalPrice": 10990,
+      "discountAmount": -2000,
+      "finalPrice": 8990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793708417085
+    },
+    {
       "id": "693257",
       "name": "레고 LEGO 모형 보관함 2개 / 1세트",
       "store": "COSTCO",
@@ -3685,6 +3696,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/07",
       "imageVersion": 1793708200882
+    },
+    {
+      "id": "676498",
+      "name": "청화 국산볶음참깨 380G",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1793708453812
     },
     {
       "id": "687386",
@@ -4081,6 +4103,17 @@
       "saleStart": "2026/10/15",
       "saleEnd": "2026/11/08",
       "imageVersion": 1793104335123
+    },
+    {
+      "id": "664315",
+      "name": "이가자연면 신길동 얼큰짬뽕 223G X 8",
+      "store": "COSTCO",
+      "normalPrice": 17990,
+      "discountAmount": -3600,
+      "finalPrice": 14390,
+      "saleStart": "2026/11/02",
+      "saleEnd": "2026/11/08",
+      "imageVersion": 1793708431094
     },
     {
       "id": "1851635",
