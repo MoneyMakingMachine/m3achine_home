@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T12:34:55.497811+00:00",
+  "generatedAt": "2026-11-08T10:04:59.035891+00:00",
   "items": [
     {
       "id": "692933",
@@ -66,17 +66,6 @@
       "saleStart": "2026/10/30",
       "saleEnd": "2026/11/08",
       "imageVersion": 1785662772232
-    },
-    {
-      "id": "649324",
-      "name": "햇반 솥반 꿀약밥 210G X 6",
-      "store": "COSTCO",
-      "normalPrice": 14990,
-      "discountAmount": -2000,
-      "finalPrice": 12990,
-      "saleStart": "2026/11/02",
-      "saleEnd": "2026/11/04",
-      "imageVersion": 1786300361977
     },
     {
       "id": "507154",
@@ -231,17 +220,6 @@
       "saleStart": "2026/10/17",
       "saleEnd": "2026/11/08",
       "imageVersion": 1792444100272
-    },
-    {
-      "id": "500374",
-      "name": "JOHNNIE WALKER 블랙 / 영국 700ML",
-      "store": "COSTCO",
-      "normalPrice": 44490,
-      "discountAmount": -6500,
-      "finalPrice": 37990,
-      "saleStart": "2026/10/22",
-      "saleEnd": "2026/11/04",
-      "imageVersion": 1786300361977
     },
     {
       "id": "1851620",
@@ -462,17 +440,6 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/08",
       "imageVersion": 1786434889357
-    },
-    {
-      "id": "665320",
-      "name": "카네후쿠 짜먹는 명란젓갈 30G X 20",
-      "store": "COSTCO",
-      "normalPrice": 19490,
-      "discountAmount": -2000,
-      "finalPrice": 17490,
-      "saleStart": "2026/10/30",
-      "saleEnd": "2026/11/05",
-      "imageVersion": 1786436863674
     },
     {
       "id": "671392",
@@ -1034,17 +1001,6 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786184687263
-    },
-    {
-      "id": "788894",
-      "name": "TRIUMPH 팬티 스타킹 3매 M-L 사이즈",
-      "store": "COSTCO",
-      "normalPrice": 12990,
-      "discountAmount": -5000,
-      "finalPrice": 7990,
-      "saleStart": "2026/10/26",
-      "saleEnd": "2026/11/05",
-      "imageVersion": 1790077343332
     },
     {
       "id": "684063",
@@ -2675,17 +2631,6 @@
       "imageVersion": 1791196446634
     },
     {
-      "id": "717750",
-      "name": "삼풍 종이용기세트 1,100CC / 뚜껑포함",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/10/21",
-      "saleEnd": "2026/11/03",
-      "imageVersion": 1789529129897
-    },
-    {
       "id": "692264",
       "name": "SLOGGI 여성 스쿠바 팬츠 S,M,L ASIAN SIZE",
       "store": "COSTCO",
@@ -2805,17 +2750,6 @@
       "saleStart": "2026/10/12",
       "saleEnd": "2026/11/08",
       "imageVersion": 1789529684954
-    },
-    {
-      "id": "695896",
-      "name": "캐치티니핑 캠핑세트 웨건+테이블+체어",
-      "store": "COSTCO",
-      "normalPrice": 79990,
-      "discountAmount": -16000,
-      "finalPrice": 63990,
-      "saleStart": "2026/10/29",
-      "saleEnd": "2026/11/06",
-      "imageVersion": 1793649821116
     },
     {
       "id": "1739949",
@@ -3324,17 +3258,6 @@
       "imageVersion": 1793101467149
     },
     {
-      "id": "694315",
-      "name": "NIKE 러닝벨트 블랙, 레몬",
-      "store": "COSTCO",
-      "normalPrice": 19990,
-      "discountAmount": -4000,
-      "finalPrice": 15990,
-      "saleStart": "2026/10/29",
-      "saleEnd": "2026/11/06",
-      "imageVersion": 1793706750112
-    },
-    {
       "id": "692136",
       "name": "LYDIA VINE 여성 캐시미어100% 가디건 SIZE S,M,L",
       "store": "COSTCO",
@@ -3366,17 +3289,6 @@
       "saleStart": "2026/10/28",
       "saleEnd": "2026/11/08",
       "imageVersion": 1793706918956
-    },
-    {
-      "id": "667628",
-      "name": "ZESPRI 골드키위 2.4KG 원산지 : 뉴질랜드",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -3500,
-      "finalPrice": 22490,
-      "saleStart": "2026/11/02",
-      "saleEnd": "2026/11/05",
-      "imageVersion": 1786300361977
     },
     {
       "id": "598439",
@@ -3676,28 +3588,6 @@
       "imageVersion": 1793102762301
     },
     {
-      "id": "2251987",
-      "name": "KIRKLAND SIGNATURE 오가닉 후무스 964G 원산지미국",
-      "store": "COSTCO",
-      "normalPrice": 10990,
-      "discountAmount": -1500,
-      "finalPrice": 9490,
-      "saleStart": "2026/11/01",
-      "saleEnd": "2026/11/03",
-      "imageVersion": 1793708042099
-    },
-    {
-      "id": "777002",
-      "name": "KIRKLAND SIGNATURE 자숙새우(31 - 40) 908 G / 2 LBS",
-      "store": "COSTCO",
-      "normalPrice": 27990,
-      "discountAmount": -4000,
-      "finalPrice": 23990,
-      "saleStart": "2026/11/02",
-      "saleEnd": "2026/11/07",
-      "imageVersion": 1793708200882
-    },
-    {
       "id": "676498",
       "name": "청화 국산볶음참깨 380G",
       "store": "COSTCO",
@@ -3995,17 +3885,6 @@
       "imageVersion": 1793102410031
     },
     {
-      "id": "699711",
-      "name": "제주레드키위 1KG 원산지: 국내산",
-      "store": "COSTCO",
-      "normalPrice": 9990,
-      "discountAmount": -1500,
-      "finalPrice": 8490,
-      "saleStart": "2026/10/30",
-      "saleEnd": "2026/11/06",
-      "imageVersion": 1793707383944
-    },
-    {
       "id": "671420",
       "name": "JEEP 남성긴소매크루 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -4081,17 +3960,6 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1793104074976
-    },
-    {
-      "id": "777003",
-      "name": "KIRKLAND SIGNATURE 자숙새우(50 - 70) 908 G / 2 LBS",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -3000,
-      "finalPrice": 22990,
-      "saleStart": "2026/11/02",
-      "saleEnd": "2026/11/07",
-      "imageVersion": 1793708219628
     },
     {
       "id": "681695",
@@ -4699,17 +4567,6 @@
       "imageVersion": 1786170967527
     },
     {
-      "id": "25553",
-      "name": "KIRKLAND SIGNATURE 생새우 (11 -15) 680 G / 1.5 LBS",
-      "store": "COSTCO",
-      "normalPrice": 25990,
-      "discountAmount": -3000,
-      "finalPrice": 22990,
-      "saleStart": "2026/11/02",
-      "saleEnd": "2026/11/07",
-      "imageVersion": 1786269775609
-    },
-    {
       "id": "692169",
       "name": "비비고 플랜테이블물만두 1500G",
       "store": "COSTCO",
@@ -5227,17 +5084,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "620221",
-      "name": "서울우유 비요뜨 초코링 138G X 12",
-      "store": "COSTCO",
-      "normalPrice": 12790,
-      "discountAmount": -3800,
-      "finalPrice": 8990,
-      "saleStart": "2026/10/29",
-      "saleEnd": "2026/11/04",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "623624",
       "name": "씰리 스탠다드 베개 2P 50X70CM",
       "store": "COSTCO",
@@ -5447,17 +5293,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "639400",
-      "name": "한성기업 크래미 300G X 3",
-      "store": "COSTCO",
-      "normalPrice": 10590,
-      "discountAmount": -2000,
-      "finalPrice": 8590,
-      "saleStart": "2026/10/29",
-      "saleEnd": "2026/11/04",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "637521",
       "name": "미왕 고소한 쌀과자 1.25KG / 250G X 5",
       "store": "COSTCO",
@@ -5623,17 +5458,6 @@
       "imageVersion": 1786300361977
     },
     {
-      "id": "656361",
-      "name": "BBQ 닭강정 1.2KG",
-      "store": "COSTCO",
-      "normalPrice": 16990,
-      "discountAmount": -3000,
-      "finalPrice": 13990,
-      "saleStart": "2026/11/01",
-      "saleEnd": "2026/11/07",
-      "imageVersion": 1786300361977
-    },
-    {
       "id": "656405",
       "name": "SPAM 스팸 라이트 340G X 6",
       "store": "COSTCO",
@@ -5785,28 +5609,6 @@
       "finalPrice": 12990,
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/08",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "664516",
-      "name": "PHILADELPHIA 크림치즈 플레인 190GX3 (호주)",
-      "store": "COSTCO",
-      "normalPrice": 12790,
-      "discountAmount": -3800,
-      "finalPrice": 8990,
-      "saleStart": "2026/10/30",
-      "saleEnd": "2026/11/04",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "664487",
-      "name": "HAAGEN-DAZS 스틱바 80ML X 10CT",
-      "store": "COSTCO",
-      "normalPrice": 29790,
-      "discountAmount": -5000,
-      "finalPrice": 24790,
-      "saleStart": "2026/11/02",
-      "saleEnd": "2026/11/04",
       "imageVersion": 1786300361977
     },
     {
