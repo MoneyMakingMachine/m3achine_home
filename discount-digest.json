@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T12:05:06.314882+00:00",
+  "generatedAt": "2026-11-09T12:20:09.547982+00:00",
   "items": [
     {
       "id": "683635",
@@ -145,6 +145,17 @@
       "imageVersion": 1793105497745
     },
     {
+      "id": "627187",
+      "name": "ENVY 사과 (3KG) 원산지 : 국내산",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4000,
+      "finalPrice": 18990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794226290834
+    },
+    {
       "id": "692518",
       "name": "COLUMBIA 남성스웨트 셔츠 M - XXL ASIAN SIZE",
       "store": "COSTCO",
@@ -154,6 +165,17 @@
       "saleStart": "2026/10/22",
       "saleEnd": "2026/11/15",
       "imageVersion": 1793105564119
+    },
+    {
+      "id": "693346",
+      "name": "QBB 디저트 포션치즈 블루베리맛90G X 3",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -2500,
+      "finalPrice": 9490,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794226362167
     },
     {
       "id": "610194",
@@ -607,6 +629,28 @@
       "imageVersion": 1794225770372
     },
     {
+      "id": "694287",
+      "name": "스크러빙 버블 프레시 브러쉬 핸들 2+브러쉬 20",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794225943451
+    },
+    {
+      "id": "694783",
+      "name": "SAMSONITE 여행가방 71CM (29)",
+      "store": "COSTCO",
+      "normalPrice": 137990,
+      "discountAmount": -28000,
+      "finalPrice": 109990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794226049820
+    },
+    {
       "id": "662706",
       "name": "SUPERIOR 남성 패딩 바지 30 - 36 ASIAN SIZE",
       "store": "COSTCO",
@@ -627,6 +671,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/15",
       "imageVersion": 1785659103240
+    },
+    {
+      "id": "685305",
+      "name": "FILA 넥워머 2개",
+      "store": "COSTCO",
+      "normalPrice": 14990,
+      "discountAmount": -3000,
+      "finalPrice": 11990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794226107079
     },
     {
       "id": "696205",
@@ -682,6 +737,28 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1791196292046
+    },
+    {
+      "id": "673979",
+      "name": "COLUMBIA 바라클라바",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226090894
+    },
+    {
+      "id": "698101",
+      "name": "오돌뼈볶음 돈육원산지:국내산 KG당단가",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5000,
+      "finalPrice": 24990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794226267471
     },
     {
       "id": "606368",
@@ -750,6 +827,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "694309",
+      "name": "MILEET 폴라텍 장갑 블랙,퍼플",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794226129034
+    },
+    {
       "id": "569669",
       "name": "커튼 명가 창 생할암막커튼 380 X 230/240CM",
       "store": "COSTCO",
@@ -759,6 +847,28 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/22",
       "imageVersion": 1788351671792
+    },
+    {
+      "id": "695333",
+      "name": "ROBOROCK 로보락 무선 진공 물걸레 청소기 F25RT GEN2",
+      "store": "COSTCO",
+      "normalPrice": 394990,
+      "discountAmount": -80000,
+      "finalPrice": 314990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794226213552
+    },
+    {
+      "id": "1901817",
+      "name": "THERMOFLASK 보온보냉병 2PK, 950ML",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -5500,
+      "finalPrice": 20490,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226160128
     },
     {
       "id": "669657",
@@ -805,6 +915,28 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "696952",
+      "name": "쿡스타 슈퍼그레인 파이브 100G X 10",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226304689
+    },
+    {
+      "id": "567100",
+      "name": "OTTAVIO 포도씨유 1L X 4",
+      "store": "COSTCO",
+      "normalPrice": 27990,
+      "discountAmount": -6000,
+      "finalPrice": 21990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794226336266
+    },
+    {
       "id": "630807",
       "name": "KELLOGG'S' 크랜베리 아몬드 그래놀라 500G X 3",
       "store": "COSTCO",
@@ -814,6 +946,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/15",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "664860",
+      "name": "후안길 라이세스 750ML",
+      "store": "COSTCO",
+      "normalPrice": 45990,
+      "discountAmount": -10000,
+      "finalPrice": 35990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794226443146
     },
     {
       "id": "688969",
@@ -836,6 +979,28 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "695800",
+      "name": "동원홈푸드 시저드레싱 1KG",
+      "store": "COSTCO",
+      "normalPrice": 18990,
+      "discountAmount": -4000,
+      "finalPrice": 14990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794226376102
+    },
+    {
+      "id": "658865",
+      "name": "궁 소문난 돼지불백 400G X 5",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226434228
     },
     {
       "id": "606367",
@@ -871,6 +1036,28 @@
       "imageVersion": 1788352116802
     },
     {
+      "id": "696152",
+      "name": "EMMI 리몬첼로 티라미수 500G 원산지이탈리아",
+      "store": "COSTCO",
+      "normalPrice": 9990,
+      "discountAmount": -2000,
+      "finalPrice": 7990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794226392984
+    },
+    {
+      "id": "1851480",
+      "name": "크리스마스 장식 멜로디 눈오는마을 높이 47CM",
+      "store": "COSTCO",
+      "normalPrice": 169990,
+      "discountAmount": -35000,
+      "finalPrice": 134990,
+      "saleStart": "2026/11/03",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226480423
+    },
+    {
       "id": "695088",
       "name": "삼립 클래식화이트롤케익 430G",
       "store": "COSTCO",
@@ -893,6 +1080,17 @@
       "imageVersion": 1786184687263
     },
     {
+      "id": "2098758",
+      "name": "BELGIOIOSO마리네이드 프레쉬 모짜렐라 바질&갈릭340G",
+      "store": "COSTCO",
+      "normalPrice": 8990,
+      "discountAmount": -1500,
+      "finalPrice": 7490,
+      "saleStart": "2026/11/07",
+      "saleEnd": "2026/11/09",
+      "imageVersion": 1794226413181
+    },
+    {
       "id": "606366",
       "name": "커튼 명가 창 생활암막커튼 650 X 230CM/240CM",
       "store": "COSTCO",
@@ -902,6 +1100,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/22",
       "imageVersion": 1788351654899
+    },
+    {
+      "id": "692484",
+      "name": "OUTDOOR PRODUCTS 남성 카고 팬츠 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794226498810
     },
     {
       "id": "679727",
@@ -937,6 +1146,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "790949",
+      "name": "ZIPLOC 냉장용 지퍼백 290매 / 중형",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4500,
+      "finalPrice": 15490,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226570585
+    },
+    {
       "id": "678566",
       "name": "TEFAL 테팔 티타늄포스 프라이팬 28CM, 프랑스산",
       "store": "COSTCO",
@@ -957,6 +1177,17 @@
       "saleStart": "2026/10/22",
       "saleEnd": "2026/12/04",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "790950",
+      "name": "ZIPLOC 냉장용 지퍼백 180매 / 대형",
+      "store": "COSTCO",
+      "normalPrice": 22790,
+      "discountAmount": -4800,
+      "finalPrice": 17990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794226588617
     },
     {
       "id": "610193",
