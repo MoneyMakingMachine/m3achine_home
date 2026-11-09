@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:50:02.632670+00:00",
+  "generatedAt": "2026-11-09T12:05:06.314882+00:00",
   "items": [
     {
       "id": "683635",
@@ -497,6 +497,17 @@
       "imageVersion": 1794224961931
     },
     {
+      "id": "699960",
+      "name": "JILL BY JILLSTUART 여성단목덧신 2족 S/M, M/L, L/XL",
+      "store": "COSTCO",
+      "normalPrice": 11990,
+      "discountAmount": -3000,
+      "finalPrice": 8990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794225419572
+    },
+    {
       "id": "681422",
       "name": "삼진어묵 김치어묵우동 692G X 2",
       "store": "COSTCO",
@@ -506,6 +517,28 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1785764568981
+    },
+    {
+      "id": "663922",
+      "name": "R.ROBOT 키즈 상하의 세트 110 - 145 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794225032042
+    },
+    {
+      "id": "692794",
+      "name": "RENOMA 남성 캐주얼셔츠 95 - 110 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 34990,
+      "discountAmount": -7000,
+      "finalPrice": 27990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794225801260
     },
     {
       "id": "675384",
@@ -550,6 +583,39 @@
       "saleStart": "2026/10/19",
       "saleEnd": "2026/11/22",
       "imageVersion": 1792445484997
+    },
+    {
+      "id": "697020",
+      "name": "46CM 고불소구취케어치약 120G X 5개",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3000,
+      "finalPrice": 9990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794225709293
+    },
+    {
+      "id": "693419",
+      "name": "TRUE RELIGION 남성플리스청바지 30,32,34,36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794225770372
+    },
+    {
+      "id": "662706",
+      "name": "SUPERIOR 남성 패딩 바지 30 - 36 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/15",
+      "imageVersion": 1794225821842
     },
     {
       "id": "685913",
