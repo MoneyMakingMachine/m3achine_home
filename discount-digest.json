@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:37:50.398866+00:00",
+  "generatedAt": "2026-11-16T20:52:53.827915+00:00",
   "items": [
     {
       "id": "683635",
@@ -1102,6 +1102,17 @@
       "imageVersion": 1794861449940
     },
     {
+      "id": "692847",
+      "name": "JEEP 남성 스웨트 팬츠 M,L,XL,XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794861471083
+    },
+    {
       "id": "671104",
       "name": "더건강한 허니 슬라이스햄 350G X 2",
       "store": "COSTCO",
@@ -1113,6 +1124,17 @@
       "imageVersion": 1790602518671
     },
     {
+      "id": "693987",
+      "name": "NEPA KIDS 다운 재킷 130 - 160 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 89990,
+      "discountAmount": -18000,
+      "finalPrice": 71990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861478522
+    },
+    {
       "id": "696623",
       "name": "SAMSUNG MINI LED TV 75형 189CM",
       "store": "COSTCO",
@@ -1122,6 +1144,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/29",
       "imageVersion": 1786179478953
+    },
+    {
+      "id": "682840",
+      "name": "OUTDOOR PRODUCTS 키즈 후드 집업 120 - 155 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861502187
     },
     {
       "id": "693818",
@@ -1168,6 +1201,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "2010521",
+      "name": "JEAN MICHEL BASQUIAT 아동 후드티 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 17490,
+      "discountAmount": -4000,
+      "finalPrice": 13490,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794861521357
+    },
+    {
       "id": "691891",
       "name": "LG 그램 북",
       "store": "COSTCO",
@@ -1190,6 +1234,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "2007942",
+      "name": "DEARFOAMS 남성 클로그 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/11",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861531421
+    },
+    {
       "id": "675042",
       "name": "탕종모카빵 TANGJONG MOCHA BREAD 3CT",
       "store": "COSTCO",
@@ -1199,6 +1254,17 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1789036836344
+    },
+    {
+      "id": "2007940",
+      "name": "DEARFOAMS 여성 클로그 S,M,L US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861554210
     },
     {
       "id": "696768",
