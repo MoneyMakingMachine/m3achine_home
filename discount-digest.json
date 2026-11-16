@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:52:47.081578+00:00",
+  "generatedAt": "2026-11-16T20:37:50.398866+00:00",
   "items": [
     {
       "id": "683635",
@@ -57,6 +57,17 @@
       "imageVersion": 1793105154784
     },
     {
+      "id": "1929744",
+      "name": "1:16 스케일 RC 조립 모델 키트",
+      "store": "COSTCO",
+      "normalPrice": 35990,
+      "discountAmount": -8000,
+      "finalPrice": 27990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794861134629
+    },
+    {
       "id": "695827",
       "name": "FIJI 모락셀라 냄새제거부스터 화이트 린넨 65개",
       "store": "COSTCO",
@@ -66,6 +77,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1794224678184
+    },
+    {
+      "id": "692701",
+      "name": "COLUMBIA 여성 플리스하프집 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/11",
+      "imageVersion": 1794861253085
     },
     {
       "id": "678774",
@@ -189,6 +211,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "695319",
+      "name": "뽀롱뽀롱 뽀로로 반창고 스티커 메디컬 세트",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794861142226
+    },
+    {
       "id": "1929704",
       "name": "크리스마스 장식 LED 캔디 케인 높이 1.8M",
       "store": "COSTCO",
@@ -275,6 +308,17 @@
       "saleStart": "2026/11/14",
       "saleEnd": "2026/11/29",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "697637",
+      "name": "AMOS 아모스 글라스데코 산리오 캐릭터즈 윈터",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861154311
     },
     {
       "id": "665321",
@@ -376,6 +420,17 @@
       "imageVersion": 1794225419572
     },
     {
+      "id": "1784947",
+      "name": "크리스마스 장식 LED 가로등 높이 2.1M",
+      "store": "COSTCO",
+      "normalPrice": 189990,
+      "discountAmount": -40000,
+      "finalPrice": 149990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861166741
+    },
+    {
       "id": "681422",
       "name": "삼진어묵 김치어묵우동 692G X 2",
       "store": "COSTCO",
@@ -440,6 +495,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1794225709293
+    },
+    {
+      "id": "1929698",
+      "name": "크리스마스 장식 회전 오너먼트 높이 1.6M",
+      "store": "COSTCO",
+      "normalPrice": 289990,
+      "discountAmount": -60000,
+      "finalPrice": 229990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861191941
     },
     {
       "id": "693419",
@@ -530,6 +596,17 @@
       "imageVersion": 1785058865759
     },
     {
+      "id": "692114",
+      "name": "BENETTE 여성 부클 베스트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1794861295614
+    },
+    {
       "id": "696523",
       "name": "연세 에듀샷 20.65G X 20병",
       "store": "COSTCO",
@@ -572,6 +649,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/22",
       "imageVersion": 1788351676812
+    },
+    {
+      "id": "692111",
+      "name": "BENETTE 여성 울캐시스웨터 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1794861302037
     },
     {
       "id": "689161",
@@ -673,6 +761,17 @@
       "imageVersion": 1794226304689
     },
     {
+      "id": "692172",
+      "name": "LAP 여성 가디건 S/M, M/L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -6000,
+      "finalPrice": 22990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794861311184
+    },
+    {
       "id": "567100",
       "name": "OTTAVIO 포도씨유 1L X 4",
       "store": "COSTCO",
@@ -682,6 +781,28 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/29",
       "imageVersion": 1794226336266
+    },
+    {
+      "id": "692328",
+      "name": "SOLEZIA 여성 울100%니트 S,M,L ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/11",
+      "imageVersion": 1794861339913
+    },
+    {
+      "id": "692993",
+      "name": "OUTDOOR PRODUCTS 여성 플리스 바지 S,M,L,XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 29970,
+      "discountAmount": -6000,
+      "finalPrice": 23970,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1794861366542
     },
     {
       "id": "608720",
@@ -750,6 +871,17 @@
       "imageVersion": 1794226480423
     },
     {
+      "id": "782128",
+      "name": "SUPERIOR 여성 융기모 골프 팬츠 28-34 ASIAN",
+      "store": "COSTCO",
+      "normalPrice": 44990,
+      "discountAmount": -9000,
+      "finalPrice": 35990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1794861372569
+    },
+    {
       "id": "695088",
       "name": "삼립 클래식화이트롤케익 430G",
       "store": "COSTCO",
@@ -792,6 +924,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/29",
       "imageVersion": 1794226498810
+    },
+    {
+      "id": "2010437",
+      "name": "HILARY RADLEY 여성 바지 XS-XL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21970,
+      "discountAmount": -5000,
+      "finalPrice": 16970,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/11",
+      "imageVersion": 1794861380541
     },
     {
       "id": "679727",
@@ -847,6 +990,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1794226588617
+    },
+    {
+      "id": "692773",
+      "name": "EIDER 남성 덕다운 자켓 M - XXL ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 129990,
+      "discountAmount": -26000,
+      "finalPrice": 103990,
+      "saleStart": "2026/11/09",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794861402773
     },
     {
       "id": "610193",
@@ -915,6 +1069,17 @@
       "imageVersion": 1788353112199
     },
     {
+      "id": "1909838",
+      "name": "JACHS 울 블렌디드 셔켓 S,M,L,XL US SIZE",
+      "store": "COSTCO",
+      "normalPrice": 27490,
+      "discountAmount": -6000,
+      "finalPrice": 21490,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794861408698
+    },
+    {
       "id": "682610",
       "name": "스크러빙 버블 변기용 젤 스탬프 디스펜서 / 리필팩",
       "store": "COSTCO",
@@ -924,6 +1089,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1785602633661
+    },
+    {
+      "id": "669811",
+      "name": "ADIDAS GOLF 남성 골프 팬츠 82 - 92 ASIAN SIZE",
+      "store": "COSTCO",
+      "normalPrice": 69990,
+      "discountAmount": -14000,
+      "finalPrice": 55990,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794861449940
     },
     {
       "id": "671104",
