@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T20:52:53.827915+00:00",
+  "generatedAt": "2026-11-17T11:22:56.345987+00:00",
   "items": [
     {
       "id": "683635",
@@ -1289,6 +1289,17 @@
       "imageVersion": 1785062655479
     },
     {
+      "id": "692013",
+      "name": "KHOMBU 여성 털 부츠 230 - 250MM SIZE",
+      "store": "COSTCO",
+      "normalPrice": 37990,
+      "discountAmount": -8000,
+      "finalPrice": 29990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794913840167
+    },
+    {
       "id": "684864",
       "name": "DR.BRONNER'S 퓨어 캐스틸 솝 라벤더 740ML+300ML",
       "store": "COSTCO",
@@ -1322,6 +1333,17 @@
       "imageVersion": 1792502208662
     },
     {
+      "id": "716654",
+      "name": "PUMA 성인 운동화 230 - 285MM",
+      "store": "COSTCO",
+      "normalPrice": 41990,
+      "discountAmount": -8500,
+      "finalPrice": 33490,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794913860666
+    },
+    {
       "id": "679589",
       "name": "DEPEND 디펜드 안심성인용기저귀 32개",
       "store": "COSTCO",
@@ -1353,6 +1375,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/22",
       "imageVersion": 1793649998439
+    },
+    {
+      "id": "699977",
+      "name": "JACK NICKLAUS 자동 벨트 FREE SIZE",
+      "store": "COSTCO",
+      "normalPrice": 21990,
+      "discountAmount": -4500,
+      "finalPrice": 17490,
+      "saleStart": "2026/11/14",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794913886399
     },
     {
       "id": "680579",
@@ -1454,6 +1487,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "694994",
+      "name": "JILL BY JILLSTUART 아동 울양말6족 S, M, L",
+      "store": "COSTCO",
+      "normalPrice": 12990,
+      "discountAmount": -3500,
+      "finalPrice": 9490,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1794913912447
+    },
+    {
       "id": "570245",
       "name": "옐로우테일 카베르네 쇼비뇽 750ML",
       "store": "COSTCO",
@@ -1509,6 +1553,17 @@
       "imageVersion": 1789035081718
     },
     {
+      "id": "698040",
+      "name": "덴프스 덴마크유산균이야기+ 170MG X 50캡슐",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794913937867
+    },
+    {
       "id": "680553",
       "name": "백설 하선정멸치액젓 1KG X 3",
       "store": "COSTCO",
@@ -1542,6 +1597,17 @@
       "imageVersion": 1791196446634
     },
     {
+      "id": "695725",
+      "name": "HLB제약 PDRN 다이렉트플러스 60매",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794913961894
+    },
+    {
       "id": "742482",
       "name": "크리넥스 빨아쓰는 행주타월 45매 X 6롤",
       "store": "COSTCO",
@@ -1551,6 +1617,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "690238",
+      "name": "LOREAL 로레알 맨 엑스퍼트 파워 워터로션 120ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -5000,
+      "finalPrice": 17990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914009625
     },
     {
       "id": "696083",
@@ -1573,6 +1650,17 @@
       "saleStart": "2026/11/12",
       "saleEnd": "2026/12/02",
       "imageVersion": 1787059383714
+    },
+    {
+      "id": "680589",
+      "name": "TAPO Wi-Fi AI홈 카메라 TC72 2PK",
+      "store": "COSTCO",
+      "normalPrice": 77990,
+      "discountAmount": -18000,
+      "finalPrice": 59990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914206757
     },
     {
       "id": "692500",
@@ -1639,6 +1727,17 @@
       "saleStart": "2026/11/16",
       "saleEnd": "2026/11/27",
       "imageVersion": 1790602599663
+    },
+    {
+      "id": "676107",
+      "name": "VOLVIK 파크골프 세트",
+      "store": "COSTCO",
+      "normalPrice": 299990,
+      "discountAmount": -40000,
+      "finalPrice": 259990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914272721
     },
     {
       "id": "637477",
@@ -1740,6 +1839,17 @@
       "imageVersion": 1793707909484
     },
     {
+      "id": "691669",
+      "name": "AONIJIE 러닝 베스트 플라스크 포함",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914430691
+    },
+    {
       "id": "674546",
       "name": "아이리스 포켓용핫팩 100G X 60개",
       "store": "COSTCO",
@@ -1815,6 +1925,17 @@
       "saleStart": "2026/11/14",
       "saleEnd": "2026/11/18",
       "imageVersion": 1793708200882
+    },
+    {
+      "id": "695051",
+      "name": "ADIDAS 무릎 보호대 2개",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -6000,
+      "finalPrice": 23990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914455547
     },
     {
       "id": "689250",
@@ -1949,6 +2070,17 @@
       "imageVersion": 1793104074976
     },
     {
+      "id": "692722",
+      "name": "SEALY(씰리) 메디슨6 펌 세트 슈퍼싱글",
+      "store": "COSTCO",
+      "normalPrice": 1129000,
+      "discountAmount": -230000,
+      "finalPrice": 899000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914502539
+    },
+    {
       "id": "663905",
       "name": "BACARDI 슈페리에 럼 1L /푸에르토리코",
       "store": "COSTCO",
@@ -2046,6 +2178,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "667245",
+      "name": "SEALY 매디슨6 펌 SS SIZE: 110 X 200CM",
+      "store": "COSTCO",
+      "normalPrice": 829000,
+      "discountAmount": -180000,
+      "finalPrice": 649000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914508879
     },
     {
       "id": "696583",
@@ -2235,6 +2378,17 @@
       "imageVersion": 1786015619542
     },
     {
+      "id": "667250",
+      "name": "SEALY 매디슨6 펌 K SIZE: 165 X 208CM",
+      "store": "COSTCO",
+      "normalPrice": 1179000,
+      "discountAmount": -250000,
+      "finalPrice": 929000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794914514848
+    },
+    {
       "id": "696627",
       "name": "SAMSUNG MINI LED TV 85형 214CM",
       "store": "COSTCO",
@@ -2266,6 +2420,17 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786179152494
+    },
+    {
+      "id": "692254",
+      "name": "FISSLER 휘슬러 뮌헨 쿡웨어 7P 독일산(뚜껑포함)",
+      "store": "COSTCO",
+      "normalPrice": 299900,
+      "discountAmount": -60000,
+      "finalPrice": 239900,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794914562885
     },
     {
       "id": "685525",
@@ -2332,17 +2497,6 @@
       "saleStart": "2026/11/09",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786270475376
-    },
-    {
-      "id": "679624",
-      "name": "로얄브라클라 12년 700ML",
-      "store": "COSTCO",
-      "normalPrice": 103900,
-      "discountAmount": -21000,
-      "finalPrice": 82900,
-      "saleStart": "2026/11/03",
-      "saleEnd": "2026/11/16",
-      "imageVersion": 1786271070736
     },
     {
       "id": "272958",
@@ -2419,17 +2573,6 @@
       "finalPrice": 12690,
       "saleStart": "2026/10/28",
       "saleEnd": "2026/11/30",
-      "imageVersion": 1786300361977
-    },
-    {
-      "id": "574784",
-      "name": "JOSE CUERVO 레포사도 데킬라 1L",
-      "store": "COSTCO",
-      "normalPrice": 43990,
-      "discountAmount": -14000,
-      "finalPrice": 29990,
-      "saleStart": "2026/10/21",
-      "saleEnd": "2026/11/16",
       "imageVersion": 1786300361977
     },
     {
