@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:37:59.931571+00:00",
+  "generatedAt": "2026-11-17T11:53:03.449138+00:00",
   "items": [
     {
       "id": "683635",
@@ -3148,6 +3148,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "696591",
+      "name": "QUAKER 멀티그레인오트밀 30G X 18",
+      "store": "COSTCO",
+      "normalPrice": 8990,
+      "discountAmount": -1800,
+      "finalPrice": 7190,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794915484295
+    },
+    {
       "id": "691045",
       "name": "넘버블록스 기차 놀이",
       "store": "COSTCO",
@@ -3168,6 +3179,17 @@
       "saleStart": "2026/11/10",
       "saleEnd": "2026/11/19",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "689825",
+      "name": "MAMA'S CHOICE 돼지고기 김치찜 700G X 3",
+      "store": "COSTCO",
+      "normalPrice": 19990,
+      "discountAmount": -4000,
+      "finalPrice": 15990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794915513962
     },
     {
       "id": "664686",
@@ -3225,6 +3247,39 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "1270222",
+      "name": "CHOSEN FOODS 아보카도오일 1L",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -3500,
+      "finalPrice": 20490,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/19",
+      "imageVersion": 1794915637323
+    },
+    {
+      "id": "606453",
+      "name": "쁘띠쁘띠 750ML",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794915796684
+    },
+    {
+      "id": "609240",
+      "name": "프릭쇼 까베르네 쇼비뇽 750ML",
+      "store": "COSTCO",
+      "normalPrice": 25990,
+      "discountAmount": -4000,
+      "finalPrice": 21990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1794915826536
+    },
+    {
       "id": "670272",
       "name": "MAMA'S CHOICE 바삭한닭껍질후라이드 200G",
       "store": "COSTCO",
@@ -3245,6 +3300,28 @@
       "saleStart": "2026/10/26",
       "saleEnd": "2026/11/22",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "680597",
+      "name": "HEINEKEN 논알콜릭(ABV 0.03%) 330ML X 12캔",
+      "store": "COSTCO",
+      "normalPrice": 12690,
+      "discountAmount": -2700,
+      "finalPrice": 9990,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/20",
+      "imageVersion": 1794915887205
+    },
+    {
+      "id": "234436",
+      "name": "BARISTA COFFEE 헤이즐넛 커피볼 40개입",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -2500,
+      "finalPrice": 14490,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/22",
+      "imageVersion": 1794915927294
     },
     {
       "id": "673683",
