@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T19:53:21.936670+00:00",
+  "generatedAt": "2026-11-23T20:08:24.783265+00:00",
   "items": [
     {
       "id": "673545",
@@ -2477,6 +2477,17 @@
       "imageVersion": 1795463128458
     },
     {
+      "id": "694591",
+      "name": "EPSON 엡손 잉크젯복합기 L3366",
+      "store": "COSTCO",
+      "normalPrice": 229900,
+      "discountAmount": -30000,
+      "finalPrice": 199900,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795463651580
+    },
+    {
       "id": "1806207",
       "name": "ARTIKA LED 조명 씰링팬",
       "store": "COSTCO",
@@ -2587,6 +2598,17 @@
       "imageVersion": 1794915484295
     },
     {
+      "id": "691687",
+      "name": "LG 오브제 세탁기 25KG,블랙스테인리스",
+      "store": "COSTCO",
+      "normalPrice": 1799000,
+      "discountAmount": -170000,
+      "finalPrice": 1629000,
+      "saleStart": "2026/11/15",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795463752677
+    },
+    {
       "id": "663613",
       "name": "씨앗젓 1KG",
       "store": "COSTCO",
@@ -2620,6 +2642,39 @@
       "imageVersion": 1794915513962
     },
     {
+      "id": "700004",
+      "name": "LG 오브제 세탁기/건조기세트 25KG/25KG, 블랙",
+      "store": "COSTCO",
+      "normalPrice": 3749000,
+      "discountAmount": -520000,
+      "finalPrice": 3229000,
+      "saleStart": "2026/11/15",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795463766385
+    },
+    {
+      "id": "699532",
+      "name": "CARRIER 클라윈드 냉장고 312L",
+      "store": "COSTCO",
+      "normalPrice": 499900,
+      "discountAmount": -60000,
+      "finalPrice": 439900,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1795463791092
+    },
+    {
+      "id": "678448",
+      "name": "SAMSUNG 비스포크 키친핏 김치냉장고 313L",
+      "store": "COSTCO",
+      "normalPrice": 1699000,
+      "discountAmount": -120000,
+      "finalPrice": 1579000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795464080570
+    },
+    {
       "id": "606453",
       "name": "쁘띠쁘띠 750ML",
       "store": "COSTCO",
@@ -2651,6 +2706,17 @@
       "saleStart": "2026/11/16",
       "saleEnd": "2026/12/20",
       "imageVersion": 1794915887205
+    },
+    {
+      "id": "699533",
+      "name": "SAMSUNG 냉장고 306L",
+      "store": "COSTCO",
+      "normalPrice": 849000,
+      "discountAmount": -190000,
+      "finalPrice": 659000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795464148238
     },
     {
       "id": "674078",
