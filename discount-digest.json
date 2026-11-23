@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:08:11.380468+00:00",
+  "generatedAt": "2026-11-23T12:23:15.152712+00:00",
   "items": [
     {
       "id": "673545",
@@ -497,6 +497,17 @@
       "imageVersion": 1794861311184
     },
     {
+      "id": "693911",
+      "name": "GRANDEUR 퀵드라이 바스타월 2P, 76X137CM",
+      "store": "COSTCO",
+      "normalPrice": 16990,
+      "discountAmount": -3500,
+      "finalPrice": 13490,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1795435816825
+    },
+    {
       "id": "518358",
       "name": "국내산 돈육 삼겹살 도매 KG당단가",
       "store": "COSTCO",
@@ -827,6 +838,28 @@
       "imageVersion": 1794861471083
     },
     {
+      "id": "663070",
+      "name": "AESTURA 에스트라 아토베리어365 크림플러스 90ML X 2",
+      "store": "COSTCO",
+      "normalPrice": 57990,
+      "discountAmount": -12000,
+      "finalPrice": 45990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795435710958
+    },
+    {
+      "id": "685320",
+      "name": "JUNGSAEMMOOL 정샘물 스킨 누더 쿠션 14G + 리필 14G",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7500,
+      "finalPrice": 29490,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795435751752
+    },
+    {
       "id": "696623",
       "name": "SAMSUNG MINI LED TV 75형 189CM",
       "store": "COSTCO",
@@ -860,6 +893,28 @@
       "imageVersion": 1791198015340
     },
     {
+      "id": "693675",
+      "name": "SENKA 센카 퍼펙트 휩 클렌저 120G X 3 + 50G",
+      "store": "COSTCO",
+      "normalPrice": 19490,
+      "discountAmount": -4000,
+      "finalPrice": 15490,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795435765762
+    },
+    {
+      "id": "1909196",
+      "name": "PEANUTS 벨벳 담요 1P, 152X177CM",
+      "store": "COSTCO",
+      "normalPrice": 12490,
+      "discountAmount": -2500,
+      "finalPrice": 9990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795435789939
+    },
+    {
       "id": "1957643",
       "name": "BOSE SOUNDLINK FLEX 블루투스스피커 SE 2세대,블랙",
       "store": "COSTCO",
@@ -880,6 +935,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/29",
       "imageVersion": 1789529661976
+    },
+    {
+      "id": "694005",
+      "name": "포켓몬 POKEMON 메타몽 3종 세트",
+      "store": "COSTCO",
+      "normalPrice": 49990,
+      "discountAmount": -10000,
+      "finalPrice": 39990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795435836871
     },
     {
       "id": "635555",
