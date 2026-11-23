@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T22:38:31.172539+00:00",
+  "generatedAt": "2026-11-23T22:53:33.838933+00:00",
   "items": [
     {
       "id": "673545",
@@ -5535,6 +5535,17 @@
       "imageVersion": 1795473440829
     },
     {
+      "id": "622738",
+      "name": "바론 드 레이 그랑 리제르바 750ML",
+      "store": "COSTCO",
+      "normalPrice": 22990,
+      "discountAmount": -4000,
+      "finalPrice": 18990,
+      "saleStart": "2026/11/20",
+      "saleEnd": "2026/12/04",
+      "imageVersion": 1795473799742
+    },
+    {
       "id": "694838",
       "name": "비비드 저당오리엔탈드레싱 1,030G",
       "store": "COSTCO",
@@ -5634,6 +5645,28 @@
       "imageVersion": 1786179223755
     },
     {
+      "id": "512200",
+      "name": "그라함 식스그레이프포트 750ML",
+      "store": "COSTCO",
+      "normalPrice": 39990,
+      "discountAmount": -8000,
+      "finalPrice": 31990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795473678319
+    },
+    {
+      "id": "552101",
+      "name": "베라짜노 끼안티 클라시코 750ML",
+      "store": "COSTCO",
+      "normalPrice": 36990,
+      "discountAmount": -7000,
+      "finalPrice": 29990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/13",
+      "imageVersion": 1795473777306
+    },
+    {
       "id": "682484",
       "name": "아워홈 구씨반갈치김치 1.6KG",
       "store": "COSTCO",
@@ -5687,6 +5720,17 @@
       "saleStart": "2026/11/23",
       "saleEnd": "2026/11/29",
       "imageVersion": 1795473367928
+    },
+    {
+      "id": "589821",
+      "name": "카테나 말벡 750ML",
+      "store": "COSTCO",
+      "normalPrice": 26990,
+      "discountAmount": -4000,
+      "finalPrice": 22990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795473746751
     },
     {
       "id": "670607",
@@ -5830,6 +5874,17 @@
       "saleStart": "2026/11/21",
       "saleEnd": "2026/11/29",
       "imageVersion": 1795473463635
+    },
+    {
+      "id": "696503",
+      "name": "초야 프루티 700ML",
+      "store": "COSTCO",
+      "normalPrice": 28990,
+      "discountAmount": -5000,
+      "finalPrice": 23990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795473708066
     }
   ]
 }
