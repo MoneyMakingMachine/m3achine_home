@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T19:38:18.314603+00:00",
+  "generatedAt": "2026-11-23T19:53:21.936670+00:00",
   "items": [
     {
       "id": "673545",
@@ -2312,6 +2312,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "692559",
+      "name": "동원천지인 뿌리채홍삼음료 120ML X 12병",
+      "store": "COSTCO",
+      "normalPrice": 23990,
+      "discountAmount": -4500,
+      "finalPrice": 19490,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795462702702
+    },
+    {
       "id": "684519",
       "name": "토마토야채수프 토마토홀이태리산 KG당단가",
       "store": "COSTCO",
@@ -2356,6 +2367,17 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "692087",
+      "name": "WEIDER웨이더 크레아틴 800G,레몬맛",
+      "store": "COSTCO",
+      "normalPrice": 29990,
+      "discountAmount": -5000,
+      "finalPrice": 24990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795462753090
+    },
+    {
       "id": "614046",
       "name": "EUCERIN 유세린 하이알루론 아이크림 15ML X 2개",
       "store": "COSTCO",
@@ -2376,6 +2398,28 @@
       "saleStart": "2026/11/23",
       "saleEnd": "2026/12/06",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "696149",
+      "name": "ZIAJA 지아자 산양유 나이트크림 50ML X 4",
+      "store": "COSTCO",
+      "normalPrice": 15990,
+      "discountAmount": -3500,
+      "finalPrice": 12490,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795463010126
+    },
+    {
+      "id": "696599",
+      "name": "LOREAL 로레알 헤어 밀크 90ML X 2개",
+      "store": "COSTCO",
+      "normalPrice": 24990,
+      "discountAmount": -5000,
+      "finalPrice": 19990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795463072843
     },
     {
       "id": "633905",
@@ -2422,6 +2466,50 @@
       "imageVersion": 1786300361977
     },
     {
+      "id": "671677",
+      "name": "고로고로 테이프클리너 세트 본체 + 리필230매",
+      "store": "COSTCO",
+      "normalPrice": 14490,
+      "discountAmount": -2500,
+      "finalPrice": 11990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795463128458
+    },
+    {
+      "id": "1806207",
+      "name": "ARTIKA LED 조명 씰링팬",
+      "store": "COSTCO",
+      "normalPrice": 149990,
+      "discountAmount": -32000,
+      "finalPrice": 117990,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/06",
+      "imageVersion": 1795463233328
+    },
+    {
+      "id": "667251",
+      "name": "SEALY 매디슨6 펌 CK SIZE: 183 X 213CM",
+      "store": "COSTCO",
+      "normalPrice": 1399000,
+      "discountAmount": -320000,
+      "finalPrice": 1079000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795463319830
+    },
+    {
+      "id": "667248",
+      "name": "SEALY 매디슨6 펌 Q SIZE: 150 X 200CM",
+      "store": "COSTCO",
+      "normalPrice": 929000,
+      "discountAmount": -190000,
+      "finalPrice": 739000,
+      "saleStart": "2026/11/16",
+      "saleEnd": "2026/11/29",
+      "imageVersion": 1795463347604
+    },
+    {
       "id": "696455",
       "name": "더블랙 곡물한끼 6곡 5KG",
       "store": "COSTCO",
@@ -2464,6 +2552,17 @@
       "saleStart": "2026/11/02",
       "saleEnd": "2026/11/29",
       "imageVersion": 1786300361977
+    },
+    {
+      "id": "690122",
+      "name": "AQUAPICK 아쿠아픽 구강세정기 트윈팩 화이트/블랙",
+      "store": "COSTCO",
+      "normalPrice": 114900,
+      "discountAmount": -25000,
+      "finalPrice": 89900,
+      "saleStart": "2026/11/23",
+      "saleEnd": "2026/12/20",
+      "imageVersion": 1795463568019
     },
     {
       "id": "660606",
